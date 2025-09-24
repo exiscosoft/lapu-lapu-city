@@ -6,10 +6,10 @@ The City Health Office (CHO) and barangay health centers provide **prenatal care
 
 ## Maternal Care (Prenatal & Related Services)
 
-| Service                                                             | Where                       | Schedule                                                               | Requirements                                    | Cost                                                       |
-| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| Prenatal check-ups (by midwife/nurse; physician referral as needed) | **Barangay Health Centers** | Mon–Fri (typical clinic hours; varies by center)                       | Prenatal record (issued/updated at first visit) | **Free**                                                   |
-| Family Planning counseling & methods                                | **Barangay Health Centers** | Mon–Fri **8:00 AM–4:00 PM**; Sat **8:00 AM–1:00 PM** (except holidays) | Personal appearance for counseling              | **Free** counseling (methods per DOH program availability) |
+| Service| Where|Schedule | Requirements | Cost |
+| - | - | - | - | - |
+| Prenatal check-ups (by midwife/nurse; physician referral as needed) | **Barangay Health Centers** | Mon–Fri (typical clinic hours; varies by center) | Prenatal record (issued/updated at first visit) | **Free**                                                   |
+| Family Planning counseling & methods | **Barangay Health Centers** | Mon–Fri **8:00 AM–4:00 PM**; Sat **8:00 AM–1:00 PM** (except holidays) | Personal appearance for counseling | **Free** counseling (methods per DOH program availability) |
 
 **Tip:** Bring any previous prenatal card/records and a valid ID. If you’re new, staff will register you and issue the needed record at the health center.
 
@@ -19,8 +19,8 @@ The City Health Office (CHO) and barangay health centers provide **prenatal care
 
 Routine childhood vaccines are provided **free** under the Expanded Program on Immunization (EPI).
 
-| Age/Visit                          | Vaccines (examples)                                                        | Where                       | Regular Day/Time                                  | Requirements                          | Cost     |
-| ---------------------------------- | -------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- | ------------------------------------- | -------- |
+| Age/Visit | Vaccines (examples) | Where | Regular Day/Time | Requirements | Cost |
+| - | - | - | - | - | - |
 | Birth–12 months (per DOH schedule) | **BCG**, **Pentavalent**, **OPV/IPV**, **MMR**, **Hepatitis B**, **PCV13** | **Barangay Health Centers** | **Wednesdays, 8:00 AM–4:00 PM** (except holidays) | **ECCD card** (issued on first visit) | **Free** |
 
 > First time? The health worker will **issue an ECCD card** and guide you on next-dose return dates.
