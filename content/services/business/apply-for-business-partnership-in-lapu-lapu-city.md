@@ -1,4 +1,4 @@
-# How to Set Up a Business Partnership
+# How to Set Up a Business Partnership in Lapu Lapu City
 
 ## Step 1: Register with SEC
 

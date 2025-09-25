@@ -2,10 +2,14 @@
 # This file contains all the pages/services available under the Business & Livelihood category
 
 pages:
-  - name: "Apply for barangay clearance and mayor's business permits"
-    slug: 'apply-for-barangay-clearance-and-mayors-business-permits'
-    description: "Step-by-step guide to applying for barangay clearance and mayor's business permits for your business."
+  - name: "How to Apply for a Business Permit in Lapu Lapu City"
+    slug: 'apply-for-a-business-permit-in-lapu-lapu-city'
+    description: "Complete guide to applying for business permit in Lapu-Lapu City."
     
+  - name: "How to Set Up a Business Partnership in Lapu Lapu City"
+    slug: 'apply-for-business-partnership-in-lapu-lapu-city'
+    description: "Complete guide to registering a business partnership in Lapu-Lapu City."
+
   - name: 'Renew permits and pay local business taxes'
     slug: 'renew-permits-and-pay-local-business-taxes'
     description: 'Information about renewing business permits and paying local business taxes to your local government.'
