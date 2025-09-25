@@ -17,3 +17,55 @@ pages:
   - name: 'Join health programs (nutrition, dengue control, TB treatment)'
     slug: 'join-health-programs-nutrition-dengue-control-tb-treatment'
     description: 'Participate in various health programs including nutrition support, dengue control, and TB treatment initiatives.'
+
+  - name: "Apply for a Health Card for work or study"
+    slug: "apply-for-a-health-card-for-work-or-study"
+    description: "Available to job applicants, students, OJTs, massage therapists, and CSWs. Requires lab results, chest X-ray, and drug test. Fees: Php 155–515 depending on type. Open Mon–Fri, 8:00am–5:00pm (except holidays)."
+
+  - name: "Secure a Sanitary Permit for your business"
+    slug: "secure-a-sanitary-permit-for-your-business"
+    description: "For all business establishments in Lapu-Lapu City. Requires health cards of employees, water test (for food businesses), inspection report, and receipt of sanitary fee (Php 100–300). Open Mon–Fri, 8:00am–5:00pm."
+
+  - name: "Get free check-ups and consultations"
+    slug: "get-free-check-ups-and-consultations"
+    description: "Free consultations at health centers. Requires treatment record or referral. Open Mon–Fri, 8:00am–5:00pm (except holidays)."
+
+  - name: "Receive dental care and treatment"
+    slug: "receive-dental-care-and-treatment"
+    description: "For residents and day care centers. Includes cleaning, filling, extraction, fluoride, and free toothbrush/toothpaste. Fees: Php 100–200 per tooth, some services free. Open Mon–Fri, 8:00am–5:00pm."
+
+  - name: "Vaccinate your child for free"
+    slug: "vaccinate-your-child-for-free"
+    description: "Routine vaccines (BCG, Pentavalent, OPV/IPV, MMR, Hepatitis B, PCV13) are free. Requires ECCD card. Available every Wednesday, 8:00am–4:00pm (except holidays)."
+
+  - name: "Access prenatal check-ups and supplements"
+    slug: "access-prenatal-check-ups-and-supplements"
+    description: "For pregnant women. Requires Mother and Child Booklet & HBMR. Free check-ups and supplements (Tetanus Toxoid, Ferrous Sulfate, Multivitamins, Calcium). Open Tuesday, 8:00am–1:00pm (except holidays)."
+
+  - name: "Claim free medicines with a prescription"
+    slug: "claim-free-medicines-with-a-prescription"
+    description: "Free medicines for clients with a doctor’s prescription or referral. Open Mon–Fri, 8:00am–5:00pm (except holidays)."
+
+  - name: "Get rabies vaccination after an animal bite"
+    slug: "get-rabies-vaccination-after-an-animal-bite"
+    description: "For residents bitten by dogs, cats, or bats. Requires proof of exposure and residency certificate. Free rabies vaccination. Open Mon, Tue, Thu, Fri – 8:00am–5:00pm (except holidays)."
+
+  - name: "Take a drug test for employment or compliance"
+    slug: "take-a-drug-test-for-employment-or-compliance"
+    description: "For clients needing drug testing. Requires valid ID, referral optional. Fee: Php 200. Open Mon–Fri, 8:00am–5:00pm (except holidays)."
+
+  - name: "Receive free TB testing and treatment"
+    slug: "receive-free-tb-testing-and-treatment"
+    description: "For symptomatic TB patients, those with chest X-ray findings, or referrals. Requires chest X-ray and referral. Free tests and medicines. Available Mon–Fri, 8:00am–5:00pm at CHO, 8:00am–4:00pm at health centers (except holidays)."
+
+  - name: "Get counseling and services for family planning"
+    slug: "get-counseling-and-services-for-family-planning"
+    description: "For clients seeking family planning services. Requires personal appearance for counseling. Free service. Open Mon–Fri, 8:00am–4:00pm, Sat 8:00am–1:00pm (except holidays)."
+
+  - name: "Take a COVID-19 test if you have symptoms"
+    slug: "take-a-covid-19-test-if-you-have-symptoms"
+    description: "For symptomatic individuals, pregnant women, and patients with co-morbidities. Requires medical certificate, pre-natal record, or referral. Free service. Open Mon–Fri, 8:00am–10:00am (except holidays)."
+
+  - name: "Get a hygiene check-up at the Social Hygiene Clinic"
+    slug: "get-a-hygiene-check-up-at-the-social-hygiene-clinic"
+    description: "For CSWs and referred patients. Requires health card, hygiene fee receipt, lab results, and referral. Fees: Health Card Php 20, CBC Php 60, Stool Php 25, Urinalysis Php 30, HBsAg Php 80, HIV Php 90, Hygiene Fee Php 20. Open Mon–Fri, 8:00am–2:30pm (except holidays)."
