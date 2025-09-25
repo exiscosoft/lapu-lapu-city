@@ -115,3 +115,9 @@ A: Yes, as long as your documents are complete and verified, you can get your Bu
 - [Barangay Business Clearance]
 - [Community Tax Certificate (CTC)]
 - [Occupancy Permit]
+
+---
+
+## Official Reference
+
+For the complete and official Citizen's Charter and Business Permit & Licensing information, visit the [Lapu-Lapu City Government website](https://lapulapucity.gov.ph/citizencharter) and [Business Permits & Licensing page](https://lapulapucity.gov.ph/business).
