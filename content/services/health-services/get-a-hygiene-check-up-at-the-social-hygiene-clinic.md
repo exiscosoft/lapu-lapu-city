@@ -6,20 +6,20 @@ The Social Hygiene Clinic provides regular check-ups, laboratory testing, and hy
 
 ## What You Need to Know
 
-| Information                           | Details                                                                                                          |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Where**                             | City Health Office – Social Hygiene Clinic                                                                       |
-| **When**                              | Monday to Friday, 8:00 AM – 2:30 PM (except holidays)                                                            |
-| **Requirements**                      | Health card, official receipt of hygiene fee, laboratory results (every 6 months), referral form (if applicable) |
-| **Cost**                              | Health Card – Php 20                                                                                             |
-| CBC – Php 60                          |                                                                                                                  |
-| Stool Exam – Php 25                   |                                                                                                                  |
-| Urinalysis – Php 30                   |                                                                                                                  |
-| HBsAg – Php 80 (every 6 months)       |                                                                                                                  |
-| HIV Testing – Php 90 (every 6 months) |                                                                                                                  |
-| Hygiene Fee – Php 20                  |                                                                                                                  |
-| _No charge for referred patients_     |                                                                                                                  |
-| **Processing Time**                   | About 30–40 minutes depending on tests required                                                                  |
+| Information         | Details                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Where**           | City Health Office – Social Hygiene Clinic                                                                       |
+| **When**            | Monday to Friday, 8:00 AM – 2:30 PM (except holidays)                                                            |
+| **Requirements**    | Health card, official receipt of hygiene fee, laboratory results (every 6 months), referral form (if applicable) |
+| **Cost**            | Health Card – Php 20                                                                                             |
+|                     | CBC – Php 60                                                                                                     |
+|                     | Stool Exam – Php 25                                                                                              |
+|                     | Urinalysis – Php 30                                                                                              |
+|                     | HBsAg – Php 80 (every 6 months)                                                                                  |
+|                     | HIV Testing – Php 90 (every 6 months)                                                                            |
+|                     | Hygiene Fee – Php 20                                                                                             |
+|                     | _No charge for referred patients_                                                                                |
+| **Processing Time** | About 30–40 minutes depending on tests required                                                                  |
 
 ---
 
