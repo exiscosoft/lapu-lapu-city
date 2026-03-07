@@ -25,8 +25,8 @@ A modern, multilingual, and accessible website template designed specifically fo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/local-government-starter-kit.git
-   cd local-government-starter-kit
+   git clone https://github.com/iyanski/betterlocalgov.git
+   cd betterlocalgov
    ```
 
 2. **Install dependencies**
@@ -63,6 +63,7 @@ A modern, multilingual, and accessible website template designed specifically fo
 - **[CONTENT-MANAGEMENT.md](CONTENT-MANAGEMENT.md)** - Guide for non-technical users to edit and manage website content
 - **[DEPLOYMENT-GUIDE.md](DEPLOYMENT-GUIDE.md)** - Deployment instructions for Vercel and other platforms
 - **[STARTER-KIT-SUMMARY.md](STARTER-KIT-SUMMARY.md)** - Audit results and implementation summary
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and release notes
 
 ## 🎯 Perfect For
 
@@ -90,8 +91,8 @@ A modern, multilingual, and accessible website template designed specifically fo
    ```
 
 3. **Customize Content** (2-4 hours)
-   - Edit service information in `content/`
-   - Add your government's services and programs
+   - Edit service information in `content/services/`
+   - Add government department info in `content/government/`
    - Update contact information and branding
 
 4. **Deploy to Production** (15 minutes)
@@ -139,21 +140,27 @@ A modern, multilingual, and accessible website template designed specifically fo
 ### Project Structure
 
 ```
+content/
+├── government/         # Government section markdown & YAML
+│   └── departments/    # Department pages (executive, legislative, etc.)
+└── services/           # Services section markdown & YAML
+
 src/
-├── components/          # Reusable UI components
+├── components/         # Reusable UI components
 │   ├── home/           # Home page components
 │   ├── layout/         # Layout components (Navbar, Footer)
-│   ├── sections/       # Page sections
 │   └── ui/             # Basic UI components
-├── data/               # Content and configuration
-│   ├── content/        # Markdown content files
-│   └── *.yaml          # Configuration files
-├── hooks/              # Custom React hooks
+├── data/               # YAML configuration (services.yaml, government.yaml)
 ├── i18n/               # Internationalization
-├── lib/                # Utility functions
-├── pages/              # Page components
+├── lib/                # Utility functions (markdownLoader, yamlLoader)
+├── pages/              # Page components (Home, Services, Government, Document)
 └── types/              # TypeScript type definitions
 ```
+
+## 👥 Contributors
+
+- **[iyanski](https://github.com/iyanski)** — Project creator and maintainer
+- **[Nicu Listana](https://github.com/niculistana)** — Contributor
 
 ## 🤝 Contributing
 
@@ -180,8 +187,8 @@ We welcome contributions from everyone! Whether you're a developer, government o
 #### How to Contribute (No Git Required)
 
 1. **Find content to edit**:
-   - Go to `content/services/` in the repository
-   - Choose a category (health, education, business, etc.)
+   - Go to `content/services/` for service pages or `content/government/` for department pages
+   - Choose a category (health, education, business, departments, etc.)
    - Click on any `.md` file to edit
 
 2. **Make your changes**:
@@ -270,7 +277,8 @@ This project is licensed under the Creative Commons Zero (CC0) License - see the
 ## 🙏 Acknowledgments
 
 - Built with [React](https://reactjs.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
+- Styled with [Tailwind CSS v4](https://tailwindcss.com/)
+- UI components by [@bettergov/kapwa](https://github.com/bettergov/kapwa)
 - Icons by [Lucide React](https://lucide.dev/)
 - Content management with [YAML](https://yaml.org/)
 - Internationalization with [i18next](https://www.i18next.com/)

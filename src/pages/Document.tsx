@@ -1,7 +1,8 @@
-import { Heading } from '../components/ui/Heading';
 import Section from '../components/ui/Section';
 import Breadcrumbs from '../components/ui/Breadcrumbs';
+import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
+import { Banner } from '@bettergov/kapwa/banner';
 import { useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
@@ -11,24 +12,31 @@ import {
   type MarkdownContent,
 } from '../lib/markdownLoader';
 import { createMarkdownComponents } from '../lib/markdownComponents';
-import { Card, CardContent, CardHeader } from '../components/ui/Card';
+import { Card, CardContent, CardHeader } from '@bettergov/kapwa/card';
 import { getTypographyTheme } from '../lib/typographyThemes';
 import {
   serviceCategories,
+  governmentCategories,
   getCategorySubcategories,
+  isNestedCategory,
+  type Subcategory,
+  type CategoryIndex,
 } from '../data/yamlLoader';
 import SEO from '../components/SEO';
 
 interface DocumentProps {
-  theme?: string; // Typography theme name
+  theme?: string;
+  categoryType?: 'service' | 'government';
 }
 
 export default function Document({
   theme: initialTheme = 'default',
+  categoryType,
 }: DocumentProps) {
-  const { documentSlug } = useParams();
+  const { documentSlug, category } = useParams();
   const [markdownContent, setMarkdownContent] =
     useState<MarkdownContent | null>(null);
+  const [nestedIndex, setNestedIndex] = useState<CategoryIndex | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -36,14 +44,12 @@ export default function Document({
     getTypographyTheme(initialTheme)
   );
 
-  // Generate dynamic breadcrumb items based on document slug
   const [breadcrumbs, setBreadcrumbs] = useState([
     { label: 'Home', href: '/' },
-    { label: 'Services', href: '/services' },
   ]);
 
   useEffect(() => {
-    if (!documentSlug) {
+    if (!documentSlug || !category || !categoryType) {
       setError('No document specified');
       setLoading(false);
       return;
@@ -54,43 +60,52 @@ export default function Document({
         setLoading(true);
         setError(null);
 
-        // Load content
-        const content = await loadMarkdownContent(documentSlug);
+        const isGovernment = categoryType === 'government';
+        const categories = isGovernment
+          ? governmentCategories.categories
+          : serviceCategories.categories;
+        const sectionLabel = isGovernment ? 'Government' : 'Services';
+        const sectionHref = isGovernment ? '/government' : '/services';
+        const categoryData = categories.find(c => c.slug === category);
+
+        // If the slug maps to its own index, render it as a nested listing
+        if (isNestedCategory(documentSlug)) {
+          const index = await getCategorySubcategories(documentSlug);
+          setNestedIndex(index);
+          setBreadcrumbs([
+            { label: 'Home', href: '/' },
+            { label: sectionLabel, href: sectionHref },
+            {
+              label: categoryData?.category ?? category,
+              href: `${sectionHref}/${category}`,
+            },
+            {
+              label: documentSlug,
+              href: `${sectionHref}/${category}/${documentSlug}`,
+            },
+          ]);
+          return;
+        }
+
+        const content = await loadMarkdownContent(
+          documentSlug,
+          category,
+          categoryType
+        );
         setMarkdownContent(content);
 
-        // Generate breadcrumbs
-        if (documentSlug) {
-          // Search through all categories to find which one contains this document
-          for (const category of serviceCategories.categories) {
-            try {
-              const subcategories = await getCategorySubcategories(
-                category.slug
-              );
-              const found = subcategories.find(
-                sub => sub.slug === documentSlug
-              );
-
-              if (found) {
-                const newBreadcrumbs = [
-                  { label: 'Home', href: '/' },
-                  { label: 'Services', href: '/services' },
-                  {
-                    label: category.category,
-                    href: `/services/${category.slug}`,
-                  },
-                  { label: found.name, href: `/${found.slug}` },
-                ];
-                setBreadcrumbs(newBreadcrumbs);
-                break;
-              }
-            } catch (error) {
-              console.warn(
-                `Error loading subcategories for category ${category.slug}:`,
-                error
-              );
-            }
-          }
-        }
+        setBreadcrumbs([
+          { label: 'Home', href: '/' },
+          { label: sectionLabel, href: sectionHref },
+          {
+            label: categoryData?.category ?? category,
+            href: `${sectionHref}/${category}`,
+          },
+          {
+            label: content.title ?? documentSlug,
+            href: `${sectionHref}/${category}/${documentSlug}`,
+          },
+        ]);
       } catch (err) {
         setError(
           err instanceof Error ? err.message : 'Failed to load document'
@@ -101,14 +116,12 @@ export default function Document({
     };
 
     loadContent();
-  }, [documentSlug]);
+  }, [documentSlug, category, categoryType]);
 
   if (loading) {
     return (
       <Section className="p-3 mb-12">
-        <div className="flex items-center justify-center py-12">
-          <div className="text-gray-600">Loading document...</div>
-        </div>
+        <Banner type="info" description="Loading document..." />
       </Section>
     );
   }
@@ -117,9 +130,71 @@ export default function Document({
     return (
       <Section className="p-3 mb-12">
         <Breadcrumbs className="mb-8" items={breadcrumbs} />
-        <Heading>Document Not Found</Heading>
-        <Text className="text-red-600 mb-6">{error}</Text>
+        <Banner
+          type="error"
+          title="Document Not Found"
+          description={error}
+          icon
+        />
       </Section>
+    );
+  }
+
+  if (nestedIndex) {
+    const nestedPages: Subcategory[] = nestedIndex.pages;
+    return (
+      <>
+        <SEO
+          title={documentSlug}
+          keywords={`${documentSlug}, government services, local government`}
+        />
+        <Section className="p-3 mb-12">
+          <Breadcrumbs className="mb-8" items={breadcrumbs} />
+          {nestedIndex.title && (
+            <Heading level={2}>{nestedIndex.title}</Heading>
+          )}
+          {nestedIndex.description && (
+            <Text className="text-gray-600 mb-4">
+              {nestedIndex.description}
+            </Text>
+          )}
+          {nestedIndex.layout === 'grid' ? (
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {nestedPages.map((page, i) => (
+                <Card hoverable key={page.slug ?? i} className="h-full">
+                  <CardContent>
+                    <h4 className="text-lg font-medium text-gray-900">
+                      {page.name}
+                    </h4>
+                    {page.description && (
+                      <p className="mt-2 text-sm text-gray-600">
+                        {page.description}
+                      </p>
+                    )}
+                  </CardContent>
+                </Card>
+              ))}
+            </div>
+          ) : (
+            <div className="space-y-4">
+              {nestedPages.map((page, i) => (
+                <Card key={page.slug ?? i} className="mb-4">
+                  <CardContent>
+                    <h4 className="text-lg font-medium text-gray-900">
+                      {page.name}
+                    </h4>
+                    {page.description && (
+                      <p className="mt-2 text-sm text-gray-600">
+                        {page.description}
+                      </p>
+                    )}
+                  </CardContent>
+                </Card>
+              ))}
+            </div>
+          )}
+        </Section>
+      </>
     );
   }
 
