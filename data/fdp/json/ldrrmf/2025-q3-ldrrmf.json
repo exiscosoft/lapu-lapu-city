@@ -1,0 +1,342 @@
+{
+  "id": "2025-q3-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2025,
+    "quarter": 3,
+    "asOf": "2025-09-30",
+    "printed": "Calendar Year: 2025, Quarter: 3",
+    "cumulative": true
+  },
+  "certifiedBy": [],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 126068911.5,
+            "total": 180098445.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 97170006.0,
+            "total": 97170006.0
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 135302573.8,
+            "total": 135302573.8
+          }
+        },
+        {
+          "key": "carryOver:2018",
+          "label": "2018",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 10729588.9
+          }
+        },
+        {
+          "key": "carryOver:2019",
+          "label": "2019",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 993443.18
+          }
+        },
+        {
+          "key": "carryOver:2020",
+          "label": "2020",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 6700000.0
+          }
+        },
+        {
+          "key": "carryOver:2021",
+          "label": "2021",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 4117971.4
+          }
+        },
+        {
+          "key": "carryOver:2022",
+          "label": "2022",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 22215900.68
+          }
+        },
+        {
+          "key": "carryOver:2023",
+          "label": "2023",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 29850466.23
+          }
+        },
+        {
+          "key": "carryOver:2024",
+          "label": "2024",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 60695203.41
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfer/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {}
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 358541491.3,
+            "total": 412571024.8
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. UTILIZATION",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 336475.32,
+            "particulars": "cash for work",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 629204.76,
+            "particulars": "cash for work",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 690000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "rental of 2 units pumpboat for",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "particulars": "rental of 2 units pumpboat for",
+            "month": "APRIL"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 412571024.8,
+    "qrf": 54029533.5,
+    "mitigation": 358541491.3,
+    "totalUtilized": null,
+    "balance": null
+  },
+  "notes": [
+    "INCOMPLETE SOURCE: the published PDF has only 1 page. Section B (Utilization) is cut off at the April item \"rental of 2 units pumpboat for ...\" (its amount is on the missing continuation page), so the utilization list is partial and no utilization total or balance is available. The same page appears as page 1 of 2025-q4-ldrrmf-part-1 (which shows the continuation \"relief assistance 699,500.00\").",
+    "Region printed as \"VII\", Province \"CEBU\", City \"LAPU-LAPU CITY\"."
+  ],
+  "unreadable": []
+}

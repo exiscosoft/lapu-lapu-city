@@ -4,8 +4,8 @@
 pages:
   - name: 'Check garbage collection schedules and request pickup'
     slug: 'check-garbage-collection-schedules-and-request-pickup'
-    description: 'Information about garbage collection schedules and how to request special garbage pickup services.'
-    
+    description: 'Free garbage collection for households along national roads and city streets. Segregate your garbage first. Trucks run Mon–Sun, 6:00pm–12:00am.'
+
   - name: 'Learn proper waste segregation and disposal methods'
     slug: 'learn-proper-waste-segregation-and-disposal-methods'
     description: 'Guidelines for proper waste segregation and disposal methods in your area.'
@@ -16,4 +16,4 @@ pages:
     
   - name: 'Report illegal dumping or waste management violations'
     slug: 'report-illegal-dumping-or-waste-management-violations'
-    description: 'How to report illegal dumping activities and waste management violations in your area.'
+    description: 'Report illegal dumping, open burning, and other garbage problems to your barangay or through the free CENRO complaint process.'

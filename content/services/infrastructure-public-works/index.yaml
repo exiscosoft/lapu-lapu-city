@@ -2,18 +2,22 @@
 # This file contains all the pages/services available under the Infrastructure & Public Works category
 
 pages:
-  - name: 'Report damaged roads, bridges, or drainage'
-    slug: 'report-damaged-roads-bridges-or-drainage'
-    description: 'How to report damaged infrastructure like roads, bridges, and drainage systems to your local government.'
-    
-  - name: 'Request access to barangay water supply systems'
-    slug: 'request-access-to-barangay-water-supply-systems'
-    description: 'Information about requesting access to barangay water supply systems and water connections.'
-    
-  - name: 'Use public facilities like gyms, barangay halls, or multipurpose centers'
+  - name: 'Rent a city venue or gym (Hoops Dome, Court 1, Olango facilities)'
     slug: 'use-public-facilities-like-gyms-barangay-halls-or-multipurpose-centers'
-    description: 'How to access and use public facilities like gyms, barangay halls, and multipurpose centers.'
+    description: 'For schools, organizations, companies, barangays and the public. Request letter to the City Mayor and booking form; fees paid at the City Treasurer''s Office. Apply at least 3 working days ahead (7 for the Hoops Dome).'
+
+  - name: 'Get a special permit for a procession, fun run or dance benefit'
+    slug: 'get-a-special-permit-for-a-procession-fun-run-or-dance-benefit'
+    description: 'For dance benefits, processions, motorcades, fluvial parades, fun runs and marathons. Request letter to the City Mayor plus barangay and traffic endorsements; fees paid at the City Treasurer''s Office. Apply 3 to 20 working days ahead.'
     
-  - name: 'Rent stalls in public markets or use LGU-managed cemeteries'
-    slug: 'rent-stalls-in-public-markets-or-use-lgu-managed-cemeteries'
-    description: 'Information about renting stalls in public markets and using LGU-managed cemetery services.'
+  - name: 'Pay a traffic violation fine'
+    slug: 'pay-a-traffic-violation-fine'
+    description: 'For traffic violators, vehicle owners or their representatives. Bring the blue-green citation ticket copy or clamp notice. Fine per the posted Schedule of Fees; about 10 minutes (clamp removal within 1 hour).'
+
+  - name: 'Settle a traffic dispute'
+    slug: 'settle-a-traffic-dispute'
+    description: 'Have a traffic citation ticket reviewed by a desk or legal officer, or get a traffic-related affidavit or undertaking. Bring the blue-green ticket copy. Free; up to 1 hour.'
+
+  - name: 'Claim a towed or impounded vehicle'
+    slug: 'claim-a-towed-or-impounded-vehicle'
+    description: 'For drivers and owners. Bring copies of the vehicle''s registration certificate and current registration receipt, your driver''s license, and the towing notice or release order (plus court order if needed). Fees per the posted Schedule of Fees; up to 1 hour.'

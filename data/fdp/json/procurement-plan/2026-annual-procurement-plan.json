@@ -1,0 +1,3147 @@
+{
+  "id": "2026-annual-procurement-plan",
+  "type": "procurement-plan",
+  "title": "Annual Procurement Plan",
+  "form": "FDP Form 4a - Annual Procurement Plan or Procurement List, by Office or Department; FDP Form 4b - Annual Procurement Plan or Procurement List, Summary",
+  "period": {
+    "year": 2026,
+    "quarter": null,
+    "asOf": null,
+    "printed": "Calendar Year: 2026",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "Head, BAC Secretariat (Prepared by)"
+    },
+    {
+      "name": "Hon. Ma. Cynthia K. Chan",
+      "position": "Head of Procuring Entity/LCE (Approved by)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "Annual Procurement Plan (FDP Form 4a)",
+      "columns": [
+        {
+          "key": "code",
+          "label": "Code (PAP)",
+          "type": "text"
+        },
+        {
+          "key": "project",
+          "label": "Procurement Project",
+          "type": "text"
+        },
+        {
+          "key": "endUser",
+          "label": "PMO/ End-User",
+          "type": "text"
+        },
+        {
+          "key": "earlyProcurement",
+          "label": "Is this an Early Procurement Activity? (Yes/No)",
+          "type": "text"
+        },
+        {
+          "key": "mode",
+          "label": "Mode of Procurement",
+          "type": "text"
+        },
+        {
+          "key": "schedule",
+          "label": "Schedule for Each Procurement Activity (Advertisement/Posting of IB/REI; Submission/Opening of Bids; Notice of Award; Contract Signing)",
+          "type": "text"
+        },
+        {
+          "key": "fundSource",
+          "label": "Source of Funds",
+          "type": "text"
+        },
+        {
+          "key": "total",
+          "label": "Estimated Budget (PhP) - Total",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Estimated Budget (PhP) - MOOE",
+          "type": "amount"
+        },
+        {
+          "key": "co",
+          "label": "Estimated Budget (PhP) - CO",
+          "type": "amount"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks (brief description of Project)",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "National News",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-99-070",
+            "project": "National News",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 97750,
+            "mooe": 97750,
+            "co": null,
+            "remarks": "National News To be distributed to various offices of the City for FY 2026."
+          }
+        },
+        {
+          "label": "Local News",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-99-070",
+            "project": "Local News",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 102000,
+            "mooe": 102000,
+            "co": null,
+            "remarks": "Local News, To be distributed to various offices of the City for the FY 2026."
+          }
+        },
+        {
+          "label": "Health Care Waste Disposal.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-12-010",
+            "project": "Health Care Waste Disposal.",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 300000,
+            "mooe": 300000,
+            "co": null,
+            "remarks": "For hauling of hospital waste at Lapu-Lapu City District Hospital."
+          }
+        },
+        {
+          "label": "Cleaning of Cassette Type Aircon, Mainland, etc.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-13-050",
+            "project": "Cleaning of Cassette Type Aircon, Mainland, etc.",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 799224,
+            "mooe": 799224,
+            "co": null,
+            "remarks": "For maintenance of various airconditionin untis in different offices of the City for the 1st Quarter of FY 2026."
+          }
+        },
+        {
+          "label": "Business Permit Board with Logo",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-010",
+            "project": "Business Permit Board with Logo",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 900000,
+            "mooe": 900000,
+            "co": null,
+            "remarks": "For the renewal of the Business permit."
+          }
+        },
+        {
+          "label": "Inks",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-010",
+            "project": "Inks",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3210250,
+            "mooe": 3210250,
+            "co": null,
+            "remarks": "To procure inks and toners to be distributed to different offices for the month of January to April 2026"
+          }
+        },
+        {
+          "label": "Diesel",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-090",
+            "project": "Diesel",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 38370000,
+            "mooe": 38370000,
+            "co": null,
+            "remarks": "To be distributed to various government vehicles issued to different offices of the City for the FY 2026."
+          }
+        },
+        {
+          "label": "Transfer/ Disposal of Residual Waste.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-99-990-2",
+            "project": "Transfer/ Disposal of Residual Waste.",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 45540000,
+            "mooe": 45540000,
+            "co": null,
+            "remarks": "For the transfer/ disposal of residual waste for the first quarter of FY 2026"
+          }
+        },
+        {
+          "label": "Hauling of Human waste and sludges",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-12-010",
+            "project": "Hauling of Human waste and sludges",
+            "endUser": "CGSO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1700000,
+            "mooe": 1700000,
+            "co": null,
+            "remarks": "Hauling of Human waste and sludges at different septic tanks of various offices, etc. For the first semester of FY 2026."
+          }
+        },
+        {
+          "label": "Packed Meals",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-5-02-99-990-3",
+            "project": "Packed Meals",
+            "endUser": "CTO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": 1400000,
+            "co": null,
+            "remarks": "To be served during the Business Permit Renewal of CY 2025."
+          }
+        },
+        {
+          "label": "Packed Meals",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-5-02-99-990-3",
+            "project": "Packed Meals",
+            "endUser": "CTO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": 1400000,
+            "co": null,
+            "remarks": "To be served by various guest and taxpayers of Lapu-Lapu City."
+          }
+        },
+        {
+          "label": "IV Fluids ( inpatient use)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-5-02-99-990-3",
+            "project": "IV Fluids ( inpatient use)",
+            "endUser": "LLCH",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 836600,
+            "mooe": 836600,
+            "co": null,
+            "remarks": "For various IV Fluids ( inpatient use) for Lapu-lapu City Hospital ( FY 2026)."
+          }
+        },
+        {
+          "label": "Toner supplies",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-010",
+            "project": "Toner supplies",
+            "endUser": "LLCH",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 715500,
+            "mooe": 715500,
+            "co": null,
+            "remarks": "For toner supplies for printers and photocopiers of Lapu-Lapu City Hospital ( FY 2026)"
+          }
+        },
+        {
+          "label": "Expanded Newborn Screening Kit.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080-1",
+            "project": "Expanded Newborn Screening Kit.",
+            "endUser": "LLCH",
+            "earlyProcurement": "YES",
+            "mode": "DIRECT CONTRACTING SEC. 31 ©",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2625000,
+            "mooe": 2625000,
+            "co": null,
+            "remarks": "Kits needed in Newborn screening section of Lapu-Lapu City Hospital ( FY 2026)."
+          }
+        },
+        {
+          "label": "Cesarean Pack.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080-3",
+            "project": "Cesarean Pack.",
+            "endUser": "LLCH",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 854760,
+            "mooe": 854760,
+            "co": null,
+            "remarks": "For supplies needed for cesarean operations in Lapu-Lapu City Hospital ( FY 2026)."
+          }
+        },
+        {
+          "label": "LPG 50kg Tank.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-2",
+            "project": "LPG 50kg Tank.",
+            "endUser": "LLCH",
+            "earlyProcurement": "YES",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": 80000,
+            "co": null,
+            "remarks": "Supply of cooking gas ( LPG) for dietary department in Lapu-Lapu City Hospital ( FY 2026)."
+          }
+        },
+        {
+          "label": "Security Services.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-12-030",
+            "project": "Security Services.",
+            "endUser": "LLCH",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1125000,
+            "mooe": 1125000,
+            "co": null,
+            "remarks": "For the provision of security services in Lapu-Lapu City Hospital ( FY 2026)."
+          }
+        },
+        {
+          "label": "Packed Meals",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-99-990-10",
+            "project": "Packed Meals",
+            "endUser": "CMO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1125000,
+            "mooe": 1125000,
+            "co": null,
+            "remarks": "To be served during the various schedules of the Libreng Serbisyo Program of the Lapu-Lapu City Government."
+          }
+        },
+        {
+          "label": "Powder Industrial Waste Degrader.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990",
+            "project": "Powder Industrial Waste Degrader.",
+            "endUser": "CMO",
+            "earlyProcurement": "YES",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 7650000,
+            "mooe": 7650000,
+            "co": null,
+            "remarks": "For Materials Recovery Facility use- Waste Degrader and Odor Kill."
+          }
+        },
+        {
+          "label": "Other Supplies",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990",
+            "project": "Other Supplies",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF, General Fund",
+            "total": 47476515.24,
+            "mooe": 47476515.24,
+            "co": null,
+            "remarks": "To procure various supplies to be distributed in every department."
+          }
+        },
+        {
+          "label": "Drugs and Medicines",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-070",
+            "project": "Drugs and Medicines",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 270187639.1,
+            "mooe": 270187639.1,
+            "co": null,
+            "remarks": "To procure Drugs and Medicines to be use by various offices."
+          }
+        },
+        {
+          "label": "Training Expenses – Simulation Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010",
+            "project": "Training Expenses – Simulation Expenses",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Simulation Expenses of DRRMO"
+          }
+        },
+        {
+          "label": "Training Expenses – Required by OCD, DOST, DSWD & DILG",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-1",
+            "project": "Training Expenses – Required by OCD, DOST, DSWD & DILG",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "DRRMO Expenses required by OCD, DOST, DSWD & DILG"
+          }
+        },
+        {
+          "label": "Training Expenses – Disaster Preparedness & Response like Search – Rescue & Retrieval, Fire Fighting",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-2",
+            "project": "Training Expenses – Disaster Preparedness & Response like Search – Rescue & Retrieval, Fire Fighting",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Disaster Preparedness & Response like Search – Rescue & Retrieval, Fire Fighting training expenses"
+          }
+        },
+        {
+          "label": "Training Expenses – Community Based Disaster Risk Reduction",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010",
+            "project": "Training Expenses – Community Based Disaster Risk Reduction",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": 2500000,
+            "co": null,
+            "remarks": "Community Based Disaster Risk Reduction training expenses of DRRMO."
+          }
+        },
+        {
+          "label": "Training Expenses – Fire Prevention Month",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-4",
+            "project": "Training Expenses – Fire Prevention Month",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": 1500000,
+            "co": null,
+            "remarks": "For Fire Prevention Month training"
+          }
+        },
+        {
+          "label": "Training Expenses – Disability Inclusive Disaster Risk Reduction (DiDRR)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-5",
+            "project": "Training Expenses – Disability Inclusive Disaster Risk Reduction (DiDRR)",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "For Disability Inclusive Disaster Risk Reduction (DiDRR)"
+          }
+        },
+        {
+          "label": "Training Expenses – Disaster Resilience Month",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-6",
+            "project": "Training Expenses – Disaster Resilience Month",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "For Disaster Resilience Month training."
+          }
+        },
+        {
+          "label": "Training Expenses – Hazard Expo (ANDAM Lapu-Lapu)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-7",
+            "project": "Training Expenses – Hazard Expo (ANDAM Lapu-Lapu)",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Training expenses for Hazard Expo (ANDAM Lapu-Lapu)"
+          }
+        },
+        {
+          "label": "Training Expenses – Child Centered DRR Training",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-02-010-8",
+            "project": "Training Expenses – Child Centered DRR Training",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Child Centered DRR Training"
+          }
+        },
+        {
+          "label": "Welfare Goods Expenses – Purchase of Food Items such as Rice, Canned Goods Noodles, Coffee & Milk",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-060",
+            "project": "Welfare Goods Expenses – Purchase of Food Items such as Rice, Canned Goods Noodles, Coffee & Milk",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Purchase of Food Items such as Rice, Canned Goods Noodles, Coffee & Milk"
+          }
+        },
+        {
+          "label": "Provision of Meals for Personnel responding to Emergencies, Disaster and Plan Events",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-060-1",
+            "project": "Provision of Meals for Personnel responding to Emergencies, Disaster and Plan Events",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2999850,
+            "mooe": 2999850,
+            "co": null,
+            "remarks": "Provision of Meals for Personnel responding to Emergencies, Disaster and Plan Events"
+          }
+        },
+        {
+          "label": "Provision of Foods to Victims of Human Induced & Natural Disaster",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-060-1",
+            "project": "Provision of Foods to Victims of Human Induced & Natural Disaster",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1999725,
+            "mooe": 1999725,
+            "co": null,
+            "remarks": "Provision of Foods to Victims of Human Induced & Natural Disaster"
+          }
+        },
+        {
+          "label": "Purchase of Medical Emergency/First Aid Kits for Volunteer & Community",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-080-1",
+            "project": "Purchase of Medical Emergency/First Aid Kits for Volunteer & Community",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Purchase of Medical Emergency/First Aid Kits for Volunteer & Community"
+          }
+        },
+        {
+          "label": "Purchase of Medical Emergency/First Aid Kits for Volunteer & Community",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-080-1",
+            "project": "Purchase of Medical Emergency/First Aid Kits for Volunteer & Community",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Purchase of Medical Emergency/First Aid Kits for Volunteer & Community"
+          }
+        },
+        {
+          "label": "Purchase of Medical Supplies for Ambulance Operation and Post Hospital Care Patients",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-080-2",
+            "project": "Purchase of Medical Supplies for Ambulance Operation and Post Hospital Care Patients",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Purchase of Medical Supplies for Ambulance Operation and Post Hospital Care Patients"
+          }
+        },
+        {
+          "label": "Repair & Maintenance - Other Prop, Plant & Equip.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-13-990",
+            "project": "Repair & Maintenance - Other Prop, Plant & Equip.",
+            "endUser": "SRCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": 50000,
+            "co": null,
+            "remarks": "Other Prop, Plant & Equip. repair and maintenance."
+          }
+        },
+        {
+          "label": "Repair & Maintenance - Machinery & Equipt.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-13-050",
+            "project": "Repair & Maintenance - Machinery & Equipt.",
+            "endUser": "SRCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 74000,
+            "mooe": 74000,
+            "co": null,
+            "remarks": "Machinery & Equipment repair and maintenance."
+          }
+        },
+        {
+          "label": "Repair & Maintenance- Building & Other Structures",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-13-040",
+            "project": "Repair & Maintenance- Building & Other Structures",
+            "endUser": "SRCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 208000,
+            "mooe": 208000,
+            "co": null,
+            "remarks": "Building & Other Structures repair and maintenance"
+          }
+        },
+        {
+          "label": "Training - Responsible Parenthood (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-02-010-1",
+            "project": "Training - Responsible Parenthood (GAD)",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 360000,
+            "mooe": 360000,
+            "co": null,
+            "remarks": "Responsible Parenthood (GAD) training"
+          }
+        },
+        {
+          "label": "Training - Gender and Culture Sensitivity Training in Handling Labor and Birth",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-02-010-2",
+            "project": "Training - Gender and Culture Sensitivity Training in Handling Labor and Birth",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 384000,
+            "mooe": 384000,
+            "co": null,
+            "remarks": "Gender and Culture Sensitivity Training in Handling Labor and Birth training"
+          }
+        },
+        {
+          "label": "Training - Counseling on Psychological Effects of VAW (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-02-010-3",
+            "project": "Training - Counseling on Psychological Effects of VAW (GAD)",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 240000,
+            "mooe": 240000,
+            "co": null,
+            "remarks": "Counseling on Psychological Effects of VAW (GAD) training"
+          }
+        },
+        {
+          "label": "Anti-rabies vaccine",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-070-1",
+            "project": "Anti-rabies vaccine",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 7000000,
+            "mooe": 7000000,
+            "co": null,
+            "remarks": "Anti-rabies vaccine to used at the Animal Bite Center patients"
+          }
+        },
+        {
+          "label": "Non-communicable disesases medicine",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-070-2",
+            "project": "Non-communicable disesases medicine",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "Procurement Non-communicable disesases medicine for City Health Office patients"
+          }
+        },
+        {
+          "label": "Medical, Dental and Laboratory Supplies Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080",
+            "project": "Medical, Dental and Laboratory Supplies Expenses",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 15000000,
+            "mooe": 15000000,
+            "co": null,
+            "remarks": "Medical, Dental and Laboratory Supplies Expenses"
+          }
+        },
+        {
+          "label": "Medical Supplies-New Born Screening Test",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080-1",
+            "project": "Medical Supplies-New Born Screening Test",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 7350000,
+            "mooe": 7350000,
+            "co": null,
+            "remarks": "Medical Supplies-New Born Screening Test"
+          }
+        },
+        {
+          "label": "Medical & Laboratory Supplies Exp.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080-3",
+            "project": "Medical & Laboratory Supplies Exp.",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Medical & Laboratory Supplies Expenses"
+          }
+        },
+        {
+          "label": "Medical Oxygen Supplies Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080-4",
+            "project": "Medical Oxygen Supplies Expenses",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 8000000,
+            "mooe": 8000000,
+            "co": null,
+            "remarks": "Medical Oxygen Supplies Expenses"
+          }
+        },
+        {
+          "label": "Medical Supplies - PAP Smear (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-080-5",
+            "project": "Medical Supplies - PAP Smear (GAD)",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 6000000,
+            "mooe": 6000000,
+            "co": null,
+            "remarks": "PAP Smear (GAD) medical supplies"
+          }
+        },
+        {
+          "label": "Repairs and Maintenance-Building and other Structures, Machinery and Equipment, Transportation Equipment, Other Prop,Plant & Equipt.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-13-990",
+            "project": "Repairs and Maintenance-Building and other Structures, Machinery and Equipment, Transportation Equipment, Other Prop,Plant & Equipt.",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2300000,
+            "mooe": 2300000,
+            "co": null,
+            "remarks": "Building and other Structures, Machinery and Equipment, Transportation Equipment, Other Prop,Plant & Equipt. Repair and maintenance"
+          }
+        },
+        {
+          "label": "Training Expenses-ECCD Day care Workers and Teachers",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-02-010",
+            "project": "Training Expenses-ECCD Day care Workers and Teachers",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "ECCD Day care Workers and Teachers training"
+          }
+        },
+        {
+          "label": "School Supplies (GAD) for KINDERGATEN",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-010-1",
+            "project": "School Supplies (GAD) for KINDERGATEN",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 2749890,
+            "mooe": 2749890,
+            "co": null,
+            "remarks": "School Supplies (GAD) for KINDERGATEN school"
+          }
+        },
+        {
+          "label": "School Supplies (GAD) for DAY CARE CENTER",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-010-2",
+            "project": "School Supplies (GAD) for DAY CARE CENTER",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "School Supplies (GAD) for DAY CARE CENTER"
+          }
+        },
+        {
+          "label": "Textbooks & Instructional Materials- Purchase of ECCD Materials for Day Care Centers, Production of Activity Sheets for Kindergarten, Production of Activity Sheets for Day care Center",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-110",
+            "project": "Textbooks & Instructional Materials- Purchase of ECCD Materials for Day Care Centers, Production of Activity Sheets for Kindergarten, Production of Activity Sheets for Day care Center",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Purchase of ECCD Materials for Day Care Centers, Production of Activity Sheets for Kindergarten, Production of Activity Sheets for Day care Center"
+          }
+        },
+        {
+          "label": "Other Supplies & Materials - Classroom Furniture/ Kiddie Tables & Chairs (GAD) for KINDERGARTEN",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-990-1",
+            "project": "Other Supplies & Materials - Classroom Furniture/ Kiddie Tables & Chairs (GAD) for KINDERGARTEN",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 2661000,
+            "mooe": 2661000,
+            "co": null,
+            "remarks": "Classroom Furniture/ Kiddie Tables & Chairs (GAD) for KINDERGARTEN"
+          }
+        },
+        {
+          "label": "Other Supplies & Materials - Classroom Furniture/ Kiddie Tables & Chairs (GAD) for DAY CARE CENTER",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-990-2",
+            "project": "Other Supplies & Materials - Classroom Furniture/ Kiddie Tables & Chairs (GAD) for DAY CARE CENTER",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Classroom Furniture/ Kiddie Tables & Chairs (GAD) for DAY CARE CENTER"
+          }
+        },
+        {
+          "label": "Purchase of Hard Hat for Kindergarten Learners",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-990-3",
+            "project": "Purchase of Hard Hat for Kindergarten Learners",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 2484000,
+            "mooe": 2484000,
+            "co": null,
+            "remarks": "Purchase of Hard Hat for Kindergarten Learners for safety purposes"
+          }
+        },
+        {
+          "label": "Other MOOE- Child Development Care/Teachers Celebration and Services",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-99-990",
+            "project": "Other MOOE- Child Development Care/Teachers Celebration and Services",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 450000,
+            "mooe": 450000,
+            "co": null,
+            "remarks": "Child Development Care/Teachers Celebration and Services"
+          }
+        },
+        {
+          "label": "Other MOE - Kindergarten Day",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-99-990",
+            "project": "Other MOE - Kindergarten Day",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "For Kindergarten Day use"
+          }
+        },
+        {
+          "label": "School Supplies Expenses 37,000 packs of School Supply pack",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": null,
+            "project": "School Supplies Expenses 37,000 packs of School Supply pack",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 12210000,
+            "mooe": 12210000,
+            "co": null,
+            "remarks": "School Supplies Expenses 37,000 packs of School Supply pack for Student"
+          }
+        },
+        {
+          "label": "Textbooks & Instructional Materials",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-5-02-03-110",
+            "project": "Textbooks & Instructional Materials",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "Instructional Materials for Students"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses- Purchase of Medals for Academic, Sports and other Competition",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-5-02-03-990-5",
+            "project": "Other Supplies and Materials Expenses- Purchase of Medals for Academic, Sports and other Competition",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 3999760,
+            "mooe": 3999760,
+            "co": null,
+            "remarks": "Purchase of Medals for Academic, Sports and other Competition"
+          }
+        },
+        {
+          "label": "Purchase of Six Hundred (600) Pieces Branded Plastic Arm Chairs with TableT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-5-02-03-990-1",
+            "project": "Purchase of Six Hundred (600) Pieces Branded Plastic Arm Chairs with TableT",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 1500000,
+            "mooe": 1500000,
+            "co": null,
+            "remarks": "Purchase of Six Hundred (600) Pieces Branded Plastic Arm Chairs with TableT"
+          }
+        },
+        {
+          "label": "Purchase of Five Hundred (500) Monobloc Chairs without arm",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-5-02-03-990-2",
+            "project": "Purchase of Five Hundred (500) Monobloc Chairs without arm",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 660000,
+            "mooe": 660000,
+            "co": null,
+            "remarks": "Purchase of Five Hundred (500) Monobloc Chairs without arm"
+          }
+        },
+        {
+          "label": "Environment/Sanitary Services- Desludging",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-5-02-12-010",
+            "project": "Environment/Sanitary Services- Desludging",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 800000,
+            "mooe": 800000,
+            "co": null,
+            "remarks": "For Waste Disposal"
+          }
+        },
+        {
+          "label": "Other Supplies and materials Exp.- ALS Equipment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3323-5-01-02-100",
+            "project": "Other Supplies and materials Exp.- ALS Equipment",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Expenses for ALS Equipment"
+          }
+        },
+        {
+          "label": "Other MOE- Sports Supplies & Equipment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "7652-02-03-990-1",
+            "project": "Other MOE- Sports Supplies & Equipment",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 10850000,
+            "mooe": 10850000,
+            "co": null,
+            "remarks": "Sports Supplies & Equipment"
+          }
+        },
+        {
+          "label": "Other MOE- CVRAA & Batang Pinoy Uniform of Atletes, Coaches, Trainors, Chaperons, Delegation Officials & Working Committees",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990",
+            "project": "Other MOE- CVRAA & Batang Pinoy Uniform of Atletes, Coaches, Trainors, Chaperons, Delegation Officials & Working Committees",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "SEF",
+            "total": 8999950,
+            "mooe": 8999950,
+            "co": null,
+            "remarks": "CVRAA & Batang Pinoy Uniform of Atletes, Coaches, Trainors, Chaperons, Delegation Officials & Working Committees"
+          }
+        },
+        {
+          "label": "Provision for the Conduct of DRRM & Climate Change Adaption IEC Materials",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-990-1",
+            "project": "Provision for the Conduct of DRRM & Climate Change Adaption IEC Materials",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2499768,
+            "mooe": 2499768,
+            "co": null,
+            "remarks": "Provision for the Conduct of DRRM & Climate Change Adaption IEC Materials"
+          }
+        },
+        {
+          "label": "Purchase of Hand Crank Siren for Community Early Warning System",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-990-4",
+            "project": "Purchase of Hand Crank Siren for Community Early Warning System",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 989000,
+            "mooe": null,
+            "co": 989000,
+            "remarks": "Purchase of Hand Crank Siren for Community Early Warning System"
+          }
+        },
+        {
+          "label": "Purchase of Purchase of Rescue Tools & Equipment for DRRM Council Members and Public Schools",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-990-5",
+            "project": "Purchase of Purchase of Rescue Tools & Equipment for DRRM Council Members and Public Schools",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1999750,
+            "mooe": null,
+            "co": 1999750,
+            "remarks": "Purchase of Rescue Tools & Equipment for DRRM Council Members and Public Schools"
+          }
+        },
+        {
+          "label": "Purchase of Radio Communication Equipment w/ Batteries for DRRMO, CTMS and Garbage Collectors",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-990-7",
+            "project": "Purchase of Radio Communication Equipment w/ Batteries for DRRMO, CTMS and Garbage Collectors",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2995000,
+            "mooe": null,
+            "co": 2995000,
+            "remarks": "Purchase of Radio Communication Equipment w/ Batteries for DRRMO, CTMS and Garbage Collectors"
+          }
+        },
+        {
+          "label": "Purchase of Equipment & Tools for Urban Search & Rescue (USAR)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-990-7",
+            "project": "Purchase of Equipment & Tools for Urban Search & Rescue (USAR)",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2941000,
+            "mooe": null,
+            "co": 2941000,
+            "remarks": "Purchase of Equipment & Tools for Urban Search & Rescue (USAR)"
+          }
+        },
+        {
+          "label": "CCTV Cameras and Surveillance",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-5-02-03-990-8",
+            "project": "CCTV Cameras and Surveillance",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2465000,
+            "mooe": null,
+            "co": 2465000,
+            "remarks": "Purchase CCTV Cameras for Security Purposes"
+          }
+        },
+        {
+          "label": "Purchase of Three (3) Units Brand-New 6 Wheeler 12 Cubic Metric Dump Truck",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s5",
+            "project": "Purchase of Three (3) Units Brand-New 6 Wheeler 12 Cubic Metric Dump Truck",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 21000000,
+            "mooe": null,
+            "co": 21000000,
+            "remarks": "Purchase of Three (3) Units Brand-New 6 Wheeler 12 Cubic Metric Dump Truck"
+          }
+        },
+        {
+          "label": "Purchase of Mobile Kitchen for Disaster Response",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s3",
+            "project": "Purchase of Mobile Kitchen for Disaster Response",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2800000,
+            "mooe": null,
+            "co": 2800000,
+            "remarks": "Purchase of Mobile Kitchen for Disaster Response"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) Units Penetrator Fire Trucks",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s2",
+            "project": "Purchase of Two (2) Units Penetrator Fire Trucks",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 9000000,
+            "mooe": null,
+            "co": 9000000,
+            "remarks": "Purchase of Two (2) Units Penetrator Fire Trucks"
+          }
+        },
+        {
+          "label": "Purchase of Four (4) Units Ambulance",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s1",
+            "project": "Purchase of Four (4) Units Ambulance",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": null,
+            "co": 10000000,
+            "remarks": "Purchase of Four (4) Units Ambulance"
+          }
+        },
+        {
+          "label": "Purchase of Early Warning System – Geographically Isolated Areas",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s1",
+            "project": "Purchase of Early Warning System – Geographically Isolated Areas",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": null,
+            "co": 1400000,
+            "remarks": "Purchase of Early Warning System – Geographically Isolated Areas"
+          }
+        },
+        {
+          "label": "Purchase and Installation of Water Tanks with Pumps & Fire Pumps",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s1",
+            "project": "Purchase and Installation of Water Tanks with Pumps & Fire Pumps",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 4500000,
+            "mooe": null,
+            "co": 4500000,
+            "remarks": "Purchase and Installation of Water Tanks with Pumps & Fire Pumps"
+          }
+        },
+        {
+          "label": "Purchase of Early Warning System – Geographically Isolated Areas",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9998-1-07-06-990-26s1",
+            "project": "Purchase of Early Warning System – Geographically Isolated Areas",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": null,
+            "co": 1400000,
+            "remarks": "Purchase of Early Warning System – Geographically Isolated Areas"
+          }
+        },
+        {
+          "label": "Repair & Maintenance - Furnitures & Fixtures",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-09-060",
+            "project": "Repair & Maintenance - Furnitures & Fixtures",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Repair & Maintenance of Furnitures & Fixtures of the offices of the Lapu-Lapu City Government office."
+          }
+        },
+        {
+          "label": "Environmental / Sanitary Services Desludging",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-04-010",
+            "project": "Environmental / Sanitary Services Desludging",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 4000000,
+            "mooe": 4000000,
+            "co": null,
+            "remarks": "Desludging of various septic tanks of the Lapu-Lapu City Government"
+          }
+        },
+        {
+          "label": "Repair & Maintenance - Office Buildings & Other Structures",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-13-040",
+            "project": "Repair & Maintenance - Office Buildings & Other Structures",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 5500000,
+            "mooe": 5500000,
+            "co": null,
+            "remarks": "Repair & Maintenance of the office and other structures of the Lapu-Lapu City Government."
+          }
+        },
+        {
+          "label": "Repair & Maintenance - Machinery & Equipment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-13-050",
+            "project": "Repair & Maintenance - Machinery & Equipment",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Repair & Maintenance of the Machinery & Equipment of Lapu-Lapu City Government."
+          }
+        },
+        {
+          "label": "Repair & Maintenance - Transportation Equipment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-13-060",
+            "project": "Repair & Maintenance - Transportation Equipment",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 15000000,
+            "mooe": 15000000,
+            "co": null,
+            "remarks": "Repair & Maintenance of the motor vehicles of the Lapu-Lapu City Government."
+          }
+        },
+        {
+          "label": "Other MOE - Pest Control",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-99-990-1",
+            "project": "Other MOE - Pest Control",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "For Pest Control of the offices of Lapu-Lapu City Government"
+          }
+        },
+        {
+          "label": "Other MOE - Residual Wastes",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-99-990-2",
+            "project": "Other MOE - Residual Wastes",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 11230000,
+            "mooe": 11230000,
+            "co": null,
+            "remarks": "For the Hauling of Residual Waste of Lapu-Lapu City"
+          }
+        },
+        {
+          "label": "Air Conditioning Unit, 1.5 HP, Wall Type",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-076",
+            "project": "Air Conditioning Unit, 1.5 HP, Wall Type",
+            "endUser": "HRMDO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 64000,
+            "mooe": null,
+            "co": 64000,
+            "remarks": "To be used at HRMDO"
+          }
+        },
+        {
+          "label": "Bluetooth Speaker",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-044",
+            "project": "Bluetooth Speaker",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 39500,
+            "mooe": 39500,
+            "co": null,
+            "remarks": "Audio Equipment used for meetings"
+          }
+        },
+        {
+          "label": "Conference Microphone",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-014",
+            "project": "Conference Microphone",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 29970,
+            "mooe": 29970,
+            "co": null,
+            "remarks": "Microphone for conference meeting"
+          }
+        },
+        {
+          "label": "Extension Cord",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-020",
+            "project": "Extension Cord",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2697,
+            "mooe": 2697,
+            "co": null,
+            "remarks": "For Office Use"
+          }
+        },
+        {
+          "label": "Keyboard",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-046",
+            "project": "Keyboard",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 27500,
+            "mooe": 27500,
+            "co": null,
+            "remarks": "Computer parts and accessories"
+          }
+        },
+        {
+          "label": "Office Chair",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-030",
+            "project": "Office Chair",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 280500,
+            "mooe": 280500,
+            "co": null,
+            "remarks": "To be distributed to various offices."
+          }
+        },
+        {
+          "label": "Smart Television",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-012",
+            "project": "Smart Television",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": 100000,
+            "co": null,
+            "remarks": "To be distributed to various offices."
+          }
+        },
+        {
+          "label": "Steel Filing Cabinet",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-018",
+            "project": "Steel Filing Cabinet",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 126000,
+            "mooe": 126000,
+            "co": null,
+            "remarks": "To be distributed to various offices."
+          }
+        },
+        {
+          "label": "Steel Rack",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "80141505-TS-048",
+            "project": "Steel Rack",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2800,
+            "mooe": 2800,
+            "co": null,
+            "remarks": "To be distributed to various offices."
+          }
+        },
+        {
+          "label": "OFFICE SUPPLIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-010-1",
+            "project": "OFFICE SUPPLIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 11278177.9,
+            "mooe": 11278177.9,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "OFFICE SUPPLIES - CONSUMABLES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-010-2",
+            "project": "OFFICE SUPPLIES - CONSUMABLES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 9314085.16,
+            "mooe": 9314085.16,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "Office Supplies (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-010-3",
+            "project": "Office Supplies (GAD)",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 499996.28,
+            "mooe": 499996.28,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3320-5-02-03-010",
+            "project": "Office Supplies Expenses",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2943460.44,
+            "mooe": 2943460.44,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "ALCOHOL OR ACETONE BASED ANTISEPTICS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-1",
+            "project": "ALCOHOL OR ACETONE BASED ANTISEPTICS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 317587.29,
+            "mooe": 317587.29,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "ARTS AND CRAFTS EQUIPMENT AND ACCESSORIES AND SUPPLIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-2",
+            "project": "ARTS AND CRAFTS EQUIPMENT AND ACCESSORIES AND SUPPLIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 527137.34,
+            "mooe": 527137.34,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "AUDIO AND VISUAL EQUIPMENT AND SUPPLIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-3",
+            "project": "AUDIO AND VISUAL EQUIPMENT AND SUPPLIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 47955.5,
+            "mooe": 47955.5,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "BATTERIES AND CELLS AND ACCESSORIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-4",
+            "project": "BATTERIES AND CELLS AND ACCESSORIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 7964.11,
+            "mooe": 7964.11,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "CLEANING EQUIPMENT AND SUPPLIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-5",
+            "project": "CLEANING EQUIPMENT AND SUPPLIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1546758.36,
+            "mooe": 1546758.36,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "COLOR COMPOUNDS AND DISPERSIONS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-6",
+            "project": "COLOR COMPOUNDS AND DISPERSIONS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 11395.8,
+            "mooe": 11395.8,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "CONSUMER ELECTRONICS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-7",
+            "project": "CONSUMER ELECTRONICS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 74492.4,
+            "mooe": 74492.4,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "FILMS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-8",
+            "project": "FILMS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 32240.82,
+            "mooe": 32240.82,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "FIRE FIGHTING EQUIPMENT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-9",
+            "project": "FIRE FIGHTING EQUIPMENT",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 90570.48,
+            "mooe": 90570.48,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "FLAG OR ACCESSORIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-10",
+            "project": "FLAG OR ACCESSORIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 4914.87,
+            "mooe": 4914.87,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "FURNITURE AND FURNISHINGS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-11",
+            "project": "FURNITURE AND FURNISHINGS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 143984.0,
+            "mooe": 143984.0,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "HEATING AND VENTILATION AND AIR CIRCULATION",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-12",
+            "project": "HEATING AND VENTILATION AND AIR CIRCULATION",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 91309.4,
+            "mooe": 91309.4,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) EQUIPMENT AND DEVICES AND ACCESSORIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-13",
+            "project": "INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) EQUIPMENT AND DEVICES AND ACCESSORIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 953165.29,
+            "mooe": 953165.29,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "LIGHTING AND FIXTURES AND ACCESSORIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-14",
+            "project": "LIGHTING AND FIXTURES AND ACCESSORIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 42846.0,
+            "mooe": 42846.0,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "MANUFACTURING COMPONENTS AND SUPPLIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-15",
+            "project": "MANUFACTURING COMPONENTS AND SUPPLIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 339081.0,
+            "mooe": 339081.0,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "MEASURING AND OBSERVING AND TESTING EQUIPMENT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-16",
+            "project": "MEASURING AND OBSERVING AND TESTING EQUIPMENT",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 4754.05,
+            "mooe": 4754.05,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "OFFICE EQUIPMENT AND ACCESSORIES AND SUPPLIES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-17",
+            "project": "OFFICE EQUIPMENT AND ACCESSORIES AND SUPPLIES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2213438.9,
+            "mooe": 2213438.9,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "PAPER MATERIALS AND PRODUCTS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-18",
+            "project": "PAPER MATERIALS AND PRODUCTS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3690461.82,
+            "mooe": 3690461.82,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "PERFUMES OR COLOGNES OR FRAGRANCES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-19",
+            "project": "PERFUMES OR COLOGNES OR FRAGRANCES",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 422.25,
+            "mooe": 422.25,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "PESTICIDES OR PEST REPELLENTS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-20",
+            "project": "PESTICIDES OR PEST REPELLENTS",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 25526.06,
+            "mooe": 25526.06,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "PRINTER OR FACSIMILE OR PHOTOCOPIER SUPPLIES (CONSUMABLES)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990-21",
+            "project": "PRINTER OR FACSIMILE OR PHOTOCOPIER SUPPLIES (CONSUMABLES)",
+            "endUser": "Various Offices",
+            "earlyProcurement": "NO",
+            "mode": "PROCUREMENT OF CSE SEC. 40",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 25914.03,
+            "mooe": 25914.03,
+            "co": null,
+            "remarks": "To procure various office Supplies to be use by different department."
+          }
+        },
+        {
+          "label": "Two (2) Units Heavy Duty Shredder",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "5-02-03-990.2",
+            "project": "Two (2) Units Heavy Duty Shredder",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 70000,
+            "mooe": 70000,
+            "co": null,
+            "remarks": "To Purchase Heavy Duty Shredder for City Mayor's Office"
+          }
+        },
+        {
+          "label": "Purchase of 2HP Split Type Aircon for City Vet.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-24s1",
+            "project": "Purchase of 2HP Split Type Aircon for City Vet.",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 119500,
+            "mooe": 119500,
+            "co": null,
+            "remarks": "Purchase of 2HP Split Type Aircon for City Vet."
+          }
+        },
+        {
+          "label": "Purchase of Evaporative Air Cooler",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-24s2",
+            "project": "Purchase of Evaporative Air Cooler",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 975000,
+            "mooe": 975000,
+            "co": null,
+            "remarks": "Purchase of Evaporative Air Cooler for CMO"
+          }
+        },
+        {
+          "label": "Purchase and installation of 4HP Floor Mounted Inverter Aircon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-24s1",
+            "project": "Purchase and installation of 4HP Floor Mounted Inverter Aircon",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 149500,
+            "mooe": 149500,
+            "co": null,
+            "remarks": "Purchase and installation of 4HP Floor Mounted Inverter Aircon for CMO"
+          }
+        },
+        {
+          "label": "Purchase of Service Vehicle for City Vet. Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-06-010-24s1",
+            "project": "Purchase of Service Vehicle for City Vet. Office",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1248000,
+            "mooe": 1248000,
+            "co": null,
+            "remarks": "Purchase of Service Vehicle for City Vet. Office"
+          }
+        },
+        {
+          "label": "Purchase of LED Wall 9x12 and 16x12",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-25s1",
+            "project": "Purchase of LED Wall 9x12 and 16x12",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "Purchase of LED Wall 9x12 and 16x12 for CMO"
+          }
+        },
+        {
+          "label": "Purchase and Installation of Inverter Aircon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-25s2",
+            "project": "Purchase and Installation of Inverter Aircon",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Purchase and Installation of Inverter Aircon"
+          }
+        },
+        {
+          "label": "Puchase of Computer Desktop",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-030-25s1",
+            "project": "Puchase of Computer Desktop",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "Puchase of Computer Desktop for CMO"
+          }
+        },
+        {
+          "label": "Purchase of Branded Desktop Computer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-030-25s2",
+            "project": "Purchase of Branded Desktop Computer",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 840000,
+            "mooe": 840000,
+            "co": null,
+            "remarks": "Purchase of Branded Desktop Computer for CMO"
+          }
+        },
+        {
+          "label": "Purchase of Drone Camera",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-100-25s1",
+            "project": "Purchase of Drone Camera",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 400000,
+            "mooe": 400000,
+            "co": null,
+            "remarks": "Purchase of Drone Camera for CMO"
+          }
+        },
+        {
+          "label": "Puchase of Service Vehicle",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-06-010-25s1",
+            "project": "Puchase of Service Vehicle",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Puchase of Service Vehicle for CMO"
+          }
+        },
+        {
+          "label": "Purchase of Multipurpose Vehicle",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-06-010-25s2",
+            "project": "Purchase of Multipurpose Vehicle",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 14400000,
+            "mooe": 14400000,
+            "co": null,
+            "remarks": "Purchase of Multipurpose Vehicle for CMO"
+          }
+        },
+        {
+          "label": "Purchase of Motorcycle with Accessories",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-06-010-25s3",
+            "project": "Purchase of Motorcycle with Accessories",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 22000000,
+            "mooe": 22000000,
+            "co": null,
+            "remarks": "Purchase of Motorcycle with Accessories for CMO"
+          }
+        },
+        {
+          "label": "Office Furnitures and Fixtures",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-07-010-25s1",
+            "project": "Office Furnitures and Fixtures",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Office Furnitures and Fixtures of CMO"
+          }
+        },
+        {
+          "label": "Purchase of Container Van for COA",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-07-010-25s2",
+            "project": "Purchase of Container Van for COA",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "Purchase of Container Van for COA"
+          }
+        },
+        {
+          "label": "Purchase of 4HP Floor Mounted Aircon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-26s1",
+            "project": "Purchase of 4HP Floor Mounted Aircon",
+            "endUser": "CMO",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": 200000,
+            "co": null,
+            "remarks": "Purchase of 4HP Floor Mounted Aircon for CMO"
+          }
+        },
+        {
+          "label": "Purchase of Computer Desktop with UPS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-030-26S1",
+            "project": "Purchase of Computer Desktop with UPS",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 522000,
+            "mooe": 522000,
+            "co": null,
+            "remarks": "Purchase of Computer Desktop with UPS for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of projector",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-26S1",
+            "project": "Purchase of projector",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": 80000,
+            "co": null,
+            "remarks": "Purchase of projector for LLCH"
+          }
+        },
+        {
+          "label": "Purchse of speaker with wireless microphone",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-020-26s2",
+            "project": "Purchse of speaker with wireless microphone",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": 100000,
+            "co": null,
+            "remarks": "Purchse of speaker with wireless microphone for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of Examination Light LED (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-07-05-110-26s1",
+            "project": "Purchase of Examination Light LED (GAD)",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": 100000,
+            "co": null,
+            "remarks": "Purchase of Examination Light LED (GAD) for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of Cybersecurity (anti-virus and firewall) software with server",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1-1-1-09-020-26s1",
+            "project": "Purchase of Cybersecurity (anti-virus and firewall) software with server",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 300000,
+            "mooe": 300000,
+            "co": null,
+            "remarks": "Purchase of Cybersecurity (anti-virus and firewall) software with server for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of Digital Panel",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": null,
+            "project": "Purchase of Digital Panel",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 15000000,
+            "mooe": 15000000,
+            "co": null,
+            "remarks": "Purchase of Digital Panel for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of CT Scan, 64 slices",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": null,
+            "project": "Purchase of CT Scan, 64 slices",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC 34, COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 80000000,
+            "mooe": 80000000,
+            "co": null,
+            "remarks": "Purchase of CT Scan, 64 slices for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of Pharmacy Bio-Ref",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": null,
+            "project": "Purchase of Pharmacy Bio-Ref",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Purchase of Pharmacy Bio-Ref for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of Stainless steel, food conveyor",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": null,
+            "project": "Purchase of Stainless steel, food conveyor",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 180000,
+            "mooe": 180000,
+            "co": null,
+            "remarks": "Purchase of Stainless steel, food conveyor for LLCH"
+          }
+        },
+        {
+          "label": "Purchse of supply and delivery of 48 units of CCTV (CCTV camera, service, labor cost, structural cabling)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": null,
+            "project": "Purchse of supply and delivery of 48 units of CCTV (CCTV camera, service, labor cost, structural cabling)",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 1050000,
+            "mooe": 1050000,
+            "co": null,
+            "remarks": "Purchse of supply and delivery of 48 units of CCTV (CCTV camera, service, labor cost, structural cabling)"
+          }
+        },
+        {
+          "label": "Construction of Activity Center for Sta. Rosa Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-04-020-26s1",
+            "project": "Construction of Activity Center for Sta. Rosa Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 12000000,
+            "mooe": 12000000,
+            "co": null,
+            "remarks": "Construction of Activity Center for Sta. Rosa Elementary School"
+          }
+        },
+        {
+          "label": "Construction of Activity Center for Poo Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-04-020-26s2",
+            "project": "Construction of Activity Center for Poo Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 12000000,
+            "mooe": 12000000,
+            "co": null,
+            "remarks": "Construction of Activity Center for Poo Elementary School"
+          }
+        },
+        {
+          "label": "Construction of 2 Storey, 12 classroom Building for Mactan Air Base",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-04-020-26s3",
+            "project": "Construction of 2 Storey, 12 classroom Building for Mactan Air Base",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 32000000,
+            "mooe": 32000000,
+            "co": null,
+            "remarks": "Construction of 2 Storey, 12 classroom Building for Mactan Air Base"
+          }
+        },
+        {
+          "label": "Completion of 4 Storey 12 Classroom Building for Kalawisan Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-04-020-26s4",
+            "project": "Completion of 4 Storey 12 Classroom Building for Kalawisan Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 12000000,
+            "mooe": 12000000,
+            "co": null,
+            "remarks": "Completion of 4 Storey 12 Classroom Building for Kalawisan Elementary School"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence at Mactan Air Base Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-04-990-26s1",
+            "project": "Construction of Perimeter Fence at Mactan Air Base Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": 2500000,
+            "co": null,
+            "remarks": "Construction of Perimeter Fence at Mactan Air Base Elementary School"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence at Sta. Rosa Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-04-990-26s2",
+            "project": "Construction of Perimeter Fence at Sta. Rosa Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Construction of Perimeter Fence at Sta. Rosa Elementary School"
+          }
+        },
+        {
+          "label": "Purchase of Three (3) Units 65\" TV for Bankal Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-05-020-26s1",
+            "project": "Purchase of Three (3) Units 65\" TV for Bankal Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": 150000,
+            "co": null,
+            "remarks": "Purchase of Three (3) Units 65\" TV for Bankal Elementary School"
+          }
+        },
+        {
+          "label": "Purchase of Four (4) Units B&W Multi Function Printer for Elementary School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3321-1-07-05-030-26s2",
+            "project": "Purchase of Four (4) Units B&W Multi Function Printer for Elementary School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "Purchase of Four (4) Units B&W Multi Function Printer for Elementary School"
+          }
+        },
+        {
+          "label": "Construction of Four (4) Storey 8 Classroom of Pangan-an High School (Phase 1)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-04-020-26s1",
+            "project": "Construction of Four (4) Storey 8 Classroom of Pangan-an High School (Phase 1)",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 14000000,
+            "mooe": 14000000,
+            "co": null,
+            "remarks": "Construction of Four (4) Storey 8 Classroom of Pangan-an High School (Phase 1)"
+          }
+        },
+        {
+          "label": "Construction of Four (4) Storey 8 Classroom of Tungasan High School (Phase 1)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-04-020-26s2",
+            "project": "Construction of Four (4) Storey 8 Classroom of Tungasan High School (Phase 1)",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 28000000,
+            "mooe": 28000000,
+            "co": null,
+            "remarks": "Construction of Four (4) Storey 8 Classroom of Tungasan High School (Phase 1)"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence for Mactan Air Base High School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-04-990-26s1",
+            "project": "Construction of Perimeter Fence for Mactan Air Base High School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "COMPETITIVE BIDDING SEC. 27",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": 2500000,
+            "co": null,
+            "remarks": "Construction of Perimeter Fence for Mactan Air Base High School"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Units 65\" TV for Sudtonggan National high School Grade 7",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-05-020-26s1",
+            "project": "Purchase of One (1) Units 65\" TV for Sudtonggan National high School Grade 7",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": 50000,
+            "co": null,
+            "remarks": "Purchase of One (1) Units 65\" TV for Sudtonggan National high School Grade 7"
+          }
+        },
+        {
+          "label": "Purchase and installation of CCTV Camera in the Arts and Design Building, Look National High School",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-05-020-26s2",
+            "project": "Purchase and installation of CCTV Camera in the Arts and Design Building, Look National High School",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Purchase and installation of CCTV Camera in the Arts and Design Building, Look National High School"
+          }
+        },
+        {
+          "label": "Purhase of Four (4) Units Digital B&W Multi-Function Printer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-04-030-26s1",
+            "project": "Purhase of Four (4) Units Digital B&W Multi-Function Printer",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "Purhase of Four (4) Units Digital B&W Multi-Function Printer"
+          }
+        },
+        {
+          "label": "Purchase of Drone with own Cellphone Controller",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "3322-1-07-04-030-26s2",
+            "project": "Purchase of Drone with own Cellphone Controller",
+            "endUser": "DEP-ED",
+            "earlyProcurement": "NO",
+            "mode": "SVP SEC. 34",
+            "schedule": "January 2026- October 2026",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": 200000,
+            "co": null,
+            "remarks": "Purchase of Drone with own Cellphone Controller"
+          }
+        }
+      ]
+    },
+    {
+      "key": "summaryByOffice",
+      "title": "Annual Procurement Plan Summary - Summary by Office (FDP Form 4b)",
+      "columns": [
+        {
+          "key": "department",
+          "label": "Department",
+          "type": "text"
+        },
+        {
+          "key": "head",
+          "label": "Head of Department / Office",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CGSO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CGSO",
+            "head": "Mr. Ronaldo D. Malacora",
+            "totalCost": 133749224
+          }
+        },
+        {
+          "label": "City Mayor's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Mayor's Office",
+            "head": "Hon. Ma. Cynthia K. Chan",
+            "totalCost": 72377000
+          }
+        },
+        {
+          "label": "City Treasurer's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Treasurer's Office",
+            "head": "Ms. Claire V. Cabalda, REB, MPA",
+            "totalCost": 2800000
+          }
+        },
+        {
+          "label": "Dep-Ed",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Dep-Ed",
+            "head": "Dr. Marilyn S. Andales",
+            "totalCost": 182564600
+          }
+        },
+        {
+          "label": "HRMDO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "HRMDO",
+            "head": "Atty. Mario Dennis A. Calvo",
+            "totalCost": 64000
+          }
+        },
+        {
+          "label": "LDRRMO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LDRRMO",
+            "head": "Mr. Nagiel B. Bañacia",
+            "totalCost": 97989093
+          }
+        },
+        {
+          "label": "Lapu-Lapu City Hospital",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Lapu-Lapu City Hospital",
+            "head": "Dr. Lynart Kevin R. Omnes",
+            "totalCost": 163402860
+          }
+        },
+        {
+          "label": "Sta. Rosa Community Hospital",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Sta. Rosa Community Hospital",
+            "head": "Dr. Joel B. Semblante",
+            "totalCost": 332000
+          }
+        },
+        {
+          "label": "Various Offices",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Various Offices",
+            "head": null,
+            "totalCost": 354800760.89
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": null
+  },
+  "notes": [
+    "Region VII, Province of Cebu, Lapu-Lapu City. The Form 4a item list (pages 1-10, 163 items) has no office grouping, subtotals or grand total; page 11 (Form 4b, printed sideways) gives a total cost per office, transcribed as table summaryByOffice. No grand total is printed, so summary.total is null.",
+    "The sum of the items per PMO/End-User matches every printed office total on the Form 4b summary exactly (CGSO, CMO, CTO, DEP-ED, HRMDO, LDRRMO, LLCH, SRCH, Various Offices).",
+    "The four schedule sub-columns (Advertisement/Posting of IB/REI, Submission/Opening of Bids, Notice of Award, Contract Signing) are one merged cell reading \"January 2026- October 2026\" on every row; transcribed as a single schedule column.",
+    "Several capital items (vehicles, aircon, CT scan, school buildings, etc.) are printed under the MOOE column rather than CO; transcribed as printed. CO is filled only for some LDRRMO equipment and the HRMDO aircon.",
+    "Some rows have no Code (PAP) printed (null). Codes are copied as printed, including odd ones such as \"9998-1-07-06-990-26s5\" and \"5-02-03-990.2\". Mode text \"COMPETITVE\" (typo on the form) normalised to \"COMPETITIVE\".",
+    "Page 1 and page 2 each carry a CTO \"Packed Meals\" row with the same code and amount (1,400,000.00) but different remarks; both are separate items (the CTO office total 2,800,000.00 confirms this). Likewise two identical LDRRMO first-aid-kit rows (3,000,000.00 each) and two identical \"Early Warning System\" rows (1,400,000.00 each) are printed and kept."
+  ],
+  "unreadable": []
+}

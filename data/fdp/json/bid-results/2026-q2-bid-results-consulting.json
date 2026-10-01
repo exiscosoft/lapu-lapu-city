@@ -1,0 +1,98 @@
+{
+  "id": "2026-q2-bid-results-consulting",
+  "type": "bid-results",
+  "title": "Bid Results on Consulting Services",
+  "form": "FDP Form 10c",
+  "period": {
+    "year": 2026,
+    "quarter": 2,
+    "asOf": "2026-06-30",
+    "printed": "Calendar Year: 2026, Quarter: 2",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Quenie May S. Espinosa",
+      "position": "BAC Secretariat Member"
+    },
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Ronaldo D. Malacora",
+      "position": "BAC Chairman"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "CONSULTING SERVICES BID-OUT",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Name of Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Bidding Date",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": []
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "No consulting services were bid out this quarter: row 1 of the form reads \"NONE\" in every column; rows 2-10 are blank.",
+    "Signatures are marked \"ORIGINAL SIGNED\".",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

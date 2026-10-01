@@ -1,0 +1,1059 @@
+{
+  "id": "2022-q4-sre",
+  "type": "sre",
+  "title": "Statement of Receipts and Expenditures",
+  "form": "BLGF Statement of Receipts and Expenditures",
+  "period": {
+    "year": 2022,
+    "quarter": 4,
+    "asOf": "2022-12-31",
+    "printed": "Q4, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Felicitas B. Baguio, CPA",
+      "position": "Acting City Treasurer"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Statement of Receipts and Expenditures",
+      "columns": [
+        {
+          "key": "target",
+          "label": "Income Target/ Budget Appropriation",
+          "type": "amount"
+        },
+        {
+          "key": "generalFund",
+          "label": "General Fund",
+          "type": "amount"
+        },
+        {
+          "key": "sef",
+          "label": "SEF",
+          "type": "amount"
+        },
+        {
+          "key": "trustFund",
+          "label": "Trust Fund",
+          "type": "amount"
+        },
+        {
+          "key": "trustLiability",
+          "label": "Trust Liability",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "pctOfTotal",
+          "label": "% to Total Income",
+          "type": "percent"
+        }
+      ],
+      "rows": [
+        {
+          "key": "localSources",
+          "label": "LOCAL SOURCES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 1541303000,
+            "generalFund": 1566673071.54,
+            "sef": 397988393.96,
+            "trustFund": 0,
+            "trustLiability": 96798760.11,
+            "total": 2061460225.61,
+            "pctOfTotal": 53.66
+          }
+        },
+        {
+          "key": "taxRevenue",
+          "label": "TAX REVENUE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "localSources",
+          "values": {
+            "target": 1359003000,
+            "generalFund": 1357495498.08,
+            "sef": 397765949.44,
+            "trustFund": 0,
+            "trustLiability": 96798760.11,
+            "total": 1852060207.63,
+            "pctOfTotal": 47.94
+          }
+        },
+        {
+          "key": "realPropertyTax",
+          "label": "Real Property Tax",
+          "level": 1,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "target": 450000000,
+            "generalFund": 387337419.29,
+            "sef": 397765949.44,
+            "trustFund": 0,
+            "trustLiability": 96798760.11,
+            "total": 881902128.84,
+            "pctOfTotal": 21.44
+          }
+        },
+        {
+          "key": "taxOnBusiness",
+          "label": "Tax on Business",
+          "level": 1,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "target": 824003000,
+            "generalFund": 814739220.53,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 814739220.53,
+            "pctOfTotal": 22.25
+          }
+        },
+        {
+          "key": "otherTaxes",
+          "label": "Other Taxes",
+          "level": 1,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "target": 85000000,
+            "generalFund": 155418858.26,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 155418858.26,
+            "pctOfTotal": 4.25
+          }
+        },
+        {
+          "key": "nonTaxRevenue",
+          "label": "NON-TAX REVENUE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "localSources",
+          "values": {
+            "target": 182300000,
+            "generalFund": 209177573.46,
+            "sef": 222444.52,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 209400017.98,
+            "pctOfTotal": 5.72
+          }
+        },
+        {
+          "key": "regulatoryFees",
+          "label": "Regulatory Fees (Permits and Licenses)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 60000000,
+            "generalFund": 74631072.34,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 74631072.34,
+            "pctOfTotal": 2.04
+          }
+        },
+        {
+          "key": "serviceCharges",
+          "label": "Service/User Charges (Service Income)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 88000000,
+            "generalFund": 85072229.81,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 85072229.81,
+            "pctOfTotal": 2.32
+          }
+        },
+        {
+          "key": "economicEnterprises",
+          "label": "Receipts from Economic Enterprises (Business Income)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 14300000,
+            "generalFund": 19287653.92,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 19287653.92,
+            "pctOfTotal": 0.53
+          }
+        },
+        {
+          "key": "otherReceipts",
+          "label": "Other Receipts (Other General Income)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 20000000,
+            "generalFund": 30186617.39,
+            "sef": 222444.52,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 30409061.91,
+            "pctOfTotal": 0.83
+          }
+        },
+        {
+          "key": "externalSources",
+          "label": "EXTERNAL SOURCES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 1000000,
+            "generalFund": 1696406785.63,
+            "sef": 0,
+            "trustFund": 342412878.77,
+            "trustLiability": 0,
+            "total": 2038819664.4,
+            "pctOfTotal": 46.34
+          }
+        },
+        {
+          "key": "nta",
+          "label": "Internal Revenue Allotment",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 0,
+            "generalFund": 1689781187.04,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 1689781187.04,
+            "pctOfTotal": 46.16
+          }
+        },
+        {
+          "key": "otherShares",
+          "label": "Other Shares from National Tax Collections",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 1000000,
+            "generalFund": 6625598.59,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 6625598.59,
+            "pctOfTotal": 0.18
+          }
+        },
+        {
+          "key": "interLocalTransfers",
+          "label": "Inter-Local Transfers",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "grants",
+          "label": "Extraordinary Receipts/Grants/Donations/Aids",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 342412878.77,
+            "trustLiability": 0,
+            "total": 342412878.77,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "totalCurrentOperatingIncome",
+          "label": "TOTAL CURRENT OPERATING INCOME",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 1542303000,
+            "generalFund": 3263079857.17,
+            "sef": 397988393.96,
+            "trustFund": 342412878.77,
+            "trustLiability": 96798760.11,
+            "total": 4100279890.01,
+            "pctOfTotal": 100
+          }
+        },
+        {
+          "key": "supplementalBudgetOperating",
+          "label": "ADD: SUPPLEMENTAL BUDGET (UNAPPROPRIATED SURPLUS) FOR CURRENT OPERATING",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "totalAvailableOperating",
+          "label": "TOTAL AVAILABLE FOR CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 1542303000,
+            "generalFund": 3263079857.17,
+            "sef": 397988393.96,
+            "trustFund": 342412878.77,
+            "trustLiability": 96798760.11,
+            "total": 4100279890.01,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "label": "LESS: CURRENT OPERATING EXPENDITURES (PS + MOOE + FE)",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "generalPublicServices",
+          "label": "General Public Services",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 1198888110.71,
+            "sef": 0,
+            "trustFund": 313829288.16,
+            "trustLiability": 0,
+            "total": 1512717398.87,
+            "pctOfTotal": 50.52
+          }
+        },
+        {
+          "key": "education",
+          "label": "Education, Culture & Sports/Manpower Development",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 40792746.43,
+            "sef": 6760945.56,
+            "trustFund": 42750,
+            "trustLiability": 0,
+            "total": 47596441.99,
+            "pctOfTotal": 2
+          }
+        },
+        {
+          "key": "health",
+          "label": "Health, Nutrition & Population Control",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 408219516.37,
+            "sef": 0,
+            "trustFund": 1519332.2,
+            "trustLiability": 0,
+            "total": 409738848.57,
+            "pctOfTotal": 17.2
+          }
+        },
+        {
+          "key": "labor",
+          "label": "Labor and Employment",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "housing",
+          "label": "Housing and Community Development",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 15560000,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 15560000,
+            "pctOfTotal": 0.66
+          }
+        },
+        {
+          "key": "socialWelfare",
+          "label": "Social Services and Social Welfare",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 491101565.37,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 491101565.37,
+            "pctOfTotal": 20.7
+          }
+        },
+        {
+          "key": "economicServices",
+          "label": "Economic Services",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 211681915.12,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 211681915.12,
+            "pctOfTotal": 8.92
+          }
+        },
+        {
+          "key": "debtServiceInterest",
+          "label": "Debt Service (FE) (Interest Expense & Other Charges)",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 31981.27,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 31981.27,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "totalCurrentOperatingExpenditures",
+          "label": "TOTAL CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 2366275835.27,
+            "sef": 6760945.56,
+            "trustFund": 315391370.36,
+            "trustLiability": 0,
+            "total": 2688428151.19,
+            "pctOfTotal": 100
+          }
+        },
+        {
+          "key": "netOperatingIncome",
+          "label": "NET OPERATING INCOME/(LOSS) FROM CURRENT OPERATIONS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 1542303000,
+            "generalFund": 896804021.9,
+            "sef": 391227448.4,
+            "trustFund": 27021508.41,
+            "trustLiability": 96798760.11,
+            "total": 1411851738.82,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "label": "ADD: NON-INCOME RECEIPTS",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "capitalInvestmentReceipts",
+          "label": "CAPITAL/INVESTMENT RECEIPTS",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "saleOfAssets",
+          "label": "Proceeds from Sale of Assets",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentReceipts",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "saleOfDebtSecurities",
+          "label": "Proceeds from Sale of Debt Securities of Other Entities",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentReceipts",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "collectionOfLoans",
+          "label": "Collection of Loans Receivables",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentReceipts",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "loansAndBorrowings",
+          "label": "RECEIPTS FROM LOANS AND BORROWINGS (Payable)",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "acquisitionOfLoans",
+          "label": "Acquisition of Loans",
+          "level": 1,
+          "kind": "item",
+          "section": "loansAndBorrowings",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "issuanceOfBonds",
+          "label": "Issuance of Bonds",
+          "level": 1,
+          "kind": "item",
+          "section": "loansAndBorrowings",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "otherNonIncomeReceipts",
+          "label": "OTHER NON-INCOME RECEIPTS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "totalNonIncomeReceipts",
+          "label": "TOTAL NON-INCOME RECEIPTS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "supplementalBudgetCapital",
+          "label": "ADD: SUPPLEMENTAL BUDGET FOR CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "totalAvailableCapital",
+          "label": "TOTAL AMOUNT AVAILABLE FOR CAPITAL EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "label": "LESS: NON-OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "capitalInvestmentExpenditures",
+          "label": "CAPITAL/INVESTMENT EXPENDITURES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 6836431.06,
+            "sef": 953662.84,
+            "trustFund": 125343847.45,
+            "trustLiability": 0,
+            "total": 133133941.35,
+            "pctOfTotal": 100
+          }
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Purchase/Construct of Property Plant and Equipment (Assets/Capital Outlay)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentExpenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 6836431.06,
+            "sef": 953662.84,
+            "trustFund": 125343847.45,
+            "trustLiability": 0,
+            "total": 133133941.35,
+            "pctOfTotal": 100
+          }
+        },
+        {
+          "key": "investmentOutlay",
+          "label": "Purchase of Debt Securities of Other Entities (Investment Outlay)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentExpenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "loansToOtherEntities",
+          "label": "Grant/Make Loan to Other Entities (Investment Outlay)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentExpenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "debtServicePrincipal",
+          "label": "DEBT SERVICE (Principal Cost)",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 672557.61,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 672557.61,
+            "pctOfTotal": 100
+          }
+        },
+        {
+          "key": "loanAmortization",
+          "label": "Payment of Loan Amortization",
+          "level": 1,
+          "kind": "item",
+          "section": "debtServicePrincipal",
+          "values": {
+            "target": 0,
+            "generalFund": 672557.61,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 672557.61,
+            "pctOfTotal": 100
+          }
+        },
+        {
+          "key": "bondRedemption",
+          "label": "Retirement/Redemption of Bonds/Debt Securities",
+          "level": 1,
+          "kind": "item",
+          "section": "debtServicePrincipal",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": 0
+          }
+        },
+        {
+          "key": "otherNonOperatingExpenditures",
+          "label": "OTHER NON-OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "totalNonOperatingExpenditures",
+          "label": "TOTAL NON-OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 7508988.67,
+            "sef": 953662.84,
+            "trustFund": 125343847.45,
+            "trustLiability": 0,
+            "total": 133806498.96,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "netIncreaseInFunds",
+          "label": "NET INCREASE/(DECREASE) IN FUNDS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 1542303000,
+            "generalFund": 889295033.23,
+            "sef": 390273785.56,
+            "trustFund": -98322339.04,
+            "trustLiability": 96798760.11,
+            "total": 1278045239.86,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "cashBalanceBeginning",
+          "label": "ADD: CASH BALANCE, BEGINNING",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 3559698099.15,
+            "generalFund": 2468766793.33,
+            "sef": 785724204.84,
+            "trustFund": 305207100.98,
+            "trustLiability": 0,
+            "total": 3559698099.15,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "fundCashAvailable",
+          "label": "FUND/CASH AVAILABLE",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 5102001099.15,
+            "generalFund": 3358061826.56,
+            "sef": 1175997990.4,
+            "trustFund": 206884761.94,
+            "trustLiability": 96798760.11,
+            "total": 4837743339.01,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "priorYearPayables",
+          "label": "Less: Payment of Prior Year/s Accounts Payable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 555088834.29,
+            "generalFund": 550985462.28,
+            "sef": 4103372.01,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 555088834.29,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "continuingAppropriation",
+          "label": "CONTINUING APPROPRIATION",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 0,
+            "pctOfTotal": null
+          }
+        },
+        {
+          "key": "fundCashBalanceEnd",
+          "label": "FUND/CASH BALANCE, END",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 4546912264.86,
+            "generalFund": 2807076364.28,
+            "sef": 1171894618.39,
+            "trustFund": 206884761.94,
+            "trustLiability": 96798760.11,
+            "total": 4282654504.72,
+            "pctOfTotal": null
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Fund/Cash Balance, End",
+      "columns": [
+        {
+          "key": "generalFund",
+          "label": "GF",
+          "type": "amount"
+        },
+        {
+          "key": "sef",
+          "label": "SEF",
+          "type": "amount"
+        },
+        {
+          "key": "trustFund",
+          "label": "TF",
+          "type": "amount"
+        },
+        {
+          "key": "trustLiability",
+          "label": "TL",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "fundCashBalanceEnd",
+          "label": "FUND/CASH BALANCE, END",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "generalFund": 2807076364.28,
+            "sef": 1171894618.39,
+            "trustFund": 206884761.94,
+            "trustLiability": 96798760.11,
+            "total": 4282654504.72
+          }
+        },
+        {
+          "label": "Amount set aside to finance projects with appropriations",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "setAsideContinuing",
+          "label": "provided in the previous years (Continuing appropriations)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "generalFund": 882881543.82,
+            "sef": 145046971.3,
+            "trustFund": 0,
+            "trustLiability": 0,
+            "total": 1027928515.12
+          }
+        },
+        {
+          "key": "setAsidePayables",
+          "label": "Amount set aside for payment of Accounts Payable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "generalFund": 731793464.38,
+            "sef": 53446430.2,
+            "trustFund": 390029709.22,
+            "trustLiability": 0,
+            "total": 1175269603.8
+          }
+        },
+        {
+          "key": "setAsideObligations",
+          "label": "Amount set aside for Obligation not yet Due and Demandable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "generalFund": 1889825141.07,
+            "sef": 52313512.91,
+            "trustFund": 105065779.31,
+            "trustLiability": 0,
+            "total": 2047204433.29
+          }
+        },
+        {
+          "key": "availableForAppropriation",
+          "label": "Amount Available for appropriations/operations",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "generalFund": -697423784.99,
+            "sef": 921087703.98,
+            "trustFund": -288210726.59,
+            "trustLiability": 96798760.11,
+            "total": 32251952.51
+          }
+        }
+      ]
+    },
+    {
+      "key": "assets",
+      "title": "Total Assets",
+      "columns": [
+        {
+          "key": "value",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "totalAssets",
+          "label": "Total Assets (net of accumulated depreciation)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "This form has five amount columns (General Fund, SEF, Trust Fund, Trust Liability, Total) plus \"% to Total Income\". Total = GF + SEF + Trust Fund + Trust Liability. The validator's fund check only adds GF + SEF + Trust Fund, so it flags Real Property Tax and Total Current Operating Income, whose Totals include 96,798,760.11 of Trust Liability; with Trust Liability added every printed row is internally consistent.",
+    "Extraordinary Receipts/Grants/Donations/Aids carries 342,412,878.77 in the Trust Fund column but its printed \"% to Total Income\" is 0.00 %.",
+    "The \"% to Total Income\" column is blank on the supplemental/total-available lines and from Other Non-Income Receipts through Fund/Cash Balance, End; recorded as null. A vertical scanner streak crosses that column but every percentage remains legible; the expenditure percentages sum to 100.00.",
+    "The last digit of the Total \"Amount Available for appropriations/operations\" (32,251,952.51) is partly covered by the signature; it matches both the row sum (GF + SEF + TF + TL) and the column arithmetic.",
+    "Total Assets (net of accumulated depreciation) is printed as 0.00. The form footer reads \"Generated by Baguio, Felicitas Blanco on 06/03/2023 3.59 PM\". This form has no ADD: ADVANCE PAYMENT FOR RPT line.",
+    "The NTA line is printed as \"Internal Revenue Allotment\"."
+  ],
+  "unreadable": []
+}

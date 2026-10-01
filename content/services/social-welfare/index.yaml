@@ -2,18 +2,59 @@
 # This file contains all the pages/services available under the Social Welfare category
 
 pages:
-  - name: 'Apply for senior citizen, solo parent, or PWD assistance'
+  - name: 'Apply for a senior citizen, solo parent, or PWD ID'
     slug: 'apply-for-senior-citizen-solo-parent-or-pwd-assistance'
-    description: 'Information about applying for assistance programs for senior citizens, solo parents, and persons with disabilities.'
-    
+    description: 'For residents who need a solo parent ID, PWD ID, or senior citizen ID and purchase booklet. Free. Takes 1 to 2 weeks. Mon–Fri, 8:00 AM–5:00 PM (except holidays).'
+
+  - name: 'Claim senior citizen cash gifts and incentives'
+    slug: 'claim-senior-citizen-cash-gifts-and-incentives'
+    description: 'Birthday cash gift, midyear and year-end cash aid for registered senior citizens and PWDs, and the centenarian cash award. Missed your birthday cash gift? Request a re-payroll from the City Mayor''s Office within the same year. Free.'
+
+  - name: 'Get therapy and special education for children with disabilities'
+    slug: 'get-therapy-and-special-education-for-children-with-disabilities'
+    description: 'Free physical therapy, occupational therapy, special education, and social rehabilitation for children with disabilities aged 0 to 14. Requires a Lapu-Lapu City PWD ID, X-ray, and medical certificate. Mon–Fri, 8:00 AM–5:00 PM.'
+
+  - name: 'Get financial assistance in a crisis (AICS)'
+    slug: 'get-financial-assistance-in-a-crisis-aics'
+    description: 'Free medical, burial, and other crisis assistance for residents found eligible by a social worker. Requires a barangay certificate of residency and indigency plus documents for your need. Takes about 1 month. Mon–Fri, 8:00 AM–5:00 PM.'
+
   - name: 'Receive relief goods or cash aid during disasters'
     slug: 'receive-relief-goods-or-cash-aid-during-disasters'
-    description: 'How to access relief goods and cash assistance during natural disasters and emergencies.'
-    
+    description: 'Food and non-food items and financial assistance for disaster victims. Requires a barangay certificate that you were affected. Free. Available 24 hours, Monday to Sunday, including holidays.'
+
   - name: 'Join livelihood or skills training programs'
     slug: 'join-livelihood-or-skills-training-programs'
-    description: 'Participate in livelihood and skills training programs offered by your local government.'
-    
+    description: 'Free skills training through the CSWDO (ages 18–60, high school graduates) and sewing and dressmaking courses at the Manpower and Human Development Training Center. Training runs 14 to 30 days depending on the program.'
+
+  - name: 'Get livelihood capital assistance'
+    slug: 'get-livelihood-capital-assistance'
+    description: 'For indigent individuals or groups with an existing livelihood and limited capital. Requires a barangay certificate of residency and indigency, valid ID, and 2x2 photo. Free. Takes 2–3 months through partner agencies or about 1 month through AICS.'
+
   - name: 'Get family and community welfare support'
     slug: 'get-family-and-community-welfare-support'
-    description: 'Access family and community welfare support services from your local government.'
+    description: 'Free help for women and children who are victims of violence or abuse, distressed or displaced returning OFWs, and persons on probation in the after-care program. Mon–Fri, 8:00 AM–5:00 PM (except holidays).'
+
+  - name: 'Request a social case study or welfare certificate'
+    slug: 'request-a-social-case-study-or-welfare-certificate'
+    description: 'Get a certificate of indigency, social case study, parental capability assessment report, or referral letter from the CSWDO. Bring the request letter from the office asking for it. Free. Takes 2 to 6 days.'
+
+  # Civil registry and marriage
+  - name: 'Register a birth, death, or marriage'
+    slug: 'register-a-birth-death-or-marriage'
+    description: 'Register a birth, marriage, or death at the Local Civil Registrar. Timely registration is free; late registration costs ₱100. Mon–Fri, 8:00 AM–5:00 PM.'
+
+  - name: 'Correct or update a civil registry record'
+    slug: 'correct-or-update-a-civil-registry-record'
+    description: 'Legitimation, use of the father''s surname, supplemental reports, clerical error and first name corrections, and court decrees at the Local Civil Registrar. Most fees are ₱100; R.A. 9048 and R.A. 10172 petitions cost ₱1,000 to ₱3,000.'
+
+  - name: 'Get a copy of a birth, marriage, or death certificate'
+    slug: 'get-a-copy-of-a-birth-marriage-or-death-certificate'
+    description: 'Request certified local copies (₱30 per copy plus ₱30 documentary stamp) or PSA copies and CENOMAR through the Local Civil Registrar (₱155–₱210 per copy plus ₱50 processing). Bring a valid ID. Mon–Fri, 8:00 AM–5:00 PM.'
+
+  - name: 'Apply for a marriage license'
+    slug: 'apply-for-a-marriage-license'
+    description: 'For couples 18 and older where at least one is a Lapu-Lapu City resident. Requires PSA birth certificate, CENOMAR, barangay residency certificate, and a CSWDO pre-marriage counseling certificate. Fees: ₱100 application, ₱50 service, ₱2 license.'
+
+  - name: 'Get married at City Hall or join Kasalan ng Bayan'
+    slug: 'get-married-at-city-hall-or-kasalan-ng-bayan'
+    description: 'Book a civil wedding with the City Mayor (bring your marriage license and voter''s certificate), or join the free yearly Kasalan ng Bayan for indigent couples who have lived together for at least five years.'

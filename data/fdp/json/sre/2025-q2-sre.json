@@ -1,0 +1,869 @@
+{
+  "id": "2025-q2-sre",
+  "type": "sre",
+  "title": "Statement of Receipts and Expenditures",
+  "form": "BLGF Statement of Receipts and Expenditures",
+  "period": {
+    "year": 2025,
+    "quarter": 2,
+    "asOf": "2025-06-30",
+    "printed": "Q2, 2025",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Claire V. Cabalda, REB, MPA",
+      "position": "City Treasurer"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Statement of Receipts and Expenditures",
+      "columns": [
+        {
+          "key": "target",
+          "label": "Income Target/ Budget Appropriation",
+          "type": "amount"
+        },
+        {
+          "key": "generalFund",
+          "label": "General Fund",
+          "type": "amount"
+        },
+        {
+          "key": "sef",
+          "label": "SEF",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "localSources",
+          "label": "LOCAL SOURCES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 1922150000,
+            "generalFund": 1329310872.17,
+            "sef": 184228059.53,
+            "total": 1513538931.7
+          }
+        },
+        {
+          "key": "taxRevenue",
+          "label": "TAX REVENUE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "localSources",
+          "values": {
+            "target": 1618850000,
+            "generalFund": 1103686598.04,
+            "sef": 173690522.64,
+            "total": 1277377120.68
+          }
+        },
+        {
+          "key": "realPropertyTax",
+          "label": "Real Property Tax",
+          "level": 1,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "target": 620000000,
+            "generalFund": 204831389.58,
+            "sef": 173690522.64,
+            "total": 378521912.22
+          }
+        },
+        {
+          "key": "taxOnBusiness",
+          "label": "Tax on Business",
+          "level": 1,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "target": 918550000,
+            "generalFund": 800540392,
+            "sef": 0,
+            "total": 800540392
+          }
+        },
+        {
+          "key": "otherTaxes",
+          "label": "Other Taxes",
+          "level": 1,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "target": 80300000,
+            "generalFund": 98314816.46,
+            "sef": 0,
+            "total": 98314816.46
+          }
+        },
+        {
+          "key": "nonTaxRevenue",
+          "label": "NON-TAX REVENUE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "localSources",
+          "values": {
+            "target": 303300000,
+            "generalFund": 225624274.13,
+            "sef": 10537536.89,
+            "total": 236161811.02
+          }
+        },
+        {
+          "key": "regulatoryFees",
+          "label": "Regulatory Fees (Permits and Licenses)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 89600000,
+            "generalFund": 95361801.11,
+            "sef": 0,
+            "total": 95361801.11
+          }
+        },
+        {
+          "key": "serviceCharges",
+          "label": "Service/User Charges (Service Income)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 138200000,
+            "generalFund": 83498023.79,
+            "sef": 0,
+            "total": 83498023.79
+          }
+        },
+        {
+          "key": "economicEnterprises",
+          "label": "Receipts from Economic Enterprises (Business Income)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 33000000,
+            "generalFund": 17146267,
+            "sef": 0,
+            "total": 17146267
+          }
+        },
+        {
+          "key": "otherReceipts",
+          "label": "Other Receipts (Other General Income)",
+          "level": 1,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "target": 42500000,
+            "generalFund": 29618182.23,
+            "sef": 10537536.89,
+            "total": 40155719.12
+          }
+        },
+        {
+          "key": "externalSources",
+          "label": "EXTERNAL SOURCES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 2012818896,
+            "generalFund": 1051325939.65,
+            "sef": 0,
+            "total": 1051325939.65
+          }
+        },
+        {
+          "key": "nta",
+          "label": "National Tax Allotment",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 1811818896,
+            "generalFund": 905909446,
+            "sef": 0,
+            "total": 905909446
+          }
+        },
+        {
+          "key": "otherShares",
+          "label": "Other Shares from National Tax Collections",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 201000000,
+            "generalFund": 145416493.65,
+            "sef": 0,
+            "total": 145416493.65
+          }
+        },
+        {
+          "key": "interLocalTransfers",
+          "label": "Inter-Local Transfers",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "grants",
+          "label": "Extraordinary Receipts/Grants/Donations/Aids",
+          "level": 1,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "totalCurrentOperatingIncome",
+          "label": "TOTAL CURRENT OPERATING INCOME",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 3934968896,
+            "generalFund": 2380636811.82,
+            "sef": 184228059.53,
+            "total": 2564864871.35
+          }
+        },
+        {
+          "key": "supplementalBudgetOperating",
+          "label": "ADD: SUPPLEMENTAL BUDGET (UNAPPROPRIATED SURPLUS) FOR CURRENT OPERATING",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "totalAvailableOperating",
+          "label": "TOTAL AVAILABLE FOR CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 3934968896,
+            "generalFund": 2380636811.82,
+            "sef": 184228059.53,
+            "total": 2564864871.35
+          }
+        },
+        {
+          "label": "LESS: CURRENT OPERATING EXPENDITURES (PS + MOOE + FE)",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "generalPublicServices",
+          "label": "General Public Services",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 642035547.69,
+            "sef": 0,
+            "total": 642035547.69
+          }
+        },
+        {
+          "key": "education",
+          "label": "Education, Culture & Sports/Manpower Development",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 16717060.12,
+            "sef": 23646792.07,
+            "total": 40363852.19
+          }
+        },
+        {
+          "key": "health",
+          "label": "Health, Nutrition & Population Control",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 280729290.64,
+            "sef": 0,
+            "total": 280729290.64
+          }
+        },
+        {
+          "key": "labor",
+          "label": "Labor and Employment",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "housing",
+          "label": "Housing and Community Development",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 67198550.72,
+            "sef": 0,
+            "total": 67198550.72
+          }
+        },
+        {
+          "key": "socialWelfare",
+          "label": "Social Services and Social Welfare",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 197267472.91,
+            "sef": 0,
+            "total": 197267472.91
+          }
+        },
+        {
+          "key": "economicServices",
+          "label": "Economic Services",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 116607455.27,
+            "sef": 0,
+            "total": 116607455.27
+          }
+        },
+        {
+          "key": "debtServiceInterest",
+          "label": "Debt Service (FE) (Interest Expense & Other Charges)",
+          "level": 1,
+          "kind": "item",
+          "section": "expenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "totalCurrentOperatingExpenditures",
+          "label": "TOTAL CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 1320555377.35,
+            "sef": 23646792.07,
+            "total": 1344202169.42
+          }
+        },
+        {
+          "key": "netOperatingIncome",
+          "label": "NET OPERATING INCOME/(LOSS) FROM CURRENT OPERATIONS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 3934968896,
+            "generalFund": 1060081434.47,
+            "sef": 160581267.46,
+            "total": 1220662701.93
+          }
+        },
+        {
+          "label": "ADD: NON-INCOME RECEIPTS",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "capitalInvestmentReceipts",
+          "label": "CAPITAL/INVESTMENT RECEIPTS",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "saleOfAssets",
+          "label": "Proceeds from Sale of Assets",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentReceipts",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "saleOfDebtSecurities",
+          "label": "Proceeds from Sale of Debt Securities of Other Entities",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentReceipts",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "collectionOfLoans",
+          "label": "Collection of Loans Receivables",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentReceipts",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "loansAndBorrowings",
+          "label": "RECEIPTS FROM LOANS AND BORROWINGS (Payable)",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "acquisitionOfLoans",
+          "label": "Acquisition of Loans",
+          "level": 1,
+          "kind": "item",
+          "section": "loansAndBorrowings",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "issuanceOfBonds",
+          "label": "Issuance of Bonds",
+          "level": 1,
+          "kind": "item",
+          "section": "loansAndBorrowings",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "otherNonIncomeReceipts",
+          "label": "OTHER NON-INCOME RECEIPTS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "totalNonIncomeReceipts",
+          "label": "TOTAL NON-INCOME RECEIPTS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "supplementalBudgetCapital",
+          "label": "ADD: SUPPLEMENTAL BUDGET FOR CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "totalAvailableCapital",
+          "label": "TOTAL AMOUNT AVAILABLE FOR CAPITAL EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "label": "LESS: NON-OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "capitalInvestmentExpenditures",
+          "label": "CAPITAL/INVESTMENT EXPENDITURES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 3709552.87,
+            "sef": 0,
+            "total": 3709552.87
+          }
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Purchase/Construct of Property Plant and Equipment (Assets/Capital Outlay)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentExpenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 3709552.87,
+            "sef": 0,
+            "total": 3709552.87
+          }
+        },
+        {
+          "key": "investmentOutlay",
+          "label": "Purchase of Debt Securities of Other Entities (Investment Outlay)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentExpenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "loansToOtherEntities",
+          "label": "Grant/Make Loan to Other Entities (Investment Outlay)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalInvestmentExpenditures",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "debtServicePrincipal",
+          "label": "DEBT SERVICE (Principal Cost)",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "target": 0,
+            "generalFund": 230128.14,
+            "sef": 0,
+            "total": 230128.14
+          }
+        },
+        {
+          "key": "loanAmortization",
+          "label": "Payment of Loan Amortization",
+          "level": 1,
+          "kind": "item",
+          "section": "debtServicePrincipal",
+          "values": {
+            "target": 0,
+            "generalFund": 230128.14,
+            "sef": 0,
+            "total": 230128.14
+          }
+        },
+        {
+          "key": "bondRedemption",
+          "label": "Retirement/Redemption of Bonds/Debt Securities",
+          "level": 1,
+          "kind": "item",
+          "section": "debtServicePrincipal",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "otherNonOperatingExpenditures",
+          "label": "OTHER NON-OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "totalNonOperatingExpenditures",
+          "label": "TOTAL NON-OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 0,
+            "generalFund": 3939681.01,
+            "sef": 0,
+            "total": 3939681.01
+          }
+        },
+        {
+          "key": "netIncreaseInFunds",
+          "label": "NET INCREASE/(DECREASE) IN FUNDS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 3934968896,
+            "generalFund": 1056141753.46,
+            "sef": 160581267.46,
+            "total": 1216723020.92
+          }
+        },
+        {
+          "key": "cashBalanceBeginning",
+          "label": "ADD: CASH BALANCE, BEGINNING",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 3860954167.18,
+            "generalFund": 2698151571.83,
+            "sef": 1162802595.35,
+            "total": 3860954167.18
+          }
+        },
+        {
+          "key": "fundCashAvailable",
+          "label": "FUND/CASH AVAILABLE",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 7795923063.18,
+            "generalFund": 3754293325.29,
+            "sef": 1323383862.81,
+            "total": 5077677188.1
+          }
+        },
+        {
+          "key": "priorYearPayables",
+          "label": "Less: Payment of Prior Year/s Accounts Payable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 401817217.01,
+            "generalFund": 377068949.57,
+            "sef": 24748267.44,
+            "total": 401817217.01
+          }
+        },
+        {
+          "key": "continuingAppropriation",
+          "label": "CONTINUING APPROPRIATION",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 1970860562.01,
+            "generalFund": 154678097.26,
+            "sef": 51698690.72,
+            "total": 206376787.98
+          }
+        },
+        {
+          "key": "advancePaymentRpt",
+          "label": "ADD: ADVANCE PAYMENT FOR RPT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "target": 0,
+            "generalFund": 2447138.93,
+            "sef": 2113030.27,
+            "total": 4560169.2
+          }
+        },
+        {
+          "key": "fundCashBalanceEnd",
+          "label": "FUND/CASH BALANCE, END",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "target": 5423245284.16,
+            "generalFund": 3224993417.39,
+            "sef": 1249049934.92,
+            "total": 4474043352.31
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Fund/Cash Balance, End",
+      "columns": [
+        {
+          "key": "generalFund",
+          "label": "GF",
+          "type": "amount"
+        },
+        {
+          "key": "sef",
+          "label": "SEF",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "fundCashBalanceEnd",
+          "label": "FUND/CASH BALANCE, END",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "generalFund": 3224993417.39,
+            "sef": 1249049934.92,
+            "total": 4474043352.31
+          }
+        },
+        {
+          "label": "Amount set aside to finance projects with appropriations",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "setAsideContinuing",
+          "label": "provided in the previous years (Continuing appropriations)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "setAsidePayables",
+          "label": "Amount set aside for payment of Accounts Payable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "setAsideObligations",
+          "label": "Amount set aside for Obligation not yet Due and Demandable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "generalFund": 0,
+            "sef": 0,
+            "total": 0
+          }
+        },
+        {
+          "key": "availableForAppropriation",
+          "label": "Amount Available for appropriations/operations",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "generalFund": 3224993417.39,
+            "sef": 1249049934.92,
+            "total": 4474043352.31
+          }
+        }
+      ]
+    },
+    {
+      "key": "assets",
+      "title": "Total Assets",
+      "columns": [
+        {
+          "key": "value",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "totalAssets",
+          "label": "Total Assets (net of accumulated depreciation)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 13140662025.11
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "Total Assets (13,140,662,025.11) is the same figure printed on the Q3 2025 SRE."
+  ],
+  "unreadable": []
+}

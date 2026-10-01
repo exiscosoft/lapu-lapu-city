@@ -1,0 +1,558 @@
+{
+  "id": "2022-q4-development-fund-20",
+  "type": "development-fund-20",
+  "title": "20% Component of the IRA Utilization",
+  "form": "FDP Form 7 - 20% Component of the IRA Utilization",
+  "period": {
+    "year": 2022,
+    "quarter": 4,
+    "asOf": "2022-12-31",
+    "printed": "As of December 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "20% Component of the IRA Utilization",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Economic Development (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "economic",
+          "values": {}
+        },
+        {
+          "label": "1. Improvement of/ Riprapping & Desilting of Basak Outfall Creek",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "1. Improvement of/ Riprapping & Desilting of Basak Outfall Creek",
+            "location": "Gun-ob",
+            "totalCost": 70445062.13,
+            "dateStarted": "2018-12-21",
+            "targetCompletion": "2022-03-16",
+            "pctCompletion": 90.0,
+            "costIncurred": 39340486.45,
+            "extensions": null,
+            "remarks": "On-going with liquidated damages"
+          }
+        },
+        {
+          "label": "2. Repair of MRF Bldg. Olango, Island",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "2. Repair of MRF Bldg. Olango, Island",
+            "location": "Sta. Rosa",
+            "totalCost": 769837,
+            "dateStarted": "2022-12-26",
+            "targetCompletion": "2023-01-24",
+            "pctCompletion": 30,
+            "costIncurred": 115134.8,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "3. Repair Talima Bldg. damaged due Typhoon Odette. (Mini City Hall)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "3. Repair Talima Bldg. damaged due Typhoon Odette. (Mini City Hall)",
+            "location": "Talima",
+            "totalCost": 866083,
+            "dateStarted": "2022-12-26",
+            "targetCompletion": "2023-02-08",
+            "pctCompletion": 15,
+            "costIncurred": 129651.2,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "4. Construction of STP at City Public Market",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "4. Construction of STP at City Public Market",
+            "location": "Poblacion",
+            "totalCost": 6982818.52,
+            "dateStarted": "2021-02-24",
+            "targetCompletion": "2021-09-22",
+            "pctCompletion": 90,
+            "costIncurred": 4139608.82,
+            "extensions": null,
+            "remarks": "On-going with liquidated damages"
+          }
+        },
+        {
+          "label": "5. Repair of Sabang Daycare Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "5. Repair of Sabang Daycare Center",
+            "location": "Sabang",
+            "totalCost": 1509298,
+            "dateStarted": "2022-12-26",
+            "targetCompletion": "2023-03-09",
+            "pctCompletion": 15,
+            "costIncurred": 22673.29,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "6. Repair/Renovation of City Owned Bldg.",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "6. Repair/Renovation of City Owned Bldg.",
+            "location": "Pusok",
+            "totalCost": 2545349.82,
+            "dateStarted": "2022-08-15",
+            "targetCompletion": "2022-11-23",
+            "pctCompletion": 100,
+            "costIncurred": 946842.79,
+            "extensions": null,
+            "remarks": "Completed..."
+          }
+        },
+        {
+          "label": "7. Repair and Improvmnt of Puericulture Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "7. Repair and Improvmnt of Puericulture Center",
+            "location": "Poblacion",
+            "totalCost": 594096.98,
+            "dateStarted": "2022-04-04",
+            "targetCompletion": "2022-03-01",
+            "pctCompletion": 100,
+            "costIncurred": 599252.07,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "8. Construction of Multi-Purpose Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "8. Construction of Multi-Purpose Building",
+            "location": "Sabang",
+            "totalCost": 10389331.46,
+            "dateStarted": "2022-07-17",
+            "targetCompletion": "2022-09-14",
+            "pctCompletion": 85,
+            "costIncurred": 1558399.72,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "09. Installation of fence for covid facility Across Hoopsdome building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "09. Installation of fence for covid facility Across Hoopsdome building",
+            "location": "Gun-ob",
+            "totalCost": 1374710.56,
+            "dateStarted": "2021-08-06",
+            "targetCompletion": "2021-10-11",
+            "pctCompletion": 100,
+            "costIncurred": 1268726.45,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "11. Concreting of Bong-hanoy Rd. leading to Sitio Ylaya",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "11. Concreting of Bong-hanoy Rd. leading to Sitio Ylaya",
+            "location": "Marigondon",
+            "totalCost": 3631956.65,
+            "dateStarted": "2021-11-24",
+            "targetCompletion": "2022-06-09",
+            "pctCompletion": 100,
+            "costIncurred": 2499117.33,
+            "extensions": null,
+            "remarks": "Completed with liquidated damages"
+          }
+        },
+        {
+          "label": "12. Construction of Cause-way",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "12. Construction of Cause-way",
+            "location": "Tingo",
+            "totalCost": 7531667.96,
+            "dateStarted": "2022-03-07",
+            "targetCompletion": "2022-08-31",
+            "pctCompletion": 60,
+            "costIncurred": 1129750.19,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "13. Construction of Multi-Purpose Building at Sitio Kauswagan (PH I)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "13. Construction of Multi-Purpose Building at Sitio Kauswagan (PH I)",
+            "location": "Baring",
+            "totalCost": 10271195.06,
+            "dateStarted": "2021-08-27",
+            "targetCompletion": "2022-09-03",
+            "pctCompletion": 100,
+            "costIncurred": 8690007.73,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "14. Installation of Drainage Line along Tumulak St. (Phase I)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "14. Installation of Drainage Line along Tumulak St. (Phase I)",
+            "location": "Gun-ob",
+            "totalCost": 11696742.81,
+            "dateStarted": "2021-11-04",
+            "targetCompletion": "2022-03-04",
+            "pctCompletion": 100,
+            "costIncurred": 6734785.87,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "15. Construction of Drainage Line-Sudtungan",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "15. Construction of Drainage Line-Sudtungan",
+            "location": "Basak",
+            "totalCost": 69507888.4,
+            "dateStarted": "2019-01-18",
+            "targetCompletion": "2020-07-20",
+            "pctCompletion": 100,
+            "costIncurred": 53979754.49,
+            "extensions": null,
+            "remarks": "Completed with liquidated damages"
+          }
+        },
+        {
+          "label": "16. Renovation of Old Police Station Bldg. for CENRO Office",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "16. Renovation of Old Police Station Bldg. for CENRO Office",
+            "location": "Pusok",
+            "totalCost": 990641.28,
+            "dateStarted": "2022-08-15",
+            "targetCompletion": "2022-09-29",
+            "pctCompletion": 100,
+            "costIncurred": 960937.4,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "17. Construction of Man-power Human Dev't. Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "17. Construction of Man-power Human Dev't. Center",
+            "location": "Talima",
+            "totalCost": 1280349,
+            "dateStarted": "2022-12-23",
+            "targetCompletion": "14/02/2023",
+            "pctCompletion": 20,
+            "costIncurred": 191557.57,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "18. Repair of Hoopsdome",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "18. Repair of Hoopsdome",
+            "location": "Gun-ob",
+            "totalCost": 9843380.97,
+            "dateStarted": "2022-12-22",
+            "targetCompletion": "14/02/2023",
+            "pctCompletion": 60,
+            "costIncurred": 5874923.79,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "19. Construction of Multi-Purpose Bldg.",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "19. Construction of Multi-Purpose Bldg.",
+            "location": "Talima",
+            "totalCost": 9994708,
+            "dateStarted": "2022-12-22",
+            "targetCompletion": "28/09/2023",
+            "pctCompletion": 10,
+            "costIncurred": 1499050.97,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "20. Improvement of One Stop Shop",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "20. Improvement of One Stop Shop",
+            "location": "City Hall",
+            "totalCost": 335301,
+            "dateStarted": "2022-12-02",
+            "targetCompletion": "2022-12-30",
+            "pctCompletion": 0,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Not yet started"
+          }
+        },
+        {
+          "label": "21. Repair of HRM Bldg. City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "21. Repair of HRM Bldg. City College",
+            "location": "Pusok",
+            "totalCost": 864648,
+            "dateStarted": "2022-12-02",
+            "targetCompletion": "2023-02-10",
+            "pctCompletion": 15,
+            "costIncurred": 864648,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "22. Repair of Daycare Center in Olanggo",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "22. Repair of Daycare Center in Olanggo",
+            "location": "Sta. Rosa and San Vicente",
+            "totalCost": 661086,
+            "dateStarted": "2022-12-02",
+            "targetCompletion": "2023-02-15",
+            "pctCompletion": 15,
+            "costIncurred": 98595.4,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "23. Repair of Daycare Center in Olanggo",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "23. Repair of Daycare Center in Olanggo",
+            "location": "Tungasan and Cawoy",
+            "totalCost": 1422218.53,
+            "dateStarted": "2022-12-02",
+            "targetCompletion": "2023-03-23",
+            "pctCompletion": 15,
+            "costIncurred": 560663.28,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "24. Repair of Daycare Center in Olanggo",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "24. Repair of Daycare Center in Olanggo",
+            "location": "Kauswagan and Baring",
+            "totalCost": 1175127,
+            "dateStarted": "2022-12-02",
+            "targetCompletion": "2023-03-23",
+            "pctCompletion": 0,
+            "costIncurred": 82713.07,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "25. Repair of Hospital Out-Patient Bldg",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "25. Repair of Hospital Out-Patient Bldg",
+            "location": "Sta. Rosa",
+            "totalCost": 1424595.23,
+            "dateStarted": "2022-11-04",
+            "targetCompletion": "2023-03-04",
+            "pctCompletion": 50,
+            "costIncurred": 718392.36,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "26. Repair of Sta. Rosa Evacuation and Cadaver Holding Room",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "26. Repair of Sta. Rosa Evacuation and Cadaver Holding Room",
+            "location": "Sta. Rosa",
+            "totalCost": 1116536,
+            "dateStarted": "2022-11-04",
+            "targetCompletion": "2023-03-19",
+            "pctCompletion": 55,
+            "costIncurred": 608458.57,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "27. Repair of Admin. Bldg City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "27. Repair of Admin. Bldg City College",
+            "location": "Gun-ob",
+            "totalCost": 1389582.99,
+            "dateStarted": "2022-11-04",
+            "targetCompletion": "2023-01-03",
+            "pctCompletion": 15,
+            "costIncurred": 208437.45,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "28. Construction of Niches",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "28. Construction of Niches",
+            "location": "Tungasan",
+            "totalCost": 7305607.29,
+            "dateStarted": "2022-11-04",
+            "targetCompletion": "2023-05-23",
+            "pctCompletion": 20,
+            "costIncurred": 1095841.09,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 27
+  },
+  "notes": [
+    "All projects are listed under the single printed heading Economic Development; no Social Development or Environmental Management section is printed.",
+    "The form prints no subtotals or grand total; summary totals are null.",
+    "Item numbering is printed as 1-9 then 11-28 (no item 10); 27 projects are listed.",
+    "Target completion dates of items 17, 18 and 19 are printed in DD/MM/YYYY order (14/02/2023, 14/02/2023, 28/09/2023) while all other dates are MM/DD/YYYY; kept as printed text.",
+    "Item 7 (Puericulture Center) cost incurred 599,252.07 exceeds its total cost 594,096.98, and its target completion 03/01/2022 precedes its start 04/04/2022; item 21 (HRM Bldg.) shows cost incurred equal to total cost at 15% completion; item 24 shows 0% completion with 82,713.07 incurred. All transcribed as printed.",
+    "Item 20 (One Stop Shop) has a blank Total Cost Incurred cell (recorded as null) and 0% completion."
+  ],
+  "unreadable": []
+}

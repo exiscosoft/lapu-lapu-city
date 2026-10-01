@@ -1,0 +1,171 @@
+{
+  "id": "2020-q2-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization (DILG Form)",
+  "period": {
+    "year": 2020,
+    "quarter": 2,
+    "asOf": "2020-06-30",
+    "printed": "AS OF JUNE 30, 2020",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Cluster VIII- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Cluster VIII- Construction of Public toilet",
+            "location": "Pta. Engano",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-22",
+            "remarks": "Suspended due to lot problem (BUB)"
+          }
+        },
+        {
+          "label": "2. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Cluster X- Construction of Public toilet",
+            "location": "Calawisan",
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-07-15",
+            "remarks": "Suspended (BUB)"
+          }
+        },
+        {
+          "label": "2. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Cluster X- Construction of Public toilet",
+            "location": "Babag",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-22",
+            "pctCompletion": 100,
+            "costIncurred": 894128.37,
+            "remarks": "Completed (BUB)"
+          }
+        },
+        {
+          "label": "3. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Cluster X- Construction of Public toilet",
+            "location": "Pajo",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-21",
+            "remarks": "Suspended due to lot problem (BUB)"
+          }
+        },
+        {
+          "label": "4. Improvement/ Rehabilitation of Poblacion Plaza (Phase 2)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Improvement/ Rehabilitation of Poblacion Plaza (Phase 2)",
+            "location": "Poblacion",
+            "totalCost": 24048060.4,
+            "dateStarted": "2019-12-05",
+            "targetCompletion": "2020-12-29",
+            "pctCompletion": 42,
+            "costIncurred": 15588105.4,
+            "remarks": "General and Trust Fund"
+          }
+        },
+        {
+          "label": "5. Repair/Renovation/ Expansion of Sta. Rosa Community Hospital (Emergency Room and Cadaver Holding Room)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "5. Repair/Renovation/ Expansion of Sta. Rosa Community Hospital (Emergency Room and Cadaver Holding Room)",
+            "location": "Talima, Olango",
+            "totalCost": 4949664.1,
+            "dateStarted": "2019-05-24",
+            "targetCompletion": "2020-01-19",
+            "pctCompletion": 100,
+            "costIncurred": 4949664.1,
+            "remarks": "Completed"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 5
+  },
+  "notes": [
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null; projectCount counts the five numbered projects.",
+    "Project 2 is printed with two location lines (Calawisan, suspended; Babag, completed); each is a row, with the total cost printed only on the Babag line."
+  ],
+  "unreadable": []
+}

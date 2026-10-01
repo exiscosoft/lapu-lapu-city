@@ -1,0 +1,397 @@
+# Citizen's Charter → site content map
+#
+# Records where every section of the Lapu-Lapu City Citizen's Charter ended up
+# on this site. The charter PDFs are published at
+# https://lapulapucitygov.ph/citizen-charter and were converted to markdown in
+# citizen-charter/<file>.md (gitignored). When the city republishes its
+# charter, use this map to find the pages that need updating.
+#
+# Targets:
+#   services/<category>/<slug>      task page (friendly guide + verbatim tables)
+#   government/departments/<slug>   office page (profile, links, office-only
+#                                   services shown verbatim)
+#
+# Each source lists its PDF, its office page, and one target per section
+# heading. `profile` sections (mandate, vision, contact, etc.) go on the
+# office page.
+
+sources:
+  city-accountant-s-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/Fn8OZxLfMhuYPKBOWMGxxJZ2ScyLtVb8UGbcnPrF.pdf
+    office: government/departments/city-accountants-office
+    sections:
+      'A. Processing Of:': services/business/sell-to-the-city-government
+      'B. Issuance of Certifications': services/business/sell-to-the-city-government
+
+  city-assessors-office-citizen-s-charter:
+    pdf: https://lapulapucitygov.ph/storage/PDF/ck86pBl0itWfcv9w7JcL2X1lAPQ4Tbtm4rCNkyYv.pdf
+    office: government/departments/city-assessors-office
+    sections:
+      'A. Issuance of Tax Declaration for Transfer/Conveyance of Real Property': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'B. Issuance of Tax Declaration for New Building, Structures, Machineries, Equipment and Other Improvements': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'B.1 For Buildings, Structures & Other Improvements': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'B.2. For Machineries and Equipment': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'C. Re-Assessment and Revalidation of Real Property Classification or Taxability': services/housing-land-use/update-or-cancel-a-tax-declaration
+      'D. Cancellation of Tax Declaration (TD) Due to Total Damage, Demolition and for Other Reasons': services/housing-land-use/update-or-cancel-a-tax-declaration
+      'E. Issuance of Tax Declaration on Land Being Declared for the First Time': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'E.1 For Unregistered or Untitled Parcel of Land': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'E.2 For Registered or Titled Parcel of Land': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'F. Issuance of New Tax Declarations for Partition or Subdivision of Lot': services/housing-land-use/get-a-tax-declaration-for-your-property
+      'G. Issuance of Certified True Machine Copy of Latest Tax Declaration': services/housing-land-use/request-property-records-from-the-assessor
+      'H. Issuance of Certified Copy of Old Tax Declaration and Supporting Documents': services/housing-land-use/request-property-records-from-the-assessor
+      'I. Issuance of Certificate of Land Holdings and Related Certifications': services/housing-land-use/request-property-records-from-the-assessor
+      'J. Issuance of Real Property Verification, Tracer or Trace-Back History': services/housing-land-use/request-property-records-from-the-assessor
+      'K. Annotation of Sale, Donation, Transfer & Other Conveyances Involving Unsegregated Portion of the Real Property Unit': services/housing-land-use/update-or-cancel-a-tax-declaration
+      'L. Annotation of Affidavit of Adverse Claim, Real Estate Mortgage, Lis Pendens Contracts, Tax Lien, Levy, Court Orders and Other Encumbrances': services/housing-land-use/update-or-cancel-a-tax-declaration
+      'M. Issuance of Certificate of No Improvement and Other Related Certifications': services/housing-land-use/request-property-records-from-the-assessor
+      'N. Reproduction of Vicinity Map or Lot Location Map': services/housing-land-use/request-property-records-from-the-assessor
+
+  city-budget-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/WXvzMQLdPzBwFWf0ohK2ooqmQs5tG6dj0AkEACPZ.pdf
+    office: government/departments/city-budget-office
+    sections:
+      'Budget Preparation Services and Allotment Release': government/departments/city-budget-office
+      '1. Budget Preparation': government/departments/city-budget-office
+      '2. Allotment Release Services and Augmentation': government/departments/city-budget-office
+      'Financial Processing Division': government/departments/city-budget-office
+      '1. Salaries, Honoraria, Contract Services, Bonuses, Cash Assistance, Allowances and Grants': government/departments/city-budget-office
+      '2. Projects, Supplies and Services': government/departments/city-budget-office
+      '3. Purchase Requests': government/departments/city-budget-office
+      'Barangay Budget Review and Advisory Services': government/departments/city-budget-office
+      '1. Barangay Annual Budget (BAB)': government/departments/city-budget-office
+      '2. Barangay Supplemental Budget (BSB)': government/departments/city-budget-office
+      '3. Sangguniang Kabataan Annual Budget (SKAB)': government/departments/city-budget-office
+      '4. Sangguniang Kabataan Supplemental Budget (SKSB)': government/departments/city-budget-office
+      'Administrative Services': government/departments/city-budget-office
+      'Request for Copies of Documents (Obligation Request, Budget, SAAOB, etc.)': government/departments/city-budget-office
+
+  city-engineering-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/3zx2ryTlBP6FK9sjenyyaCInaU0MfaCsLU1GGDiK.pdf
+    office: government/departments/city-engineering-office
+    sections:
+      'Issuance of Building Permit (Including Renovation, Repair, and Structures)': services/housing-land-use/get-a-building-permit
+      'Issuance of Occupancy Permit (Including Renovation, Repair, and Structures)': services/housing-land-use/get-an-occupancy-permit
+
+  city-environment-and-natural-resources-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/DzTi8PwqKiFisgBIbjUpMRQHnhrY0yrpFMU8sjFM.pdf
+    office: government/departments/city-environment-and-natural-resources-office
+    sections:
+      'Frontline Services': profile
+      'A. Securing Permits': profile
+      '1. Fishing Permit Application': services/agriculture-fisheries/get-a-fishing-permit-and-register-your-boat
+      '2. Boat Registration': services/agriculture-fisheries/get-a-fishing-permit-and-register-your-boat
+      '3. Permit to Operate': services/agriculture-fisheries/get-a-fishing-permit-and-register-your-boat
+      '4. Hauling Permit Application (Common Waste Rocks/Soil)': services/environment/get-a-hauling-permit-for-soil-and-rocks
+      '5. Permit to Conduct Research': services/environment/get-a-permit-to-conduct-environmental-research
+      '6. Issuance of Auxiliary Invoice': services/agriculture-fisheries/get-an-auxiliary-invoice-to-ship-fish-products
+      'B. Document Issuance': profile
+      '1. Issuance of Tree Cutting and Trimming Endorsement Letter': services/environment/get-a-tree-cutting-or-trimming-endorsement
+      '2. Issuance of Certification for Refund of Cash Bond (Tarpaulin)': services/business/get-a-permit-for-banners-streamers-or-signage
+      '3. Issuance of Mangrove Planting Permit and Certification': services/environment/join-clean-up-drives-and-tree-planting-activities
+      'C. Garbage Collection': profile
+      '1. Garbage Collection': services/garbage-waste-disposal/check-garbage-collection-schedules-and-request-pickup
+      '2. Private Hauler Garbage Collection': government/departments/city-environment-and-natural-resources-office
+      'D. Other Services': profile
+      '1. Complaints on Environmental Problems': services/environment/report-illegal-logging-quarrying-or-fishing
+      '2. Wildlife Turn-Over': services/environment/turn-over-rescued-wildlife
+      '3. Backyard Gardening / Urban Agriculture Program (Seed Distribution)': services/agriculture-fisheries/ask-for-free-seeds-seedlings-fertilizers-or-fingerlings
+      '4. Conduct of Coastal Cleanup Activity': services/environment/join-clean-up-drives-and-tree-planting-activities
+      '5. Conduct of Seminar or IEC / Dalaw Turo': services/environment/request-an-environmental-seminar-for-your-community
+
+  city-general-services-office-cgso:
+    pdf: https://lapulapucitygov.ph/storage/PDF/Dc4iHbTGTFU3qSRTgJfwleIymF8ti741ezhcfrKr.pdf
+    office: government/departments/city-general-services-office
+    sections:
+      'CGSO Frontline Services': profile
+      'A. Issuance of Gas Slip to Authorized Government Motor Vehicles': government/departments/city-general-services-office
+      'B. Processing of Payment of Various Utility Bills': government/departments/city-general-services-office
+      'C. Issuance of Bidding Documents': services/business/sell-to-the-city-government
+      'D. Releasing of Purchase Order': services/business/sell-to-the-city-government
+      'E. Issuance of Records/Documents from the Archives': government/departments/city-general-services-office
+      'F. Issuance of Property Acknowledgement Report (PAR) and Property Return Slip (PRS)': government/departments/city-general-services-office
+      'G. Issuance of CGSO Clearance': government/departments/city-general-services-office
+      'H. Releasing of Supplies (On-Stock)': government/departments/city-general-services-office
+      'I. Minor Carpentry Repair / Repainting': government/departments/city-general-services-office
+      'J. Provision of Audio System': government/departments/city-general-services-office
+
+  city-mayor-s-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/5ZkTzHYPtcc2bopZe3S7ejGsSX5k79MhHU3wcjXI.pdf
+    office: government/departments/city-mayors-office
+    sections:
+      'Issuance of Special Permit for Dance Benefit': services/infrastructure-public-works/get-a-special-permit-for-a-procession-fun-run-or-dance-benefit
+      'Issuance of Special Permit for Procession, Motorcade, Fluvial Parade and Similar Activities': services/infrastructure-public-works/get-a-special-permit-for-a-procession-fun-run-or-dance-benefit
+      'Issuance of Special Permit for Fun Runs, Marathons, Ultramarathons and Similar Special Activities': services/infrastructure-public-works/get-a-special-permit-for-a-procession-fun-run-or-dance-benefit
+      'Issuance of Special Permit for Rental of Venue or Facility (Hoops Dome)': services/infrastructure-public-works/use-public-facilities-like-gyms-barangay-halls-or-multipurpose-centers
+      'Issuance of Special Permit for Rental of Venue or Facility (Court 1)': services/infrastructure-public-works/use-public-facilities-like-gyms-barangay-halls-or-multipurpose-centers
+      'Issuance of Special Permit for Rental of Venue or Facility (Olango Hoops Dome, Gymnasium and Mini-City Hall)': services/infrastructure-public-works/use-public-facilities-like-gyms-barangay-halls-or-multipurpose-centers
+      'Issuance of Special Permit for Banners, Streamers and Other Promotional Materials (Temporary)': services/business/get-a-permit-for-banners-streamers-or-signage
+      'Issuance of Special Permit for Directional Signages (Permanent)': services/business/get-a-permit-for-banners-streamers-or-signage
+      'Issuance of Delivery Permit': services/business/get-a-delivery-permit
+      'Issuance of Certificate of Unemployment': services/business/get-certifications-for-employment-or-work-abroad
+      'Issuance of Certification for DFA Apostille': services/business/get-certifications-for-employment-or-work-abroad
+      'Issuance of Certification of Good Moral': services/business/get-certifications-for-employment-or-work-abroad
+      'Issuance of Certification for Application of Certificate of Registration of the Authority to Solemnize Marriage (CRASM)': services/social-welfare/get-married-at-city-hall-or-kasalan-ng-bayan
+      'Application for Board/Bar Passer Incentive': services/education/claim-the-board-or-bar-exam-passer-incentive
+      "Application for Re-Payroll of Senior Citizen's Birthday Cash Gift": services/social-welfare/claim-senior-citizen-cash-gifts-and-incentives
+      'Application for Marriage Solemnization Schedule': services/social-welfare/get-married-at-city-hall-or-kasalan-ng-bayan
+
+  city-social-welfare-and-development-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/iUK3AUC90EvLVPm5k08BwgPvPnjONn4ISKEOB76y.pdf
+    office: government/departments/city-social-welfare-and-development-office
+    sections:
+      'I. Mandate': profile
+      'II. Vision': profile
+      'III. Mission': profile
+      'IV. Goals': profile
+      'V. Service Pledge': profile
+      'VI. Services Offere': profile
+      'VII. Citizens Charter': profile
+      'Provision of Financial Assistance in Crisis Situations (AICS)': services/social-welfare/get-financial-assistance-in-a-crisis-aics
+      'Provision of Early Childhood Care and Development (ECCD)': services/education/enroll-children-in-lgu-daycare-or-preschool-programs
+      'Provision of Emergency Disaster Relief Assistance': services/social-welfare/receive-relief-goods-or-cash-aid-during-disasters
+      'Provision of Physical Therapy, Occupational Therapy, Special Education and Social Rehabilitation': services/social-welfare/get-therapy-and-special-education-for-children-with-disabilities
+      'Provision of Free Annual Kasalan ng Bayan': services/social-welfare/get-married-at-city-hall-or-kasalan-ng-bayan
+      'Provision of Pre-Marriage Orientation/Counselling': services/social-welfare/apply-for-a-marriage-license
+      'Provision of Free Monthly Mental Health Clinic': services/health-services/visit-the-free-monthly-mental-health-clinic
+      'Provision of Livelihood Capital Assistance (Self-employment Assistance)': services/social-welfare/get-livelihood-capital-assistance
+      'Provision of Practical Skills Development Training in partnership with TESDA, LCLRC and other partner stake holders': services/social-welfare/join-livelihood-or-skills-training-programs
+      'Provision of Assistance to Returning Overseas Filipino Workers (Displaced and Abused)': services/social-welfare/get-family-and-community-welfare-support
+      'Provision of Assistance to Women and Children who are victims of Violence and other forms of Abuse': services/social-welfare/get-family-and-community-welfare-support
+      'Provision of After-Care Program for Persons Deprived of Liberty (PDL) on probation': services/social-welfare/get-family-and-community-welfare-support
+      'Provision of Midyear and Year-end Cash Financial Assistance to Senior Citizens and Person with Disabilities': services/social-welfare/claim-senior-citizen-cash-gifts-and-incentives
+      'Provision of Centenarian Cash Award/Incentives': services/social-welfare/claim-senior-citizen-cash-gifts-and-incentives
+      'Provision of Senior Citizen Birthday Cash Gift': services/social-welfare/claim-senior-citizen-cash-gifts-and-incentives
+      'Issuances of Solo Parent I.D, Person with Disabilities (PWD) I.D, Senior Citizen I.D and Purchase Booklet': services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance
+      'Issuances of Parental Capability Assessment Report, Social Case Study/Social Case Summary Report, Certificate of Indigency, Letter of Authority, Referral and Endorsement Letter': services/social-welfare/request-a-social-case-study-or-welfare-certificate
+
+  city-traffic-management-office-system:
+    pdf: https://lapulapucitygov.ph/storage/PDF/fD6IPhv0vVYSW3hK9duV9zD8kKBfsV7iHCcyCUei.pdf
+    office: government/departments/city-traffic-management-office
+    sections:
+      'Legal Mandate': profile
+      'Vision': profile
+      'Mission': profile
+      'Functions/Services': profile
+      'Service Units/Personnel': profile
+      'Frontline Services': profile
+      '1. Collection of Payments for Traffic Violations': services/infrastructure-public-works/pay-a-traffic-violation-fine
+      '2. Traffic Dispute Resolution': services/infrastructure-public-works/settle-a-traffic-dispute
+      '3. Releasing of Towed Vehicles': services/infrastructure-public-works/claim-a-towed-or-impounded-vehicle
+      '4. Releasing of Apprehended Impounded Vehicles': services/infrastructure-public-works/claim-a-towed-or-impounded-vehicle
+      '5. Affidavits and Undertakings relating to Office Functions and Services': services/infrastructure-public-works/settle-a-traffic-dispute
+
+  city-veterinary-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/0DeI7CNOH6TjPfbhzVwpujApf16to6vSrJsCfS2i.pdf
+    office: government/departments/city-veterinary-office
+    sections:
+      'Frontline Services': profile
+      'A. Dog and Cat Registration Certificate – Walk In/On-call Clients': services/agriculture-fisheries/register-your-dog-or-cat
+      'B. Dog and Cat Anti-Rabies Vaccination (Walk-In / On-call Clients)': services/agriculture-fisheries/get-your-dog-or-cat-vaccinated-against-rabies
+      'C. Receiving Voluntarily Surrendered Unwanted Pets': services/agriculture-fisheries/surrender-or-adopt-a-pet
+      'D. Adoption of Impounding Pet/s': services/agriculture-fisheries/surrender-or-adopt-a-pet
+      'E. Conduct Dog Impounding Operations of Unwanted/Stray Dogs/Cats': services/agriculture-fisheries/report-stray-dogs-and-cats-for-impounding
+      'Slaughterhouse Regulations': profile
+      'A. Conduct Ante-Mortem-Post Mortem Inspection to Animals for Slaughter': services/agriculture-fisheries/have-livestock-slaughtered-and-meat-inspected
+      'B. Conduct Post-Abattoir Meat Inspection': services/agriculture-fisheries/have-livestock-slaughtered-and-meat-inspected
+
+  committee-on-discipline-and-investigation:
+    pdf: https://lapulapucitygov.ph/storage/PDF/KOFCyAaWuZ2vVtevwUNu4W2pPp4LUBVuugPX0vYJ.pdf
+    office: government/departments/city-administrators-office
+    sections:
+      'A. Filing of Administrative Complaint Against a Government Employee': government/departments/city-administrators-office
+      'B. Request for Certified True Copies of Records': government/departments/city-administrators-office
+      'Signatories': profile
+
+  directory-of-officials-and-offices:
+    pdf: https://lapulapucitygov.ph/storage/PDF/0I2dp5Ifdba55PfYadkgC3OBhlFGJ5Kae42jV5os.pdf
+    office: government/departments/executive
+    # Reference data only: checked against executive.json and
+    # legislative/index.yaml.
+    sections:
+      'Mayor': profile
+      'Vice Mayor': profile
+      'Congressman (Lone District)': profile
+      'ABC President': profile
+      'SK Federation President': profile
+      'City Councilors': profile
+
+  lapu-lapu-city-college:
+    pdf: https://lapulapucitygov.ph/storage/PDF/rZ03Zyzinv8NA5CcrwGMIAsgl5fNHgG4pzOb9avJ.pdf
+    office: government/departments/lapu-lapu-city-college
+    sections:
+      'List of Frontline Services': services/education/request-school-records-from-lapu-lapu-city-college
+      'Request for Diploma (2nd Issuance)': services/education/request-school-records-from-lapu-lapu-city-college
+      'Request for Official Transcript of Records (T.O.R.)': services/education/request-school-records-from-lapu-lapu-city-college
+      'Request for Certification (Enrollment / Good Moral / GWA / Medium of Instruction / Grade Slip / Study Load / Evaluation of Subjects Taken)': services/education/request-school-records-from-lapu-lapu-city-college
+      'Request for Authentication or Certified True Copy of Documents': services/education/request-school-records-from-lapu-lapu-city-college
+      'Request for CAV-Certification, Authentication and Verification (Indorsement only)': services/education/request-school-records-from-lapu-lapu-city-college
+      'On-site Enrollment of Students (after pre-enrollment) — New Students': services/education/enroll-at-lapu-lapu-city-college
+      'On-site Enrollment of Students (after pre-enrollment) — Transferee and Returnee Students': services/education/enroll-at-lapu-lapu-city-college
+      'Online Transactions': profile
+      'Online Request for School Records (Transcript of Records & Certifications)': services/education/request-school-records-from-lapu-lapu-city-college
+
+  lapu-lapu-city-hospital-billing-section:
+    pdf: https://lapulapucitygov.ph/storage/PDF/H2rKEWuzV4ihlsQ7rvxhpmKaAOG1mK8qhDPIMNn9.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'Billing': services/health-services/pay-your-hospital-bill-before-discharge
+
+  lapu-lapu-city-hospital-emergency-department:
+    pdf: https://lapulapucitygov.ph/storage/PDF/vAUXE9tk0fbrfrkmvxvQ2FItrJIcRP5wp7lrmzrJ.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'Emergency Medical Treatment': services/health-services/get-emergency-care-at-a-city-hospital
+
+  lapu-lapu-city-hospital-laboratory-department:
+    pdf: https://lapulapucitygov.ph/storage/PDF/TvVo19HeZqxc1Xy4jcNqyWRQ67srjwyWIjoNRDwV.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'Laboratory Services': services/health-services/get-laboratory-tests-at-lapu-lapu-city-hospital
+      'B. Turnaround Time (TAT) for Laboratory Tests': services/health-services/get-laboratory-tests-at-lapu-lapu-city-hospital
+      'C. Classification of Tests': services/health-services/get-laboratory-tests-at-lapu-lapu-city-hospital
+
+  lapu-lapu-city-hospital-malasakit-center-medical-social-service-department:
+    pdf: https://lapulapucitygov.ph/storage/PDF/ymfJoMKp9NcgK0VtNcXVyHmz607oWRbNIYYYhr8m.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'Assess the Financial Needs of Indigent and Financially Incapacitated Patients to Facilitate Access to Medical Assistance': services/health-services/get-help-paying-hospital-bills-at-the-malasakit-center
+
+  lapu-lapu-city-hospital-medical-records:
+    pdf: https://lapulapucitygov.ph/storage/PDF/hCgtKdw939CYH4H8WEZKYMqa89BG3SEI0ucsQN3y.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'Medical Record Services': services/health-services/request-hospital-medical-records-and-certificates
+
+  lapu-lapu-city-hospital-outpatient-department:
+    pdf: https://lapulapucitygov.ph/storage/PDF/GFWryqDMlhuQOZ7L1ar4zsxxXK1hU8tw0xnxEdIg.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'Outpatient Services': services/health-services/consult-a-doctor-at-a-hospital-outpatient-department
+
+  lapu-lapu-city-hospital-radiology-department:
+    pdf: https://lapulapucitygov.ph/storage/PDF/9p1G1JpFvIBnBeqYgXmoH4kuknB09sgf459ji6Qi.pdf
+    office: government/departments/lapu-lapu-city-hospital
+    sections:
+      'X-ray': services/health-services/get-an-x-ray-ultrasound-2d-echo-or-ecg
+      'General Ultrasound / OB Ultrasound': services/health-services/get-an-x-ray-ultrasound-2d-echo-or-ecg
+      'Two-Dimensional Echocardiography (2D Echo)': services/health-services/get-an-x-ray-ultrasound-2d-echo-or-ecg
+      'ECG': services/health-services/get-an-x-ray-ultrasound-2d-echo-or-ecg
+
+  lapu-lapu-city-library:
+    pdf: https://lapulapucitygov.ph/storage/PDF/FtkdHwLX3QkWnQPXsQlsgRFG8GXypxsRUiKqbkXn.pdf
+    office: government/departments/lapu-lapu-city-library
+    sections:
+      'Frontline Services': profile
+      'A. Issuance of Member Registration Form': services/education/get-a-lapu-lapu-city-library-card
+      "B. Issuance of Borrower's Card": services/education/get-a-lapu-lapu-city-library-card
+
+  local-civil-registrar:
+    pdf: https://lapulapucitygov.ph/storage/PDF/TnFU88rpc6TQhcYUlkDJpe1u36MQN74xamENdBVP.pdf
+    office: government/departments/local-civil-registrar
+    sections:
+      'A. Civil Registration Services: (Timely)': services/social-welfare/register-a-birth-death-or-marriage
+      'Legal and Court Order Registration Services': services/social-welfare/correct-or-update-a-civil-registry-record
+      'B. Information and Records Management': services/social-welfare/get-a-copy-of-a-birth-marriage-or-death-certificate
+      'C. Marriage License Issuances Services': services/social-welfare/apply-for-a-marriage-license
+      'D. BREQ Services': services/social-welfare/get-a-copy-of-a-birth-marriage-or-death-certificate
+      'E. Electronic Endorsement Services': services/social-welfare/get-a-copy-of-a-birth-marriage-or-death-certificate
+
+  manpower-and-human-development-training-center:
+    pdf: https://lapulapucitygov.ph/storage/PDF/uWWNRWwXU7delZRvqD6n7IBiPYgwP86a1vlVNNt6.pdf
+    office: government/departments/manpower-and-human-development-training-center
+    sections:
+      'Industrial High-Speed Sewing Machine Operations': services/social-welfare/join-livelihood-or-skills-training-programs
+      'Community-Based in Dressmaking Leading to Dressmaking NCII': services/social-welfare/join-livelihood-or-skills-training-programs
+
+  market-slaughterhouse-division:
+    pdf: https://lapulapucitygov.ph/storage/PDF/wXfbB5VPMaZpOLV3liu0zIwaGGa4uYpRQO5YOBdi.pdf
+    office: government/departments/market-and-slaughterhouse-division
+    sections:
+      'Front Line Services': profile
+      '1. Issuance of Official Receipt for Stall Rental & Electric Payment': services/business/rent-stalls-in-public-markets
+      '2. Issuance of Market Clearance': services/business/rent-stalls-in-public-markets
+      '3. Issuance of Cash Tickets': services/business/rent-stalls-in-public-markets
+      '4. Slaughtering of Animals and Collection of Fees': services/agriculture-fisheries/have-livestock-slaughtered-and-meat-inspected
+
+  office-of-the-city-administrator:
+    pdf: https://lapulapucitygov.ph/storage/PDF/U93fetd02A0tzX4NhF3sAMbMyL0YfbCpUY2zcA4T.pdf
+    office: government/departments/city-administrators-office
+    sections:
+      'External Services': profile
+      "1. Occupational Permit / Mayor's Permit for Employment": services/business/get-an-occupational-permit-for-employment
+      "2. Mayor's Clearance for AFP, BFP, PNP, BJMP & PCG": services/business/get-certifications-for-employment-or-work-abroad
+
+  office-of-the-city-attorney:
+    pdf: https://lapulapucitygov.ph/storage/PDF/0qJAF3ZKry7aF6jnzYJR5D6s9KaXKYA2w4mYNe1Q.pdf
+    office: government/departments/city-attorneys-office
+    sections:
+      'Frontline Services Offered': profile
+      "A. Issuance of Motorized Tricycle Operator's Permit (MTOP) (Olango Island)": services/business/get-a-tricycle-franchise-mtop
+      "B. Renewal of Motorized Tricycle Operator's Permit (MTOP)": services/business/get-a-tricycle-franchise-mtop
+      "C. Amendment/Revision (Change of Ownership) Motorized Tricycle Operator's Permit (MTOP)": services/business/get-a-tricycle-franchise-mtop
+      'D. Amendment/Revision/Change of Motorcycle Unit': services/business/get-a-tricycle-franchise-mtop
+      'Signatories': profile
+
+  office-of-the-city-planning-and-development-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/WGNCcCj7TnFskMomxLzRWMhcYLBvthYnm085nIYK.pdf
+    office: government/departments/city-planning-and-development-office
+    sections:
+      'Frontline Service': profile
+      'A. Issuance of Locational Clearance for Building Permit': services/housing-land-use/request-zoning-land-use-or-building-permits
+      'B. Issuance of Zoning/Land Use Certification': services/housing-land-use/request-zoning-land-use-or-building-permits
+      'C. Issuance of Locational Clearance & Development Permit for Complex Subdivision Application': services/housing-land-use/apply-for-a-subdivision-development-permit
+      'D. Subdivision Approval Application': services/housing-land-use/apply-for-a-subdivision-development-permit
+      'Housing and Land Use Regulatory Board 2013 Schedule of Fees': services/housing-land-use/apply-for-a-subdivision-development-permit
+
+  office-of-the-city-treasurer:
+    pdf: https://lapulapucitygov.ph/storage/PDF/nJimJMmnaPXXCh7HIjJfh0EsZVhxGsgkKxvcwNy3.pdf
+    office: government/departments/city-treasurers-office
+    sections:
+      'Frontline Service': profile
+      'A. Collect Payments for Real Property Tax': services/housing-land-use/pay-real-property-tax
+      'B. Collect Payments for Business Tax, Other Local Tax, Fees and Charges': services/business/renew-permits-and-pay-local-business-taxes
+      'C. Issuance of Real Property Tax Clearance': services/housing-land-use/get-a-real-property-tax-clearance-or-certification
+      'D. Issuance of Certification and Other Request': services/housing-land-use/get-a-real-property-tax-clearance-or-certification
+      'E. Process the Closure or Retiring a Registered Business': services/business/close-or-retire-your-business
+    # The Business One-Stop-Shop permit service (manual and online tables)
+    # sits under heading B in the source and also feeds
+    # services/business/apply-for-a-business-permit-in-lapu-lapu-city.
+
+  public-employment-service-office-peso:
+    pdf: https://lapulapucitygov.ph/storage/PDF/1NY1FBxCmaY0e7NvCrwLyxgNQbBOwd1ca5w05INN.pdf
+    office: government/departments/public-employment-service-office
+    sections:
+      'A.) Employment Referral and Placement': services/business/find-a-job-through-peso
+      'B.) PESO Company Accreditation': services/business/hire-workers-or-join-a-job-fair-as-an-employer
+      'C.) Job Fair Employer Participation': services/business/hire-workers-or-join-a-job-fair-as-an-employer
+      'D.) Summer Job For the Youth Program': services/business/apply-for-the-summer-job-program
+      'E.) Government Internship Program (GIP)': services/business/apply-for-the-government-internship-program
+      'F.) Career Guidance /Career Development and Support Program': services/business/find-a-job-through-peso
+
+  sangguniang-panlungsod:
+    pdf: https://lapulapucitygov.ph/storage/PDF/Qn9iDUbuugiYca8ubMzhGchkbdD8XJMudYcHcNPh.pdf
+    office: government/departments/sangguniang-panlungsod-secretariat
+    sections:
+      'A. Securing Certified True Copies of Approved Resolutions and Ordinances': government/departments/sangguniang-panlungsod-secretariat
+      'B-1. Response to Simple Letters of Inquiry (Non-Legislative Requests)': government/departments/sangguniang-panlungsod-secretariat
+      'B-2. Response to Complex Letters of Inquiry and Non-Legislative Requests': government/departments/sangguniang-panlungsod-secretariat
+      'C. Issuance of Certification of Posting at the Sangguniang Panlungsod Bulletin Board': government/departments/sangguniang-panlungsod-secretariat
+
+  sta-rosa-community-hospital:
+    pdf: https://lapulapucitygov.ph/storage/PDF/nqP6Khzn0WTXWTLne9F4sjGfLJjKIbfdaeQ8w58N.pdf
+    office: government/departments/sta-rosa-community-hospital
+    sections:
+      'A. Emergency Department': services/health-services/get-emergency-care-at-a-city-hospital
+      'A.1. Emergency Department – Medical Cases': services/health-services/get-emergency-care-at-a-city-hospital
+      'A.2. Emergency Department – Medico-Legal Cases': services/health-services/get-emergency-care-at-a-city-hospital
+      'A. Ward Services': services/health-services/go-to-the-local-hospital-for-treatment-or-confinement
+      'B. Out-Patient Services': services/health-services/consult-a-doctor-at-a-hospital-outpatient-department
+      "C. Record's Section": services/health-services/request-hospital-medical-records-and-certificates
+
+  urban-poor-affairs-office:
+    pdf: https://lapulapucitygov.ph/storage/PDF/aH4TU7nVpQgA6xf236vkgQS1RqjC901k9DFTQ6Gl.pdf
+    office: government/departments/urban-poor-affairs-office
+    sections:
+      'Frontline Service': profile
+      'A. Requirement for UPAO Accreditation': services/housing-land-use/accredit-an-urban-poor-association
+      'B. Issuance of Certificate for Electrical Permit': services/housing-land-use/get-an-electrical-permit-certificate-for-urban-poor-families

@@ -1,0 +1,1729 @@
+{
+  "id": "2022-q4-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (COA Form)",
+  "period": {
+    "year": 2022,
+    "quarter": 4,
+    "asOf": "2022-12-31",
+    "printed": "As of DECEMBER 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 36768726.0,
+            "mitigation": 85793695.0,
+            "total": 122562421.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 137133010.68,
+            "total": 137133010.68
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 240093949.37,
+            "total": 240093949.37
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "(unlabelled line; Transfers/Grants position)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "total": 0
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 36768726.0,
+            "mitigation": 463020655.05,
+            "total": 499789381.05
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. Utilization",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "January-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "Februay-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-5 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 479400.0,
+            "particulars": "Rental of Pumpboat-5 units",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 819123.26,
+            "particulars": "City Payroll",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 235819.7,
+            "particulars": "City Payroll",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "5,000 Boxes Food Relief",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 4998750.0,
+            "particulars": "5,000 Boxes Food Relief",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 159800.0,
+            "particulars": "Rental of Pumpboat-2 units",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 628667.68,
+            "particulars": "City Payroll",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 588597.86,
+            "particulars": "City Payroll",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 159800.0,
+            "particulars": "Rental of Pumpboat-2 units",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "20 Days rental of wingvan",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 200000.0,
+            "particulars": "20 Days rental of wingvan",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 393938.97,
+            "particulars": "City Payroll",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 224575.11,
+            "particulars": "City Payroll",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 138000.0,
+            "particulars": "City Payroll",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "250 pcs3x6 tarpaulin for DRRM info drive",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 239750.0,
+            "particulars": "250 pcs3x6 tarpaulin for DRRM info drive",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "Rental of Pumpboat-2 units",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1731372.84,
+            "particulars": "City Payroll",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1881610.1,
+            "particulars": "City Payroll",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 227107.18,
+            "particulars": "City Payroll",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 170258.2,
+            "particulars": "City Payroll",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Honorarium-Resource Speakers",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 5000.0,
+            "particulars": "Honorarium-Resource Speakers",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "20,000 pcs brochures for info of disaster preparedness",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 180000.0,
+            "particulars": "20,000 pcs brochures for info of disaster preparedness",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "Rental of Pumpboat-2 units",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 2872660.54,
+            "particulars": "City Payroll",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "Honorarium-Resource Speakers",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 15000.0,
+            "particulars": "Honorarium-Resource Speakers",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "1,000 packed meals-responders",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 475000.0,
+            "particulars": "1,000 packed meals-responders",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "500 ps tarpaulin",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 469000.0,
+            "particulars": "500 ps tarpaulin",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "Rental of Pumpboat-2 units",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 2294074.83,
+            "particulars": "City Payroll",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Honorarium-Resource Speakers",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 68000.0,
+            "particulars": "Honorarium-Resource Speakers",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "100pcs ballpen etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 14927.5,
+            "particulars": "100pcs ballpen etc",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Rental of Pumpboat-2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 159600.0,
+            "particulars": "Rental of Pumpboat-2 units",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 2239871.41,
+            "particulars": "City Payroll",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "Honorarium-Resource Speakers",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 30000.0,
+            "particulars": "Honorarium-Resource Speakers",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "2,000 food packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1999500.0,
+            "particulars": "2,000 food packed meals",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "repair of ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 22604.15,
+            "particulars": "repair of ambulance",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "1,000 cylinder medical oxygen",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 386000.0,
+            "particulars": "1,000 cylinder medical oxygen",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 2138233.48,
+            "particulars": "City Payroll",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "DECEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "4 day liveout seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 311760.0,
+            "particulars": "4 day liveout seminar",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "3 day liveout seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 233820.0,
+            "particulars": "3 day liveout seminar",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "2 day liveout seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 103840.0,
+            "particulars": "2 day liveout seminar",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "training coourse for responders",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 59330.0,
+            "particulars": "training coourse for responders",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "40pcs t-shirt and 40 pcs bags",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 67200.0,
+            "particulars": "40pcs t-shirt and 40 pcs bags",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "60 pcs tactical training bags & shirt",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 101700.0,
+            "particulars": "60 pcs tactical training bags & shirt",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "3,219 food relief items",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 3219195.0,
+            "particulars": "3,219 food relief items",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "2,780 food relief items",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 2779305.0,
+            "particulars": "2,780 food relief items",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "2,000 food packed meals assorted",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1999500.0,
+            "particulars": "2,000 food packed meals assorted",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "2,000 food packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 948500.0,
+            "particulars": "2,000 food packed meals",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "750 packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 465000.0,
+            "particulars": "750 packed meals",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "500 pcs stickers, 500 tarpaulin",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 312250.0,
+            "particulars": "500 pcs stickers, 500 tarpaulin",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "Assorted cleaning supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 74120.0,
+            "particulars": "Assorted cleaning supplies",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "30 set ambulance supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 701990.0,
+            "particulars": "30 set ambulance supplies",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "Repair of firetruck",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 419500.0,
+            "particulars": "Repair of firetruck",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "Rental of Seacraft",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 319200.0,
+            "particulars": "Rental of Seacraft",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 12214792.83,
+            "particulars": "City Payroll",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT APPROPRIATION",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {}
+        },
+        {
+          "label": "January-No Liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "April to July-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {}
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "5 Sets Automated External Defibrillator",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1221000.0,
+            "particulars": "5 Sets Automated External Defibrillator",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "August-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "1 unit 40ft sea ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 7999999.0,
+            "particulars": "1 unit 40ft sea ambulance",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "Construction Multi Purpose Building-Calawisan",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 2998800.0,
+            "particulars": "Construction Multi Purpose Building-Calawisan",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "2 units backhoe excavator",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 19897776.0,
+            "particulars": "2 units backhoe excavator",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "1 lot high definition surveillance & early warning system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 24990513.16,
+            "particulars": "1 lot high definition surveillance & early warning system",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "5 units collapsible tent",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 175000.0,
+            "particulars": "5 units collapsible tent",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "QUICK RESPONSE EXPENSE",
+          "level": 0,
+          "kind": "header",
+          "section": "quickResponseExpense",
+          "values": {}
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "quickResponseExpense",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1 Lot of supply, delivery, installation of docking area, floating portion with gangway",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 1998000.0,
+            "particulars": "1 Lot of supply, delivery, installation of docking area, floating portion with gangway",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "1 lot suplly of labor, spare parts and materials for the repair of HINO firetruck",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1298000.0,
+            "particulars": "1 lot suplly of labor, spare parts and materials for the repair of HINO firetruck",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "City Payroll-January",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 514637.86,
+            "particulars": "City Payroll-January",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "City Payroll-January",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 257099.72,
+            "particulars": "City Payroll-January",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "Shovel, Axes and wheelborrows",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 148500.0,
+            "particulars": "Shovel, Axes and wheelborrows",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "1 lot suplly of labor, spare parts and materials for the repair of HINO Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 299000.0,
+            "particulars": "1 lot suplly of labor, spare parts and materials for the repair of HINO Vehicle",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "600 tshirts for Fire Auxiliary",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 354000.0,
+            "particulars": "600 tshirts for Fire Auxiliary",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "Repair of Firetruck engine",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 499500.0,
+            "particulars": "Repair of Firetruck engine",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "3 units computer-NHS Mactan",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 286500.0,
+            "particulars": "3 units computer-NHS Mactan",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "6300 food packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 2520000.0,
+            "particulars": "6300 food packed meals",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "City Payroll-February",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 588786.78,
+            "particulars": "City Payroll-February",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "ARC-Hospital-COVID Related",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 213219.84,
+            "particulars": "ARC-Hospital-COVID Related",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "Globe Telecom",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "particulars": "Globe Telecom",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "City Payroll-March",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 414625.09,
+            "particulars": "City Payroll-March",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Honorarium for Medical Responders",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 296903.56,
+            "particulars": "Honorarium for Medical Responders",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1 Unit 6 Wheeler Vacuum Tanker",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 7785000.0,
+            "particulars": "1 Unit 6 Wheeler Vacuum Tanker",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1 Unit Fire Water Tanker",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 5650000.0,
+            "particulars": "1 Unit Fire Water Tanker",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "2014 bal. transfer to GF from TF",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 360900.0,
+            "particulars": "2014 bal. transfer to GF from TF",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "2015 bal. transfer to GF from TF",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 5000.0,
+            "particulars": "2015 bal. transfer to GF from TF",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Communication Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 15493.0,
+            "particulars": "Communication Allowance",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "Honorarium for Medical Responders",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 195000.0,
+            "particulars": "Honorarium for Medical Responders",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "5,195 Food Packed Meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 2078000.0,
+            "particulars": "5,195 Food Packed Meals",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "City Payroll-April",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 321453.48,
+            "particulars": "City Payroll-April",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Communication Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 57810.0,
+            "particulars": "Communication Allowance",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 Unit 6 Wheeler Truck",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 2488000.0,
+            "particulars": "1 Unit 6 Wheeler Truck",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 79235.04,
+            "particulars": "City Payroll",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Honorarium-Barangay Auxiliary Group-Apr to Dec 2021",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1594000.0,
+            "particulars": "Honorarium-Barangay Auxiliary Group-Apr to Dec 2021",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Honorarium-Barangay Auxiliary Group-Jan to Feb 2022",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 111000.0,
+            "particulars": "Honorarium-Barangay Auxiliary Group-Jan to Feb 2022",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "Installation of community water & fire fighting system",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 4799700.0,
+            "particulars": "Installation of community water & fire fighting system",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "City Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 37022.05,
+            "particulars": "City Payroll",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "100 bottles Epson ink",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 35000.0,
+            "particulars": "100 bottles Epson ink",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "Communication Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 22990.0,
+            "particulars": "Communication Allowance",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "100 packs detergent powder etc.",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 118200.0,
+            "particulars": "100 packs detergent powder etc.",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "1400 food packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 560000.0,
+            "particulars": "1400 food packed meals",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Communication Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 63675.0,
+            "particulars": "Communication Allowance",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Repair of Ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 15831.0,
+            "particulars": "Repair of Ambulance",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "30 pcs ballpens , office supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 138010.0,
+            "particulars": "30 pcs ballpens , office supplies",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "600 pcs brgy medics uniforms",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 291000.0,
+            "particulars": "600 pcs brgy medics uniforms",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "7 rolls Double Jacket Firehose",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 480090.0,
+            "particulars": "7 rolls Double Jacket Firehose",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "Repair of Service Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 38997.0,
+            "particulars": "Repair of Service Vehicle",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Communication Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 42402.02,
+            "particulars": "Communication Allowance",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Medical Supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 352250.0,
+            "particulars": "Medical Supplies",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "88pcs badges etc",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 466400.0,
+            "particulars": "88pcs badges etc",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "Repair of service vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 92748.0,
+            "particulars": "Repair of service vehicle",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "Purchase of response service vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1968000.0,
+            "particulars": "Purchase of response service vehicle",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "Live-out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 171250.0,
+            "particulars": "Live-out seminar",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "DECEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "Communication Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 45343.3,
+            "particulars": "Communication Allowance",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 1998000.0,
+            "mitigation": 146910706.54,
+            "total": 148908706.54,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 34770726.0,
+            "mitigation": 316109948.51,
+            "total": 350880674.51
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 499789381.05,
+    "qrf": 36768726.0,
+    "mitigation": 463020655.05,
+    "totalUtilized": 148908706.54,
+    "balance": 350880674.51,
+    "qrfUtilized": 1998000.0,
+    "mitigationUtilized": 146910706.54,
+    "qrfBalance": 34770726.0,
+    "mitigationBalance": 316109948.51
+  },
+  "notes": [
+    "All printed totals reconcile exactly: the Mitigation Fund utilization items sum to the printed 146,910,706.54, the QRF item to 1,998,000.00, and Total Funds Available minus Total Utilization equals the printed Unutilized Balance in each column.",
+    "Trust Fund January-February items repeat those in 2022-q1-ldrrmf, but here they are printed in the Mitigation Fund column (the Q1 report printed them in the QRF column), and \"City Payroll-February\" is 588,786.78 here versus 414,963.18 in Q1.",
+    "Trust Fund March includes \"2014 bal. transfer to GF from TF\" 360,900.00 and \"2015 bal. transfer to GF from TF\" 5,000.00, counted as utilization.",
+    "Section A has an unlabelled line (Transfers/Grants position) with \"-\" in the Total column; recorded as transferGrants = 0. No Special Trust Fund year breakdown is printed.",
+    "Particulars spelling kept as printed (e.g. \"coourse\", \"suplly\", \"wheelborrows\", \"Februay\", \"500 ps tarpaulin\")."
+  ],
+  "unreadable": []
+}

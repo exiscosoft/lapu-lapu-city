@@ -53,10 +53,13 @@ categories:
     icon: 'TreePine'
   
   # Disaster Preparedness Services
-  - category: 'Disaster Preparedness'
-    slug: 'disaster-preparedness'
-    description: 'Disaster preparedness plans, emergency response information, and evacuation procedures.'
-    icon: 'Shield'
+  # Hidden until it has pages: the Citizen's Charter has no disaster risk
+  # reduction office. Uncomment once content/services/disaster-preparedness/
+  # has pages listed in its index.yaml.
+  # - category: 'Disaster Preparedness'
+  #   slug: 'disaster-preparedness'
+  #   description: 'Disaster preparedness plans, emergency response information, and evacuation procedures.'
+  #   icon: 'Shield'
   
   # Housing & Land Use Services
   - category: 'Housing & Land Use'

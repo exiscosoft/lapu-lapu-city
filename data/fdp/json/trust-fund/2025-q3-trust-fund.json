@@ -1,0 +1,140 @@
+{
+  "id": "2025-q3-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2025,
+    "quarter": 3,
+    "asOf": "2025-09-30",
+    "printed": "CALENDAR YEAR 2025, QUARTER 3",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Repair and Improvement of Garbage Holding Center at Lapulapu City Public Market (PH 2)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Repair and Improvement of Garbage Holding Center at Lapulapu City Public Market (PH 2)",
+            "location": "Poblacion",
+            "totalCost": 998282.97,
+            "dateStarted": "2024-07-31",
+            "targetCompletion": "2024-10-26",
+            "pctCompletion": 100,
+            "costIncurred": 996445.39,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "2. Completion/Upgrade/Repair of Lapulapu City Health Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Completion/Upgrade/Repair of Lapulapu City Health Center",
+            "location": "Pusok",
+            "totalCost": 1908248.57,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2024-11-06",
+            "pctCompletion": 100,
+            "costIncurred": 1900875.67,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "3. Rehabilitation and Upgrade of Pangan-an Multi-Purpose/ Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Rehabilitation and Upgrade of Pangan-an Multi-Purpose/ Evacuation Center",
+            "location": "Pangan-an",
+            "totalCost": 4905358.88,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2025-01-11",
+            "pctCompletion": 100,
+            "costIncurred": 4967028.65,
+            "remarks": "Completed"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 3
+  },
+  "notes": [
+    "Dates are printed day-first (31/07/2024, 26/10/2024, 17/05/2024, 06/11/2024, 11/01/2025) and were converted accordingly; 06/11/2024 is read as 6 November 2024 and 11/01/2025 as 11 January 2025 by the same convention.",
+    "Project 3: the printed cost incurred to date (4,967,028.65) exceeds the printed total cost (4,905,358.88); transcribed as printed.",
+    "Project names are as printed (\"Lapu;apu City Health Center\" in the source is a typo for Lapulapu; \"Multi-Porpuse\" for Multi-Purpose).",
+    "Several rows below project 3 appear whited out/erased in the scan; no text is legible there.",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null; projectCount counts the three numbered projects."
+  ],
+  "unreadable": []
+}

@@ -1,0 +1,109 @@
+{
+  "id": "2025-q4-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2025,
+    "quarter": 4,
+    "asOf": "2025-12-31",
+    "printed": "CALENDAR YEAR 2025, QUARTER 4",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "3. Rehabilitation and Upgrade of Pangan-an Multi-Purpose/ Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Rehabilitation and Upgrade of Pangan-an Multi-Purpose/ Evacuation Center",
+            "location": "Pangan-an",
+            "totalCost": 4905358.88,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2025-01-11",
+            "pctCompletion": 100,
+            "costIncurred": 4967028.65,
+            "remarks": "Completed"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 1
+  },
+  "notes": [
+    "Only one project is listed, numbered \"3\" as printed (same project and figures as item 3 of the 2025 Q3 report).",
+    "Dates are printed day-first (17/05/2024, 11/01/2025) and were converted accordingly.",
+    "The printed cost incurred to date (4,967,028.65) exceeds the printed total cost (4,905,358.88); transcribed as printed.",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null."
+  ],
+  "unreadable": []
+}

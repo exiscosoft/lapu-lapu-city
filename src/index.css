@@ -142,3 +142,29 @@
 .sticky-table tbody tr:hover td:first-child {
   background-color: #f3f4f6;
 }
+
+/* FDP transcription viewer (src/components/reports/TranscriptModal.tsx) */
+.fdp-transcript h2 {
+  @apply mt-6 text-base font-semibold text-gray-900;
+}
+.fdp-transcript p,
+.fdp-transcript li {
+  @apply text-gray-700;
+}
+.fdp-transcript ul {
+  @apply list-disc pl-5;
+}
+.fdp-transcript table {
+  @apply block w-full overflow-x-auto border-collapse text-xs;
+}
+.fdp-transcript th,
+.fdp-transcript td {
+  @apply border border-gray-200 px-2 py-1 align-top;
+}
+.fdp-transcript thead th {
+  @apply bg-gray-50 font-semibold text-gray-700;
+}
+.fdp-transcript td[align='right'],
+.fdp-transcript th[align='right'] {
+  @apply whitespace-nowrap tabular-nums;
+}

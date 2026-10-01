@@ -1,0 +1,496 @@
+{
+  "id": "2022-q1-development-fund-20",
+  "type": "development-fund-20",
+  "title": "20% Component of the IRA Utilization",
+  "form": "FDP Form 7 - 20% Component of the IRA Utilization",
+  "period": {
+    "year": 2022,
+    "quarter": 1,
+    "asOf": "2022-03-31",
+    "printed": "As of March 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "20% Component of the IRA Utilization",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Economic Development (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "economic",
+          "values": {}
+        },
+        {
+          "label": "1. Improvement of/ Riprapping & Desilting of Basak Outfall Creek",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "1. Improvement of/ Riprapping & Desilting of Basak Outfall Creek",
+            "location": "Gun-ob",
+            "totalCost": 70445062.13,
+            "dateStarted": "2018-12-21",
+            "targetCompletion": "2019-02-16",
+            "pctCompletion": 49.0,
+            "costIncurred": 30291376.75,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "2. Installation of Drainage Line at Sangi Road to City Hall Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "2. Installation of Drainage Line at Sangi Road to City Hall Road",
+            "location": "Pajo and Pusok",
+            "totalCost": 70309471.16,
+            "dateStarted": "2020-07-03",
+            "targetCompletion": "2021-08-27",
+            "pctCompletion": 100,
+            "costIncurred": 70309471.16,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "3. Construction of STP at City Public Market",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "3. Construction of STP at City Public Market",
+            "location": "Poblacion",
+            "totalCost": 6982818.52,
+            "dateStarted": "2021-02-24",
+            "targetCompletion": "2021-09-22",
+            "pctCompletion": 80,
+            "costIncurred": 5082818.52,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "4. Repair/Improvement of Mahayahay Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "4. Repair/Improvement of Mahayahay Road",
+            "location": "Bankal",
+            "totalCost": 29812510,
+            "dateStarted": "2020-12-04",
+            "targetCompletion": "2021-02-01",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "5. Construction of Multi-Building (NHS-PH1)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "5. Construction of Multi-Building (NHS-PH1)",
+            "location": "Babag",
+            "totalCost": 9993888,
+            "dateStarted": "2022-04-22",
+            "targetCompletion": "2022-06-14",
+            "pctCompletion": 30,
+            "costIncurred": 4097249.6,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "6. Repair and Improvmnt of Puericulture Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "6. Repair and Improvmnt of Puericulture Center",
+            "location": "Poblacion",
+            "totalCost": 594096.98,
+            "dateStarted": "2022-04-04",
+            "targetCompletion": "2022-03-01",
+            "pctCompletion": 80,
+            "costIncurred": 465392.12,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "7. Construction of Multi-Purpose Building Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "7. Construction of Multi-Purpose Building Elementary School",
+            "location": "Calawisan",
+            "totalCost": 7269885.32,
+            "dateStarted": "2022-09-19",
+            "targetCompletion": "2022-04-28",
+            "pctCompletion": 60,
+            "costIncurred": 5052413.99,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "8. Construction of Manpower Human Development Training Center (PH 2)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "8. Construction of Manpower Human Development Training Center (PH 2)",
+            "location": "Talima, Olango",
+            "totalCost": 694414.62,
+            "dateStarted": "2021-05-14",
+            "targetCompletion": "2021-07-14",
+            "pctCompletion": 100,
+            "costIncurred": 694414.62,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "9. Concreting of Pangan-an Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "9. Concreting of Pangan-an Road",
+            "location": "Pangan-an, Olango",
+            "totalCost": 8398673.81,
+            "dateStarted": "2021-05-27",
+            "targetCompletion": "2021-09-25",
+            "pctCompletion": 100,
+            "costIncurred": 8398673.81,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "10. Concreting Portion of Fuentes Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "10. Concreting Portion of Fuentes Road",
+            "location": "Pajac",
+            "totalCost": 4106724.3,
+            "dateStarted": "2021-07-20",
+            "targetCompletion": "2021-09-01",
+            "pctCompletion": 100,
+            "costIncurred": 4106724.3,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "11. Concreting of Tungasan Cento Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "11. Concreting of Tungasan Cento Road",
+            "location": "Tungasan, Olango",
+            "totalCost": 2129661.23,
+            "dateStarted": "2021-07-12",
+            "targetCompletion": "2021-09-01",
+            "pctCompletion": 100,
+            "costIncurred": 1829611.61,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "12. Concreting of Tungasan sitio Nangka Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "12. Concreting of Tungasan sitio Nangka Road",
+            "location": "Tungasan, Olango",
+            "totalCost": 1965685.38,
+            "dateStarted": "2021-07-12",
+            "targetCompletion": "2021-08-23",
+            "pctCompletion": 100,
+            "costIncurred": 1670832.57,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "13. Installation of fence for covid facility Across Hoopsdome building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "13. Installation of fence for covid facility Across Hoopsdome building",
+            "location": "Gun-ob",
+            "totalCost": 1374710.56,
+            "dateStarted": "2021-08-06",
+            "targetCompletion": "2021-10-11",
+            "pctCompletion": 20,
+            "costIncurred": 2588689.25,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "14. Construction of Retention Pond along various City Roads Pond No. 18",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "14. Construction of Retention Pond along various City Roads Pond No. 18",
+            "location": "Aviation Road, Basak",
+            "totalCost": 2752900,
+            "dateStarted": "2021-08-06",
+            "targetCompletion": "2021-11-05",
+            "pctCompletion": 100,
+            "costIncurred": 2752900,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "15. Construction of Retention Pond along various City Roads Pond No. 19 and 20",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "15. Construction of Retention Pond along various City Roads Pond No. 19 and 20",
+            "location": "Canjulao",
+            "totalCost": 1260420.15,
+            "dateStarted": "2021-08-06",
+            "targetCompletion": "2021-10-06",
+            "pctCompletion": 100,
+            "costIncurred": 1260420.15,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "16. Concreting of Access Road beside Sports Complex leading to MHDTC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "16. Concreting of Access Road beside Sports Complex leading to MHDTC",
+            "location": "Pusok",
+            "totalCost": 3066040,
+            "dateStarted": "2021-09-16",
+            "targetCompletion": "2022-01-16",
+            "pctCompletion": 100,
+            "costIncurred": 3066040,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "17. Concreting of Bong-hanoy Rd. leading to Sitio Ylaya",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "17. Concreting of Bong-hanoy Rd. leading to Sitio Ylaya",
+            "location": "Marigondon",
+            "totalCost": 3631956.65,
+            "dateStarted": "2021-11-24",
+            "targetCompletion": "2022-01-09",
+            "pctCompletion": 95,
+            "costIncurred": 3087163.15,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "18. Construction of Brgy. Health Center (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "18. Construction of Brgy. Health Center (Phase II)",
+            "location": "Marigondon",
+            "totalCost": 2737316.97,
+            "dateStarted": "2021-10-08",
+            "targetCompletion": "2022-03-07",
+            "pctCompletion": 100,
+            "costIncurred": 2737316.97,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "19. Construction of Cause-way",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "19. Construction of Cause-way",
+            "location": "Tingo",
+            "totalCost": 7531667.96,
+            "dateStarted": "2021-10-08",
+            "targetCompletion": "2022-03-07",
+            "pctCompletion": 20,
+            "costIncurred": 1517631.1,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "20. Construction of Multi-Purpose Building at Sitio Kauswagan (PH I)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "20. Construction of Multi-Purpose Building at Sitio Kauswagan (PH I)",
+            "location": "Baring",
+            "totalCost": 10271195.06,
+            "dateStarted": "2021-08-27",
+            "targetCompletion": "2022-04-26",
+            "pctCompletion": 40,
+            "costIncurred": 4649157.28,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "21. Improvement of Drainage Line including Replacement of Man-hole City wide various city roads",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "21. Improvement of Drainage Line including Replacement of Man-hole City wide various city roads",
+            "location": "Various",
+            "totalCost": 3141652.67,
+            "dateStarted": "2021-10-08",
+            "targetCompletion": "2021-12-07",
+            "pctCompletion": 100,
+            "costIncurred": 3141652.67,
+            "extensions": null,
+            "remarks": "Competed"
+          }
+        },
+        {
+          "label": "22. Installation of Drainage Line along Tumulak St. (Phase I)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "22. Installation of Drainage Line along Tumulak St. (Phase I)",
+            "location": "Gun-ob",
+            "totalCost": 11696742.81,
+            "dateStarted": "2021-11-04",
+            "targetCompletion": "2022-03-04",
+            "pctCompletion": 90,
+            "costIncurred": 5600241.35,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "23. Repair and Improvement Cagudoy Access Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "23. Repair and Improvement Cagudoy Access Road",
+            "location": "Basak",
+            "totalCost": 2498714.86,
+            "dateStarted": "2021-09-23",
+            "targetCompletion": "2021-11-03",
+            "pctCompletion": 100,
+            "costIncurred": 2498714.86,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "Environmental Management (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "environmental",
+          "values": {}
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 23
+  },
+  "notes": [
+    "All projects are listed under Economic Development; the Environmental Management section is printed as \"NONE\" (Location and Total Cost columns). No Social Development section is printed.",
+    "The form prints no subtotals or grand total; summary totals are null.",
+    "Several rows are internally inconsistent as printed and were kept as printed: item 13 (fence for covid facility) cost incurred 2,588,689.25 exceeds its total cost 1,374,710.56 at 20% completion; items 6 and 7 have a target completion date earlier than the date started (04/04/2022 vs 03/01/2022; 9/19/2022 vs 04/28/2022), and item 5 starts 04/22/2022, after the report date.",
+    "Item 21 remarks printed \"Competed\" (sic). Item 4 (Repair/Improvement of Mahayahay Road) has blank % completion and cost incurred, remark \"not yet started\".",
+    "The last line of item 23 (\"Road\") is printed at the top of page 5."
+  ],
+  "unreadable": []
+}

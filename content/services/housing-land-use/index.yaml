@@ -2,14 +2,46 @@
 # This file contains all the pages/services available under the Housing & Land Use category
 
 pages:
-  - name: 'Apply for socialized housing or relocation projects'
-    slug: 'apply-for-socialized-housing-or-relocation-projects'
-    description: 'Information about applying for socialized housing and relocation projects from your local government.'
-    
+  - name: 'Accredit an urban poor association'
+    slug: 'accredit-an-urban-poor-association'
+    description: 'For urban poor associations. Submit your officers and members list, meeting minutes, and association history to your barangay''s Urban Poor Affairs Office area coordinator. Free of charge.'
+
+  - name: 'Get an electrical permit certificate for urban poor families'
+    slug: 'get-an-electrical-permit-certificate-for-urban-poor-families'
+    description: 'For members of an accredited urban poor association. Requires association certification, barangay electrical permit, cedula, and tax declaration. Free. Mon–Fri, 8:00am–5:00pm.'
+
   - name: 'Request zoning, land use, or building permits'
     slug: 'request-zoning-land-use-or-building-permits'
-    description: 'How to request zoning, land use, and building permits from your local government.'
-    
-  - name: 'Ask about available relocation sites in case of demolition'
-    slug: 'ask-about-available-relocation-sites-in-case-of-demolition'
-    description: 'Information about available relocation sites in case of demolition or displacement.'
+    description: 'Start here before you build. Get a locational clearance or zoning/land use certification from the City Planning and Development Office, then your building and occupancy permits. Fees follow the HLURB 2013 schedule.'
+
+  - name: 'Get a building permit'
+    slug: 'get-a-building-permit'
+    description: 'Required before you build, renovate, repair, or demolish. Needs a locational clearance, proof of right over the lot, and signed plans. Fees follow the National Building Code schedule.'
+
+  - name: 'Get an occupancy permit'
+    slug: 'get-an-occupancy-permit'
+    description: 'Required before you use a new or renovated building. Needs your building permit and plans, a Fire Safety Inspection Certificate, and a certificate of completion, plus a site inspection.'
+
+  - name: 'Apply for a subdivision development permit'
+    slug: 'apply-for-a-subdivision-development-permit'
+    description: 'For lot owners, corporations, and land developers subdividing land. Needs the subdivision plan, title, tax declaration, and realty tax clearance, plus City Council approval. Fees follow the HLURB 2013 schedule.'
+
+  - name: 'Get a tax declaration for your property'
+    slug: 'get-a-tax-declaration-for-your-property'
+    description: 'For property owners after a transfer, a new building or machinery, a first-time land declaration, or a lot partition. No Assessor fee; first-time and partition cases pay 10 years of back taxes.'
+
+  - name: 'Update or cancel a tax declaration'
+    slug: 'update-or-cancel-a-tax-declaration'
+    description: 'Re-assessment, cancellation after demolition or total damage, or annotation of a sale, mortgage, or other encumbrance. Free, except annotations at ₱20 per entry.'
+
+  - name: 'Request property records from the Assessor'
+    slug: 'request-property-records-from-the-assessor'
+    description: 'Certified copies of tax declarations, certificates of land holdings or no improvement, property history, and lot or vicinity maps. Fees from ₱20 to ₱55.'
+
+  - name: 'Pay real property tax'
+    slug: 'pay-real-property-tax'
+    description: 'For property owners and anyone with a legal interest in the property. Bring your latest tax declaration and RPT receipt. Due quarterly. Mon–Fri, 8:00am–5:00pm, except holidays.'
+
+  - name: 'Get a real property tax clearance or certification'
+    slug: 'get-a-real-property-tax-clearance-or-certification'
+    description: 'Tax clearance for ₱20 per property plus ₱30 documentary stamp per page, in about 21 minutes. Other City Treasurer certifications also available. Mon–Fri, 8:00am–5:00pm, except holidays.'

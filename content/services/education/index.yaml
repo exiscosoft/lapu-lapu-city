@@ -2,18 +2,34 @@
 # This file contains all the pages/services available under the Education category
 
 pages:
-  - name: 'Enroll children in LGU daycare or preschool programs'
+  - name: 'Enroll your child in city daycare (Early Childhood Care and Development)'
     slug: 'enroll-children-in-lgu-daycare-or-preschool-programs'
-    description: 'Information about enrolling your children in local government daycare and preschool programs.'
-    
+    description: 'Free city social welfare classes for children aged 3 to 4 years and 11 months. Requires the child''s birth certificate and a registration form. Mon–Fri, 8:00am–5:00pm (except holidays).'
+
+  - name: 'Enroll at Lapu-Lapu City College'
+    slug: 'enroll-at-lapu-lapu-city-college'
+    description: 'On-site enrollment after pre-enrollment for new, transferee, and returnee students. Register through portal.llcc.edu.ph with help from the enrollment officer. Takes about 13–18 minutes.'
+
+  - name: 'Request school records from Lapu-Lapu City College'
+    slug: 'request-school-records-from-lapu-lapu-city-college'
+    description: 'Transcript of records (₱350), certifications (₱50), diploma reissuance (₱150), certified true copies, and endorsement for CHED authentication (CAV). Bring a school or valid ID. Request at the Registrar or online.'
+
   - name: 'Apply for local scholarships'
     slug: 'apply-for-local-scholarships'
     description: 'How to apply for scholarships and educational financial assistance from your local government.'
-    
+
+  - name: 'Claim the board or bar exam passer incentive'
+    slug: 'claim-the-board-or-bar-exam-passer-incentive'
+    description: "For PRC board and bar passers who live in Lapu-Lapu City and were registered voters by exam time. Apply at the City Mayor's Office with a request letter and proof of passing. Free; approval in 3 days."
+
   - name: 'Access educational support programs from the LGU'
     slug: 'access-educational-support-programs-from-the-lgu'
     description: 'Various educational support programs and resources provided by your local government unit.'
-    
+
   - name: 'Learn about supplementary activities for schools in your area'
     slug: 'learn-about-supplementary-activities-for-schools-in-your-area'
     description: 'Information about supplementary educational activities and programs available for schools in your area.'
+
+  - name: 'Get a Lapu-Lapu City Library card'
+    slug: 'get-a-lapu-lapu-city-library-card'
+    description: 'Free library membership for all Lapu-Lapu City residents. Bring a government-issued ID showing your address. Late returns: ₱5 per day. Mon–Fri, 8:00am–5:00pm (except holidays).'

@@ -1,0 +1,661 @@
+{
+  "id": "2022-q4-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Bid Results on Civil Works",
+  "form": "FDP Form 10a",
+  "period": {
+    "year": 2022,
+    "quarter": 4,
+    "asOf": "2022-12-31",
+    "printed": "4th Quarter, CY 2022",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Florenda D. Sabsalon",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Atty. James Allan Sayson",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "CIVIL WORKS",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderContact",
+          "label": "Name and Address Of Bidder (name)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address Of Bidder (address)",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Cluster 4 - Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Causwagsan Day Care Center) & Repair of Baring Day Care Center",
+          "kind": "item",
+          "values": {
+            "no": 1,
+            "refNo": "22-35",
+            "description": "Cluster 4 - Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Causwagsan Day Care Center) & Repair of Baring Day Care Center",
+            "abc": 1175127,
+            "location": "Baring, Olango Is., LLC",
+            "bidder": "FROY J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4, Bankal, LLC",
+            "bidAmount": 1173901.93,
+            "biddingDate": "2022-10-18",
+            "duration": "120 CD"
+          }
+        },
+        {
+          "label": "Cluster 5 - Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Tungasan Day Care Center & Repair & Improvement of Caw-oy Day Care Center",
+          "kind": "item",
+          "values": {
+            "no": 2,
+            "refNo": "22-36",
+            "description": "Cluster 5 - Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Tungasan Day Care Center & Repair & Improvement of Caw-oy Day Care Center",
+            "abc": 764181,
+            "location": "Tungasan, Olango Is., LLC",
+            "bidder": "FROY J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4, Bankal, LLC",
+            "bidAmount": 762489.19,
+            "biddingDate": "2022-10-18",
+            "duration": "90 CD"
+          }
+        },
+        {
+          "label": "Cluster 6 - Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Sta. Rosa Day Care Center & Repair & Improvement of San Vicente Day Care Center",
+          "kind": "item",
+          "values": {
+            "no": 3,
+            "refNo": "22-37",
+            "description": "Cluster 6 - Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Sta. Rosa Day Care Center & Repair & Improvement of San Vicente Day Care Center",
+            "abc": 661086,
+            "location": "Olango Is., LLC",
+            "bidder": "FROY J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4, Bankal, LLC",
+            "bidAmount": 659729.32,
+            "biddingDate": "2022-10-18",
+            "duration": "75 CD"
+          }
+        },
+        {
+          "label": "Completion of Multi-Purpose Bldg Infront of Mini City Hall",
+          "kind": "item",
+          "values": {
+            "no": 4,
+            "refNo": "22-31",
+            "description": "Completion of Multi-Purpose Bldg Infront of Mini City Hall",
+            "abc": 9997708,
+            "location": "Talima, Olango Is., LLc",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 9993673.12,
+            "biddingDate": "2022-10-18",
+            "duration": "300 CD"
+          }
+        },
+        {
+          "label": "Improvement of Business One Stop Shop (BOSS) at Ground Floor Main Bldg. City Hall",
+          "kind": "item",
+          "values": {
+            "no": 5,
+            "refNo": "22-39",
+            "description": "Improvement of Business One Stop Shop (BOSS) at Ground Floor Main Bldg. City Hall",
+            "abc": 335301,
+            "location": "Pusok, LLC",
+            "bidder": "Floriane Construction & Supply",
+            "bidderNormalized": "FLORIANE CONSTRUCTION & SUPPLY",
+            "bidderContact": "Florencio D. Agot",
+            "bidderAddress": "279 Annex 1st St., Guingona Subdivision, J.P. Rizal St. Butuan, City",
+            "bidAmount": 333767.83,
+            "biddingDate": "2022-10-18",
+            "duration": "28 CD"
+          }
+        },
+        {
+          "label": "Repair of City Owned Gov't Bldg. Damage During Typhoon (Repair & Improvement of Stimulation Therapeutic Activity Center)",
+          "kind": "item",
+          "values": {
+            "no": 6,
+            "refNo": "22-33",
+            "description": "Repair of City Owned Gov't Bldg. Damage During Typhoon (Repair & Improvement of Stimulation Therapeutic Activity Center)",
+            "abc": 1335173,
+            "location": "Gun-ob, LLC",
+            "bidder": "BT Construction & Gen. Services",
+            "bidderNormalized": "BT CONSTRUCTION & GENERAL SERVICES",
+            "bidderContact": "Benjamin O. Tan",
+            "bidderAddress": "94 Gen. Echavez St., Cebu City",
+            "bidAmount": 1334875.45,
+            "biddingDate": "2022-10-18",
+            "duration": "90 CD"
+          }
+        },
+        {
+          "label": "Repair/Renovation of City Owned Gov't. Bldg. & Facilities (City Auditorium Bldg 1 & 2 Damaged by Typhoon Odette)",
+          "kind": "item",
+          "values": {
+            "no": 7,
+            "refNo": "22-34",
+            "description": "Repair/Renovation of City Owned Gov't. Bldg. & Facilities (City Auditorium Bldg 1 & 2 Damaged by Typhoon Odette)",
+            "abc": 1145740,
+            "location": "Poblacion, LLC",
+            "bidder": "BT Construction & Gen. Services",
+            "bidderNormalized": "BT CONSTRUCTION & GENERAL SERVICES",
+            "bidderContact": "Benjamin O. Tan",
+            "bidderAddress": "94 Gen. Echavez St., Cebu City",
+            "bidAmount": 1145448.44,
+            "biddingDate": "2022-10-18",
+            "duration": "29 CD"
+          }
+        },
+        {
+          "label": "Repair/Renovation of City Owned Gov't. Bldg. & Facilities (HRM Bldg at City College damaged by Typhoon Odette)",
+          "kind": "item",
+          "values": {
+            "no": 8,
+            "refNo": "22-38",
+            "description": "Repair/Renovation of City Owned Gov't. Bldg. & Facilities (HRM Bldg at City College damaged by Typhoon Odette)",
+            "abc": 864648,
+            "location": "Gun-ob, LLC",
+            "bidder": "Floriane Construction & Supply",
+            "bidderNormalized": "FLORIANE CONSTRUCTION & SUPPLY",
+            "bidderContact": "Florencio D. Agot",
+            "bidderAddress": "279 Annex 1st St., Guingona Subdivision, J.P. Rizal St. Butuan, City",
+            "bidAmount": 863132.59,
+            "biddingDate": "2022-10-18",
+            "duration": "70 CD"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Hoops Dome Building",
+          "kind": "item",
+          "values": {
+            "no": 9,
+            "refNo": "22-17",
+            "description": "Repair and Improvement of Hoops Dome Building",
+            "abc": 9843994,
+            "location": "Gun-ob, LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 9843380.97,
+            "biddingDate": "2022-10-18",
+            "duration": "120 CD"
+          }
+        },
+        {
+          "label": "Improvement of Art Gallery Building near Fire Station, Gun-ob, LLC",
+          "kind": "item",
+          "values": {
+            "no": 10,
+            "refNo": "22-44",
+            "description": "Improvement of Art Gallery Building near Fire Station, Gun-ob, LLC",
+            "abc": 346198,
+            "location": "Gun-ob, LLC",
+            "bidder": "Floriane Construction & Supply",
+            "bidderNormalized": "FLORIANE CONSTRUCTION & SUPPLY",
+            "bidderContact": "Florencio D. Agot",
+            "bidderAddress": "279 Annex 1st St., Guingona Subdivision, J.P. Rizal St. Butuan, City",
+            "bidAmount": 344693.52,
+            "biddingDate": "2022-10-27",
+            "duration": "30 CD"
+          }
+        },
+        {
+          "label": "Repair of School Bldgs. at Looc Elem Sch. (4 Storey bldg. 12 CL)",
+          "kind": "item",
+          "values": {
+            "no": 11,
+            "refNo": "22-40",
+            "description": "Repair of School Bldgs. at Looc Elem Sch. (4 Storey bldg. 12 CL)",
+            "abc": 2699449,
+            "location": "Looc, LLC",
+            "bidder": "Golden Compass Builders Inc.",
+            "bidderNormalized": "GOLDEN COMPASS BUILDERS INC.",
+            "bidderContact": "Nogen G. Juntilla",
+            "bidderAddress": "#120 Zone 5 Biasong, Talisay, Cebu City",
+            "bidAmount": 2690814.37,
+            "biddingDate": "2022-10-27",
+            "duration": "150 CD"
+          }
+        },
+        {
+          "label": "Repair of School Bldgs. at Looc NHS (Jr High & Sr. High) (3 Storey Bldg. 6 CL & 4 Storey Bldg 16 CL)",
+          "kind": "item",
+          "values": {
+            "no": 12,
+            "refNo": "22-41",
+            "description": "Repair of School Bldgs. at Looc NHS (Jr High & Sr. High) (3 Storey Bldg. 6 CL & 4 Storey Bldg 16 CL)",
+            "abc": 1521299,
+            "location": "Looc, LLC",
+            "bidder": "Golden Compass Builders Inc.",
+            "bidderNormalized": "GOLDEN COMPASS BUILDERS INC.",
+            "bidderContact": "Nogen G. Juntilla",
+            "bidderAddress": "#120 Zone 5 Biasong, Talisay, Cebu City",
+            "bidAmount": 1515692.99,
+            "biddingDate": "2022-10-27",
+            "duration": "110 CD"
+          }
+        },
+        {
+          "label": "Construction of Manpower Human Development Technical Center (MHDTC) at Talima, Olango Is., LLC",
+          "kind": "item",
+          "values": {
+            "no": 13,
+            "refNo": "22-42",
+            "description": "Construction of Manpower Human Development Technical Center (MHDTC) at Talima, Olango Is., LLC",
+            "abc": 1280349,
+            "location": "Talima, Olango Is., LLC",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderContact": "Alvis S. Kuan",
+            "bidderAddress": "F. Llamas St., Punta Princessa, Cebu City",
+            "bidAmount": 1277050.49,
+            "biddingDate": "2022-10-27",
+            "duration": "54 CD"
+          }
+        },
+        {
+          "label": "Construction of 4 Storey Building 8 CL for Suba Elementary School, Suba, Sabang, LLC",
+          "kind": "item",
+          "values": {
+            "no": 14,
+            "refNo": "22-45",
+            "description": "Construction of 4 Storey Building 8 CL for Suba Elementary School, Suba, Sabang, LLC",
+            "abc": 17153872,
+            "location": "Sabang,Olango Is., LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 14153379.85,
+            "biddingDate": "2022-11-10",
+            "duration": "210 CD"
+          }
+        },
+        {
+          "label": "Construction of Activity Center forMAPEH at Tungasan Elementary School",
+          "kind": "item",
+          "values": {
+            "no": 15,
+            "refNo": "22-49",
+            "description": "Construction of Activity Center forMAPEH at Tungasan Elementary School",
+            "abc": 8040403,
+            "location": "Tungasan, Olango Is., LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 8039900.28,
+            "biddingDate": "2022-11-10",
+            "duration": "240 CD"
+          }
+        },
+        {
+          "label": "Rehabilitation of Gravity Tank at the Back of City Hall, Pusok, LLC",
+          "kind": "item",
+          "values": {
+            "no": 16,
+            "refNo": "22-53",
+            "description": "Rehabilitation of Gravity Tank at the Back of City Hall, Pusok, LLC",
+            "abc": 684295,
+            "location": "Pusok, LLC",
+            "bidder": "Floriane Construction & Supply",
+            "bidderNormalized": "FLORIANE CONSTRUCTION & SUPPLY",
+            "bidderContact": "Florencio D. Agot",
+            "bidderAddress": "279 Annex 1st St., Guingona Subdivision, J.P. Rizal St. Butuan, City",
+            "bidAmount": 682757.15,
+            "biddingDate": "2022-11-10",
+            "duration": "30 CD"
+          }
+        },
+        {
+          "label": "Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Sabang Day Care Center)",
+          "kind": "item",
+          "values": {
+            "no": 17,
+            "refNo": "22-50",
+            "description": "Repair of City Owned Gov't. Facilities Damaged During Typhoon (Repair & Improvement of Sabang Day Care Center)",
+            "abc": 1506298,
+            "location": "Sabang, Olango Is., LLC",
+            "bidder": "FROY J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4, Bankal, LLC",
+            "bidAmount": 1504488.63,
+            "biddingDate": "2022-11-10",
+            "duration": "74 CD"
+          }
+        },
+        {
+          "label": "Repair of City Owned Gov't. Facilities Damaged During Typhoon (Mini City Hall), Talima, Olango Is. LLC",
+          "kind": "item",
+          "values": {
+            "no": 18,
+            "refNo": "22-51",
+            "description": "Repair of City Owned Gov't. Facilities Damaged During Typhoon (Mini City Hall), Talima, Olango Is. LLC",
+            "abc": 866083,
+            "location": "Talima, Olango Is., LLC",
+            "bidder": "FROY J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4, Bankal, LLC",
+            "bidAmount": 864341.32,
+            "biddingDate": "2022-11-10",
+            "duration": "45 CD"
+          }
+        },
+        {
+          "label": "Repair of MRF Building at Sta. Rosa, Olango Is., LLC",
+          "kind": "item",
+          "values": {
+            "no": 19,
+            "refNo": "22-52",
+            "description": "Repair of MRF Building at Sta. Rosa, Olango Is., LLC",
+            "abc": 769837,
+            "location": "Sta. Rosa, Olango Is., LLC",
+            "bidder": "FROY J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4, Bankal, LLC",
+            "bidAmount": 767565.31,
+            "biddingDate": "2022-11-10",
+            "duration": "30 CD"
+          }
+        },
+        {
+          "label": "Repair of School Bldg at Mactan Air Base Elementary School",
+          "kind": "item",
+          "values": {
+            "no": 20,
+            "refNo": "22-47",
+            "description": "Repair of School Bldg at Mactan Air Base Elementary School",
+            "abc": 11904063,
+            "location": "Pajo, LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 11903077.71,
+            "biddingDate": "2022-11-10",
+            "duration": "180 CD"
+          }
+        },
+        {
+          "label": "Construction of 4 Storey Building 8 CL for Maribago NHS (Phase I), Maribago, LLC",
+          "kind": "item",
+          "values": {
+            "no": 21,
+            "refNo": "22-46",
+            "description": "Construction of 4 Storey Building 8 CL for Maribago NHS (Phase I), Maribago, LLC",
+            "abc": 13259412,
+            "location": "Maribago, LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 13258407,
+            "biddingDate": "2022-11-10",
+            "duration": "180 CD"
+          }
+        },
+        {
+          "label": "Concreting of San Vicente Road (Phase I), Olango, Island, LLC",
+          "kind": "item",
+          "values": {
+            "no": 22,
+            "refNo": "22-25",
+            "description": "Concreting of San Vicente Road (Phase I), Olango, Island, LLC",
+            "abc": 4995676,
+            "location": "San Vicente, Olango, Is., LLC",
+            "bidder": "Steadfast Builders Construction Corp",
+            "bidderNormalized": "STEADFAST BUILDERS CONSTRUCTION CORPORATION",
+            "bidderContact": "Ralph Christian A. Senining",
+            "bidderAddress": "North National Road, Pitogo, Consolacion, Cebu City",
+            "bidAmount": 4994562.82,
+            "biddingDate": "2022-12-01",
+            "duration": "120 CD"
+          }
+        },
+        {
+          "label": "Construction of 4- Storey Bldg. 8 Classrooms for Bagong Silang Elementary School",
+          "kind": "item",
+          "values": {
+            "no": 23,
+            "refNo": "22-56",
+            "description": "Construction of 4- Storey Bldg. 8 Classrooms for Bagong Silang Elementary School",
+            "abc": 17279828,
+            "location": "Pajac, LLC",
+            "bidder": "Edison Development & Construction Inc.",
+            "bidderNormalized": "EDISON DEVELOPMENT & CONSTRUCTION INC.",
+            "bidderContact": "Eldonn Ferdinand V. Uy",
+            "bidderAddress": "121 Le Mariche Subd. E. Rodriguez Ave., Quezon City",
+            "bidAmount": 17259828,
+            "biddingDate": "2022-12-01",
+            "duration": "210 CD"
+          }
+        },
+        {
+          "label": "Construction of Hospital Isolation Facility at Sta. Rosa Hospital (Phase I)",
+          "kind": "item",
+          "values": {
+            "no": 24,
+            "refNo": "22-18",
+            "description": "Construction of Hospital Isolation Facility at Sta. Rosa Hospital (Phase I)",
+            "abc": 3596130,
+            "location": "Talima, Olango Is., LLC",
+            "bidder": "Patigdas Construction & Supply",
+            "bidderNormalized": "PATIGDAS CONSTRUCTION & SUPPLY",
+            "bidderContact": null,
+            "bidderAddress": "Sub-Panas, Sitio Lawis, Subabasbas, Lapu-Lapu City",
+            "bidAmount": 3292915.71,
+            "biddingDate": "2022-12-01",
+            "duration": "150 CD"
+          }
+        },
+        {
+          "label": "Construction of Multi-Purpose Building at Sta. Rosa, Olango Is., LLc (Phase I)",
+          "kind": "item",
+          "values": {
+            "no": 25,
+            "refNo": "22-01",
+            "description": "Construction of Multi-Purpose Building at Sta. Rosa, Olango Is., LLc (Phase I)",
+            "abc": 4862603,
+            "location": "Sta. Rosa, Olango Is., LLC",
+            "bidder": "AST Builders",
+            "bidderNormalized": "AST BUILDERS",
+            "bidderContact": "Anthony S. Tan",
+            "bidderAddress": "B. Suico St., Brgy Tingub, Mandaue City",
+            "bidAmount": 4856888.62,
+            "biddingDate": "2022-12-01",
+            "duration": "109 CD"
+          }
+        },
+        {
+          "label": "Installation of Drainage Line Along Basak-Marigondon Rd. (Mactan Doctor's Hospital to corner Cebu Light Industrial Park (CLIP)",
+          "kind": "item",
+          "values": {
+            "no": 26,
+            "refNo": "22-55",
+            "description": "Installation of Drainage Line Along Basak-Marigondon Rd. (Mactan Doctor's Hospital to corner Cebu Light Industrial Park (CLIP)",
+            "abc": 18604156,
+            "location": "Basak, LLC",
+            "bidder": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderNormalized": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderContact": "Emiliano Tadeo Ruiz Jr.",
+            "bidderAddress": "Z3-30B A. Bacaltos St., Mohan, Talisay City, Cebu",
+            "bidAmount": 18593888,
+            "biddingDate": "2022-12-01",
+            "duration": "180 CD"
+          }
+        },
+        {
+          "label": "Repair/ Refurbishment of Kindergarten Classroom at Bankal Pre-Elem School",
+          "kind": "item",
+          "values": {
+            "no": 27,
+            "refNo": "22-59",
+            "description": "Repair/ Refurbishment of Kindergarten Classroom at Bankal Pre-Elem School",
+            "abc": 999732,
+            "location": "Bankal, LLC",
+            "bidder": "BT Construction & Gen. Services",
+            "bidderNormalized": "BT CONSTRUCTION & GENERAL SERVICES",
+            "bidderContact": "Benjamin O. Tan",
+            "bidderAddress": "94 Gen. Echavez St., Cebu City",
+            "bidAmount": 999394.51,
+            "biddingDate": "2022-12-01",
+            "duration": "45 CD"
+          }
+        },
+        {
+          "label": "Repair and Improvement of STEC Community Learning Center, Basak, LLC",
+          "kind": "item",
+          "values": {
+            "no": 28,
+            "refNo": "22-58",
+            "description": "Repair and Improvement of STEC Community Learning Center, Basak, LLC",
+            "abc": 1499072,
+            "location": "Basak, LLC",
+            "bidder": "BT Construction & Gen. Services",
+            "bidderNormalized": "BT CONSTRUCTION & GENERAL SERVICES",
+            "bidderContact": "Benjamin O. Tan",
+            "bidderAddress": "94 Gen. Echavez St., Cebu City",
+            "bidAmount": 1498569.17,
+            "biddingDate": "2022-12-01",
+            "duration": "50 CD"
+          }
+        },
+        {
+          "label": "Repair and Maintenance of Traffic Light System",
+          "kind": "item",
+          "values": {
+            "no": 29,
+            "refNo": "22-48",
+            "description": "Repair and Maintenance of Traffic Light System",
+            "abc": 9255524,
+            "location": "Lapu-Lapu City",
+            "bidder": "Triune Electronic Systems Inc.",
+            "bidderNormalized": "TRIUNE ELECTRONIC SYSTEMS INC.",
+            "bidderContact": "Peter C. Ong",
+            "bidderAddress": "1229 Yellowbell St., Manila, Valenzuela City",
+            "bidAmount": 9215440.92,
+            "biddingDate": "2022-12-01",
+            "duration": "121 CD"
+          }
+        },
+        {
+          "label": "Repair of School Building at Poblacion Elem. Sch. (2 Storey Bldg, 4 CL/ East Asia Bldg./ 4 Storey Bldg 4 CL, 2-storey Bldg 4 CL/ BOD Bldg 1Storey Bldg 2 CL)",
+          "kind": "item",
+          "values": {
+            "no": 30,
+            "refNo": "22-57",
+            "description": "Repair of School Building at Poblacion Elem. Sch. (2 Storey Bldg, 4 CL/ East Asia Bldg./ 4 Storey Bldg 4 CL, 2-storey Bldg 4 CL/ BOD Bldg 1Storey Bldg 2 CL)",
+            "abc": 4109917,
+            "location": "Poblacion, LLC",
+            "bidder": "Carcel Construction & Devt. Corp",
+            "bidderNormalized": "CARCEL CONSTRUCTION & DEVT. CORPORATION",
+            "bidderContact": "Isiah Raoul Sydney D. Carcel",
+            "bidderAddress": "Rm 203 Long Se Temple, Osmeña Blvd, Capitol Site, Cebu City",
+            "bidAmount": 4059897.28,
+            "biddingDate": "2022-12-01",
+            "duration": "150 CD"
+          }
+        },
+        {
+          "label": "Repair of School Building at Mactan Air Base High School, Pajo, LLC",
+          "kind": "item",
+          "values": {
+            "no": 31,
+            "refNo": "22-61",
+            "description": "Repair of School Building at Mactan Air Base High School, Pajo, LLC",
+            "abc": 6999195,
+            "location": "Pajo, LL",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St. Banilad, Mandaue City",
+            "bidAmount": 6998644.3,
+            "biddingDate": "2022-12-22",
+            "duration": "120 CD"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "Pages 2-4 carry the header \"FDP Form 10b - Bid Results on Goods and Services\" struck through (pages 2-3) but are titled CIVIL WORKS and continue the civil works numbering (rows 7-31); all 31 rows are in one table.",
+    "Page 3 (rows 15-21) is headed \"3rd Quarter, CY 2022\" while the other pages say \"4th Quarter, CY 2022\"; its rows were bid on 10-Nov-22, so the page header appears to be a typo. Period kept as Q4 2022.",
+    "A stray figure \"344,693.52\" (the bid amount of row 10) is printed above the table on page 2; ignored.",
+    "Row 14 (22-45): bid amount 14,153,379.85 is far below the ABC 17,153,872.00; transcribed as printed.",
+    "The \"Name and Address Of Bidder\" column was split into bidderContact (person) and bidderAddress. Row 24 prints only an address. Locations are copied as printed, including \"Pajo, LL\" (row 31) and \"LLc\" variants.",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

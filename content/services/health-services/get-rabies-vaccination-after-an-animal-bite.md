@@ -73,3 +73,4 @@ A: You may still be assessed, but priority is given to Lapu-Lapu City residents.
 - [Get free check-ups and consultations](/get-free-check-ups-and-consultations)
 - [Claim free medicines with a prescription](/claim-free-medicines-with-a-prescription)
 - [Receive free TB testing and treatment](/receive-free-tb-testing-and-treatment)
+- [Get your dog or cat vaccinated against rabies](/services/agriculture-fisheries/get-your-dog-or-cat-vaccinated-against-rabies)

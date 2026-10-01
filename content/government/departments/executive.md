@@ -148,18 +148,8 @@ These roles reflect the legacy of leadership and public service within the commu
 
 # Contact the Mayor's Office
 
-**Office of the Mayor**
-City/Municipal Hall of **{GOVERNMENT_NAME}**
+**Office of the City Mayor**, {GOVERNMENT_NAME}
 
-**Address:**
-[STREET ADDRESS]
-[CITY / PROVINCE / POSTAL CODE]
+**Telephone:** 032-252-4045; 0956-254-1656
 
-**Telephone:**
-[PHONE NUMBER]
-
-**Email:**
-[EMAIL ADDRESS]
-
-**Website:**
-[OFFICIAL WEBSITE URL]
+For the permits, certifications and other services the Mayor's Office handles, see the [Office of the City Mayor](/government/departments/city-mayors-office) page.

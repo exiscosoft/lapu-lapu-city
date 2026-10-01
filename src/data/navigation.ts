@@ -57,6 +57,10 @@ export const footerNavigation = {
     {
       title: 'Government',
       links: [
+        {
+          label: 'Reports and Statistics',
+          href: '/government/reports-and-statistics',
+        },
         { label: 'Open Data', href: 'https://data.gov.ph' },
         { label: 'Freedom of Information', href: 'https://www.foi.gov.ph' },
         {

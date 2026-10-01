@@ -1,0 +1,5590 @@
+{
+  "id": "2026-annual-annual-budget-part-1",
+  "type": "annual-budget",
+  "title": "FDPP Form 1a - Annual Budget Report, by Office of Department",
+  "form": "Local Budget Preparation Form 2 (DBM Local Budget Memorandum No. 82 dated June 14, 2021, LBP Form No. 2)",
+  "period": {
+    "year": 2026,
+    "quarter": null,
+    "asOf": null,
+    "printed": "Calendar Year 2026",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Atty. Misaellee M. Tejano",
+      "position": "CGDH II (Prepared by)"
+    },
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Hon. Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor (Approved)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "city-mayors-office",
+      "title": "CITY MAYOR'S OFFICE",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-5-01-01-010",
+            "pastYear": 50269484.22,
+            "currentSem1": 26629533.52,
+            "currentSem2": 36045506.48,
+            "currentTotal": 62675040,
+            "budgetYear": 66255120
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Salaries and Wages-Casual/ Contractual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-01-020",
+            "pastYear": 122945713.43,
+            "currentSem1": 63296587.43,
+            "currentSem2": 69489016.57,
+            "currentTotal": 132785604,
+            "budgetYear": 148672176
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 3235711.92,
+            "currentSem1": 1671737.71,
+            "currentSem2": 2264262.29,
+            "currentTotal": 3936000,
+            "budgetYear": 3912000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance-Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 17326850.3,
+            "currentSem1": 8688148.17,
+            "currentSem2": 8831851.83,
+            "currentTotal": 17520000,
+            "budgetYear": 18840000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 376500,
+            "currentSem1": 177000,
+            "currentSem2": 393000,
+            "currentTotal": 570000,
+            "budgetYear": 468000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 376500,
+            "currentSem1": 177000,
+            "currentSem2": 393000,
+            "currentTotal": 570000,
+            "budgetYear": 468000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 1071000,
+            "currentSem1": 973000,
+            "currentSem2": 175000,
+            "currentTotal": 1148000,
+            "budgetYear": 1141000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance-Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 4914000,
+            "currentSem1": 5033000,
+            "currentSem2": 77000,
+            "currentTotal": 5110000,
+            "budgetYear": 5495000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": 54101.15,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": 500000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Per Diem/Honoraria Presidents of the Federation of Urban Poor",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": 5270000,
+            "currentSem1": 2739000,
+            "currentSem2": 2865000,
+            "currentTotal": 5604000,
+            "budgetYear": 5604000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Overtime Pay and Night Pay",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-130",
+            "pastYear": 27537416.58,
+            "currentSem1": 18205502.16,
+            "currentSem2": 1794497.84,
+            "currentTotal": 20000000,
+            "budgetYear": 20000000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 4312198.8,
+            "currentSem1": null,
+            "currentSem2": 5222920,
+            "currentTotal": 5222920,
+            "budgetYear": 5521260
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus-Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 10161629,
+            "currentSem1": null,
+            "currentSem2": 11065467,
+            "currentTotal": 11065467,
+            "budgetYear": 12389348
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 706000,
+            "currentSem1": null,
+            "currentSem2": 820000,
+            "currentTotal": 820000,
+            "budgetYear": 815000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift-Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 3527500,
+            "currentSem1": null,
+            "currentSem2": 3650000,
+            "currentTotal": 3650000,
+            "budgetYear": 3925000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Bonuses and Allowances",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 20383924,
+            "currentSem1": 14491911,
+            "currentSem2": 25269476,
+            "currentTotal": 40132387,
+            "budgetYear": 48708608
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums - Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 5528996.32,
+            "currentSem1": 3021819.18,
+            "currentSem2": 4499185.82,
+            "currentTotal": 7521005,
+            "budgetYear": 7950615
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums - Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 14800731.88,
+            "currentSem1": 7581504.76,
+            "currentSem2": 8352767.24,
+            "currentTotal": 15934272,
+            "budgetYear": 17840662
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions- Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 286000,
+            "currentSem1": 158458.05,
+            "currentSem2": 235141.95,
+            "currentTotal": 393600,
+            "budgetYear": 391200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions- Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 1623900,
+            "currentSem1": 847500,
+            "currentSem2": 904500,
+            "currentTotal": 1752000,
+            "budgetYear": 1884000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 1002378.57,
+            "currentSem1": 593998.92,
+            "currentSem2": 938635.08,
+            "currentTotal": 1532634,
+            "budgetYear": 1617841
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions-Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 2792118.24,
+            "currentSem1": 1576821.18,
+            "currentSem2": 1742818.82,
+            "currentTotal": 3319640,
+            "budgetYear": 3716805
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums - Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 156300,
+            "currentSem1": 80200,
+            "currentSem2": 116600,
+            "currentTotal": 196800,
+            "budgetYear": 195600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums - Casual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 865100,
+            "currentSem1": 449200,
+            "currentSem2": 426800,
+            "currentTotal": 876000,
+            "budgetYear": 942000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personnel Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 21763415.53,
+            "currentSem1": 4350945.06,
+            "currentSem2": 14150904.94,
+            "currentTotal": 18501850,
+            "budgetYear": 20077972
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 321287469.94,
+            "currentSem1": 160742867.14,
+            "currentSem2": 200223351.86,
+            "currentTotal": 361337219,
+            "budgetYear": 397331207
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-5-02-01-010",
+            "pastYear": 709172.47,
+            "currentSem1": 158374.48,
+            "currentSem2": 1841625.52,
+            "currentTotal": 2000000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Traveling Expenses-Foreign",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-01-020",
+            "pastYear": 300000,
+            "currentSem1": 1873199.21,
+            "currentSem2": 126800.79,
+            "currentTotal": 2000000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 8684007.16,
+            "currentSem1": 463090.74,
+            "currentSem2": 4536909.26,
+            "currentTotal": 5000000,
+            "budgetYear": 10000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Scholarship Grants Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 17250192.13,
+            "currentSem1": 5075053.81,
+            "currentSem2": 24055446.19,
+            "currentTotal": 29130500,
+            "budgetYear": 29500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Postage and Courier Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-010",
+            "pastYear": 14844.12,
+            "currentSem1": 4509,
+            "currentSem2": 520491,
+            "currentTotal": 525000,
+            "budgetYear": 525000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses- Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 844767.24,
+            "currentSem1": 460232,
+            "currentSem2": 539768,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Awards / Rewards Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-06-010",
+            "pastYear": 4305000,
+            "currentSem1": 2770000,
+            "currentSem2": 2230000,
+            "currentTotal": 5000000,
+            "budgetYear": 5000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Prizes",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-06-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Demolition and Relocation Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-08-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 2000000,
+            "currentTotal": 2000000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Confidential Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-10-010",
+            "pastYear": 10000000,
+            "currentSem1": 5000000,
+            "currentSem2": 5000000,
+            "currentTotal": 10000000,
+            "budgetYear": 11000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Extraordinary and Miscellaneous Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-10-030",
+            "pastYear": 2374840.4,
+            "currentSem1": 862226.61,
+            "currentSem2": 5172816.39,
+            "currentTotal": 6035043,
+            "budgetYear": 7611549
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Consultancy Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-030",
+            "pastYear": 6180000,
+            "currentSem1": 1425000,
+            "currentSem2": 7275000,
+            "currentTotal": 8700000,
+            "budgetYear": 7200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 2820000,
+            "currentSem1": 1360000,
+            "currentSem2": 2140000,
+            "currentTotal": 3500000,
+            "budgetYear": 3500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Security Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-12-030",
+            "pastYear": 6706305.94,
+            "currentSem1": 2384424.37,
+            "currentSem2": 17056836.63,
+            "currentTotal": 19441261,
+            "budgetYear": 19441261
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other General Services - Job Order Assigned to Various Offices",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-12-990",
+            "pastYear": 248812968.44,
+            "currentSem1": 98963302.76,
+            "currentSem2": 259103194.24,
+            "currentTotal": 358066497,
+            "budgetYear": 370380862
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Advertising Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Representation Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-030",
+            "pastYear": 7700226.13,
+            "currentSem1": 2772183.65,
+            "currentSem2": 8727816.35,
+            "currentTotal": 11500000,
+            "budgetYear": 11500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Transportation and Delivery Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-050",
+            "pastYear": 283600,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": 750000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Membership Dues and Contribution to Org.",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-060",
+            "pastYear": 620000,
+            "currentSem1": 60000,
+            "currentSem2": 340000,
+            "currentTotal": 400000,
+            "budgetYear": 400000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Donations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-080",
+            "pastYear": 15483080,
+            "currentSem1": 15303500,
+            "currentSem2": 11796500,
+            "currentTotal": 27100000,
+            "budgetYear": 18000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 14352750.11,
+            "currentSem1": 1780048.35,
+            "currentSem2": 29697487.65,
+            "currentTotal": 31477536,
+            "budgetYear": 27850000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 347441754.14,
+            "currentSem1": 140715144.98,
+            "currentSem2": 382960692.02,
+            "currentTotal": 523675837,
+            "budgetYear": 530958672
+          }
+        },
+        {
+          "label": "CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery Equipemnt - Office Equipment (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-1-07-05-020",
+            "pastYear": 1244000,
+            "currentSem1": 0,
+            "currentSem2": 6000000,
+            "currentTotal": 6000000,
+            "budgetYear": 200000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Information and Communication Technology Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 720000,
+            "currentTotal": 720000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Military, Police and Security Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-100",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 200000,
+            "currentTotal": 200000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Transport Equipment - Motor Vehicles (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-010",
+            "pastYear": 1248000,
+            "currentSem1": 0,
+            "currentSem2": 23500000,
+            "currentTotal": 23500000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 2492000,
+            "currentSem1": null,
+            "currentSem2": 30420000,
+            "currentTotal": 30420000,
+            "budgetYear": 200000
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 671221224.08,
+            "currentSem1": 301458012.12,
+            "currentSem2": 613604043.88,
+            "currentTotal": 915433056,
+            "budgetYear": 928489879
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-ldrrmo",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Local Disaster Risk Reduction Mgt. Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-1-5-02-03-990",
+            "pastYear": 886359,
+            "currentSem1": 0,
+            "currentSem2": 200000,
+            "currentTotal": 200000,
+            "budgetYear": 200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 15000,
+            "currentSem1": 6000,
+            "currentSem2": 344000,
+            "currentTotal": 350000,
+            "budgetYear": 350000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Repair and Maintenance - Response Vehicle",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-13-060",
+            "pastYear": 1021731,
+            "currentSem1": 90494,
+            "currentSem2": 4409506,
+            "currentTotal": 4500000,
+            "budgetYear": 4500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 49862660.76,
+            "currentSem1": 20334450.03,
+            "currentSem2": 42801864.97,
+            "currentTotal": 63136315,
+            "budgetYear": 63136315
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 51785750.76,
+            "currentSem1": 20430944.03,
+            "currentSem2": 47755370.97,
+            "currentTotal": 68186315,
+            "budgetYear": 68186315
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-peace-and-order",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Peace and Order Program",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses- POPS Planning Workshop",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-2-5-02-02-010",
+            "pastYear": 48710,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 36025250,
+            "currentSem1": 14121500,
+            "currentSem2": 23008500,
+            "currentTotal": 37130000,
+            "budgetYear": 37130000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 36073960,
+            "currentSem1": 14121500,
+            "currentSem2": 23008500,
+            "currentTotal": 37130000,
+            "budgetYear": 37230000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-public-employment-services",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Public Employment Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-3-5-02-03-990",
+            "pastYear": 34565,
+            "currentSem1": 11698.8,
+            "currentSem2": 63301.2,
+            "currentTotal": 75000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses - Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 54000,
+            "currentTotal": 54000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 13766478.25,
+            "currentSem1": 13689921,
+            "currentSem2": 210079,
+            "currentTotal": 13900000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 13801043.25,
+            "currentSem1": 13701619.8,
+            "currentSem2": 327380.2,
+            "currentTotal": 14029000,
+            "budgetYear": null
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-manpower-services",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Manpower Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-4-5-02-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 25000,
+            "currentTotal": 25000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 1515565,
+            "currentSem1": null,
+            "currentSem2": 829000,
+            "currentTotal": 829000,
+            "budgetYear": 1760480
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 381982,
+            "currentSem1": 25000,
+            "currentSem2": 435000,
+            "currentTotal": 460000,
+            "budgetYear": 528000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE- Meetings and Conferences",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "- 5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 7500,
+            "currentTotal": 7500,
+            "budgetYear": 7500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 1897547,
+            "currentSem1": 25000,
+            "currentSem2": 1296500,
+            "currentTotal": 1321500,
+            "budgetYear": 2295980
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Buildings & other Structures - Buildings",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-4-1-07-04-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 1148200,
+            "currentTotal": 1148200,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1648200,
+            "currentTotal": 1648200,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 1897547,
+            "currentSem1": 25000,
+            "currentSem2": 2944700,
+            "currentTotal": 2969700,
+            "budgetYear": 2295980
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-urban-poor-services",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Urban Poor Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-5-5-02-02-010",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 85000,
+            "currentTotal": 85000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 49637.15,
+            "currentSem1": null,
+            "currentSem2": 50000,
+            "currentTotal": 50000,
+            "budgetYear": 60000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 10432859.3,
+            "currentSem1": 0,
+            "currentSem2": 10050500,
+            "currentTotal": 10050500,
+            "budgetYear": 11236000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub- Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 10482496.45,
+            "currentSem1": null,
+            "currentSem2": 10185500,
+            "currentTotal": 10185500,
+            "budgetYear": 11296000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-5-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 70000,
+            "currentTotal": 70000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub- Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 70000,
+            "currentTotal": 70000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 10482496.45,
+            "currentSem1": null,
+            "currentSem2": 10255500,
+            "currentTotal": 10255500,
+            "budgetYear": 11296000
+          }
+        }
+      ]
+    },
+    {
+      "key": "sports-development-physical-fitness",
+      "title": "Sports Development -Physical Fitness",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-6-5-02-03-990",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 15000,
+            "currentTotal": 15000,
+            "budgetYear": 550000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 4100000,
+            "currentSem1": 2500000,
+            "currentSem2": 300000,
+            "currentTotal": 2800000,
+            "budgetYear": 6200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 4100000,
+            "currentSem1": 2500000,
+            "currentSem2": 315000,
+            "currentTotal": 2815000,
+            "budgetYear": 6750000
+          }
+        }
+      ]
+    },
+    {
+      "key": "lapu-lapu-livelihood-cooperative-services",
+      "title": "Lapu-Lapu Livelihood & Cooperative Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-7-5-02-02-010",
+            "pastYear": 1173871.2,
+            "currentSem1": 916601.25,
+            "currentSem2": 375898.75,
+            "currentTotal": 1292500,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 169931.7,
+            "currentSem1": 0,
+            "currentSem2": 150000,
+            "currentTotal": 150000,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 599743.1,
+            "currentSem1": 290180.35,
+            "currentSem2": 390819.65,
+            "currentTotal": 681000,
+            "budgetYear": 1220000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 1943546,
+            "currentSem1": 1206781.6,
+            "currentSem2": 916718.4,
+            "currentTotal": 2123500,
+            "budgetYear": 3520000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-7-1-07-05-020",
+            "pastYear": 94500,
+            "currentSem1": 0,
+            "currentSem2": 224000,
+            "currentTotal": 224000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": 55000,
+            "currentSem1": 0,
+            "currentSem2": 240000,
+            "currentTotal": 240000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Transportation Equipment - Motor Vehicles",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1250000,
+            "currentTotal": 1250000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub-total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 149500,
+            "currentSem1": 0,
+            "currentSem2": 1714000,
+            "currentTotal": 1714000,
+            "budgetYear": 0
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 2093046,
+            "currentSem1": 1206781.6,
+            "currentSem2": 2630718.4,
+            "currentTotal": 3837500,
+            "budgetYear": 3520000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-mactan-north-reclamation",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Mactan North Reclamation Dev't Project",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-8-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 5000,
+            "currentTotal": 5000,
+            "budgetYear": 5000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 10000,
+            "currentTotal": 10000,
+            "budgetYear": 10000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 15000,
+            "currentTotal": 15000,
+            "budgetYear": 15000
+          }
+        }
+      ]
+    },
+    {
+      "key": "project-development-monitoring-office",
+      "title": "Project Development Monitoring Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-9-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 5000,
+            "currentTotal": 5000,
+            "budgetYear": 5000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Postage and Courier Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 30000,
+            "currentTotal": 30000,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Survey Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-07-010",
+            "pastYear": 6765000,
+            "currentSem1": null,
+            "currentSem2": 10000000,
+            "currentTotal": 10000000,
+            "budgetYear": 10000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 6765000,
+            "currentSem1": null,
+            "currentSem2": 10035000,
+            "currentTotal": 10035000,
+            "budgetYear": 10035000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Payment of Lot for Construction of the proposed Desalination Plant",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-9-1-07-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 486896,
+            "currentTotal": 486896,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Road Networks",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 6855560,
+            "currentTotal": 6855560,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & other Structures - Other Structures",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 305093,
+            "currentTotal": 305093,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 65000,
+            "currentTotal": 65000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 80000,
+            "currentTotal": 80000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 7792549,
+            "currentTotal": 7792549,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 6765000,
+            "currentSem1": null,
+            "currentSem2": 17827549,
+            "currentTotal": 17827549,
+            "budgetYear": 10035000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-operations-of-hoopsdome",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Operations of Hoopsdome",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-10-5-02-03-990",
+            "pastYear": 1096548.3,
+            "currentSem1": 56304.3,
+            "currentSem2": 812695.7,
+            "currentTotal": 869000,
+            "budgetYear": 1415000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses - Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 22500,
+            "currentSem1": 11000,
+            "currentSem2": 19000,
+            "currentTotal": 30000,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 8160,
+            "currentSem1": 2640,
+            "currentSem2": 7360,
+            "currentTotal": 10000,
+            "budgetYear": 10000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 1127208.3,
+            "currentSem1": 69944.3,
+            "currentSem2": 839055.7,
+            "currentTotal": 909000,
+            "budgetYear": 1455000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Infrastructure Assets - Power Supply Systems",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-050",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 4440000,
+            "currentTotal": 4440000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 5000000,
+            "currentTotal": 5000000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 9440000,
+            "currentTotal": 9440000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 1127208.3,
+            "currentSem1": 69944.3,
+            "currentSem2": 10279055.7,
+            "currentTotal": 10349000,
+            "budgetYear": 1455000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-local-investment-promotion-office",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Local Investment and Promotion Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-11-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 50000,
+            "currentTotal": 50000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 499440,
+            "currentSem1": 120000,
+            "currentSem2": 380000,
+            "currentTotal": 500000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 499440,
+            "currentSem1": 120000,
+            "currentSem2": 430000,
+            "currentTotal": 550000,
+            "budgetYear": null
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-local-school-board-secretariat",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Local School Board Secretariat Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-11-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 50000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 12000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 62000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-clean-and-green-office",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Clean and Green Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-12-5-02-03-990",
+            "pastYear": 1993996,
+            "currentSem1": 343567.75,
+            "currentSem2": 1036432.25,
+            "currentTotal": 1380000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses - Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 30000,
+            "currentTotal": 30000,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 1993996,
+            "currentSem1": 343567.75,
+            "currentSem2": 1066432.25,
+            "currentTotal": 1410000,
+            "budgetYear": 2060000
+          }
+        }
+      ]
+    },
+    {
+      "key": "assistance-to-dilg",
+      "title": "Assistance to DILG",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-13-5-02-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 391600
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 6300,
+            "currentTotal": 6300,
+            "budgetYear": 6300
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 36000,
+            "currentSem1": 18000,
+            "currentSem2": 18000,
+            "currentTotal": 36000,
+            "budgetYear": 36000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 84000,
+            "currentSem1": 60000,
+            "currentSem2": 60000,
+            "currentTotal": 120000,
+            "budgetYear": 120000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Various Orientation Program, Evaluation & Assessment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 187225,
+            "currentSem1": 143500,
+            "currentSem2": 416500,
+            "currentTotal": 560000,
+            "budgetYear": 560000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 307225,
+            "currentSem1": 221500,
+            "currentSem2": 500800,
+            "currentTotal": 722300,
+            "budgetYear": 1113900
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-13-1-07-05-020",
+            "pastYear": 69900,
+            "currentSem1": 84500,
+            "currentSem2": 500,
+            "currentTotal": 85000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Purchase of ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 225000,
+            "currentTotal": 225000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 69900,
+            "currentSem1": 84500,
+            "currentSem2": 225500,
+            "currentTotal": 310000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 377125,
+            "currentSem1": 306000,
+            "currentSem2": 726300,
+            "currentTotal": 1032300,
+            "budgetYear": 1113900
+          }
+        }
+      ]
+    },
+    {
+      "key": "assistance-to-public-attorney-office",
+      "title": "Assistance to Public Attorney Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-14-5-02-03-990",
+            "pastYear": 335700,
+            "currentSem1": 0,
+            "currentSem2": 65000,
+            "currentTotal": 65000,
+            "budgetYear": 65000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 1532413.78,
+            "currentSem1": 720000,
+            "currentSem2": 1620000,
+            "currentTotal": 2340000,
+            "budgetYear": 2340000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 1868113.78,
+            "currentSem1": 720000,
+            "currentSem2": 1685000,
+            "currentTotal": 2405000,
+            "budgetYear": 2405000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-14-1-07-05-020",
+            "pastYear": 149700,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 149700,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 2017813.78,
+            "currentSem1": 720000,
+            "currentSem2": 1685000,
+            "currentTotal": 2405000,
+            "budgetYear": 2405000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-information-technology-services",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Information Technology Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies & Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-15-5-02-03-990",
+            "pastYear": 143295.05,
+            "currentSem1": 49000,
+            "currentSem2": 431000,
+            "currentTotal": 480000,
+            "budgetYear": 550000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Internet Subscription Expenses - Lease Line",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-030",
+            "pastYear": 706106.18,
+            "currentSem1": null,
+            "currentSem2": 750000,
+            "currentTotal": 750000,
+            "budgetYear": 800000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-070",
+            "pastYear": 1736500,
+            "currentSem1": 0,
+            "currentSem2": 960000,
+            "currentTotal": 960000,
+            "budgetYear": 1010000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 877380,
+            "currentSem1": 0,
+            "currentSem2": 2000000,
+            "currentTotal": 2000000,
+            "budgetYear": 2300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 3463281.23,
+            "currentSem1": 49000,
+            "currentSem2": 4141000,
+            "currentTotal": 4190000,
+            "budgetYear": 4660000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Technical & Scientific Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-15-1-07-05-140",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 230000,
+            "currentTotal": 230000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Intangible Assets - Computer Software",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-09-01-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 825000,
+            "currentTotal": 825000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1055000,
+            "currentTotal": 1055000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 3463281.23,
+            "currentSem1": 49000,
+            "currentSem2": 5196000,
+            "currentTotal": 5245000,
+            "budgetYear": 4660000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-public-information-office",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Public Information Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-16-5-02-03-990",
+            "pastYear": 411500,
+            "currentSem1": null,
+            "currentSem2": 27390,
+            "currentTotal": 27390,
+            "budgetYear": 50000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "- 5-02-05-020",
+            "pastYear": 2000,
+            "currentSem1": null,
+            "currentSem2": 24000,
+            "currentTotal": 24000,
+            "budgetYear": 24000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Advertising Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-010",
+            "pastYear": 259911.02,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 167961.6,
+            "currentSem1": null,
+            "currentSem2": 168000,
+            "currentTotal": 168000,
+            "budgetYear": 200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 841372.62,
+            "currentSem1": null,
+            "currentSem2": 719390,
+            "currentTotal": 719390,
+            "budgetYear": 774000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-16-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 365000,
+            "currentTotal": 365000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 365000,
+            "currentTotal": 365000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 841372.62,
+            "currentSem1": null,
+            "currentSem2": 1084390,
+            "currentTotal": 1084390,
+            "budgetYear": 774000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-local-youth-development-office",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Local Youth Development Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-17-5-02-03-990",
+            "pastYear": 49500,
+            "currentSem1": 0,
+            "currentSem2": 55000,
+            "currentTotal": 55000,
+            "budgetYear": 55000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 571818.25,
+            "currentSem1": 89465.5,
+            "currentSem2": 510534.5,
+            "currentTotal": 600000,
+            "budgetYear": 600000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 621318.25,
+            "currentSem1": 89465.5,
+            "currentSem2": 565534.5,
+            "currentTotal": 655000,
+            "budgetYear": 655000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-closap",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - City of Lapu-Lapu Office for Substance Abuse Prevention (CLOSAP)",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses - BADAC Focal",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-18-5-02-02-010",
+            "pastYear": 299386,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Food Supplies Expenses - Balay Silangan",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-050",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 800000,
+            "currentTotal": 800000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 99400.25,
+            "currentSem1": 58550,
+            "currentSem2": 1041450,
+            "currentTotal": 1100000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 3583573,
+            "currentSem1": 739050,
+            "currentSem2": 3060950,
+            "currentTotal": 3800000,
+            "budgetYear": 3800000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 3982359.25,
+            "currentSem1": 797600,
+            "currentSem2": 4902400,
+            "currentTotal": 5700000,
+            "budgetYear": 5300000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1011-18-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 200000,
+            "currentTotal": 200000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 70000,
+            "currentTotal": 70000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 270000,
+            "currentTotal": 270000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 3982359.25,
+            "currentSem1": 797600,
+            "currentSem2": 5172400,
+            "currentTotal": 5970000,
+            "budgetYear": 5300000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-bjmp-maintenance-of-prisoners",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - BJMP - Maintenance of Prisoners",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1012-5-02-02-010",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 255000,
+            "currentTotal": 255000,
+            "budgetYear": 150000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Supplies & Materials Expenses - Food Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-050",
+            "pastYear": 7946873,
+            "currentSem1": 1996473,
+            "currentSem2": 6814527,
+            "currentTotal": 8811000,
+            "budgetYear": 9692100
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Supplies & Materials Expenses - Medical, Dental and Lab. Supplies Exp.",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-080",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 60000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Supplies & Materials Expenses - Military, Police & Traffic Supplies Exp.",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-120",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 1500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Supplies & Materials Expenses - Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 34595,
+            "currentSem1": 0,
+            "currentSem2": 505582,
+            "currentTotal": 505582,
+            "budgetYear": 395000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Professional Services - Other Professional Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 3234000,
+            "currentSem1": 1718000,
+            "currentSem2": 1834000,
+            "currentTotal": 3552000,
+            "budgetYear": 3552000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 325000,
+            "currentSem1": 0,
+            "currentSem2": 575000,
+            "currentTotal": 575000,
+            "budgetYear": 350000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 11540468,
+            "currentSem1": 3714473,
+            "currentSem2": 9984109,
+            "currentTotal": 13698582,
+            "budgetYear": 15699100
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1012-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 210000,
+            "currentTotal": 210000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 210000,
+            "currentTotal": 210000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 11540468,
+            "currentSem1": 3714473,
+            "currentSem2": 10194109,
+            "currentTotal": 13908582,
+            "budgetYear": 15699100
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-traffic-development-improvement-projects",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Misc. General Public Services-Traffic Development Improvement Projects",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Supplies & Materials Expenses - Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1999-5-02-03-990",
+            "pastYear": 8181,
+            "currentSem1": 0,
+            "currentSem2": 20000,
+            "currentTotal": 20000,
+            "budgetYear": 692400
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Communication Expenses - Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "- 5-02-05-020",
+            "pastYear": 24000,
+            "currentSem1": 10000,
+            "currentSem2": 14000,
+            "currentTotal": 24000,
+            "budgetYear": 24000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 34924609.38,
+            "currentSem1": 16939428.32,
+            "currentSem2": 39495603.68,
+            "currentTotal": 56435032,
+            "budgetYear": 57424557
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 34956790.38,
+            "currentSem1": 16949428.32,
+            "currentSem2": 39529603.68,
+            "currentTotal": 56479032,
+            "budgetYear": 58140957
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1999-1-07-05-030",
+            "pastYear": 179850,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 179850,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 35136640.38,
+            "currentSem1": 16949428.32,
+            "currentSem2": 39529603.68,
+            "currentTotal": 56479032,
+            "budgetYear": 58140957
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-aids-to-national-govt-agencies-soc-svs",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Misc. Health Services - Aids and Contribution to National Gov't Agencies (Mayor) Soc. Svs Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Phil. Natl. Red Cross- LLC/Cordova Chapter",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "4994-5-02-99-080",
+            "pastYear": 4000000,
+            "currentSem1": null,
+            "currentSem2": 4000000,
+            "currentTotal": 4000000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Financial Assistance to ERUF",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-080",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 4000000,
+            "currentSem1": null,
+            "currentSem2": 4000000,
+            "currentTotal": 4000000,
+            "budgetYear": 4000000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-assistance-to-hospitals",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Assistance to Hospitals",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Subsidy to Hospitals",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "4999-5-02-14-990",
+            "pastYear": 221061652,
+            "currentSem1": 152706858.5,
+            "currentSem2": 152706858.5,
+            "currentTotal": 305413717,
+            "budgetYear": 352566830
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 221061652,
+            "currentSem1": 152706858.5,
+            "currentSem2": 152706858.5,
+            "currentTotal": 305413717,
+            "budgetYear": 352566830
+          }
+        }
+      ]
+    },
+    {
+      "key": "sanitary-services-street-cleaning",
+      "title": "Sanitary Services-Street Cleaning (Mayor) Soc. Svs. Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Street Cleaning Program for 30 Barangays",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "6521-5-02-12-010",
+            "pastYear": 1616500,
+            "currentSem1": 256000,
+            "currentSem2": 9744000,
+            "currentTotal": 10000000,
+            "budgetYear": 10000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Barangay Garbage Collection Program",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-12-010",
+            "pastYear": 33551500,
+            "currentSem1": 8331000,
+            "currentSem2": 7169000,
+            "currentTotal": 15500000,
+            "budgetYear": 15500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 35168000,
+            "currentSem1": 8587000,
+            "currentSem2": 16913000,
+            "currentTotal": 25500000,
+            "budgetYear": 25500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "street-lighting-services",
+      "title": "Street Lighting Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies & Materials Exp. - Electrical Supplies",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "6531-5-02-03-990",
+            "pastYear": 1482800,
+            "currentSem1": 191900,
+            "currentSem2": 1308100,
+            "currentTotal": 1500000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 1482800,
+            "currentSem1": 191900,
+            "currentSem2": 1308100,
+            "currentTotal": 1500000,
+            "budgetYear": 2000000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-community-development-beautification",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Community Development -Beautification (Mayor) Social Services Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Beautification Expenses Including Honoraria, Prizes, Awards for Inter Brgy./Inter School Contest",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "6543-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1000000,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1000000,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          }
+        }
+      ]
+    },
+    {
+      "key": "community-dev-maintenance-of-plazas-parks-monuments",
+      "title": "Community Dev't - Maintenance of Plazas, Parks & Monuments - Social Services Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Repairs and Maintenance-Other Prop, Plant & Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "6544-5-02-13-990",
+            "pastYear": 904503,
+            "currentSem1": null,
+            "currentSem2": 1000000,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 904503,
+            "currentSem1": null,
+            "currentSem2": 1000000,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          }
+        }
+      ]
+    },
+    {
+      "key": "aids-contribution-to-national-govt-social-services",
+      "title": "Aids & Contribution to National Gov't (Mayor) Social Services Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Financial Assistance to ERUF",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7993-5-02-99-080",
+            "pastYear": 4000000,
+            "currentSem1": null,
+            "currentSem2": 4000000,
+            "currentTotal": 4000000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 4000000,
+            "currentSem1": null,
+            "currentSem2": 4000000,
+            "currentTotal": 4000000,
+            "budgetYear": null
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-7999-aid-to-barangays",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Development Project Assistance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7999-5-02-99-080",
+            "pastYear": 30000000,
+            "currentSem1": 28000000,
+            "currentSem2": 17000000,
+            "currentTotal": 45000000,
+            "budgetYear": 45000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Financial Aid to Barangay San Vicente",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "5-02-99-080",
+            "pastYear": 5000000,
+            "currentSem1": 3750000,
+            "currentSem2": 1250000,
+            "currentTotal": 5000000,
+            "budgetYear": 6000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Aid to Katarungang Pambarangay (30 Barangays)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "5-02-99-080",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 35000000,
+            "currentSem1": 31750000,
+            "currentSem2": 18350000,
+            "currentTotal": 50100000,
+            "budgetYear": 51100000
+          }
+        }
+      ]
+    },
+    {
+      "key": "ospa-debt-services",
+      "title": "OTHER SPECIAL PURPOSE APPROPRIATION - Debt Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "National Housing Authority (NHA)-(Sudtungan)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "9923-2-01-02-040",
+            "pastYear": 460257,
+            "currentSem1": 230128.14,
+            "currentSem2": 230128.86,
+            "currentTotal": 460257,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 460257,
+            "currentSem1": 230128.14,
+            "currentSem2": 230128.86,
+            "currentTotal": 460257,
+            "budgetYear": null
+          }
+        }
+      ]
+    },
+    {
+      "key": "retirement-and-other-benefits-lump-sum",
+      "title": "Retirement and Other Benefits-Lump-Sum Appropriation",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Retirement Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "9931-5-01-04-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 240000,
+            "currentTotal": 240000,
+            "budgetYear": 240000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Terminal Leave Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "5-01-04-030",
+            "pastYear": 12188479.96,
+            "currentSem1": 8447799.07,
+            "currentSem2": 5866703.93,
+            "currentTotal": 14314503,
+            "budgetYear": 10000000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 12188479.96,
+            "currentSem1": 8447799.07,
+            "currentSem2": 6106703.93,
+            "currentTotal": 14554503,
+            "budgetYear": 10240000
+          }
+        }
+      ]
+    },
+    {
+      "key": "spa-ldrrmf",
+      "title": "SPECIAL PURPOSE APPROPRIATION - Local Disaster Risk Reduction Mgt. Fund",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "70% Preparedness",
+          "level": 1,
+          "kind": "header",
+          "section": null,
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 6780549.63,
+            "currentSem1": 1386095.02,
+            "currentSem2": 15113904.98,
+            "currentTotal": 16500000,
+            "budgetYear": 18819150
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Welfare Goods Expenses (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-060",
+            "pastYear": 18943278,
+            "currentSem1": 0,
+            "currentSem2": 18500000,
+            "currentTotal": 18500000,
+            "budgetYear": 20000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Purchase of Emergency Medicines",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-070",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Medical, Dental & Lab. Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-080",
+            "pastYear": 2594680,
+            "currentSem1": 614349,
+            "currentSem2": 3385651,
+            "currentTotal": 4000000,
+            "budgetYear": 8000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies & Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 16337605.5,
+            "currentSem1": 1262925,
+            "currentSem2": 2495986,
+            "currentTotal": 3758911,
+            "budgetYear": 27619265
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Repair & Upgrade of City Owned Response Vehicle",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-13-060",
+            "pastYear": 841048.2,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Rent Expenses (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-050",
+            "pastYear": 4211500,
+            "currentSem1": 1986200,
+            "currentSem2": 2013800,
+            "currentTotal": 4000000,
+            "budgetYear": 4000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Donations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-080",
+            "pastYear": 10853751.76,
+            "currentSem1": 4819323.84,
+            "currentSem2": 2180676.16,
+            "currentTotal": 7000000,
+            "budgetYear": 12500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 2954447.5,
+            "currentSem1": 1512805.2,
+            "currentSem2": 2987194.8,
+            "currentTotal": 4500000,
+            "budgetYear": 4000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 63516860.59,
+            "currentSem1": 11581698.06,
+            "currentSem2": 46677212.94,
+            "currentTotal": 58258911,
+            "budgetYear": 96938415
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Infrastructure Assets - Water Supply Systems",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "9998-1-07-03-040",
+            "pastYear": 5000000,
+            "currentSem1": null,
+            "currentSem2": 5000000,
+            "currentTotal": 5000000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & other Structures - Hospitals & Health Centers",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-030",
+            "pastYear": 450000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Construction & Heavy Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-080",
+            "pastYear": 21500000,
+            "currentSem1": 0,
+            "currentSem2": 31500000,
+            "currentTotal": 31500000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Disaster Response & Rescue Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-090",
+            "pastYear": 13700000,
+            "currentSem1": 0,
+            "currentSem2": 0,
+            "currentTotal": 0,
+            "budgetYear": 1400000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Military, Police & Security Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-100",
+            "pastYear": 600000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Medical Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-110",
+            "pastYear": 2000000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Machinery",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1300000,
+            "currentTotal": 1300000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 1300000,
+            "currentTotal": 1300000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Communications Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-070",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 7600000,
+            "currentTotal": 7600000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Transportation Equipment - Motor Vehicles",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-010",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 21110000,
+            "currentTotal": 21110000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Water Supply Systems",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-040",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 5000000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Transportation Equipment - Other Transportation Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-990",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 0,
+            "currentTotal": 0,
+            "budgetYear": 45600000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 43250000,
+            "currentSem1": 0,
+            "currentSem2": 67810000,
+            "currentTotal": 67810000,
+            "budgetYear": 52000000
+          }
+        },
+        {
+          "label": "Local Disaster Risk Reduction Mgt. Fund: 30% Quick Respond Fund",
+          "level": 1,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "30% Quick Respond Fund",
+          "level": 0,
+          "kind": "header",
+          "section": "qrf",
+          "values": {}
+        },
+        {
+          "label": "30% Quick Respond Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "9998",
+            "pastYear": 21136050.2,
+            "currentSem1": null,
+            "currentSem2": 54029534,
+            "currentTotal": 54029534,
+            "budgetYear": 63830750
+          },
+          "section": "qrf"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "qrf",
+          "values": {
+            "pastYear": 21136050.2,
+            "currentSem1": null,
+            "currentSem2": 54029534,
+            "currentTotal": 54029534,
+            "budgetYear": 63830750
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 127902910.79,
+            "currentSem1": 11581698.06,
+            "currentSem2": 168516746.94,
+            "currentTotal": 180098445,
+            "budgetYear": 212769165
+          }
+        }
+      ]
+    },
+    {
+      "key": "spa-development-project",
+      "title": "SPECIAL PURPOSE APPROPRIATION - Development Project",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Repair & Maintenance - Infrastructure Assets",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "9999-5-02-13-030",
+            "pastYear": 6475000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 0,
+            "currentTotal": 0,
+            "budgetYear": 21050000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 6475000,
+            "currentSem1": 0,
+            "currentSem2": 0,
+            "currentTotal": 0,
+            "budgetYear": 21050000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Land Improvements, Aquaculture Structures (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "9999-1-07-01-010",
+            "pastYear": 219500000,
+            "currentSem1": 0,
+            "currentSem2": 34000000,
+            "currentTotal": 34000000,
+            "budgetYear": 13000000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Road Networks (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-010",
+            "pastYear": 18594720,
+            "currentSem1": 0,
+            "currentSem2": 90167100,
+            "currentTotal": 90167100,
+            "budgetYear": 23300000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Flood Control System",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 11000000,
+            "currentTotal": 11000000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Water Supply System (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-040",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 1000000,
+            "currentTotal": 1000000,
+            "budgetYear": 5000000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Park, Plazas & Monuments",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-090",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 5000000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - Buildings (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-010",
+            "pastYear": 32800000,
+            "currentSem1": 0,
+            "currentSem2": 89596678,
+            "currentTotal": 89596678,
+            "budgetYear": 252431657
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - School Buildings (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-020",
+            "pastYear": 11000000,
+            "currentSem1": 0,
+            "currentSem2": 0,
+            "currentTotal": 0,
+            "budgetYear": 23500000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - Hospitals & Health Centers",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-030",
+            "pastYear": 750000,
+            "currentSem1": 0,
+            "currentSem2": 20000000,
+            "currentTotal": 20000000,
+            "budgetYear": 2500000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - Markets",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 3000000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - Other Structures (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-990",
+            "pastYear": 80350000,
+            "currentSem1": 0,
+            "currentSem2": 85500000,
+            "currentTotal": 85500000,
+            "budgetYear": 45300000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Construction & Heavy Equipment (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-080",
+            "pastYear": 20000000,
+            "currentSem1": 0,
+            "currentSem2": 8100000,
+            "currentTotal": 8100000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Medical Equipment (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-110",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 18000000,
+            "currentTotal": 18000000,
+            "budgetYear": 680000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Other Machinery & Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-990",
+            "pastYear": 700000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Transportation Equipment - Other Transportation Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-990",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 5000000,
+            "currentTotal": 5000000,
+            "budgetYear": 10000000
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 383694720,
+            "currentSem1": null,
+            "currentSem2": 362363778,
+            "currentTotal": 362363778,
+            "budgetYear": 383711657
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 390169720,
+            "currentSem1": null,
+            "currentSem2": 362363778,
+            "currentTotal": 362363778,
+            "budgetYear": 404761657
+          }
+        }
+      ]
+    },
+    {
+      "key": "grand-total",
+      "title": "GRAND TOTAL",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "grandTotal",
+          "values": {
+            "pastYear": 1692159413.1,
+            "currentSem1": 590098720.19,
+            "currentSem2": 1531107903.81,
+            "currentTotal": 2121577624,
+            "budgetYear": 2225080783
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "offices": [
+      {
+        "key": "city-mayors-office",
+        "office": "CITY MAYOR'S OFFICE",
+        "ps": 397331207,
+        "mooe": 530958672,
+        "capitalOutlay": 200000,
+        "total": 928489879
+      },
+      {
+        "key": "ospa-ldrrmo",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Local Disaster Risk Reduction Mgt. Office",
+        "ps": null,
+        "mooe": 68186315,
+        "capitalOutlay": null,
+        "total": 68186315
+      },
+      {
+        "key": "ospa-peace-and-order",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Peace and Order Program",
+        "ps": null,
+        "mooe": 37230000,
+        "capitalOutlay": null,
+        "total": 37230000
+      },
+      {
+        "key": "ospa-manpower-services",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Manpower Services",
+        "ps": null,
+        "mooe": 2295980,
+        "capitalOutlay": null,
+        "total": 2295980
+      },
+      {
+        "key": "ospa-urban-poor-services",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Urban Poor Services",
+        "ps": null,
+        "mooe": 11296000,
+        "capitalOutlay": null,
+        "total": 11296000
+      },
+      {
+        "key": "sports-development-physical-fitness",
+        "office": "Sports Development -Physical Fitness",
+        "ps": null,
+        "mooe": 6750000,
+        "capitalOutlay": null,
+        "total": 6750000
+      },
+      {
+        "key": "lapu-lapu-livelihood-cooperative-services",
+        "office": "Lapu-Lapu Livelihood & Cooperative Services",
+        "ps": null,
+        "mooe": 3520000,
+        "capitalOutlay": 0,
+        "total": 3520000
+      },
+      {
+        "key": "ospa-mactan-north-reclamation",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Mactan North Reclamation Dev't Project",
+        "ps": null,
+        "mooe": 15000,
+        "capitalOutlay": null,
+        "total": 15000
+      },
+      {
+        "key": "project-development-monitoring-office",
+        "office": "Project Development Monitoring Office",
+        "ps": null,
+        "mooe": 10035000,
+        "capitalOutlay": null,
+        "total": 10035000
+      },
+      {
+        "key": "ospa-operations-of-hoopsdome",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Operations of Hoopsdome",
+        "ps": null,
+        "mooe": 1455000,
+        "capitalOutlay": null,
+        "total": 1455000
+      },
+      {
+        "key": "ospa-local-school-board-secretariat",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Local School Board Secretariat Office",
+        "ps": null,
+        "mooe": 62000,
+        "capitalOutlay": null,
+        "total": 62000
+      },
+      {
+        "key": "ospa-clean-and-green-office",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Clean and Green Office",
+        "ps": null,
+        "mooe": 2060000,
+        "capitalOutlay": null,
+        "total": 2060000
+      },
+      {
+        "key": "assistance-to-dilg",
+        "office": "Assistance to DILG",
+        "ps": null,
+        "mooe": 1113900,
+        "capitalOutlay": null,
+        "total": 1113900
+      },
+      {
+        "key": "assistance-to-public-attorney-office",
+        "office": "Assistance to Public Attorney Office",
+        "ps": null,
+        "mooe": 2405000,
+        "capitalOutlay": null,
+        "total": 2405000
+      },
+      {
+        "key": "ospa-information-technology-services",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Information Technology Services",
+        "ps": null,
+        "mooe": 4660000,
+        "capitalOutlay": null,
+        "total": 4660000
+      },
+      {
+        "key": "ospa-public-information-office",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Public Information Office",
+        "ps": null,
+        "mooe": 774000,
+        "capitalOutlay": null,
+        "total": 774000
+      },
+      {
+        "key": "ospa-local-youth-development-office",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Local Youth Development Office",
+        "ps": null,
+        "mooe": 655000,
+        "capitalOutlay": null,
+        "total": 655000
+      },
+      {
+        "key": "ospa-closap",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - City of Lapu-Lapu Office for Substance Abuse Prevention (CLOSAP)",
+        "ps": null,
+        "mooe": 5300000,
+        "capitalOutlay": null,
+        "total": 5300000
+      },
+      {
+        "key": "ospa-bjmp-maintenance-of-prisoners",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - BJMP - Maintenance of Prisoners",
+        "ps": null,
+        "mooe": 15699100,
+        "capitalOutlay": null,
+        "total": 15699100
+      },
+      {
+        "key": "ospa-traffic-development-improvement-projects",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Misc. General Public Services-Traffic Development Improvement Projects",
+        "ps": null,
+        "mooe": 58140957,
+        "capitalOutlay": null,
+        "total": 58140957
+      },
+      {
+        "key": "ospa-aids-to-national-govt-agencies-soc-svs",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Misc. Health Services - Aids and Contribution to National Gov't Agencies (Mayor) Soc. Svs Sector",
+        "ps": null,
+        "mooe": 4000000,
+        "capitalOutlay": null,
+        "total": 4000000
+      },
+      {
+        "key": "ospa-assistance-to-hospitals",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Assistance to Hospitals",
+        "ps": null,
+        "mooe": 352566830,
+        "capitalOutlay": null,
+        "total": 352566830
+      },
+      {
+        "key": "sanitary-services-street-cleaning",
+        "office": "Sanitary Services-Street Cleaning (Mayor) Soc. Svs. Sector",
+        "ps": null,
+        "mooe": 25500000,
+        "capitalOutlay": null,
+        "total": 25500000
+      },
+      {
+        "key": "street-lighting-services",
+        "office": "Street Lighting Services",
+        "ps": null,
+        "mooe": 2000000,
+        "capitalOutlay": null,
+        "total": 2000000
+      },
+      {
+        "key": "ospa-community-development-beautification",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION - Community Development -Beautification (Mayor) Social Services Sector",
+        "ps": null,
+        "mooe": 1000000,
+        "capitalOutlay": null,
+        "total": 1000000
+      },
+      {
+        "key": "community-dev-maintenance-of-plazas-parks-monuments",
+        "office": "Community Dev't - Maintenance of Plazas, Parks & Monuments - Social Services Sector",
+        "ps": null,
+        "mooe": 1000000,
+        "capitalOutlay": null,
+        "total": 1000000
+      },
+      {
+        "key": "ospa-7999-aid-to-barangays",
+        "office": "OTHER SPECIAL PURPOSE APPROPRIATION",
+        "ps": null,
+        "mooe": 51100000,
+        "capitalOutlay": null,
+        "total": 51100000
+      },
+      {
+        "key": "retirement-and-other-benefits-lump-sum",
+        "office": "Retirement and Other Benefits-Lump-Sum Appropriation",
+        "ps": 10240000,
+        "mooe": null,
+        "capitalOutlay": null,
+        "total": 10240000
+      },
+      {
+        "key": "spa-ldrrmf",
+        "office": "SPECIAL PURPOSE APPROPRIATION - Local Disaster Risk Reduction Mgt. Fund",
+        "ps": null,
+        "mooe": 96938415,
+        "capitalOutlay": 52000000,
+        "total": 212769165,
+        "qrf": 63830750
+      },
+      {
+        "key": "spa-development-project",
+        "office": "SPECIAL PURPOSE APPROPRIATION - Development Project",
+        "ps": null,
+        "mooe": 21050000,
+        "capitalOutlay": 383711657,
+        "total": 404761657
+      }
+    ],
+    "grandTotal": {
+      "pastYear": 1692159413.1,
+      "currentSem1": 590098720.19,
+      "currentSem2": 1531107903.81,
+      "currentTotal": 2121577624,
+      "budgetYear": 2225080783
+    }
+  },
+  "notes": [
+    "Excerpt of the 2026 Annual Budget: printed pages 17-36 of 424 (21 scanned pages; the last scanned page, p-21, is a second scan of printed page 35 and was not transcribed twice).",
+    "Covers the City Mayor's Office (LBP Form 2, pages 17-19) followed by the Special Purpose / Other Special Purpose Appropriations administered under the Mayor (pages 20-36). Each program block is its own table; blocks printed with only a MOOE (or PS) list and a Total have no subtotal row, and summary.offices takes that class from the printed block total.",
+    "Columns: 2024 Past Year Actual, 2025 First Semester Actual, 2025 Second Semester Estimates, 2025 Total, 2026 Budget Year Proposed. Amounts in full pesos.",
+    "Account codes are transcribed as printed; codes printed with a leading dash (e.g. '-5-01-01-020') carry the fund/office prefix of the first code in the block (e.g. 1011).",
+    "City Mayor's Office, Other Bonuses and Allowances (-5-01-02-990): printed 2025 First Semester 14,491,911.00 + Second Semester 25,269,476.00 = 39,761,387.00, but the printed 2025 Total is 40,132,387.00 (diff 371,000.00). The same 371,000.00 gap carries into the PS SUB-TOTAL, office TOTAL and GRAND TOTAL 2025 Total column; transcribed as printed.",
+    "Public Employment Services, Local Investment and Promotion Office, Debt Services (NHA) and Aids & Contribution to National Gov't (ERUF, code 7993) have no 2026 Budget Year Proposed amounts printed (blank); recorded as null.",
+    "Local Disaster Risk Reduction Mgt. Fund (spa-ldrrmf): the 30% Quick Respond Fund is a separate printed block (section 'qrf', 63,830,750.00 proposed) and is reported in summary.offices as 'qrf'; therefore the office's PS+MOOE+CO (96,938,415.00 + 52,000,000.00) is less than its printed Total 212,769,165.00 by exactly the QRF amount.",
+    "The GRAND TOTAL on printed page 36 (2026 proposed 2,225,080,783.00) is kept in its own table 'grand-total'; it equals the sum of all block totals transcribed here in every column."
+  ],
+  "unreadable": []
+}

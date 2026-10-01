@@ -1,0 +1,261 @@
+{
+  "id": "2019-q1-development-fund-20",
+  "type": "development-fund-20",
+  "title": "20% Component of the IRA Utilization",
+  "form": "FDP Form 7 - 20% Component of the IRA Utilization",
+  "period": {
+    "year": 2019,
+    "quarter": 1,
+    "asOf": "2019-03-31",
+    "printed": "As of March 31, 2019",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Paz C. Radaza",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "20% Component of the IRA Utilization",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Economic Development (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "economic",
+          "values": {}
+        },
+        {
+          "label": "1. Concreting of Ylaya Pag-ambakan Road to Kalubihan Rd. (Phase 1)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "1. Concreting of Ylaya Pag-ambakan Road to Kalubihan Rd. (Phase 1)",
+            "location": "Marigondon",
+            "totalCost": 14247921.75,
+            "dateStarted": "2016-03-13",
+            "targetCompletion": "2016-07-12",
+            "pctCompletion": 70,
+            "costIncurred": 4497668.28,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "2. Cluster III Drainage line & concreting of Sud-tungan resettlement",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "2. Cluster III Drainage line & concreting of Sud-tungan resettlement",
+            "location": "Basak",
+            "totalCost": 5756648.63,
+            "dateStarted": "2016-02-21",
+            "targetCompletion": "2019-03-20",
+            "pctCompletion": 75,
+            "costIncurred": 3741821.6,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "3. Const./Improvement of Ylaya-Pag-ambakan road to Kalubihan (PH2)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "3. Const./Improvement of Ylaya-Pag-ambakan road to Kalubihan (PH2)",
+            "location": "Marigondon",
+            "totalCost": 54462965.74,
+            "dateStarted": "2017-10-04",
+            "targetCompletion": "2019-02-16",
+            "pctCompletion": 100,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "4. Concreting of Access Rd. leading to MRF",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "4. Concreting of Access Rd. leading to MRF",
+            "location": "Sta. Rosa",
+            "totalCost": 2996067.56,
+            "dateStarted": "2018-02-09",
+            "targetCompletion": "2018-03-21",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "5. Concreting of Portion of Hoopsdome Rd.",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "5. Concreting of Portion of Hoopsdome Rd.",
+            "location": "Gun-ob",
+            "totalCost": 7009208.56,
+            "dateStarted": "2018-02-19",
+            "targetCompletion": "2019-03-18",
+            "pctCompletion": 70,
+            "costIncurred": 4906446,
+            "extensions": null,
+            "remarks": "on-going"
+          }
+        },
+        {
+          "label": "6. Installation of Drainage Line-Humay2 Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "6. Installation of Drainage Line-Humay2 Road",
+            "location": "Gun-ob",
+            "totalCost": 17747996.23,
+            "dateStarted": "2019-01-18",
+            "targetCompletion": "2019-06-17",
+            "pctCompletion": 10,
+            "costIncurred": 2662200,
+            "extensions": null,
+            "remarks": "on-going"
+          }
+        },
+        {
+          "label": "7. Installation of Drainage Line-Sudtunggan",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "7. Installation of Drainage Line-Sudtunggan",
+            "location": "Basak",
+            "totalCost": 69507888.4,
+            "dateStarted": "2019-01-18",
+            "targetCompletion": "2020-07-11",
+            "pctCompletion": 10,
+            "costIncurred": 10426184,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "08. Rehabilitation of Concrete Pavement Portion of Pajac-Maribago Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "08. Rehabilitation of Concrete Pavement Portion of Pajac-Maribago Road",
+            "location": "Pajac-Maribago",
+            "totalCost": 927906.2,
+            "dateStarted": "2019-01-18",
+            "targetCompletion": "2019-02-17",
+            "pctCompletion": 10,
+            "costIncurred": 139185.93,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "09. Improvement of Rip-rapping & Desilting of Basak Outfall Creek",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "09. Improvement of Rip-rapping & Desilting of Basak Outfall Creek",
+            "location": "Basak",
+            "totalCost": 70445062.13,
+            "dateStarted": "2018-12-21",
+            "targetCompletion": "2019-12-16",
+            "pctCompletion": 20,
+            "costIncurred": 13074603.54,
+            "extensions": null,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "Environmental Management (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "environmental",
+          "values": {}
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 9
+  },
+  "notes": [
+    "The form lists only Economic Development projects; the Environmental Management section is printed as \"NONE\" (Location and Total Cost columns). No Social Development section is printed.",
+    "The form prints no subtotals or grand total; summary totals are null.",
+    "A handwritten note pasted on page 1 covers part of the % Completion and Total Cost Incurred to Date cells of items 3 and 4. Item 3 % Completion is partly covered but legible as 100%; its cost incurred (leading digits hidden, visible \"...1,462,965.74\") and item 4 % Completion and cost incurred (visible \",996,067.56\") are recorded as null.",
+    "Two-digit years in Date Started (e.g. 02/21/16) were expanded to 20xx."
+  ],
+  "unreadable": [
+    "tables[0].rows[3].values.costIncurred",
+    "tables[0].rows[4].values.pctCompletion",
+    "tables[0].rows[4].values.costIncurred"
+  ]
+}

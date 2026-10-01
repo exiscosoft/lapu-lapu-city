@@ -1,0 +1,5184 @@
+{
+  "id": "2020-annual-procurement-plan",
+  "type": "procurement-plan",
+  "title": "Annual Procurement Plan for FY 2020",
+  "form": null,
+  "period": {
+    "year": 2020,
+    "quarter": null,
+    "asOf": null,
+    "printed": "FY 2020",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Florenda D. Sabsalon",
+      "position": "Administrative Officer V (Prepared/Submitted by)"
+    },
+    {
+      "name": "Atty. James Allan Sayson",
+      "position": "BAC Chairman"
+    },
+    {
+      "name": "Ronaldo D. Malacora",
+      "position": "BAC Vice Chairman"
+    },
+    {
+      "name": "Atty. Jeannify Tan-Dungog",
+      "position": "BAC Member"
+    },
+    {
+      "name": "Dr. Joel B. Semblante",
+      "position": "BAC Member"
+    },
+    {
+      "name": "Engr. Romeo T. Berame",
+      "position": "BAC Member"
+    },
+    {
+      "name": "Judith D. Furuta",
+      "position": "BAC Member"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor (Approved by)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "Annual Procurement Plan for FY 2020",
+      "columns": [
+        {
+          "key": "code",
+          "label": "Code (PAP)",
+          "type": "text"
+        },
+        {
+          "key": "project",
+          "label": "Procurement Program / Projects",
+          "type": "text"
+        },
+        {
+          "key": "endUser",
+          "label": "PMO/End-User",
+          "type": "text"
+        },
+        {
+          "key": "mode",
+          "label": "Mode of Procurement",
+          "type": "text"
+        },
+        {
+          "key": "schedule",
+          "label": "Schedule for Each Procurement Activity (Adv./Post of ITB/REI, Sub-Open of Bids, Notice of Awards, Contract Signing; merged cell)",
+          "type": "text"
+        },
+        {
+          "key": "fundSource",
+          "label": "Source of Funds",
+          "type": "text"
+        },
+        {
+          "key": "total",
+          "label": "Estimated Budget - Total",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Estimated Budget - MOOE",
+          "type": "amount"
+        },
+        {
+          "key": "co",
+          "label": "Estimated Budget - CO",
+          "type": "amount"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks (brief description of Program/Project)",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "MAINTENANCE & OTHER OPERATING EXPENSES",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010",
+            "project": "Training Expenses",
+            "endUser": "various offices",
+            "mode": "CB/NP-SVP53.9 / NP-53.5 Agency to Agency",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 12440500,
+            "mooe": 12440500,
+            "co": null,
+            "remarks": "Payments for training and seminar expenses for employees of the different dep't."
+          }
+        },
+        {
+          "label": "Training Expenses -Capability Development,Business Mngt. (GAD),Volunteer Fire Brigade, Effective Parenting Program,Monitoring, Evaluation, & Assessment of GAD Projects Implementation (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-1",
+            "project": "Training Expenses -Capability Development,Business Mngt. (GAD),Volunteer Fire Brigade, Effective Parenting Program,Monitoring, Evaluation, & Assessment of GAD Projects Implementation (GAD)",
+            "endUser": "various offices",
+            "mode": "CB/NP-SVP53.9 / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 4425200,
+            "mooe": 4425200,
+            "co": null,
+            "remarks": "Training expenses (meals, venue) for capabilty dev't., Effective Parentiing Program, monitoring, evaluation of GAD projects implementation."
+          }
+        },
+        {
+          "label": "Training Expenses-Business Planning (GAD),Customer and Frontline Service Training HRMD, Gender Sensitivity Training (GAD) FIRE,Capability Dev't.mfor VAW Desk Officer (GAD)DSWD,, GAD Plana nd Budget Formulation 2021 (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-2",
+            "project": "Training Expenses-Business Planning (GAD),Customer and Frontline Service Training HRMD, Gender Sensitivity Training (GAD) FIRE,Capability Dev't.mfor VAW Desk Officer (GAD)DSWD,, GAD Plana nd Budget Formulation 2021 (GAD)",
+            "endUser": "various offices",
+            "mode": "CB/NP-SVP53.9 / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2204300,
+            "mooe": 2204300,
+            "co": null,
+            "remarks": "Payment of foods and venue for training expenses of various department"
+          }
+        },
+        {
+          "label": "Training Expenses- Trainer's Training Foods,Marriage Counsellors (GAD), Mainstreaming & Replication of Best Practices (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-3",
+            "project": "Training Expenses- Trainer's Training Foods,Marriage Counsellors (GAD), Mainstreaming & Replication of Best Practices (GAD)",
+            "endUser": "CSWDO, OSCA",
+            "mode": "CB/NP-SVP53.9 / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 755800,
+            "mooe": 755800,
+            "co": null,
+            "remarks": "training for CSWDO and LCLRC personnel and clients"
+          }
+        },
+        {
+          "label": "Training Expenses-Leadership Training cum Team Building,Early Child Care & Dev't for Day Care Worker",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-4",
+            "project": "Training Expenses-Leadership Training cum Team Building,Early Child Care & Dev't for Day Care Worker",
+            "endUser": "CSWDO /LCLRC",
+            "mode": "CB/NP-SVP53.9 / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 551000,
+            "mooe": 551000,
+            "co": null,
+            "remarks": "training for CSWDO and LCLRC personnel and clients"
+          }
+        },
+        {
+          "label": "Training Expenses-Livelihood Assessment and Planning Workshop",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-5",
+            "project": "Training Expenses-Livelihood Assessment and Planning Workshop",
+            "endUser": "CSWDO /LCLRC",
+            "mode": "NP-53.9-Small Value Procurement / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 545000,
+            "mooe": 545000,
+            "co": null,
+            "remarks": "training for CSWDO and LCLRC personnel and clients"
+          }
+        },
+        {
+          "label": "Training Expenses-Livelihood Assessment and Planning Workshop",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-6",
+            "project": "Training Expenses-Livelihood Assessment and Planning Workshop",
+            "endUser": "CSWDO /LCLRC",
+            "mode": "NP-53.9-Small Value Procurement / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 437000,
+            "mooe": 437000,
+            "co": null,
+            "remarks": "training for CSWDO and LCLRC personnel and clients"
+          }
+        },
+        {
+          "label": "Training Expenses-Livelihood Livelihood Food Procesing (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-7",
+            "project": "Training Expenses-Livelihood Livelihood Food Procesing (GAD)",
+            "endUser": "CSWDO",
+            "mode": "NP-53.9-Small Value Procurement / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 850000,
+            "mooe": 850000,
+            "co": null,
+            "remarks": "training for CSWDO and LCLRC personnel and clients"
+          }
+        },
+        {
+          "label": "Training Expenses-Micro Small & Medium Enterprise (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 1,
+          "values": {
+            "code": "5-02-02-010-8",
+            "project": "Training Expenses-Micro Small & Medium Enterprise (GAD)",
+            "endUser": "CSWDO",
+            "mode": "NP-53.9-Small Value Procurement / NP-53.5 Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 437000,
+            "mooe": 437000,
+            "co": null,
+            "remarks": "training for clients of CSWDO and LCLRC"
+          }
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "5-02-03-010",
+            "project": "Office Supplies Expenses",
+            "endUser": "various offices",
+            "mode": "NP 53.5-Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 14945000,
+            "mooe": 14945000,
+            "co": null,
+            "remarks": "commonly used supplies needed for the daily operation of all offices and procured at PS-DBM and if not available then to other sources"
+          }
+        },
+        {
+          "label": "Accountable Forms",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "1091-5-02-03-020",
+            "project": "Accountable Forms",
+            "endUser": "CTO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 4400000,
+            "mooe": 4400000,
+            "co": null,
+            "remarks": "various accountable forms issuance to public"
+          }
+        },
+        {
+          "label": "Textbooks & Instructional Materials-LLCollege, Purchase of Reading Materials",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "-5-02-03-110",
+            "project": "Textbooks & Instructional Materials-LLCollege, Purchase of Reading Materials",
+            "endUser": "CTO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": 1400000,
+            "co": null,
+            "remarks": "various accountable forms issuance to public"
+          }
+        },
+        {
+          "label": "Military, Police and Traffic Supplies Expenses-Purchase of Ammunition",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "1181-5-02-03-120",
+            "project": "Military, Police and Traffic Supplies Expenses-Purchase of Ammunition",
+            "endUser": "PNP",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 250000,
+            "mooe": 250000,
+            "co": null,
+            "remarks": "for proficiency handgun qualification markmanship of police officer"
+          }
+        },
+        {
+          "label": "Military, Police and Traffic Supplies Expenses=SWAT-Purchase of Ammunitions",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "1181-5-02-03-120-1",
+            "project": "Military, Police and Traffic Supplies Expenses=SWAT-Purchase of Ammunitions",
+            "endUser": "PNP",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": 200000,
+            "co": null,
+            "remarks": "for proficiency handgun qualification markmanship of SWAT personnel"
+          }
+        },
+        {
+          "label": "Food Supplies Expenses, BJMP,CSWDO HOMECARE,LLC HOSPITAL, STA ROSA HOSPITAL, male and female dormitory",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "-5-02-03-050",
+            "project": "Food Supplies Expenses, BJMP,CSWDO HOMECARE,LLC HOSPITAL, STA ROSA HOSPITAL, male and female dormitory",
+            "endUser": "CHO,CSWDO ,HOMECARE, LLC HOSPITAL, STA. ROSA HOSPITAL, male/female dormitory at BJMP",
+            "mode": "NP-53.9-Small Value Procurement / Competitive Bidding",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 22345000,
+            "mooe": 22345000,
+            "co": null,
+            "remarks": "Food consumptions for children, patients and male/female inmate"
+          }
+        },
+        {
+          "label": "Purchase of First Aid Kits for graduates of Barangay Disaster Action Response Team (BDART) training",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060",
+            "project": "Purchase of First Aid Kits for graduates of Barangay Disaster Action Response Team (BDART) training",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3370800,
+            "mooe": 3370800,
+            "co": null,
+            "remarks": "to be distributed to graduates of Barangay Disaster Action Response Team."
+          }
+        },
+        {
+          "label": "Procurement of Non-Food Items such as; hygiene kits,cooking & kitchen utensils, mats, blankets,mosquito net, water container, tent, solar lamp, family sleepers & towel",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060-1",
+            "project": "Procurement of Non-Food Items such as; hygiene kits,cooking & kitchen utensils, mats, blankets,mosquito net, water container, tent, solar lamp, family sleepers & towel",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 7000000,
+            "mooe": 7000000,
+            "co": null,
+            "remarks": "Non-food items to be distributed to family affected in time of calamity"
+          }
+        },
+        {
+          "label": "Procurement of Food Items such as Rice, canned goods & noodles for Lapu-Lapu City",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060-2",
+            "project": "Procurement of Food Items such as Rice, canned goods & noodles for Lapu-Lapu City",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 8000000,
+            "mooe": 8000000,
+            "co": null,
+            "remarks": "Food items to be distributed to the Lapu-Lapu residence"
+          }
+        },
+        {
+          "label": "Procurement of Food Items such as Rice, canned goods & noodles for Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060-3",
+            "project": "Procurement of Food Items such as Rice, canned goods & noodles for Olango Island",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Food items to be distributed to the Olangoresidence"
+          }
+        },
+        {
+          "label": "Procurement of Food Items such as Rice, canned goods & noodles for Caubian Island",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060-4",
+            "project": "Procurement of Food Items such as Rice, canned goods & noodles for Caubian Island",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": 2500000,
+            "co": null,
+            "remarks": "Food items to be distributed to the Caubian residence"
+          }
+        },
+        {
+          "label": "Procurement of Food Items such as Rice, canned goods & noodles for Caohagan Island",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060-5",
+            "project": "Procurement of Food Items such as Rice, canned goods & noodles for Caohagan Island",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": 1500000,
+            "co": null,
+            "remarks": "Food items to be distributed to the Caohagan residence"
+          }
+        },
+        {
+          "label": "Procurement of Food Items such as Rice, canned goods & noodles for Pangan-an Island",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 2,
+          "values": {
+            "code": "9998-5-02-03-060-6",
+            "project": "Procurement of Food Items such as Rice, canned goods & noodles for Pangan-an Island",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Food items to be distributed to the Pangan-an residence"
+          }
+        },
+        {
+          "label": "Provisions of meals for personnel responding to emergencies, disasters, planned events and religious activities, national and international events.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "9998-5-02-03-060-7",
+            "project": "Provisions of meals for personnel responding to emergencies, disasters, planned events and religious activities, national and international events.",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "procurement of meals for various events"
+          }
+        },
+        {
+          "label": "Drugs and Medicines",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "-5-02-03-070",
+            "project": "Drugs and Medicines",
+            "endUser": "LLC HOSPITAL",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 25000000,
+            "mooe": 25000000,
+            "co": null,
+            "remarks": "to be distibuted to diff. brgy health centers and for pharmacy supplies of hospitals and school clinics."
+          }
+        },
+        {
+          "label": "Medicines and Medical Supplies (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-070-1",
+            "project": "Medicines and Medical Supplies (GAD)",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "Procurement of Drugs & Medicines to be distributed to all the brangays of Lapu-Lapu City."
+          }
+        },
+        {
+          "label": "Supplies and Materials-Rabies Vaccine (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "5-02-03-070-2",
+            "project": "Supplies and Materials-Rabies Vaccine (GAD)",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "purchases of drugs & medicines for dog bites patients"
+          }
+        },
+        {
+          "label": "Purchase of Anti-TB Drugs, Supplies and Materials ( CHO)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-070-3",
+            "project": "Purchase of Anti-TB Drugs, Supplies and Materials ( CHO)",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "For patients suffering from TB"
+          }
+        },
+        {
+          "label": "Purchase of Pneumoccocal/ Influenza Vaccines-",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-070-4",
+            "project": "Purchase of Pneumoccocal/ Influenza Vaccines-",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "for senior citizens pneumoccocal, influenza vaccines"
+          }
+        },
+        {
+          "label": "Medicines for Treatment of Pneumonia (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-070-5",
+            "project": "Medicines for Treatment of Pneumonia (GAD)",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3500000,
+            "mooe": 3500000,
+            "co": null,
+            "remarks": "for Pneumonia patients."
+          }
+        },
+        {
+          "label": "Procurement of Medical Supplies, Oxygen, life & saving equipment and materials for the ambulance & barangay responders.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "9998-5-02-03-080",
+            "project": "Procurement of Medical Supplies, Oxygen, life & saving equipment and materials for the ambulance & barangay responders.",
+            "endUser": "DRRMO",
+            "mode": "CB/SVP 53.9/DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 4000000,
+            "mooe": 4000000,
+            "co": null,
+            "remarks": "medical supplies & equipment for medical responders of DRRMO."
+          }
+        },
+        {
+          "label": "Medical, Dental, Laboratory Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4421-1-5-02-03-080",
+            "project": "Medical, Dental, Laboratory Supplies Expenses",
+            "endUser": "LLC HOSPITAL",
+            "mode": "CB/SVP 53.9/DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 15000000,
+            "mooe": 15000000,
+            "co": null,
+            "remarks": "Procurement of various medical, dental and laboratory supplies for hospital use."
+          }
+        },
+        {
+          "label": "Dental Supplies and Materials (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "5-02-03-080-1",
+            "project": "Dental Supplies and Materials (GAD)",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "various drugs and medicines for dental medicines"
+          }
+        },
+        {
+          "label": "Medical Suppliesr- Newborn Screening Test",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4421-1-5-02-03-080-1",
+            "project": "Medical Suppliesr- Newborn Screening Test",
+            "endUser": "LLC HOSPITAL",
+            "mode": "DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Newborn screening testing kit for newly-born babies."
+          }
+        },
+        {
+          "label": "Medicines and Medical Supplies (8 Lying-In Hospital & RTI Clinic) (GAD)/Laboratory Reagant Dengue",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-080-2",
+            "project": "Medicines and Medical Supplies (8 Lying-In Hospital & RTI Clinic) (GAD)/Laboratory Reagant Dengue",
+            "endUser": "CHO/ LLC HOSPITAL",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Various medicines to be distributed to Barangay Health Clinic"
+          }
+        },
+        {
+          "label": "Supplies and Materials-Blood Typing & Other Laboratory Reagent ,",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-080-3",
+            "project": "Supplies and Materials-Blood Typing & Other Laboratory Reagent ,",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "for Laboaratory Re agents for blood typing & medicines for pregnant women"
+          }
+        },
+        {
+          "label": "Purchase of Reproductive Health Supplies (GAD),",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-080-4",
+            "project": "Purchase of Reproductive Health Supplies (GAD),",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "for family planning program of Health centers"
+          }
+        },
+        {
+          "label": "Purchase of STI/HIV -Aids Supplies and Materials (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-080-5",
+            "project": "Purchase of STI/HIV -Aids Supplies and Materials (GAD)",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Drugs and medicines for STI-HIV Aids patients."
+          }
+        },
+        {
+          "label": "Purchase of Drug Testing Kit,",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 3,
+          "values": {
+            "code": "4411-5-02-03-080-6",
+            "project": "Purchase of Drug Testing Kit,",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Drug Testing kit for employment and other services"
+          }
+        },
+        {
+          "label": "Purchase of Newborn ScreeningKit (GAD),",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "4411-5-02-03-080-7",
+            "project": "Purchase of Newborn ScreeningKit (GAD),",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Newborn Testing kit for newly born babies"
+          }
+        },
+        {
+          "label": "Purchase of Urinalysis kit to Pregnant Women (GAD),",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "4411-5-02-99-990-4",
+            "project": "Purchase of Urinalysis kit to Pregnant Women (GAD),",
+            "endUser": "CHO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Urinalysis kit for pregnant women"
+          }
+        },
+        {
+          "label": "Dog Tags, Collars, Registration Certificates",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "8721-5-02-03-040-1",
+            "project": "Dog Tags, Collars, Registration Certificates",
+            "endUser": "CITY VET.",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": 50000,
+            "co": null,
+            "remarks": "issuance to pet owners for pet dogs who have done registerd on rabies vaccination"
+          }
+        },
+        {
+          "label": "Drugs & Medicines Expenses for Rabies Eradication Project",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "8721-5-02-03-040-2",
+            "project": "Drugs & Medicines Expenses for Rabies Eradication Project",
+            "endUser": "CITY VET.",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Various drugs and medicines used to eradicate Rabies."
+          }
+        },
+        {
+          "label": "Drugs & Medicines Expenses for Animal Health Program",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "8721-5-02-03-040-3",
+            "project": "Drugs & Medicines Expenses for Animal Health Program",
+            "endUser": "CITY VET.",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": 80000,
+            "co": null,
+            "remarks": "Various drugs and medicines used for animal health program"
+          }
+        },
+        {
+          "label": "Medicines/Pharaphernalia for Bird Flu Program",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "8721-5-02-03-040-4",
+            "project": "Medicines/Pharaphernalia for Bird Flu Program",
+            "endUser": "CITY VET.",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": 100000,
+            "co": null,
+            "remarks": "various veterinary medicines for Bird Flu project"
+          }
+        },
+        {
+          "label": "Drugs and Medicines for Euthanasia",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "8721-5-02-03-040-5",
+            "project": "Drugs and Medicines for Euthanasia",
+            "endUser": "CITY VET.",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": 80000,
+            "co": null,
+            "remarks": "Drugs and medicines for Stray dogs and cats for euthanasia."
+          }
+        },
+        {
+          "label": "Medical, Dental, Laboratory Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "8721-5-02-03-040-6",
+            "project": "Medical, Dental, Laboratory Supplies Expenses",
+            "endUser": "CITY VET.",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": 80000,
+            "co": null,
+            "remarks": "Various veterinary medicines for supplies"
+          }
+        },
+        {
+          "label": "Fuel,Oil & Lubricants Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "5-02-03-090",
+            "project": "Fuel,Oil & Lubricants Expenses",
+            "endUser": "various offices/ departments",
+            "mode": "CB/DC/ SHOPPING",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 23166364,
+            "mooe": 23166364,
+            "co": null,
+            "remarks": "for issuance of gasoline, diesel and oil/lubricants to various transportation vehicle"
+          }
+        },
+        {
+          "label": "Agricultural and Marine Supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "7831-5-02-03-100",
+            "project": "Agricultural and Marine Supplies",
+            "endUser": "CENRO",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": 150000,
+            "co": null,
+            "remarks": "various seeds,seedlings, fertilizers for various barangays used for Urban Farming"
+          }
+        },
+        {
+          "label": "Other Supplies & Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "5-02-03-990",
+            "project": "Other Supplies & Materials Expenses",
+            "endUser": "various offices/ department",
+            "mode": "CB/SVP 53.9/DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 34203491,
+            "mooe": 34203491,
+            "co": null,
+            "remarks": "Toiletries, Janitorial, painting materials, electrical supplies to be used for various offices."
+          }
+        },
+        {
+          "label": "Purchase of Family Modular Folding Evacuation Shelter",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "99998-5-02-03-990",
+            "project": "Purchase of Family Modular Folding Evacuation Shelter",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 6919314,
+            "mooe": 6919314,
+            "co": null,
+            "remarks": "Procurement of family modular folding shelter use for people affected in time of calamities."
+          }
+        },
+        {
+          "label": "Other Supplies & Materials Expenses- BMO,Sports, Carpentry Tools, DHM, Chemical for Dengue,informtion Education Communication Materials, Disinfectant,Cooking Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "5-02-03-990-1",
+            "project": "Other Supplies & Materials Expenses- BMO,Sports, Carpentry Tools, DHM, Chemical for Dengue,informtion Education Communication Materials, Disinfectant,Cooking Expenses",
+            "endUser": "various offices/ department",
+            "mode": "CB/SVP 53.9, DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 9405750,
+            "mooe": 9405750,
+            "co": null,
+            "remarks": "Procurement of sports supplies, carpentry tools, DHM, chemicals for dengue prevention, IEC materials."
+          }
+        },
+        {
+          "label": "IEC Campaign & program, installation of signages & electronic boards for hazards & emergency advisory reproduction of disaster/emergency related IEC and other materials & supplies.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "9998-5-02-03-990-1",
+            "project": "IEC Campaign & program, installation of signages & electronic boards for hazards & emergency advisory reproduction of disaster/emergency related IEC and other materials & supplies.",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 6919314,
+            "mooe": 6919314,
+            "co": null,
+            "remarks": "Purchases of supplies and materials during IEC campaign."
+          }
+        },
+        {
+          "label": "Other Supplies & Materials Exp.-LLC Technical & Vocational Trng Center,Purchase of NS1 for Dengue Prevention Control (GAD), Other Supplies for Sports (LLC COLLEGE), Cooking Gas Expenses, Electric Breast Pump (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "-5-02-03-990-2",
+            "project": "Other Supplies & Materials Exp.-LLC Technical & Vocational Trng Center,Purchase of NS1 for Dengue Prevention Control (GAD), Other Supplies for Sports (LLC COLLEGE), Cooking Gas Expenses, Electric Breast Pump (GAD)",
+            "endUser": "CHO",
+            "mode": "CB/SVP 53.9, DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1009000,
+            "mooe": 1009000,
+            "co": null,
+            "remarks": "Various supplies for LL Technical, vocational trng center,NS1 for Dengue prevention program, sports supplies for LLC College."
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses-LLC Technical Vocational Trng Center-Beauty Care (GAD)Tables and Chairs, wall mount diaper apparatus, Water Dispenser GAD",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 4,
+          "values": {
+            "code": "5-02-03-990-3",
+            "project": "Other Supplies and Materials Expenses-LLC Technical Vocational Trng Center-Beauty Care (GAD)Tables and Chairs, wall mount diaper apparatus, Water Dispenser GAD",
+            "endUser": "LLC COLLEGE",
+            "mode": "CB/SVP 53.9, DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 4073000,
+            "mooe": 4073000,
+            "co": null,
+            "remarks": "Payments for supplies/materials during various Trainings of Technical & Vocational Training Center."
+          }
+        },
+        {
+          "label": "Postage & Courier Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "5-02-05-010",
+            "project": "Postage & Courier Services",
+            "endUser": "various offices",
+            "mode": "NP 53.5-Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 417000,
+            "mooe": 417000,
+            "co": null,
+            "remarks": "payments for postage in various denominations from agency to agency"
+          }
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "5-02-05-020-1",
+            "project": "Telephone Expenses-Mobile",
+            "endUser": "various offices",
+            "mode": "NP-53.9-Small Value Procurement",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2940000,
+            "mooe": 2940000,
+            "co": null,
+            "remarks": "issuance for various heads of offices for communication purposes"
+          }
+        },
+        {
+          "label": "Internet Subscription Expenses-",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "-5-02-05-030",
+            "project": "Internet Subscription Expenses-",
+            "endUser": "IT Department",
+            "mode": "CB/SVP 53.9, DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2654400,
+            "mooe": 2654400,
+            "co": null,
+            "remarks": "payments to service provider of internet connection"
+          }
+        },
+        {
+          "label": "Cable Satelite, Telegraph, and Radio Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1091-5-02-05-040",
+            "project": "Cable Satelite, Telegraph, and Radio Expenses",
+            "endUser": "various offices",
+            "mode": "SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 35000,
+            "mooe": 35000,
+            "co": null,
+            "remarks": "payments for cable satelite, telegraph and radio expenses."
+          }
+        },
+        {
+          "label": "Awards/ Rewards Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-06-010",
+            "project": "Awards/ Rewards Expenses",
+            "endUser": "CMO",
+            "mode": "CB/SVP/ DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 5470500,
+            "mooe": 5470500,
+            "co": null,
+            "remarks": "Payments for awards and rewards for some deserving employees and achievement"
+          }
+        },
+        {
+          "label": "Prizes",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-06-020",
+            "project": "Prizes",
+            "endUser": "CMO",
+            "mode": "CB/SVP/ DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Expenses for distribution of prizes during events and competition"
+          }
+        },
+        {
+          "label": "Survey Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-07-010/1011-9-5-11-990",
+            "project": "Survey Expenses",
+            "endUser": "CMO/PDMO",
+            "mode": "CB,SVP,",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "Expenses for various topographic surveys of the different areas of Lapu-Lapu City."
+          }
+        },
+        {
+          "label": "Demolition and Relocation Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-08-010",
+            "project": "Demolition and Relocation Expenses",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 4500000,
+            "mooe": 4500000,
+            "co": null,
+            "remarks": "Expenses incurred during demolition and relocation of affected areas."
+          }
+        },
+        {
+          "label": "Extraordinary and Miscellaneous Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-10-030",
+            "project": "Extraordinary and Miscellaneous Expenses",
+            "endUser": "CMO",
+            "mode": "NP--S VP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3228419,
+            "mooe": 3228419,
+            "co": null,
+            "remarks": "Payments for extraordinary and miscellaneous expenses of the city."
+          }
+        },
+        {
+          "label": "Environmental/Sanitary Services-Desludging",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "-5-02-12-010",
+            "project": "Environmental/Sanitary Services-Desludging",
+            "endUser": "GSO/CENRO/HOSP/STA ROSA",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 45300000,
+            "mooe": 45300000,
+            "co": null,
+            "remarks": "Payments for desludging/ hauling of sludges on various septic of city gov't."
+          }
+        },
+        {
+          "label": "Consultancy Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-11-030",
+            "project": "Consultancy Services",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 6200000,
+            "mooe": 6200000,
+            "co": null,
+            "remarks": "Expenses for hiring consultancy services."
+          }
+        },
+        {
+          "label": "Security Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-12-030",
+            "project": "Security Services",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 13800000,
+            "mooe": 13800000,
+            "co": null,
+            "remarks": "Hiring of Security services to secured government facilities."
+          }
+        },
+        {
+          "label": "Other General Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "5-02-12-990",
+            "project": "Other General Services",
+            "endUser": "CMO/LLC HOSPITAL/STA ROSA HOSPITAL",
+            "mode": "CB/SVP",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 15643471,
+            "mooe": 15643471,
+            "co": null,
+            "remarks": "payments for various general sevices"
+          }
+        },
+        {
+          "label": "Purchase of Aggregate Base Course and Limestone",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "8751-5-02-13-030",
+            "project": "Purchase of Aggregate Base Course and Limestone",
+            "endUser": "CEO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": 1400000,
+            "co": null,
+            "remarks": "payments for Hot Asphalt, asphalt primer, aggregate base course & Limestone for road maintenance."
+          }
+        },
+        {
+          "label": "Repairs & Maintenance -Infrastructure Assets",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "1011-5-02-13-030",
+            "project": "Repairs & Maintenance -Infrastructure Assets",
+            "endUser": "CMO",
+            "mode": "SVP",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 126000,
+            "mooe": 126000,
+            "co": null,
+            "remarks": "Purchases for supplies and materials for infrastructure projects."
+          }
+        },
+        {
+          "label": "Repairs & Maintenance -Office Buildings & Other Structures",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 5,
+          "values": {
+            "code": "5-02-13-040",
+            "project": "Repairs & Maintenance -Office Buildings & Other Structures",
+            "endUser": "various offices",
+            "mode": "NP-53.9-Small Value Procurement /Competitive [text cut off in cell]",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 14820000,
+            "mooe": 14820000,
+            "co": null,
+            "remarks": "payments of materials for repair and maintenance of various offices and hauling of sludges of various septic tanks"
+          }
+        },
+        {
+          "label": "Repair & Maintenance of Machinery & Equipment:",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "2-5-02-13-050",
+            "project": "Repair & Maintenance of Machinery & Equipment:",
+            "endUser": "various offices",
+            "mode": "CB/SVP/ DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 5144000,
+            "mooe": 5144000,
+            "co": null,
+            "remarks": "payments for repair/maintenance of various office equipments (aircon, copier, computer, etc.)"
+          }
+        },
+        {
+          "label": "Repairs & Maint.-Transportation Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "2-5-02-13-060",
+            "project": "Repairs & Maint.-Transportation Equipment",
+            "endUser": "various offices",
+            "mode": "CB/SVP/ DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 9316000,
+            "mooe": 9316000,
+            "co": null,
+            "remarks": "payment for various spareparts and labor for repair /maintenance of various transportation equipments."
+          }
+        },
+        {
+          "label": "Repairs &Maint.-Furniture & Fixtures",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-13-070",
+            "project": "Repairs &Maint.-Furniture & Fixtures",
+            "endUser": "various offices",
+            "mode": "NP-SVP",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 250000,
+            "mooe": 250000,
+            "co": null,
+            "remarks": "payments for repair/maint. For furnitures and fixtures"
+          }
+        },
+        {
+          "label": "Payment for Renewal Laboratory Licenses & Drug Testing Center",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "4411-5-02-16-010-1",
+            "project": "Payment for Renewal Laboratory Licenses & Drug Testing Center",
+            "endUser": "CHO",
+            "mode": "DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": 50000,
+            "co": null,
+            "remarks": "for laboratory & drug testing center payment for license"
+          }
+        },
+        {
+          "label": "Philhhealth Accreditation for PCB, TB-DOTS & Birthing Homes",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "4411-5-02-16-010-2",
+            "project": "Philhhealth Accreditation for PCB, TB-DOTS & Birthing Homes",
+            "endUser": null,
+            "mode": "DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 20000,
+            "mooe": 20000,
+            "co": null,
+            "remarks": "for CHO payment of Philhealth accreditation for PCB, TB -DOTS & Birthing homes"
+          }
+        },
+        {
+          "label": "Rep.& Maint.-Other Property, Plant & Equip't.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-13-990",
+            "project": "Rep.& Maint.-Other Property, Plant & Equip't.",
+            "endUser": "various offices",
+            "mode": "SVP/DC",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 693000,
+            "mooe": 693000,
+            "co": null,
+            "remarks": "payment for the repair of other property & equipment"
+          }
+        },
+        {
+          "label": "Advertising Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-99-010",
+            "project": "Advertising Expenses",
+            "endUser": "various office",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 2200000,
+            "mooe": 2200000,
+            "co": null,
+            "remarks": "for publication of report on Expenditures, Revenues and Receipts & other payments for advertisement."
+          }
+        },
+        {
+          "label": "Printing & Publication Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-99-020",
+            "project": "Printing & Publication Expenses",
+            "endUser": "various office",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 226000,
+            "mooe": 226000,
+            "co": null,
+            "remarks": "for printing various documents"
+          }
+        },
+        {
+          "label": "Representation Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-99-030",
+            "project": "Representation Expenses",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3150000,
+            "mooe": 3150000,
+            "co": null,
+            "remarks": "Various purchases for representation expenses"
+          }
+        },
+        {
+          "label": "Transportation and Delivery Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-99-040",
+            "project": "Transportation and Delivery Expenses",
+            "endUser": "CENRO",
+            "mode": "CB/NP 53.5- Agency to Agency",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 3080000,
+            "mooe": 3080000,
+            "co": null,
+            "remarks": "for transportation and delivery expenses"
+          }
+        },
+        {
+          "label": "Rent Expenses/ Rental Expenses for Equipment (heavy equipt, trucks, genset etc.), warehouse, aircraft, boat, special rescue tools and materials in conduct of disaster preparedness, response & rehabilitation.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-99-050",
+            "project": "Rent Expenses/ Rental Expenses for Equipment (heavy equipt, trucks, genset etc.), warehouse, aircraft, boat, special rescue tools and materials in conduct of disaster preparedness, response & rehabilitation.",
+            "endUser": "various offices",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 6300000,
+            "mooe": 6300000,
+            "co": null,
+            "remarks": "payments for various rentals"
+          }
+        },
+        {
+          "label": "Rental Expenses for sea ambulance that would transport patients to medical facilities from island of Caubian, Caohagan, Pangan-an and Olango.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "9998-5-02-99-050-1",
+            "project": "Rental Expenses for sea ambulance that would transport patients to medical facilities from island of Caubian, Caohagan, Pangan-an and Olango.",
+            "endUser": "DRRMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 5110000,
+            "mooe": 5110000,
+            "co": null,
+            "remarks": "payments for expenses of transporting patients from island to medical facilites"
+          }
+        },
+        {
+          "label": "Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "1061-5-02-99-070",
+            "project": "Subscription Expenses",
+            "endUser": "GSO",
+            "mode": "SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 515000,
+            "mooe": 515000,
+            "co": null,
+            "remarks": "Payments for subscription such as newspaper and other reading materials."
+          }
+        },
+        {
+          "label": "Donations",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "5-02-99-080",
+            "project": "Donations",
+            "endUser": "CMO/CVMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 15840000,
+            "mooe": 15840000,
+            "co": null,
+            "remarks": "Various purchases as donations in various events and time of crises."
+          }
+        },
+        {
+          "label": "Subsidies, Contrib, Pro, Cost Adj/maint/Oversight,Emergency Assist_Aid to Individual in Crises Situation",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "-5-02-99-080-1",
+            "project": "Subsidies, Contrib, Pro, Cost Adj/maint/Oversight,Emergency Assist_Aid to Individual in Crises Situation",
+            "endUser": "CMO/CSWDO",
+            "mode": "CB/Emergency Purchase",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "purchases of various goods during emergency situation"
+          }
+        },
+        {
+          "label": "Emergency Assist-Stockfile for Emergency Relief Operation (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 6,
+          "values": {
+            "code": "7611-5-02-99-080-2",
+            "project": "Emergency Assist-Stockfile for Emergency Relief Operation (GAD)",
+            "endUser": "CSWDO",
+            "mode": "Emergency Purchases",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": 1500000,
+            "co": null,
+            "remarks": "Various goods and groceries, sack of rice for indigents during emergency"
+          }
+        },
+        {
+          "label": "Emergency Shelter Assistance (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "7611-5-02-99-080-3",
+            "project": "Emergency Shelter Assistance (GAD)",
+            "endUser": "CSWDO",
+            "mode": "Emergency Purchases",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 4000000,
+            "mooe": 4000000,
+            "co": null,
+            "remarks": "Various goods and groceries, sack of rice for indigents during emergency"
+          }
+        },
+        {
+          "label": "Child & Youth Welfare Program-Foster Care",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "7611-5-02-99-080-4",
+            "project": "Child & Youth Welfare Program-Foster Care",
+            "endUser": "CSWDO",
+            "mode": "Shopping/SVP",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": 1500000,
+            "co": null,
+            "remarks": "Catering Services, meals for youths welfare program"
+          }
+        },
+        {
+          "label": "Rice Support to Indigent Families",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "7611-5-02-99-080-6",
+            "project": "Rice Support to Indigent Families",
+            "endUser": "CSWDO",
+            "mode": "Emergency Purchases",
+            "schedule": "January - October, 2020",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "Purchase of rice to be given to indigents families"
+          }
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "-5-02-99-990",
+            "project": "Other Maintenance and Operating Expenses",
+            "endUser": "various offices",
+            "mode": "SVP/CB",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 3292500,
+            "mooe": 3292500,
+            "co": null,
+            "remarks": "purchases of other maintenance & operating expenses"
+          }
+        },
+        {
+          "label": "OTHER MOE-Rehabilitation Livelihood Education Program, SNACKS",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "-5-02-99-990",
+            "project": "OTHER MOE-Rehabilitation Livelihood Education Program, SNACKS",
+            "endUser": "UPAO/BJMP",
+            "mode": "SVP 53.9",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 211000,
+            "mooe": 211000,
+            "co": null,
+            "remarks": "payment for foods during livelihood education program"
+          }
+        },
+        {
+          "label": "OTHER MOE-Comm. Affrs. Dev't. Prog.,Meetings and Conferences,JOB FAIR(GAD,Inter Brgy Sportsfest,Womens Month (GAD),Annual Solidarity Celebration, Awards & Prizes for Most Outstanding Dep't & employees, Tax Collection Program, General Revision of Prop. Valuation, Rehabilitation/Fire Prevention Mo. Celebration, Residual Waste, Nutrition and MRP Activities, BBC Young Adults Projects, OSCA Social Enhancement Program/Wildlife Event/Festival, Pest Control Program",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "5-02-99-990-1",
+            "project": "OTHER MOE-Comm. Affrs. Dev't. Prog.,Meetings and Conferences,JOB FAIR(GAD,Inter Brgy Sportsfest,Womens Month (GAD),Annual Solidarity Celebration, Awards & Prizes for Most Outstanding Dep't & employees, Tax Collection Program, General Revision of Prop. Valuation, Rehabilitation/Fire Prevention Mo. Celebration, Residual Waste, Nutrition and MRP Activities, BBC Young Adults Projects, OSCA Social Enhancement Program/Wildlife Event/Festival, Pest Control Program",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 87331000,
+            "mooe": 87331000,
+            "co": null,
+            "remarks": "Catering services for various activities , medicines for rabies eradication and other purchases for various events of the city."
+          }
+        },
+        {
+          "label": "Programmed Services for Pre-hospital Care in Lapu-Lapu City",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "9998-5-02-99-990-1",
+            "project": "Programmed Services for Pre-hospital Care in Lapu-Lapu City",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 12150000,
+            "mooe": 12150000,
+            "co": null,
+            "remarks": "services for pre-hospital care in Lapu-Lapu City."
+          }
+        },
+        {
+          "label": "Other MOE-LLC Traffic Enforcement Program",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "1999-5-02-99-990-1",
+            "project": "Other MOE-LLC Traffic Enforcement Program",
+            "endUser": "CTMS",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 15900000,
+            "mooe": 15900000,
+            "co": null,
+            "remarks": "various purchases for traffic enforcement"
+          }
+        },
+        {
+          "label": "Other MOE-Inter Brgy Contest,Local Housing Board Operation, City Sportsfest,Cooperative Month Celebration,LLC Traffic Enhancement,Tax Mapping Program, Elderly Citizens Welfare Program (GAD), Editorial Board Meetings (GAD) Go, Green Program, Tourist Master Plan, septic pull-out maint.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "-5-02-99-990-2",
+            "project": "Other MOE-Inter Brgy Contest,Local Housing Board Operation, City Sportsfest,Cooperative Month Celebration,LLC Traffic Enhancement,Tax Mapping Program, Elderly Citizens Welfare Program (GAD), Editorial Board Meetings (GAD) Go, Green Program, Tourist Master Plan, septic pull-out maint.",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 269550000,
+            "mooe": 269550000,
+            "co": null,
+            "remarks": "Payments for various expenses during sportfest, cooperative month celebration, tax mapping,elderly citizens welfare, editorial board meetings, Go, Green program and Tourist master plan."
+          }
+        },
+        {
+          "label": "Programmed Services for Search, Rescue, & Retrieval and All Hazard response and prevention in Lapu-Lapu City",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "9998-5-02-99-990-2",
+            "project": "Programmed Services for Search, Rescue, & Retrieval and All Hazard response and prevention in Lapu-Lapu City",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 6642000,
+            "mooe": 6642000,
+            "co": null,
+            "remarks": "services for search, rescue & retrieval and hazard response/prevention in time of disaster/calamities."
+          }
+        },
+        {
+          "label": "Other MOE-Micro Enterprises Promotion,Orientation/Org of Kasambahay Desk Officer/member,National Sportsfest.Awards and Incentives for Employees,Oplan Iwas Paputok,Women's Welfare Program,Centenary Senior Citizens Award, Meetings & Conferences,Conduct Pabasa Campaign,Coastal Clean-Up, Products & Site Video Photo Library,",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "-5-02-99-990-3",
+            "project": "Other MOE-Micro Enterprises Promotion,Orientation/Org of Kasambahay Desk Officer/member,National Sportsfest.Awards and Incentives for Employees,Oplan Iwas Paputok,Women's Welfare Program,Centenary Senior Citizens Award, Meetings & Conferences,Conduct Pabasa Campaign,Coastal Clean-Up, Products & Site Video Photo Library,",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 7020000,
+            "mooe": 7020000,
+            "co": null,
+            "remarks": "Various expenses used during different activities such as micro enterprises promotion, orientation of kasambahay, national sportsfest, awards and incentives for employees, & other purchases for various activities."
+          }
+        },
+        {
+          "label": "Programmed Services for Emergency Operation Center and Early Warning System",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 7,
+          "values": {
+            "code": "9998-5-02-99-990-3",
+            "project": "Programmed Services for Emergency Operation Center and Early Warning System",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 2879200,
+            "mooe": 2879200,
+            "co": null,
+            "remarks": "services for relief operation center & early warning facilities/system"
+          }
+        },
+        {
+          "label": "Programmed Services for Relief Operations, Logistics and Administrative Support",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "9998-5-02-99-990-4",
+            "project": "Programmed Services for Relief Operations, Logistics and Administrative Support",
+            "endUser": "DRRMO",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 4730400,
+            "mooe": 4730400,
+            "co": null,
+            "remarks": "services for relief operations, logistics and administrative support."
+          }
+        },
+        {
+          "label": "Other MOE-ResearchPoverty Allevition,IRONMAN,Disabled Person's Welfare (GAD),Publication of GAD Newsletter (GAD),Protected Area Mgt. Enhancement Program (PAME)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-4",
+            "project": "Other MOE-ResearchPoverty Allevition,IRONMAN,Disabled Person's Welfare (GAD),Publication of GAD Newsletter (GAD),Protected Area Mgt. Enhancement Program (PAME)",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 40900000,
+            "mooe": 40900000,
+            "co": null,
+            "remarks": "Procurement of goods & services for poverty alleviation, Ironman activities, Disabled persons welfare, publication of GAD Newsletter and payment of expenses for protected area of mgt enhancement program."
+          }
+        },
+        {
+          "label": "Other MOEReserc & & Proj. Monitoring Prog.-Meetings & Conferences,-Employment Coaching & Mentoring,HRMD, Micronutritional Supplementation for Pregnant Women (GAD) Tourism Promotion.",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-4",
+            "project": "Other MOEReserc & & Proj. Monitoring Prog.-Meetings & Conferences,-Employment Coaching & Mentoring,HRMD, Micronutritional Supplementation for Pregnant Women (GAD) Tourism Promotion.",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": null,
+            "total": 3325000,
+            "mooe": 3325000,
+            "co": null,
+            "remarks": "Payments for meals/ foods during meetings and conferences of various offices, expenses for employment coaching & mentoring, for micronutritional supplementation of CHO, and Tourism promotion."
+          }
+        },
+        {
+          "label": "Other MOE-Moral Recovery,Comm Based Rehab Prog,LGBTQ Meetings (GAD),Livelihood & Microenterpreneural for OFW, Food Supplement (GD) Family & Community Welfare Program, Kadaugan sa Mactan Food Festival",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-5",
+            "project": "Other MOE-Moral Recovery,Comm Based Rehab Prog,LGBTQ Meetings (GAD),Livelihood & Microenterpreneural for OFW, Food Supplement (GD) Family & Community Welfare Program, Kadaugan sa Mactan Food Festival",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 7155000,
+            "mooe": 7155000,
+            "co": null,
+            "remarks": "Payments of expenses such as foods for meals on LGBTQ meetings, Livelihood & Microenterpreneural for OFW, kadaugan sa mactan festival."
+          }
+        },
+        {
+          "label": "Other MOE-Tx Enforcement Prog.,LGBTQ Summit (GAD), Infectious Waste Materials Collection,-State of the Children's Address, Kadaugan sa Mactan RE-enactment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-6",
+            "project": "Other MOE-Tx Enforcement Prog.,LGBTQ Summit (GAD), Infectious Waste Materials Collection,-State of the Children's Address, Kadaugan sa Mactan RE-enactment",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 15516000,
+            "mooe": 15516000,
+            "co": null,
+            "remarks": "Purchases make during various activities such as LGBTQ summit, expenses for infectious waste materials collection, state of the [text cut off in cell]"
+          }
+        },
+        {
+          "label": "Other MOEOperation of Minantaw Park,-After-Care and Follow-up (ACAP) Domestic Violence Client, Kadaugan Street Party",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-7",
+            "project": "Other MOEOperation of Minantaw Park,-After-Care and Follow-up (ACAP) Domestic Violence Client, Kadaugan Street Party",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 4400000,
+            "mooe": 4400000,
+            "co": null,
+            "remarks": "Purchases for expenses on Kadaugan Street Party Event, meals for After-care and follow-up of domestic violence client."
+          }
+        },
+        {
+          "label": "Other MOE-Meetings & Conferences,Violence Against Women & Children (VAWC( (GAD), Garbo sa Lapu-Lapu",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-8",
+            "project": "Other MOE-Meetings & Conferences,Violence Against Women & Children (VAWC( (GAD), Garbo sa Lapu-Lapu",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 7815000,
+            "mooe": 7815000,
+            "co": null,
+            "remarks": "Payments for expenses incurred during Garbo sa Lapu-Lapu and foods during meeting on violence against women & children."
+          }
+        },
+        {
+          "label": "Other MOE-Empowerment & Reaffirmation of Paternal Abilites & Talent (ERPAT), Tourism Week",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-9",
+            "project": "Other MOE-Empowerment & Reaffirmation of Paternal Abilites & Talent (ERPAT), Tourism Week",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 850000,
+            "mooe": 850000,
+            "co": null,
+            "remarks": "Purchases make during empowerment & reaffirmation of paternal activity and Tourism week activity."
+          }
+        },
+        {
+          "label": "Other MOE-GAD SUMMIT (GAD), Gabii sa Kabilin",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-10",
+            "project": "Other MOE-GAD SUMMIT (GAD), Gabii sa Kabilin",
+            "endUser": "CSWDO/OSCA",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 302500,
+            "mooe": 302500,
+            "co": null,
+            "remarks": "Payments for expenses for GAD Summit (GAD), Gabii sa Kabilin"
+          }
+        },
+        {
+          "label": "Other MOE-Election Expenses,After-PWD Associations Meeting, Cultural & Heritage Promotion Activities",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "-5-02-99-990-11",
+            "project": "Other MOE-Election Expenses,After-PWD Associations Meeting, Cultural & Heritage Promotion Activities",
+            "endUser": "CSWDO/OSCA",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 3150000,
+            "mooe": 3150000,
+            "co": null,
+            "remarks": "Payments for meals during PWD associations meeting and cultural heritage promotion activities."
+          }
+        },
+        {
+          "label": "Other MOE-Independence Day,Family Week Celebration (Parent Leaders), Architectural Plan Design Museo Lapu-Lapu",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "5-02-99-990-12",
+            "project": "Other MOE-Independence Day,Family Week Celebration (Parent Leaders), Architectural Plan Design Museo Lapu-Lapu",
+            "endUser": "various offices",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 1400000,
+            "mooe": 1400000,
+            "co": null,
+            "remarks": "Payments for meals, goods and services for Family Week Celebration and payment on architectural design of Museo Lapu-Lapu."
+          }
+        },
+        {
+          "label": "OTHER MOE-Charter Day celebration",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 8,
+          "values": {
+            "code": "5-02-99-990-13",
+            "project": "OTHER MOE-Charter Day celebration",
+            "endUser": "CMO",
+            "mode": "Competitive Bidding/NP 53.9-Small Value Procurement",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Expenses used for filing cases of various clients"
+          }
+        },
+        {
+          "label": "OTHER MOE-Taxpayer's Night",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 9,
+          "values": {
+            "code": "5-02-99-990-14",
+            "project": "OTHER MOE-Taxpayer's Night",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9, DC",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Expenses used for sexual orientation on Gender Identity"
+          }
+        },
+        {
+          "label": "OTHER MOE-State of City Address",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 9,
+          "values": {
+            "code": "5-02-99-990-15",
+            "project": "OTHER MOE-State of City Address",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Expenses incurred for parents and child dialog whenever problems arises"
+          }
+        },
+        {
+          "label": "OTHER MOE Teachers Month",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 9,
+          "values": {
+            "code": "5-02-99-990-16",
+            "project": "OTHER MOE Teachers Month",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "This invloves those victims from human trafficking mostly very young clients from provinces"
+          }
+        },
+        {
+          "label": "Other MOE-Cultural Program,Kasalan ng Bayan",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 9,
+          "values": {
+            "code": "-5-02-99-990-17",
+            "project": "Other MOE-Cultural Program,Kasalan ng Bayan",
+            "endUser": "CMO/CSWDO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": 2500000,
+            "co": null,
+            "remarks": "Payments for expenses during Kasalan ng Bayan activities."
+          }
+        },
+        {
+          "label": "Other MOE-Kiddieland, Binyagan ng Bayan",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 9,
+          "values": {
+            "code": "-5-02-99-990-18",
+            "project": "Other MOE-Kiddieland, Binyagan ng Bayan",
+            "endUser": "CMO/CSWDO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 4500000,
+            "mooe": 4500000,
+            "co": null,
+            "remarks": "Pyments for expenses during binyagan ng bayan activities."
+          }
+        },
+        {
+          "label": "Other MOE-Brgy Coordinating Office (BCO) Special Program",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "page": 9,
+          "values": {
+            "code": "1011-5-02-99-990-19",
+            "project": "Other MOE-Brgy Coordinating Office (BCO) Special Program",
+            "endUser": "CMO",
+            "mode": "CB/SVP 53.9",
+            "schedule": "January - December, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Pyments for expenses during binyagan ng bayan activities."
+          }
+        },
+        {
+          "label": "TOTAL MOOE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "total": 977841223,
+            "mooe": 977841223,
+            "co": null
+          }
+        },
+        {
+          "label": "CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of One (1) unit Camera",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 9,
+          "values": {
+            "code": "1011-9-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Camera",
+            "endUser": "LCLRC",
+            "mode": "SVP-53.9",
+            "schedule": "FOR 1ST QTR -JANUARY - March,2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "For documentation purpose."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Photo Copier",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 9,
+          "values": {
+            "code": "1016-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Photo Copier",
+            "endUser": "CVMO",
+            "mode": "SVP-53.9",
+            "schedule": "FOR 1ST QTR -JANUARY - March,2020",
+            "fundSource": "General Fund",
+            "total": 65000,
+            "mooe": null,
+            "co": 65000,
+            "remarks": "To procure new unit replacing the old unit"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 9,
+          "values": {
+            "code": "1016-1-07-05-030-2051",
+            "project": "Purchase of One (1) unit Laptop",
+            "endUser": "CVMO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 60000,
+            "mooe": null,
+            "co": 60000,
+            "remarks": "to be used by new elected official for office purposes"
+          }
+        },
+        {
+          "label": "Installation of Vinyl Tiles at Sangguniang Panlungsod",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 9,
+          "values": {
+            "code": "1021-1-07-04-990-2051",
+            "project": "Installation of Vinyl Tiles at Sangguniang Panlungsod",
+            "endUser": "SP OFFICE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2700000,
+            "mooe": null,
+            "co": 2700000,
+            "remarks": "to replace the old damage portion of vinyl tiles of SP office"
+          }
+        },
+        {
+          "label": "Purchase of Four (4) units Desktop Computer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 9,
+          "values": {
+            "code": "1021-1-07-05-030-2051",
+            "project": "Purchase of Four (4) units Desktop Computer",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "For upgrading of IT network infrastructure facilities"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 9,
+          "values": {
+            "code": "1022-1-07-05-030-2051",
+            "project": "Purchase of Two (2) units Laptop",
+            "endUser": "SP SECRETARY",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "Procurement of two (2) unit Laptop for City officials"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Colored Copier",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1031-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Colored Copier",
+            "endUser": "CITY ADMIN",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 60000,
+            "mooe": null,
+            "co": 60000,
+            "remarks": "procurement of new colored copier of the city admin office"
+          }
+        },
+        {
+          "label": "Replacement of Glass Door, One (1) lot, including labor and materials",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1041-1-07-04-010-2051",
+            "project": "Replacement of Glass Door, One (1) lot, including labor and materials",
+            "endUser": "CPDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 25000,
+            "mooe": null,
+            "co": 25000,
+            "remarks": "to replace the old damage glass door of the office of City Planning"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Manual Typewriter",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1051-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Manual Typewriter",
+            "endUser": "LCR",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "used for typing some of the old format of document of Local civil registrar."
+          }
+        },
+        {
+          "label": "Purchase of Diaper Changing Table/Wall mounted (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1051-1-07-07-010-2051",
+            "project": "Purchase of Diaper Changing Table/Wall mounted (GAD)",
+            "endUser": "LCR",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "used for clients mostly married women carrying babies making transactions."
+          }
+        },
+        {
+          "label": "Purchase of Four (4) units 5 tons Floor Mounted Aircon (inverter) with installation cost",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1061-1-07-05-020-2051",
+            "project": "Purchase of Four (4) units 5 tons Floor Mounted Aircon (inverter) with installation cost",
+            "endUser": "GSO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 640000,
+            "mooe": null,
+            "co": 640000,
+            "remarks": "Replacement of old and non functioning airconditioning unit"
+          }
+        },
+        {
+          "label": "Purchase of Four (4) units Intercom with installation cost",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1061-1-07-05-020-2052",
+            "project": "Purchase of Four (4) units Intercom with installation cost",
+            "endUser": "GSO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "used by GSO employees in communication."
+          }
+        },
+        {
+          "label": "Purchase of Ten(1) sets Branded Desktop Computer with complete sets of accessories and software (windows 10)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1061 1-07-05-030-2051",
+            "project": "Purchase of Ten(1) sets Branded Desktop Computer with complete sets of accessories and software (windows 10)",
+            "endUser": "GSO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": null,
+            "co": 600000,
+            "remarks": "Used for encoding supporting documents on the process of procurement and other purposes."
+          }
+        },
+        {
+          "label": "Purchase of Service Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "-1-07-06-010-2051",
+            "project": "Purchase of Service Vehicle",
+            "endUser": "GSO/HOMECARE/ TOURISM OFFICE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 4700000,
+            "mooe": null,
+            "co": 4700000,
+            "remarks": "Procurement of service vehicle used to transport central stock supplies,personnel, and children in Homecare and for tourism."
+          }
+        },
+        {
+          "label": "Purchase of Two(2) units Wall Mounted Airconditioning unit",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1071-1-07-05-020-2051",
+            "project": "Purchase of Two(2) units Wall Mounted Airconditioning unit",
+            "endUser": "CBO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 160000,
+            "mooe": null,
+            "co": 160000,
+            "remarks": "to replace the old and unserviceable aircon units of the office of City Budget."
+          }
+        },
+        {
+          "label": "Installation of Modular Partition, Cabinets & Tables",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1081-1-07-07-010-2051",
+            "project": "Installation of Modular Partition, Cabinets & Tables",
+            "endUser": "ACCTG.",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1300000,
+            "mooe": null,
+            "co": 1300000,
+            "remarks": "for office improvement"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Refrigerator",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1091-1-07-07-020-2051",
+            "project": "Purchase of One (1) unit Refrigerator",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "for frozen food products of the office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Portable Sound System",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1091-1-07-05-140-2051",
+            "project": "Purchase of One (1) unit Portable Sound System",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "Procurement of sound system used during meetings and other activity."
+          }
+        },
+        {
+          "label": "Fabrication of Counters at License & Fees Division",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1091-1-07-07-010-2051",
+            "project": "Fabrication of Counters at License & Fees Division",
+            "endUser": "CTO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": null,
+            "co": 500000,
+            "remarks": "to be installed at licensed & fees division."
+          }
+        },
+        {
+          "label": "Purchase of Benches",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1091-1-07-07-010-2052",
+            "project": "Purchase of Benches",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "additional benches for taxpayers."
+          }
+        },
+        {
+          "label": "Digitalization of Documents and Records Management System",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1101-1-09-01-020-2051",
+            "project": "Digitalization of Documents and Records Management System",
+            "endUser": "ASSESSOR",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "Payments for digitalization of documents, records & management system of assessor's office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Photo Copier Colour Inkjet",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 10,
+          "values": {
+            "code": "1131-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Photo Copier Colour Inkjet",
+            "endUser": "CITY ATTY. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 215000,
+            "mooe": null,
+            "co": 215000,
+            "remarks": "new copier for replacement of the old and unserviceable unit."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "1131-1-07-05-030-2051",
+            "project": "Purchase of Two (2) units Laptop",
+            "endUser": "CITY ATTY. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 92000,
+            "mooe": null,
+            "co": 92000,
+            "remarks": "laptop to be used for documentation."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Motorcycle",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "1131-1-07-06-010-2051",
+            "project": "Purchase of One (1) unit Motorcycle",
+            "endUser": "CITY ATTY. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 105000,
+            "mooe": null,
+            "co": 105000,
+            "remarks": "vehicle used for office transaction."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit 4.0HP Airconditioning (Floor mounted Inverter)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "1141-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit 4.0HP Airconditioning (Floor mounted Inverter)",
+            "endUser": "PROSECUTOR",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 160000,
+            "mooe": null,
+            "co": 160000,
+            "remarks": "Procurement of new aircons of the office of the city prosecutor."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Typewriter",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "1141-1-07-05-020-2052",
+            "project": "Purchase of One (1) unit Typewriter",
+            "endUser": "PROSECUTOR",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "use to type documents aside from computer."
+          }
+        },
+        {
+          "label": "Completion of IT Building of City College",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "3324-1-07-04-020-2051",
+            "project": "Completion of IT Building of City College",
+            "endUser": "CITY COLLEGE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 23000000,
+            "mooe": null,
+            "co": 23000000,
+            "remarks": "infrastructure project of the city gov't. of Lapu-Lapu -completion of IT Bldg of City College"
+          }
+        },
+        {
+          "label": "Transformer KVA rating",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "4411-1-07-03-050-2051",
+            "project": "Transformer KVA rating",
+            "endUser": "CHO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5046533,
+            "mooe": null,
+            "co": 5046533,
+            "remarks": "procurement of new and additional transformer for KVA rating"
+          }
+        },
+        {
+          "label": "Purchase of Fifteen (15) units Aircondition 2HP (window type)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "4411-1-07-05-020-2051",
+            "project": "Purchase of Fifteen (15) units Aircondition 2HP (window type)",
+            "endUser": "CHO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": null,
+            "co": 500000,
+            "remarks": "additional aircon units for the City Health Office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Copier Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "4411-1-07-05-020-2052",
+            "project": "Purchase of One (1) unit Copier Machine",
+            "endUser": "CHO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 250000,
+            "mooe": null,
+            "co": 250000,
+            "remarks": "purchase of new copier machine for documentation."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Resograph Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "4411-1-07-05-020-2053",
+            "project": "Purchase of One (1) unit Resograph Machine",
+            "endUser": "CHO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 300000,
+            "mooe": null,
+            "co": 300000,
+            "remarks": "used for documentation purposes"
+          }
+        },
+        {
+          "label": "Purchase of oNe (1) unit LCD Projector",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "4411-1-07-05-020-2054",
+            "project": "Purchase of oNe (1) unit LCD Projector",
+            "endUser": "CHO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": null,
+            "co": 50000,
+            "remarks": "used during meetings and conferences."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Cryotheraphy Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "4411-1-07-05-110-2051",
+            "project": "Purchase of One (1) unit Cryotheraphy Machine",
+            "endUser": "CHO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "additional medical equipment of City Health Office"
+          }
+        },
+        {
+          "label": "Purchase of Window Type Aircondition",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-1-07-05-020-2051",
+            "project": "Purchase of Window Type Aircondition",
+            "endUser": "CSWDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 105000,
+            "mooe": null,
+            "co": 105000,
+            "remarks": "Airconditioning unit used for the office CSWDO"
+          }
+        },
+        {
+          "label": "Purchase and Installation of Floor Mounted Aircondition",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-1-07-05-020-2052",
+            "project": "Purchase and Installation of Floor Mounted Aircondition",
+            "endUser": "CSWDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "Additional unit of aircondition of CSWDO office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Multimedia Projector",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-1-07-05-020-2053",
+            "project": "Purchase of One (1) unit Multimedia Projector",
+            "endUser": "CSWDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 19690,
+            "mooe": null,
+            "co": 19690,
+            "remarks": "projector used during meetings and conferences & other activities of CSWDO"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-1-07-05-030-2051",
+            "project": "Purchase of One (1) unit Laptop",
+            "endUser": "CSWDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 68640,
+            "mooe": null,
+            "co": 68640,
+            "remarks": "used during meetings and conferences."
+          }
+        },
+        {
+          "label": "Purchase of One (1) Computer Desktop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-1-07-05-030-2052",
+            "project": "Purchase of One (1) Computer Desktop",
+            "endUser": "CSWDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100416,
+            "mooe": null,
+            "co": 100416,
+            "remarks": "For encoding various documents of the office of CSWDO"
+          }
+        },
+        {
+          "label": "Purchase of Two(2) units Computer Desktop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-1-1-07-05-030",
+            "project": "Purchase of Two(2) units Computer Desktop",
+            "endUser": "CSWDO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "For encoding various documents of the office of CSWDO"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Camera",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-3-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Camera",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 35000,
+            "mooe": null,
+            "co": 35000,
+            "remarks": "for documentation purposes"
+          }
+        },
+        {
+          "label": "Purchase of Window Type Aircondition",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 11,
+          "values": {
+            "code": "7611-3-1-07-05-020-2052",
+            "project": "Purchase of Window Type Aircondition",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": null,
+            "co": 50000,
+            "remarks": "airconditioning unit used for Homecare building"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "7611-3-1-07-05-130-2051",
+            "project": "Purchase of One (1) unit Laptop",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 24000,
+            "mooe": null,
+            "co": 24000,
+            "remarks": "used by Homecare department head"
+          }
+        },
+        {
+          "label": "Purchase of Powered Speaker",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "7611-3-1-07-05-140-2051",
+            "project": "Purchase of Powered Speaker",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 40000,
+            "mooe": null,
+            "co": 40000,
+            "remarks": "powered speaker used for calling the attention of children at Homecare."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit 8 Channel Mixer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "7611-3-1-07-05-140-2052",
+            "project": "Purchase of One (1) unit 8 Channel Mixer",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 18000,
+            "mooe": null,
+            "co": 18000,
+            "remarks": "used during meetings and conferences."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Keyboard",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "7611-3-1-07-05-140-2053",
+            "project": "Purchase of One (1) unit Keyboard",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 15000,
+            "mooe": null,
+            "co": 15000,
+            "remarks": "Replacement of old keyboard"
+          }
+        },
+        {
+          "label": "Purchase of One (1) set conference table",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "7611-3-1-07-07-010-2051",
+            "project": "Purchase of One (1) set conference table",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 25000,
+            "mooe": null,
+            "co": 25000,
+            "remarks": "Conference table used during various meetings."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Executive Table",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "7611-3-1-07-07-010-2052",
+            "project": "Purchase of One (1) unit Executive Table",
+            "endUser": "HOMECARE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 16000,
+            "mooe": null,
+            "co": 16000,
+            "remarks": "Executive table for office use"
+          }
+        },
+        {
+          "label": "Construction of City Veterinarian Satelite Office in Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8721-1-07-04-010-2051",
+            "project": "Construction of City Veterinarian Satelite Office in Olango Island",
+            "endUser": "CITY VET",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 11000000,
+            "mooe": null,
+            "co": 11000000,
+            "remarks": "Construction of Satelite /Veterinarian office in Olango Island for pet animals"
+          }
+        },
+        {
+          "label": "Construction of Animal Rescue Center for Pet Animals in Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8721-1-07-04-990-2051",
+            "project": "Construction of Animal Rescue Center for Pet Animals in Olango Island",
+            "endUser": "CITY VET",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5500000,
+            "mooe": null,
+            "co": 5500000,
+            "remarks": "for animal rescue center of pet animals on Olango Island"
+          }
+        },
+        {
+          "label": "Construction of Entombment Site for Pet Animals in Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8721-1-07-04-990-2052",
+            "project": "Construction of Entombment Site for Pet Animals in Olango Island",
+            "endUser": "CITY VET",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 8200000,
+            "mooe": null,
+            "co": 8200000,
+            "remarks": "Entombment project of pet animals in Olango Island."
+          }
+        },
+        {
+          "label": "Repair of Perimeter Fence and Gate of Transfer Station",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8731-1-07-04-990-2051",
+            "project": "Repair of Perimeter Fence and Gate of Transfer Station",
+            "endUser": "CENRO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": null,
+            "co": 10000000,
+            "remarks": "perimeter fence repair & improvement on the gate of transfer station of MRF."
+          }
+        },
+        {
+          "label": "Residual Containment Area in Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8731-1-07-04-990-2052",
+            "project": "Residual Containment Area in Olango Island",
+            "endUser": "CENRO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": null,
+            "co": 2500000,
+            "remarks": "construction of residual waste containment area in Olango Island."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit 1.5HP window type aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8751-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit 1.5HP window type aircon",
+            "endUser": "CEO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "window type aircon for installation at CEO"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit 1.0HP window type aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8751-1-07-05-020-2052",
+            "project": "Purchase of One (1) unit 1.0HP window type aircon",
+            "endUser": "CEO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 25000,
+            "mooe": null,
+            "co": 25000,
+            "remarks": "window type aircon for installation at CEO"
+          }
+        },
+        {
+          "label": "Purchase of Five(5) units Computer Desktop w/ Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8751-1-07-05-030-2051",
+            "project": "Purchase of Five(5) units Computer Desktop w/ Printer",
+            "endUser": "CEO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 210000,
+            "mooe": null,
+            "co": 210000,
+            "remarks": "procurement of computer desktop with printer at CEO"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Wall Mounted Aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8852-1-07-05-020-2051",
+            "project": "Purchase of One (1) unit Wall Mounted Aircon",
+            "endUser": "CITY TOURISM OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 52500,
+            "mooe": null,
+            "co": 52500,
+            "remarks": "aircon to be installed at City Tourism office"
+          }
+        },
+        {
+          "label": "Purchase of Three (3) units Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8852-1-07-05-030-2051",
+            "project": "Purchase of Three (3) units Laptop",
+            "endUser": "CITY TOURISM OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 160000,
+            "mooe": null,
+            "co": 160000,
+            "remarks": "to procure laptop for the new officers assigned at Tourism office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Motorcycle",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8852-1-07-06-010-2052",
+            "project": "Purchase of One (1) unit Motorcycle",
+            "endUser": "CITY TOURISM OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 90000,
+            "mooe": null,
+            "co": 90000,
+            "remarks": "vehicle used for office transaction"
+          }
+        },
+        {
+          "label": "Installation of Pantry",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 12,
+          "values": {
+            "code": "8852-1-07-07-010-2051",
+            "project": "Installation of Pantry",
+            "endUser": "CITY TOURISM OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": null,
+            "co": 50000,
+            "remarks": "used as pantry/kitchen of tourism office"
+          }
+        },
+        {
+          "label": "Improvement of Hoopsdome Grounds-Concreting of Parking Area at the back of Hoopsdome",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 13,
+          "values": {
+            "code": null,
+            "project": "Improvement of Hoopsdome Grounds-Concreting of Parking Area at the back of Hoopsdome",
+            "endUser": "CMO/ HOOPSDOME",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "Concreting the parking area at the back of hoopsdome."
+          }
+        },
+        {
+          "label": "Improvement of Hoopsdome Grounds-Provision of Drainage System surrounding the Hoopsdome building",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 13,
+          "values": {
+            "code": null,
+            "project": "Improvement of Hoopsdome Grounds-Provision of Drainage System surrounding the Hoopsdome building",
+            "endUser": "CMO/ HOOPSDOME",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "Provisions of drainage system surrounding hoopsdome to minimize flooding."
+          }
+        },
+        {
+          "label": "Repair/ Improvement of Hoopsdome building",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "page": 13,
+          "values": {
+            "code": null,
+            "project": "Repair/ Improvement of Hoopsdome building",
+            "endUser": "CMO /HOOPSDOME",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": null,
+            "co": 10000000,
+            "remarks": "Various expenses for the repair and improvements of Hoopsdome building"
+          }
+        },
+        {
+          "label": "TOTAL CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "total": 105212779,
+            "mooe": null,
+            "co": 105212779
+          }
+        },
+        {
+          "label": "OTHER CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "header",
+          "section": "otherCapitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of One (1) set conference table & Chairs (San Vicente)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-07-010",
+            "project": "Purchase of One (1) set conference table & Chairs (San Vicente)",
+            "endUser": "CMO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 93202.5,
+            "mooe": null,
+            "co": 93202.5,
+            "remarks": "to be delivered to San Vicente, Olango Island"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Executive Table Chirs (San Vicente)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-07-010-1852",
+            "project": "Purchase of One (1) Executive Table Chirs (San Vicente)",
+            "endUser": "CMO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 20000,
+            "mooe": null,
+            "co": 20000,
+            "remarks": "to be delivered to San Vicente, Olango Island"
+          }
+        },
+        {
+          "label": "Purchase of Five (5) units Office Table & Chairs (San Vicente)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-07-010-1853",
+            "project": "Purchase of Five (5) units Office Table & Chairs (San Vicente)",
+            "endUser": "CMO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 49854.2,
+            "mooe": null,
+            "co": 49854.2,
+            "remarks": "to be delivered to San Vicente, Olango Island"
+          }
+        },
+        {
+          "label": "Purchase of Four (4) unit Steel Cabinet (San Vicente)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-07-010-1854",
+            "project": "Purchase of Four (4) unit Steel Cabinet (San Vicente)",
+            "endUser": "CMO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 59000,
+            "mooe": null,
+            "co": 59000,
+            "remarks": "to be delivered to San Vicente, Olango Island"
+          }
+        },
+        {
+          "label": "Purchase of Twelve(12) units Visitors Chairs",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1021-1-07-07-010-1851",
+            "project": "Purchase of Twelve(12) units Visitors Chairs",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 11600,
+            "mooe": null,
+            "co": 11600,
+            "remarks": "procurement of chairs for visitors"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "7611-2-1-07-05-030-1851",
+            "project": "Purchase of One (1) Laptop",
+            "endUser": "GENDER & DEV'T. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 47500,
+            "mooe": null,
+            "co": 47500,
+            "remarks": "Laptop use for office transaction"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit SOFA w/ center table",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "7611-2-1-07-07-010-1851",
+            "project": "Purchase of One (1) unit SOFA w/ center table",
+            "endUser": "GENDER & DEV'T. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 17831,
+            "mooe": null,
+            "co": 17831,
+            "remarks": "to be used for visitors in the office"
+          }
+        },
+        {
+          "label": "Purchase of Backhoe",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "8731-1-07-05-080-1851",
+            "project": "Purchase of Backhoe",
+            "endUser": "CENRO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 12000000,
+            "mooe": null,
+            "co": 12000000,
+            "remarks": "procurement of backhoe equipment for hauling garbage from transfer station to garbage truck."
+          }
+        },
+        {
+          "label": "Perimeter Fence of Mini City Hall, Talima",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "8751-1-07-04-990-1851",
+            "project": "Perimeter Fence of Mini City Hall, Talima",
+            "endUser": "CEO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2229079.32,
+            "mooe": null,
+            "co": 2229079.32,
+            "remarks": "installation of perimeter fence at Talima mini city hall for securing the property."
+          }
+        },
+        {
+          "label": "Purchase of 4 units Computer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "8751-1-07-05-030-1851",
+            "project": "Purchase of 4 units Computer",
+            "endUser": "CEO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 154560,
+            "mooe": null,
+            "co": 154560,
+            "remarks": "Computer units for encoding various office transaction."
+          }
+        },
+        {
+          "label": "Repair/Improvement of City Assessor's Office",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1101-1-07-01-010-1851",
+            "project": "Repair/Improvement of City Assessor's Office",
+            "endUser": "ASSESSOR",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 509347.04,
+            "mooe": null,
+            "co": 509347.04,
+            "remarks": "various materials for improvements of the office of City Assessors"
+          }
+        },
+        {
+          "label": "Installation of Three (3) units 100KVA Transformer at City Hall",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-03-050-1951",
+            "project": "Installation of Three (3) units 100KVA Transformer at City Hall",
+            "endUser": "CMO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "purchase of three (3) units 100KVA Transformer to be installed at City Hall"
+          }
+        },
+        {
+          "label": "Installation of Three (3) units 100KVA Transformer at City Abbattoir",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-03-050-1952",
+            "project": "Installation of Three (3) units 100KVA Transformer at City Abbattoir",
+            "endUser": "CMO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "purchase of three (3) units 100KVA Transformer to be installed at City Abbattoir"
+          }
+        },
+        {
+          "label": "Installation of Breastfeeding Station/Room",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 13,
+          "values": {
+            "code": "1011-1-07-04-990-1951",
+            "project": "Installation of Breastfeeding Station/Room",
+            "endUser": "CMO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 700000,
+            "mooe": null,
+            "co": 700000,
+            "remarks": "purchase of materials & labor for installation of breastfeeding room for lactating mother."
+          }
+        },
+        {
+          "label": "Purchase of Emergency Power Supply System (Generator Set 750KB)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1011-1-07-05-010-1951",
+            "project": "Purchase of Emergency Power Supply System (Generator Set 750KB)",
+            "endUser": "CMO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 15000000,
+            "mooe": null,
+            "co": 15000000,
+            "remarks": "purchase of generator set for emergency power supply"
+          }
+        },
+        {
+          "label": "Purchase of Split Type Aircondition for Local Youth Dev't. Office (LYDO)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1011-1-07-05-020-1951",
+            "project": "Purchase of Split Type Aircondition for Local Youth Dev't. Office (LYDO)",
+            "endUser": "CMO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 70000,
+            "mooe": null,
+            "co": 70000,
+            "remarks": "airconditioning unit to be installed at LYDO office."
+          }
+        },
+        {
+          "label": "Installation of Multimedia Motorized Projector",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1021-1-07-05-020-1951",
+            "project": "Installation of Multimedia Motorized Projector",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 180000,
+            "mooe": null,
+            "co": 180000,
+            "remarks": "multimedia motorized projector used for various events of the SP office"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Wireless Microphone",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1021-1-07-05-020-1952",
+            "project": "Purchase of Two (2) units Wireless Microphone",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "wireless microphone used during conferences and meetings."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Typewriter",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1021-1-07-05-020-1953",
+            "project": "Purchase of One (1) unit Typewriter",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "for typing various documents aside from the use of computer"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Airconditioning",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1021-1-07-05-020-1954",
+            "project": "Purchase of Two (2) units Airconditioning",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 60000,
+            "mooe": null,
+            "co": 60000,
+            "remarks": "airconditioning units to be installed at SP office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Computer with Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1021-1-07-05-030-1951",
+            "project": "Purchase of One (1) unit Computer with Printer",
+            "endUser": "SP OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": null,
+            "co": 80000,
+            "remarks": "procurement of desktop computer for office use."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1031-1-07-05-030-1951",
+            "project": "Purchase of One (1) unit Laptop",
+            "endUser": "CITY ADMIN OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": null,
+            "co": 50000,
+            "remarks": "laptop to be used by the city admin officer"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Computer with Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1031-1-07-05-030-1952",
+            "project": "Purchase of Two (2) units Computer with Printer",
+            "endUser": "CITY ADMIN OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "additional desktop computer for encoding various transaction of the city admin office."
+          }
+        },
+        {
+          "label": "Purchase of Conference Table",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1041-1-07-07-010-1951",
+            "project": "Purchase of Conference Table",
+            "endUser": "CITY PLANNING & DEV'T. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "conference table used during various meetings of the CPDO personnel"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Photo Copier Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1051-1-07-05-020-1851",
+            "project": "Purchase of One (1) unit Photo Copier Machine",
+            "endUser": "LOCAL CIVIL REGISTRAR",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 142000,
+            "mooe": null,
+            "co": 142000,
+            "remarks": "additional photo copier machine used for various document of local civil registrar"
+          }
+        },
+        {
+          "label": "Purchase of Five(5) units Branded Computer Desktop",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1051-1-07-05-030-1951",
+            "project": "Purchase of Five(5) units Branded Computer Desktop",
+            "endUser": "LOCAL CIVIL REGISTRAR",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 400000,
+            "mooe": null,
+            "co": 400000,
+            "remarks": "branded desktop computer to be used by LCR personnel in encoding various transactions."
+          }
+        },
+        {
+          "label": "Improvement of Comfort Room",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1061-1-07-04-990-1951",
+            "project": "Improvement of Comfort Room",
+            "endUser": "GSO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 700000,
+            "mooe": null,
+            "co": 700000,
+            "remarks": "various materials used for improvements and repair of the unserviceable comfort room of GSO"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Service Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1071-1-07-06-010-1951",
+            "project": "Purchase of One (1) unit Service Vehicle",
+            "endUser": "CBO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": null,
+            "co": 1500000,
+            "remarks": "additional service vehicle as replacement of the old one"
+          }
+        },
+        {
+          "label": "Repair/Improvement of Comfort Rooms",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1081-1-07-04-010-1951",
+            "project": "Repair/Improvement of Comfort Rooms",
+            "endUser": "ACCOUNTING OFFICE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": null,
+            "co": 500000,
+            "remarks": "labor and materials for the repair/improvements of the comfort room of the city acctg office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Projector",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1081-1-07-05-020-1951",
+            "project": "Purchase of One (1) unit Projector",
+            "endUser": "ACCOUNTING OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 30000,
+            "mooe": null,
+            "co": 30000,
+            "remarks": "projector unit used during presentation in various events"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Computer with Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1081-1-07-05-030-1951",
+            "project": "Purchase of Two (2) units Computer with Printer",
+            "endUser": "ACCOUNTING OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "additional computer with printer to be used in accounting transactions."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Motor Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 14,
+          "values": {
+            "code": "1081-1-07-06-010-1951",
+            "project": "Purchase of One (1) unit Motor Vehicle",
+            "endUser": "ACCOUNTING OFFICE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": null,
+            "co": 1500000,
+            "remarks": "new transportation equipment used for various transactions of the city acctg office."
+          }
+        },
+        {
+          "label": "Purchase of Furniture and Fixtures",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1081-1-07-07-010-1951",
+            "project": "Purchase of Furniture and Fixtures",
+            "endUser": "ACCOUNTING OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "new furnitures and fixtures for improvements of the office or for transacting public."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Airconditioning",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-05-020-1951",
+            "project": "Purchase of Two (2) units Airconditioning",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 300000,
+            "mooe": null,
+            "co": 300000,
+            "remarks": "airconditioning units to be installed at CTO office for convenience of taxpayers."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Copier",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-05-020-1952",
+            "project": "Purchase of One (1) unit Copier",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 350000,
+            "mooe": null,
+            "co": 350000,
+            "remarks": "copying machine used for office documentation/ transactions."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units 4.0HP Cassette Type Aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-05-020-1953",
+            "project": "Purchase of Two (2) units 4.0HP Cassette Type Aircon",
+            "endUser": "CTO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 450000,
+            "mooe": null,
+            "co": 450000,
+            "remarks": "additional airconditioning units to be installed at the City Treasurer's office"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Evaporative air cooler",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-05-020-1954",
+            "project": "Purchase of Two (2) units Evaporative air cooler",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "evaporative cooler used during renewal of business permit to be installed at the lobby of the city hall."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Bill Counter",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-05-020-1955",
+            "project": "Purchase of Two (2) units Bill Counter",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 300000,
+            "mooe": null,
+            "co": 300000,
+            "remarks": "Bill counter for transacting business permit/licenses"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Safety Vaults",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-07-010-1951",
+            "project": "Purchase of Two (2) units Safety Vaults",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": null,
+            "co": 150000,
+            "remarks": "safety vaults where to deposits the payments or cash collection of CTO"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Office File Rack (steel)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1091-1-07-07-010-1952",
+            "project": "Purchase of One (1) Office File Rack (steel)",
+            "endUser": "CTO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": null,
+            "co": 150000,
+            "remarks": "procurement of office file rack used for filing various documents."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Split Type Aircondition",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1101-1-07-05-020-1951",
+            "project": "Purchase of Two (2) units Split Type Aircondition",
+            "endUser": "CITY ASSESSOR",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 130510,
+            "mooe": null,
+            "co": 130510,
+            "remarks": "airconditioning units to be installed at city assessor's office."
+          }
+        },
+        {
+          "label": "Supply of Materials, Fabrication and Installation of Modular Partition, Modular Cabinets, Tables and Mobile Cabinets",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1101-1-07-07-010-1951",
+            "project": "Supply of Materials, Fabrication and Installation of Modular Partition, Modular Cabinets, Tables and Mobile Cabinets",
+            "endUser": "CITY ASSESSOR",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1490000,
+            "mooe": null,
+            "co": 1490000,
+            "remarks": "office improvements of the city assessor's office-installation of modular partition,cabinets, tables and mobile cabinets."
+          }
+        },
+        {
+          "label": "Purchase & Installation of Two (2) units Split Type Aircondition",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1131-1-07-05-020-1951",
+            "project": "Purchase & Installation of Two (2) units Split Type Aircondition",
+            "endUser": "CITY ATTY. OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 124000,
+            "mooe": null,
+            "co": 124000,
+            "remarks": "airconditioning units to be installed at City Attorney's office"
+          }
+        },
+        {
+          "label": "Purchase of Airconditioning unit (package, window type)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1141-1-07-05-020-1851",
+            "project": "Purchase of Airconditioning unit (package, window type)",
+            "endUser": "PROSECUTION OFFICE",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 125650,
+            "mooe": null,
+            "co": 125650,
+            "remarks": "airconditioning units to be installed at City Prosecutor's office"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Window Type Aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1161-1-07-05-020-1851",
+            "project": "Purchase of Two (2) units Window Type Aircon",
+            "endUser": "REGISTER OF DEEDS",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 57900,
+            "mooe": null,
+            "co": 57900,
+            "remarks": "airconditioning units to be installed at City Register of Deed's office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1181-1-07-05-030-1951",
+            "project": "Purchase of One (1) unit Laptop",
+            "endUser": "POLICE SERVICES",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": null,
+            "co": 80000,
+            "remarks": "laptop to be used by the city director of LLCPO"
+          }
+        },
+        {
+          "label": "Purchase of Bulletproof Vest",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1181-1-07-05-100-1951",
+            "project": "Purchase of Bulletproof Vest",
+            "endUser": "POLICE SERVICES",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "to own a bulletproof vest to be issued to police officers for protections"
+          }
+        },
+        {
+          "label": "Purchase of Bulletproof Vest",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1181-2-07-05-100-1951",
+            "project": "Purchase of Bulletproof Vest",
+            "endUser": "POLICE SERVICES",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": null,
+            "co": 1000000,
+            "remarks": "to own a bulletproof vest to be issued to police officers for protections"
+          }
+        },
+        {
+          "label": "Purchase of Diving Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "1181-5-1-07-05-990-1951",
+            "project": "Purchase of Diving Equipment",
+            "endUser": "POLICE SERVICES-ENVIRONMENTAL & PROTECTION",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": null,
+            "co": 1000000,
+            "remarks": "diving equipment used by police officers"
+          }
+        },
+        {
+          "label": "Completion of Roofing at City College",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "3324-1-07-04-020-1951",
+            "project": "Completion of Roofing at City College",
+            "endUser": "LAPU-LAPU CITY COLLEGE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": null,
+            "co": 2000000,
+            "remarks": "labor and materials for the completion of roofing at City College"
+          }
+        },
+        {
+          "label": "Purchase of Automated Chemistry Analysis",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 15,
+          "values": {
+            "code": "4411-1-07-05-010-1951",
+            "project": "Purchase of Automated Chemistry Analysis",
+            "endUser": "CHO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": null,
+            "co": 2000000,
+            "remarks": "to own a new automated chemistry analysis equipment of the CHO"
+          }
+        },
+        {
+          "label": "Purchase of Motor Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "4411-1-07-05-110-1951",
+            "project": "Purchase of Motor Vehicle",
+            "endUser": "CHO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": null,
+            "co": 1500000,
+            "remarks": "New transportation equipment used for various transactions of the city health office."
+          }
+        },
+        {
+          "label": "Purchase of Laboratory Information System",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "4411-1-09-01-020-1951",
+            "project": "Purchase of Laboratory Information System",
+            "endUser": "CHO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2800000,
+            "mooe": null,
+            "co": 2800000,
+            "remarks": "installation of laboratory information system for conveyance of transacting public"
+          }
+        },
+        {
+          "label": "Completion of VAWC Victim Shelter (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "7611-1-07-04-010-1951",
+            "project": "Completion of VAWC Victim Shelter (GAD)",
+            "endUser": "CSWDO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1200000,
+            "mooe": null,
+            "co": 1200000,
+            "remarks": "labor and materials used for the completion of VAWC victim shelter"
+          }
+        },
+        {
+          "label": "Completion of CICL Bldg for Big Boys at Homecare Center",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "7611-1-07-04-010-1952",
+            "project": "Completion of CICL Bldg for Big Boys at Homecare Center",
+            "endUser": "CSWDO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 650000,
+            "mooe": null,
+            "co": 650000,
+            "remarks": "for completion of CICL bldg for big boys at homecare center."
+          }
+        },
+        {
+          "label": "Completion of Visitors Lounge at Homecare Center",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "7611-3-1-07-04-010-1951",
+            "project": "Completion of Visitors Lounge at Homecare Center",
+            "endUser": "OPERATIONS OF HOMECARE",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 800000,
+            "mooe": null,
+            "co": 800000,
+            "remarks": "for completion the visitors lounge at homecare center"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Submersible Pump",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-03-040-1951",
+            "project": "Purchase of One (1) unit Submersible Pump",
+            "endUser": "CITY VET",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 40000,
+            "mooe": null,
+            "co": 40000,
+            "remarks": "submersible pump use as water resources."
+          }
+        },
+        {
+          "label": "Completion of the Construction of the C ity Veterinary Office",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-04-010-1951",
+            "project": "Completion of the Construction of the C ity Veterinary Office",
+            "endUser": "CITY VET",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": null,
+            "co": 500000,
+            "remarks": "for completion the city veterianarian's office"
+          }
+        },
+        {
+          "label": "Completion of Animal Rescue Center Phase II",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-04-990-1951",
+            "project": "Completion of Animal Rescue Center Phase II",
+            "endUser": "CITY VET",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": null,
+            "co": 2000000,
+            "remarks": "for completion the animal rescue center phase II"
+          }
+        },
+        {
+          "label": "Purchase of Two(2) units Split Type Aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-05-020-1951",
+            "project": "Purchase of Two(2) units Split Type Aircon",
+            "endUser": "CITY VET",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": null,
+            "co": 150000,
+            "remarks": "to be installed at the office of the city Vet"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units Window Type Aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-05-020-1952",
+            "project": "Purchase of Two (2) units Window Type Aircon",
+            "endUser": "CITY VET",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "to be installed at the office of the city Vet"
+          }
+        },
+        {
+          "label": "Purchase of Bio Freezer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-05-020-1953",
+            "project": "Purchase of Bio Freezer",
+            "endUser": "CITY VET",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": null,
+            "co": 600000,
+            "remarks": "procurement of Bio Freezer used to deposit drug pharaphernalias for vaccination."
+          }
+        },
+        {
+          "label": "Purchase of Two(2) units Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8721-1-07-05-030-1951",
+            "project": "Purchase of Two(2) units Laptop",
+            "endUser": "CITY VET",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "laptop for city vet head for office use"
+          }
+        },
+        {
+          "label": "Purchase of Six (6) units Digital Camera",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8731-1-07-05-020-1951",
+            "project": "Purchase of Six (6) units Digital Camera",
+            "endUser": "CENRO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "procurement of digital camera for various documentation."
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8731-1-07-05-030-1951",
+            "project": "Purchase of One (1) unit Laptop",
+            "endUser": "CENRO",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 50000,
+            "mooe": null,
+            "co": 50000,
+            "remarks": "Laptop use for the head of the dep't in office works"
+          }
+        },
+        {
+          "label": "Purchase of Two(2) units Dosing Pump",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8731-1-07-05-990-1951",
+            "project": "Purchase of Two(2) units Dosing Pump",
+            "endUser": "CENRO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 700000,
+            "mooe": null,
+            "co": 700000,
+            "remarks": "procurement of dosing pump for CENRO"
+          }
+        },
+        {
+          "label": "Improvement of City Engineering Office",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8751-1-07-04-010-1951",
+            "project": "Improvement of City Engineering Office",
+            "endUser": "CEO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1200000,
+            "mooe": null,
+            "co": 1200000,
+            "remarks": "Various materials for improvements of the office of City Engineering."
+          }
+        },
+        {
+          "label": "Completion of Two (2) Storey Police Office near Mini City Hall Talima Olango Island Island",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8751-1-07-04-010-1952",
+            "project": "Completion of Two (2) Storey Police Office near Mini City Hall Talima Olango Island Island",
+            "endUser": "CEO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 4000000,
+            "mooe": null,
+            "co": 4000000,
+            "remarks": "for completion a two (2) storey police office bldg at Talima Mini City Hall"
+          }
+        },
+        {
+          "label": "Purchase of Plotter Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8751-1-07-05-030-1951",
+            "project": "Purchase of Plotter Printer",
+            "endUser": "CEO",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": null,
+            "co": 500000,
+            "remarks": "plotter printer for engineering transactions"
+          }
+        },
+        {
+          "label": "Installation of Signage at Tourism Building",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "8852-1-07-0-990-1951",
+            "project": "Installation of Signage at Tourism Building",
+            "endUser": "Tourism Office",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 300000,
+            "mooe": null,
+            "co": 300000,
+            "remarks": "installation of signage to identify Tourism Office building."
+          }
+        },
+        {
+          "label": "Erection of One (1) unitThirty Five (35) ft. Concrete Pole & Installation of Three (3) units 75KVA Transformer.",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "4421-1-1-07-05-020-1951",
+            "project": "Erection of One (1) unitThirty Five (35) ft. Concrete Pole & Installation of Three (3) units 75KVA Transformer.",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1800000,
+            "mooe": null,
+            "co": 1800000,
+            "remarks": "Procurement of 3 units Transformer with cost of installation"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Doppler Ultrasound",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 16,
+          "values": {
+            "code": "4421-1-07-05-110-1953",
+            "project": "Purchase of One (1) unit Doppler Ultrasound",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 4800000,
+            "mooe": null,
+            "co": 4800000,
+            "remarks": "Equipment use for ultrasound of patients."
+          }
+        },
+        {
+          "label": "Purchase of Fully Automated Chemiluminicense Analyzer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-1954",
+            "project": "Purchase of Fully Automated Chemiluminicense Analyzer",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 3200000,
+            "mooe": null,
+            "co": 3200000,
+            "remarks": "for automated analyzer for hospital use."
+          }
+        },
+        {
+          "label": "Purchase of One(1) unit Dental Chair",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-1955",
+            "project": "Purchase of One(1) unit Dental Chair",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 650000,
+            "mooe": null,
+            "co": 650000,
+            "remarks": "new dental chair equipment for dental dispensary"
+          }
+        },
+        {
+          "label": "Purchase of Three (3) units Suction Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-1956",
+            "project": "Purchase of Three (3) units Suction Machine",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": null,
+            "co": 150000,
+            "remarks": "procurement of suction machine for use of laboratory equipment."
+          }
+        },
+        {
+          "label": "Purchase of Fast Cycle Instrument Sterilizer with Tray",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-1957",
+            "project": "Purchase of Fast Cycle Instrument Sterilizer with Tray",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 750000,
+            "mooe": null,
+            "co": 750000,
+            "remarks": "use for sterilizing various laboratory supplies."
+          }
+        },
+        {
+          "label": "Purchase of Blood Gas Analyzer",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-1958",
+            "project": "Purchase of Blood Gas Analyzer",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 700000,
+            "mooe": null,
+            "co": 700000,
+            "remarks": "procurement of new blood gas anayzer equipment."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) units ECG",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-1959",
+            "project": "Purchase of Two (2) units ECG",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": null,
+            "co": 500000,
+            "remarks": "Procurement of ECG for patients with heart ailments."
+          }
+        },
+        {
+          "label": "Purchase of Defibrillator",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-1-07-05-110-19510",
+            "project": "Purchase of Defibrillator",
+            "endUser": "LAPU-LAPU CITY HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 350000,
+            "mooe": null,
+            "co": 350000,
+            "remarks": "equipment use as electric shock to revive patients from heart failure."
+          }
+        },
+        {
+          "label": "Rehabilitation of Hospital Staff-Quarter's of Mini City Hall at Talima, Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-2-1-07-04-030-1951",
+            "project": "Rehabilitation of Hospital Staff-Quarter's of Mini City Hall at Talima, Olango Island",
+            "endUser": "STA ROSA HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1030000,
+            "mooe": null,
+            "co": 1030000,
+            "remarks": "various construction materials and labor for rehabilitation of Staff quarters"
+          }
+        },
+        {
+          "label": "Installation of Window Screen at Entire Hospital",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-2-1-07-04-990-1951",
+            "project": "Installation of Window Screen at Entire Hospital",
+            "endUser": "STA ROSA HOSPITAL",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 250000,
+            "mooe": null,
+            "co": 250000,
+            "remarks": "materials to cover hospital windows with the use of screen to be safe from insects bites"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit 100 KVA Generator Set",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-2-1-07-05-010-1951",
+            "project": "Purchase of One (1) unit 100 KVA Generator Set",
+            "endUser": "STA ROSA HOSPITAL",
+            "mode": "CB",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": null,
+            "co": 1500000,
+            "remarks": "purchase of generator set for emergency power supply"
+          }
+        },
+        {
+          "label": "Purchase of Sound System-Breastfeeding Room (GAD)",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-2-1-07-05-020-1951",
+            "project": "Purchase of Sound System-Breastfeeding Room (GAD)",
+            "endUser": "STA ROSA HOSPITAL",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 20000,
+            "mooe": null,
+            "co": 20000,
+            "remarks": "sound system in breastfeeding room"
+          }
+        },
+        {
+          "label": "Purchase of One (1) unit Photocopier Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "4421-2-1-07-05-020-1952",
+            "project": "Purchase of One (1) unit Photocopier Machine",
+            "endUser": "STA ROSA HOSPITAL",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": null,
+            "co": 150000,
+            "remarks": "for hospital use in copying various documents"
+          }
+        },
+        {
+          "label": "Purchase of Rigid Fiber Glass Step Ladder 12ft",
+          "level": 1,
+          "kind": "item",
+          "section": "otherCapitalOutlay",
+          "page": 17,
+          "values": {
+            "code": "8811-1-07-05-020-1951",
+            "project": "Purchase of Rigid Fiber Glass Step Ladder 12ft",
+            "endUser": "MARKET",
+            "mode": "SVP-53.9",
+            "schedule": "January to October, 2020",
+            "fundSource": "General Fund",
+            "total": 32000,
+            "mooe": null,
+            "co": 32000,
+            "remarks": "Step ladder use for climbing heights in time of repair."
+          }
+        },
+        {
+          "label": "TOTAL OTHER CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "otherCapitalOutlay",
+          "values": {
+            "total": 78639977.36,
+            "mooe": null,
+            "co": 78639977.36
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "total": 1161693979.36,
+            "mooe": 977841223,
+            "co": 183852756.36
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": 1161693979.36,
+    "mooe": 977841223,
+    "co": 183852756.36
+  },
+  "notes": [
+    "Lapu-Lapu City Government, 17 pages. Sections as printed: Maintenance & Other Operating Expenses (TOTAL MOOE 977,841,223.00), Capital Outlay (TOTAL CAPITAL OUTLAY 105,212,779.00), Other Capital Outlay (TOTAL OTHER CAPITAL OUTLAY 78,639,977.36). Grand TOTAL 1,161,693,979.36 = MOOE 977,841,223.00 + CO 183,852,756.36. TOTAL MOOE and TOTAL CAPITAL OUTLAY equal the sums of their transcribed items, and the grand TOTAL equals the three printed section totals.",
+    "Printed TOTAL OTHER CAPITAL OUTLAY 78,639,977.36 does not equal the sum of its 85 listed items 94,744,034.06 (difference 16,104,056.70); transcribed as printed. The printed figure equals exactly the sum of the items from \"Purchase of Twelve(12) units Visitors Chairs\" (page 13) through \"Installation of Signage at Tourism Building\" (page 16), i.e. it omits the first four San Vicente rows on page 13 (93,202.50 + 20,000.00 + 49,854.20 + 59,000.00 = 222,056.70) and the last 15 rows (the two Lapu-Lapu City Hospital rows at the end of page 16, 1,800,000.00 + 4,800,000.00, and all 13 rows on page 17, 9,282,000.00), so the printed CO total 183,852,756.36 and grand total 1,161,693,979.36 understate the listed items by 16,104,056.70. Every omitted amount was re-checked on a 4000px render.",
+    "The four schedule columns (Adv./Post of ITB/REI, Sub-Open of Bids, Notice of Awards, Contract Signing) are a single merged cell on every row; transcribed into one `schedule` column.",
+    "Item rows carry `page` (PDF page number). Codes are transcribed as printed, including leading hyphens and duplicated codes (e.g. -5-02-99-990 and -5-02-99-990-4 each appear twice with different projects).",
+    "Remarks are copied as printed even where they do not match the project (e.g. Charter Day celebration remark \"Expenses used for filing cases of various clients\"; Taxpayer's Night, State of City Address and Teachers Month remarks appear shifted).",
+    "Some mode/remark texts overflow their cells and are partly cut off on the scan; \"[text cut off in cell]\" marks where the printed text is truncated.",
+    "Page 8 row \"Other MOEReserc & & Proj. Monitoring Prog...\" (3,325,000.00) has a blank Source of Funds cell (null).",
+    "No printed form number on the pages; header reads \"Lapu-Lapu City Government ANNUAL PROCUREMENT PLAN for FY 2020\" (partly obscured by a punch-hole shadow)."
+  ],
+  "unreadable": []
+}

@@ -1,0 +1,1142 @@
+{
+  "id": "2025-q4-bid-results-goods-services",
+  "type": "bid-results",
+  "title": "Bid Results on Goods and Services",
+  "form": "FDP Form 10b",
+  "period": {
+    "year": 2025,
+    "quarter": 4,
+    "asOf": "2025-12-31",
+    "printed": "Calendar Year: 2025, Quarter: 4",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Quenie May S. Espinosa",
+      "position": "BAC Secretariat Member"
+    },
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Ronaldo D. Malacora",
+      "position": "BAC Chairman"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "Goods and Services Bid-Out",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "P.R No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddressName",
+          "label": "Name and Address Of Bidder (name line)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address Of Bidder (address)",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": [
+        {
+          "label": "ONE (1) LOT VARIOUS IV FLUIDS OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1099",
+            "description": "ONE (1) LOT VARIOUS IV FLUIDS OF CITY HOSPITAL",
+            "abc": 2705580.0,
+            "bidder": "EASA PHARMA DISTRIBUTION",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddressName": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "96 P. DEL ROSARIO EXT. SAMBAG CEBU CITY",
+            "bidAmount": 2692755.0,
+            "biddingDate": "2025-10-07"
+          }
+        },
+        {
+          "label": "ONE (1) LOT ANTI-RABIES VACCINES OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1101",
+            "description": "ONE (1) LOT ANTI-RABIES VACCINES OF CHO",
+            "abc": 15004520.0,
+            "bidder": "EASA PHARMA DISTRIBUTION",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddressName": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "96 P. DEL ROSARIO EXT. SAMBAG CEBU CITY",
+            "bidAmount": 14996750.4,
+            "biddingDate": "2025-10-07"
+          }
+        },
+        {
+          "label": "SIX (6) UNITS BRAND NEW SERVICE VEHICLE OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1224",
+            "description": "SIX (6) UNITS BRAND NEW SERVICE VEHICLE OF CMO",
+            "abc": 7200000.0,
+            "bidder": "FAST AUTOWORLD PHILIPPINES CORPORATION",
+            "bidderNormalized": "FAST AUTOWORLD PHILIPPINES CORPORATION",
+            "bidderAddressName": "FAST AUTOWORLD PHILIPPINES CORPORATION",
+            "bidderAddress": "NATIONAL HIGHWAY, M.C. BRIONES ST., MAGUIKAY, MANDAUE CITY, CEBU",
+            "bidAmount": 7200000.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "450 KILO POWDER INDUSTRIAL WASTE DEGRADER OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1213",
+            "description": "450 KILO POWDER INDUSTRIAL WASTE DEGRADER OF CMO",
+            "abc": 3825000.0,
+            "bidder": "QUICKFIRE TRADES CONSUMER GOODS TRADING",
+            "bidderNormalized": "QUICKFIRE TRADES CONSUMER GOODS TRADING",
+            "bidderAddressName": "QUICKFIRE TRADES CONSUMER GOODS TRADING",
+            "bidderAddress": "204 ACE PENSION HOUSE MLQ NATIONAL HIGHWAY, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 3824775.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "750 PIECES ORDINARY TROPHIES AND 600 PIECES SPECIAL TROPHIES OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1225",
+            "description": "750 PIECES ORDINARY TROPHIES AND 600 PIECES SPECIAL TROPHIES OF CMO",
+            "abc": 1371000.0,
+            "bidder": "PSALMS 47 NON-SPECIALIZED WHOLESALE TRADING",
+            "bidderNormalized": "PSALMS 47 NON-SPECIALIZED WHOLESALE TRADING",
+            "bidderAddressName": "PSALMS 47 NON-SPECIALIZED WHOLESALE TRADING",
+            "bidderAddress": "2452 M.V. PATALINGJUG AVE. PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 1369200.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "71 PACK CESAREAN PACK OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1145",
+            "description": "71 PACK CESAREAN PACK OF CITY HOSPITAL",
+            "abc": 1011466.0,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 10111040.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "FOOD RELIEF AND NON-FOOD ITEMS OF CSWDO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1055",
+            "description": "FOOD RELIEF AND NON-FOOD ITEMS OF CSWDO",
+            "abc": 2999810.0,
+            "bidder": "JIKKA CONSUMER GOODS TRADING",
+            "bidderNormalized": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddressName": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddress": "RM. 206 2ND FLOOR AMCO PLAZA BLDG. MLQ. NATIONAL HIGHWAY, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 2998961.9,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "32 SETS ARTIFICIAL INTELLIGENCE ROBOTICS KITS FOR SECONDARY EDUCATION ( JUNIOR AND SENIOR HS) OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-07-0882",
+            "description": "32 SETS ARTIFICIAL INTELLIGENCE ROBOTICS KITS FOR SECONDARY EDUCATION ( JUNIOR AND SENIOR HS) OF DEP.ED- DIVISION",
+            "abc": 3885000.0,
+            "bidder": "FELTA MULTI-MEDIA, INC.",
+            "bidderNormalized": "FELTA MULTI-MEDIA, INC.",
+            "bidderAddressName": "FELTA MULTI MEDIA, INC.",
+            "bidderAddress": "18 NOTRE DAME ST. CUBAO QUEZON CITY, METRO MANILA",
+            "bidAmount": 3856000.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "28 SETS ROBOTICS KIT FOR PRE-ELEMENTARY EDUCATION OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-07-0884",
+            "description": "28 SETS ROBOTICS KIT FOR PRE-ELEMENTARY EDUCATION OF DEP.ED- DIVISION",
+            "abc": 2595999.0,
+            "bidder": "FELTA MULTI-MEDIA, INC.",
+            "bidderNormalized": "FELTA MULTI-MEDIA, INC.",
+            "bidderAddressName": "FELTA MULTI MEDIA, INC.",
+            "bidderAddress": "18 NOTRE DAME ST. CUBAO QUEZON CITY, METRO MANILA",
+            "bidAmount": 2573200.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "28 SETS ROBOTICS KIT FOR ELEMENTARY EDUCATION OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-07-0883",
+            "description": "28 SETS ROBOTICS KIT FOR ELEMENTARY EDUCATION OF DEP.ED- DIVISION",
+            "abc": 2595999.0,
+            "bidder": "FELTA MULTI-MEDIA, INC.",
+            "bidderNormalized": "FELTA MULTI-MEDIA, INC.",
+            "bidderAddressName": "FELTA MULTI MEDIA, INC.",
+            "bidderAddress": "18 NOTRE DAME ST. CUBAO QUEZON CITY, METRO MANILA",
+            "bidAmount": 2567600.0,
+            "biddingDate": "2025-10-14"
+          }
+        },
+        {
+          "label": "VARIOUS TONER CARTRIDGE OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1196",
+            "description": "VARIOUS TONER CARTRIDGE OF CITY HOSPITAL",
+            "abc": 695750.0,
+            "bidder": "NEED INK SALES AND SERVICES",
+            "bidderNormalized": "NEED INK SALES AND SERVICES",
+            "bidderAddressName": "NEEDINK SALES & SERVICES",
+            "bidderAddress": "OPTIMUM ONE BLDG, S. OSMEÑA ST., YLA, BASAK, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 695750.0,
+            "biddingDate": "2025-10-21"
+          }
+        },
+        {
+          "label": "PPE'S FOR TRAFFIC ENFORCERS OF CTMS",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1165",
+            "description": "PPE'S FOR TRAFFIC ENFORCERS OF CTMS",
+            "abc": 2555880.0,
+            "bidder": "LUIE JEANS CLOTHING ANF FHINES METAL WORKS INC.",
+            "bidderNormalized": "LUIE JEANS CLOTHING ANF FHINES METAL WORKS INC.",
+            "bidderAddressName": "LUIE JEANS CLOTHING AND FHINES METAL WORKS, INC.",
+            "bidderAddress": "RADAR, BABAG 2, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 2546390.0,
+            "biddingDate": "2025-10-21"
+          }
+        },
+        {
+          "label": "MEDICAL OXYGEN OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1192",
+            "description": "MEDICAL OXYGEN OF CITY HOSPITAL",
+            "abc": 1494000.0,
+            "bidder": "PRYCE GASES INC.",
+            "bidderNormalized": "PRYCE GASES INC.",
+            "bidderAddressName": "PRYCE GAS INC.",
+            "bidderAddress": "CANDUMAN ROAD, TALAMBAN, CEBU CITY",
+            "bidAmount": 1274400.0,
+            "biddingDate": "2025-10-21"
+          }
+        },
+        {
+          "label": "PURCHASE AND INSTALLATION OF NEW TRANSFORMER AND REMOVAL OF OLD TRANSFORMER OF HOOPSDOME",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1110",
+            "description": "PURCHASE AND INSTALLATION OF NEW TRANSFORMER AND REMOVAL OF OLD TRANSFORMER OF HOOPSDOME",
+            "abc": 4380000.0,
+            "bidder": "DCNC SALES AND SERVICES CORPORATION",
+            "bidderNormalized": "DCNC SALES AND SERVICES CORPORATION",
+            "bidderAddressName": "DCNC SALES AND SERVICES CORP.",
+            "bidderAddress": "AC CORTES AVENUE, MANDAUE CITY, CEBU",
+            "bidAmount": 4375200.0,
+            "biddingDate": "2025-10-21"
+          }
+        },
+        {
+          "label": "LABORATORY REAGENTS OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1058",
+            "description": "LABORATORY REAGENTS OF CITY HOSPITAL",
+            "abc": 9485627.0,
+            "bidder": "EASA PHARMA DISTRIBUTION",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddressName": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "96 P. DEL ROSARIO EXT. SAMBAG CEBU CITY",
+            "bidAmount": 9479688.0,
+            "biddingDate": "2025-10-21"
+          }
+        },
+        {
+          "label": "HANGING LANTERNS WITH ROPE LIGHTS OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1363",
+            "description": "HANGING LANTERNS WITH ROPE LIGHTS OF CMO",
+            "abc": 2400000.0,
+            "bidder": "BIG 3 ENTERPRISES",
+            "bidderNormalized": "BIG 3 ENTERPRISES",
+            "bidderAddressName": "BIG 3 ENTERPRISES",
+            "bidderAddress": "2675 ROSE AVENUE PUROK 10, SAN FERNANDO, PAMPANGA, REGION III",
+            "bidAmount": 2372800.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "PREMIUM GRADE RICE ( 5 KILOS) OF UPAO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1237",
+            "description": "PREMIUM GRADE RICE ( 5 KILOS) OF UPAO",
+            "abc": 7590000.0,
+            "bidder": "JIKKA CONSUMER GOODS TRADING",
+            "bidderNormalized": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddressName": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddress": "RM. 206 2ND FLOOR AMCO PLAZA BLDG. MLQ. NATIONAL HIGHWAY, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 7588620.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "AM SNACKS AND PM SNACKS FOR SOLIDARITY WEEK OF UPAO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1227",
+            "description": "AM SNACKS AND PM SNACKS FOR SOLIDARITY WEEK OF UPAO",
+            "abc": 1050000.0,
+            "bidder": "CATERING SERVICES RICEHOUSE",
+            "bidderNormalized": "CATERING SERVICES RICEHOUSE",
+            "bidderAddressName": "CATERING SERVICES RICEHOUSE",
+            "bidderAddress": "HUMAY-HUMAY STREET, LAPU-LAPU CITY, CEBU, REGION VII",
+            "bidAmount": 1049300.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "ONE (1) LOT RENTAL OF LED WALL WITH LIGHTS AND SOUNDS OF TOURISM OFFICE",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1297",
+            "description": "ONE (1) LOT RENTAL OF LED WALL WITH LIGHTS AND SOUNDS OF TOURISM OFFICE",
+            "abc": 2000000.0,
+            "bidder": "MARTEL AUDIO AND PROFESIONAL LIGHTS CORPORATION",
+            "bidderNormalized": "MARTEL AUDIO AND PROFESSIONAL LIGHTS CO.",
+            "bidderAddressName": "MARTEL AUDIO AND PROFESSIONAL LIGHTS CO.",
+            "bidderAddress": "TUMULAK COMPOUND, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 1997500.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "HAULING OF HUMAN WASTE, ABBATOIR AND SLUDGES OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1230",
+            "description": "HAULING OF HUMAN WASTE, ABBATOIR AND SLUDGES OF CGSO",
+            "abc": 1700000.0,
+            "bidder": "P & J SEPTIC TANK HAULER & CLEAN UP SERVICES CORP.",
+            "bidderNormalized": "P & J SEPTIC TANK HAULER & CLEAN-UP SERVICES CORPORATION",
+            "bidderAddressName": "P & J SEPTIC TANK HAULER & CLEAN UP SERVICES CORP.",
+            "bidderAddress": "806 F.B. CABAHUG ST. IBABAO ESTANCIA, MANDAUE CITY,CEBU",
+            "bidAmount": 1699820.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "MEDICINES FOR NON-COMMUNICABLE DISEASES OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1205",
+            "description": "MEDICINES FOR NON-COMMUNICABLE DISEASES OF CITY HOSPITAL",
+            "abc": 10000000.0,
+            "bidder": "APEX BIOTECH INC.",
+            "bidderNormalized": "APEX BIOTECH INC.",
+            "bidderAddressName": "APEX BIOTECH INC.",
+            "bidderAddress": "114 EAGLES ST., UGONG, PASIG CITY, METRO MANILA",
+            "bidAmount": 9920700.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "MEETING SCREEN ( TV) AND 1 SET SOUND SYSTEM OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1139",
+            "description": "MEETING SCREEN ( TV) AND 1 SET SOUND SYSTEM OF CMO",
+            "abc": 950000.0,
+            "bidder": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderNormalized": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderAddressName": "MARTEL SALES & MECHANICAL WORKS, INC.",
+            "bidderAddress": "M.L. QUEZON NATIONAL HI-WAY PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 947000.0,
+            "biddingDate": "2025-10-28"
+          }
+        },
+        {
+          "label": "LABORATORY REAGENTS OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1212",
+            "description": "LABORATORY REAGENTS OF CITY HOSPITAL",
+            "abc": 11122778.0,
+            "bidder": "EASA PHARMA DISTRIBUTION",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddressName": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "96 P. DEL ROSARIO EXT. SAMBAG CEBU CITY",
+            "bidAmount": 11113413.0,
+            "biddingDate": "2025-11-06"
+          }
+        },
+        {
+          "label": "HAULING OF HUMAN WASTE, ABBATOIR AND SLUDGES OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1321 & 25-09-1322",
+            "description": "HAULING OF HUMAN WASTE, ABBATOIR AND SLUDGES OF DEP.ED- DIVISION",
+            "abc": 1200000.0,
+            "bidder": "P & J SEPTIC TANK HAULER & CLEAN UP SERVICES CORP.",
+            "bidderNormalized": "P & J SEPTIC TANK HAULER & CLEAN-UP SERVICES CORPORATION",
+            "bidderAddressName": "P & J SEPTIC TANK HAULER & CLEAN UP SERVICES CORP.",
+            "bidderAddress": "806 F.B. CABAHUG ST. IBABAO ESTANCIA, MANDAUE CITY,CEBU",
+            "bidAmount": 1199760.0,
+            "biddingDate": "2025-11-06"
+          }
+        },
+        {
+          "label": "6,000 PIECES BUSINESS TAC PLATES OF CTO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1242",
+            "description": "6,000 PIECES BUSINESS TAC PLATES OF CTO",
+            "abc": 2400000.0,
+            "bidder": "5J'S METAL CRAFT AND GENERAL MERCHANDISE CO. LTD",
+            "bidderNormalized": "5J'S METAL CRAFT & GENERAL MERCHANDISE CO. LTD.",
+            "bidderAddressName": "5J'S METAL CRAFT AND GENERAL MERCHANDISE CO. LTD.",
+            "bidderAddress": "923 HULO SAN VICENTE, STA. MARIA BULACAN, REGION III",
+            "bidAmount": 2328000.0,
+            "biddingDate": "2025-11-06"
+          }
+        },
+        {
+          "label": "70 PACK CESAREAN PACK OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1190",
+            "description": "70 PACK CESAREAN PACK OF CITY HOSPITAL",
+            "abc": 997220.0,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 996800.0,
+            "biddingDate": "2025-11-06"
+          }
+        },
+        {
+          "label": "VARIOUS TIRES FOR GOVERNMENT VEHICLES OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1496",
+            "description": "VARIOUS TIRES FOR GOVERNMENT VEHICLES OF CGSO",
+            "abc": 1737990.24,
+            "bidder": "ESQ CONSUMER GOODS TRADING",
+            "bidderNormalized": "ESQ CONSUMER GOODS TRADING",
+            "bidderAddressName": "ESQ CONSUMER GOODS TRADING",
+            "bidderAddress": "ML. QUEZON NATIONAL HIGHWAY PUSOK, LAPU-LAPU CITY, REGION VII",
+            "bidAmount": 1726400.0,
+            "biddingDate": "2025-11-13"
+          }
+        },
+        {
+          "label": "BALL HAM AND PREMIUM GRADE RICE ( 5KG) OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1521",
+            "description": "BALL HAM AND PREMIUM GRADE RICE ( 5KG) OF CMO",
+            "abc": 6050000.0,
+            "bidder": "HERITAGE GENERAL MECHANDISE",
+            "bidderNormalized": "HERITAGE GENERAL MERCHANDISE",
+            "bidderAddressName": "HERITAGE GENERAL MERCHANDISE",
+            "bidderAddress": "SOONG 1 MACTAN, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 5775000.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "DRUGS AND MEDICINES FOR INPATIENTS OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1239",
+            "description": "DRUGS AND MEDICINES FOR INPATIENTS OF CITY HOSPITAL",
+            "abc": 5303350.0,
+            "bidder": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderNormalized": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddressName": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddress": "TREEHOUSE RAMON ABOITIZ ST., CAMPUTHAW CEBU CITY, CEBU",
+            "bidAmount": 5291416.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "PRE-FILLED SYRINGE FLU VACCINES OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1428",
+            "description": "PRE-FILLED SYRINGE FLU VACCINES OF CHO",
+            "abc": 1999510.0,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 1998832.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "MEDICINES FOR RABIES ERADICATION OF CITY VETERINARIAN OFFICE",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1501",
+            "description": "MEDICINES FOR RABIES ERADICATION OF CITY VETERINARIAN OFFICE",
+            "abc": 5150400.0,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 5146700.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "CALCIUM CARBONATED AND FERROUS SULFATE OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1484",
+            "description": "CALCIUM CARBONATED AND FERROUS SULFATE OF CHO",
+            "abc": 1002499.66,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 998289.52,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "MEDICAL SUPLIES OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "26-10-1462",
+            "description": "MEDICAL SUPLIES OF CHO",
+            "abc": 1203996.0,
+            "bidder": "EASA PHARMA DISTRIBUTION",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddressName": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "96 P. DEL ROSARIO EXT. SAMBAG CEBU CITY",
+            "bidAmount": 1202119.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "DRUGS AND MEDICINES OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1527",
+            "description": "DRUGS AND MEDICINES OF CITY HOSPITAL",
+            "abc": 1799910.0,
+            "bidder": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderNormalized": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddressName": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddress": "TREEHOUSE RAMON ABOITIZ ST., CAMPUTHAW CEBU CITY, CEBU",
+            "bidAmount": 1795154.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "1,515 PACK PREGNANCY MILK POWDER OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1402",
+            "description": "1,515 PACK PREGNANCY MILK POWDER OF CHO",
+            "abc": 1511970.0,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 1511667.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "VITAMINS AND MINERAL OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1485",
+            "description": "VITAMINS AND MINERAL OF CHO",
+            "abc": 1020936.85,
+            "bidder": "ACE MEDICAL SOLUTIONS INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddressName": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 1009514.43,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "ONE (1) LOT REPAIR AND MAINTENANCE OF ADVANCE WASTE SOLUTION AT MRF OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1406",
+            "description": "ONE (1) LOT REPAIR AND MAINTENANCE OF ADVANCE WASTE SOLUTION AT MRF OF CGSO",
+            "abc": 2560400.0,
+            "bidder": "SUKI TRADING CORPORATION",
+            "bidderNormalized": "SUKI TRADING CORPORATION",
+            "bidderAddressName": "SUKI TRADING CORPORATION",
+            "bidderAddress": "IBABAO, AGUS, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 2555400.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "TWO (2) LOTS SURVEYING WORKS OF PDMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1474 & 25-10-1533",
+            "description": "TWO (2) LOTS SURVEYING WORKS OF PDMO",
+            "abc": 1179006.8,
+            "bidder": "LOMERA SURVEYING AND ENGINEERING SERVICES",
+            "bidderNormalized": "LOMERA SURVEYING AND ENGINEERING SERVICES",
+            "bidderAddressName": "LOMERA SURVEYING AND ENGINEERING SERVICES",
+            "bidderAddress": "SITIO GUMAMELA LAWAAN II TALISAY CITY, CEBU",
+            "bidAmount": 1179006.8,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "7,500 SACKS PREMIUM LONG GRAIN WHITE RICE ( 5KG/ SACK) OF UPAO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1572",
+            "description": "7,500 SACKS PREMIUM LONG GRAIN WHITE RICE ( 5KG/ SACK) OF UPAO",
+            "abc": 2062500.0,
+            "bidder": "JIKKA CONSUMER GOODS TRADING",
+            "bidderNormalized": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddressName": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddress": "RM. 206 2ND FLOOR AMCO PLAZA BLDG. MLQ. NATIONAL HIGHWAY, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 2062125.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "SUPPLY AND INSTALLATION OF 1 UNIT LED WALL 4800MM X 3520MM AND 1 UNIT LED WALL 2560MM X 3520MM OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1477",
+            "description": "SUPPLY AND INSTALLATION OF 1 UNIT LED WALL 4800MM X 3520MM AND 1 UNIT LED WALL 2560MM X 3520MM OF CMO",
+            "abc": 5800000.0,
+            "bidder": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderNormalized": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderAddressName": "MARTEL SALES & MECHANICAL WORKS, INC.",
+            "bidderAddress": "M.L. QUEZON NATIONAL HI-WAY PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 5798488.0,
+            "biddingDate": "2025-11-18"
+          }
+        },
+        {
+          "label": "4,166 SACKS PREMIUM GRADE RICE ( 5KG/ SACK) OF CSWDO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1041",
+            "description": "4,166 SACKS PREMIUM GRADE RICE ( 5KG/ SACK) OF CSWDO",
+            "abc": 1249800.0,
+            "bidder": "JIKKA CONSUMER GOODS TRADING",
+            "bidderNormalized": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddressName": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddress": "RM. 206 2ND FLOOR AMCO PLAZA BLDG. MLQ. NATIONAL HIGHWAY, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 1247717.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "24 PIECES FABRICATED STEEL GARBAGE BIN OF LDRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1350",
+            "description": "24 PIECES FABRICATED STEEL GARBAGE BIN OF LDRRMO",
+            "abc": 1992000.0,
+            "bidder": "PASAJERO MOTORS CORPORATION",
+            "bidderNormalized": "PASAJERO MOTORS CORPORATION",
+            "bidderAddressName": "PASAJERO MOTORS CORPORATION",
+            "bidderAddress": "AS FORTUNA ST., MANDAUE CITY, CEBU",
+            "bidAmount": 1968000.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "3,865 UNITS MONOBLOCK CHAIRS OF OFFICE OF THE SP",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1547",
+            "description": "3,865 UNITS MONOBLOCK CHAIRS OF OFFICE OF THE SP",
+            "abc": 1932500.0,
+            "bidder": "FIVE E PLASTIC MANUFACTURING",
+            "bidderNormalized": "FIVE E PLASTIC MANUFACTURING",
+            "bidderAddressName": "FIVE E PLASTIC MANUFACTURING INC.",
+            "bidderAddress": "LIBO, CONSOLACION, CEBU, REGION VII",
+            "bidAmount": 1928635.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "MEDICINES AND IV FLUIDS OF SRCH",
+          "kind": "item",
+          "values": {
+            "refNo": "256-10-1537",
+            "description": "MEDICINES AND IV FLUIDS OF SRCH",
+            "abc": 1701145.0,
+            "bidder": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderNormalized": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddressName": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddress": "TREEHOUSE RAMON ABOITIZ ST., CAMPUTHAW CEBU CITY, CEBU",
+            "bidAmount": 1695751.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "DRUGS AND MEDICINES OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1454",
+            "description": "DRUGS AND MEDICINES OF CITY HOSPITAL",
+            "abc": 3005700.0,
+            "bidder": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderNormalized": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddressName": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddress": "TREEHOUSE RAMON ABOITIZ ST., CAMPUTHAW CEBU CITY, CEBU",
+            "bidAmount": 2993348.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "DRUGS AND MEDICINES OF SRCH",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1331",
+            "description": "DRUGS AND MEDICINES OF SRCH",
+            "abc": 1222477.0,
+            "bidder": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderNormalized": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddressName": "ONE WORLD PHARMACEUTICALS OPC",
+            "bidderAddress": "TREEHOUSE RAMON ABOITIZ ST., CAMPUTHAW CEBU CITY, CEBU",
+            "bidAmount": 1217782.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "TEN (10) UNITS ELECTRIC VEHICLE ( TRIKE AND 4-WHEEL) OF LDRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-07-0899",
+            "description": "TEN (10) UNITS ELECTRIC VEHICLE ( TRIKE AND 4-WHEEL) OF LDRRMO",
+            "abc": 1500000.0,
+            "bidder": "MSS CYCLE TRADING",
+            "bidderNormalized": "MSS CYCLE TRADING",
+            "bidderAddressName": "MSS CYCLE TRADING",
+            "bidderAddress": "1095-A TLA BLDG CORREGIDOR ST. BRGY. 205 MANUGUIT TONDO MANILA, METRO MANILA",
+            "bidAmount": 1390000.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "ONE (1) LOT EVENT ORGANIZER AND PROVIDER OF CITY TOURISM OFFICE",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1144",
+            "description": "ONE (1) LOT EVENT ORGANIZER AND PROVIDER OF CITY TOURISM OFFICE",
+            "abc": 11000000.0,
+            "bidder": "SUNRISE EVENTS INC.",
+            "bidderNormalized": "SUNRISE EVENTS INC.",
+            "bidderAddressName": "SUNRISE EVENTS INC.",
+            "bidderAddress": "6/F, CORINTHIAN PLAZA, 121 PASEO DE ROXAS, MAKATI CITY, METRO MANILA",
+            "bidAmount": 11000000.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "1,087 SACKS WELL-MILLED RICE ( 50KG) OF BJMP",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1343",
+            "description": "1,087 SACKS WELL-MILLED RICE ( 50KG) OF BJMP",
+            "abc": 2815330.0,
+            "bidder": "JATZEN MARKETING",
+            "bidderNormalized": "JATZEN MARKETING",
+            "bidderAddressName": "JATZEN MARKETING",
+            "bidderAddress": "2109 SANGI ROAD , PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 2815330.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "RESOURCE MATERIALS FOR JUNIOR HIGH SCHOOL OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1133",
+            "description": "RESOURCE MATERIALS FOR JUNIOR HIGH SCHOOL OF DEP.ED- DIVISION",
+            "abc": 9975570.0,
+            "bidder": "JOSE CLAVANO INC.",
+            "bidderNormalized": "JOSE CLAVANO INC.",
+            "bidderAddressName": "JOSE CLAVANO, INC.",
+            "bidderAddress": "1210 P. CLAVANO STREET, CAPITOL SITE, CEBU CITY, CEBU",
+            "bidAmount": 9938230.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "ADOLESCENT HEALTH AND DEVELOPMENT MATERIALS FOR ELEMENTARY OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1323",
+            "description": "ADOLESCENT HEALTH AND DEVELOPMENT MATERIALS FOR ELEMENTARY OF DEP.ED- DIVISION",
+            "abc": 4992552.0,
+            "bidder": "JOSE CLAVANO INC.",
+            "bidderNormalized": "JOSE CLAVANO INC.",
+            "bidderAddressName": "JOSE CLAVANO, INC.",
+            "bidderAddress": "1210 P. CLAVANO STREET, CAPITOL SITE, CEBU CITY, CEBU",
+            "bidAmount": 4973034.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "MEALS AND SNACKS FOR SIMULATION EXERCISE OF LDRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1138",
+            "description": "MEALS AND SNACKS FOR SIMULATION EXERCISE OF LDRRMO",
+            "abc": 1305000.0,
+            "bidder": "THE KITCHEN CATERING SERVICES",
+            "bidderNormalized": "THE KITCHEN CATERING SERVICES",
+            "bidderAddressName": "THE KITCHEN CATERING SERVICES",
+            "bidderAddress": "ML QUEZON NATIONAL HIGHWAY BRGY. PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 1304478.0,
+            "biddingDate": "2025-11-25"
+          }
+        },
+        {
+          "label": "HEPA A RAPID TEST AND STANDARD DIAGNOSTIC HIV 1 & 2 OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1455",
+            "description": "HEPA A RAPID TEST AND STANDARD DIAGNOSTIC HIV 1 & 2 OF CHO",
+            "abc": 1499910.0,
+            "bidder": "LABSOLUTION TECHNOLOGIES INC.",
+            "bidderNormalized": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddressName": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddress": "TRES DE ABRIL LABANGON, CEBU CITY, CEBU",
+            "bidAmount": 1497552.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "PRE-NATAL CHECK UP SUPPLIES OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1147",
+            "description": "PRE-NATAL CHECK UP SUPPLIES OF CHO",
+            "abc": 1999250.0,
+            "bidder": "LABSOLUTION TECHNOLOGIES INC.",
+            "bidderNormalized": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddressName": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddress": "TRES DE ABRIL LABANGON, CEBU CITY, CEBU",
+            "bidAmount": 1995172.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "MEDICAL SUPPLIES OF CITY HOSPITAL",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1315",
+            "description": "MEDICAL SUPPLIES OF CITY HOSPITAL",
+            "abc": 2077500.0,
+            "bidder": "LABSOLUTION TECHNOLOGIES INC.",
+            "bidderNormalized": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddressName": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddress": "TRES DE ABRIL LABANGON, CEBU CITY, CEBU",
+            "bidAmount": 2076058.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "40 UNITS MOTORCYCLE WITH ACCESSORIES OF CMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1142",
+            "description": "40 UNITS MOTORCYCLE WITH ACCESSORIES OF CMO",
+            "abc": 8807894.0,
+            "bidder": "DU EK SAM INC.",
+            "bidderNormalized": "DU EK SAM INC.",
+            "bidderAddressName": "DU EK SAM, INC.",
+            "bidderAddress": "J.A CLARIN STREET, TAGBILARAN CITY, BOHOL",
+            "bidAmount": 8780000.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "ONE (1) LOT SUPPLY, DELIVERY AND INSTALLATION OF LED WALL OF SP OFFICE",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1412",
+            "description": "ONE (1) LOT SUPPLY, DELIVERY AND INSTALLATION OF LED WALL OF SP OFFICE",
+            "abc": 1300000.0,
+            "bidder": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderNormalized": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderAddressName": "MARTEL SALES & MECHANICAL WORKS, INC.",
+            "bidderAddress": "M.L. QUEZON NATIONAL HI-WAY PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 1299985.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "ONE (1) UNIT SURVEYING WORKS OF PDMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1482",
+            "description": "ONE (1) UNIT SURVEYING WORKS OF PDMO",
+            "abc": 1680000.0,
+            "bidder": "LOMERA SURVEYING AND ENGINEERING SERVICES",
+            "bidderNormalized": "LOMERA SURVEYING AND ENGINEERING SERVICES",
+            "bidderAddressName": "LOMERA SURVEYING AND ENGINEERING SERVICES",
+            "bidderAddress": "SITIO GUMAMELA LAWAAN II TALISAY CITY, CEBU",
+            "bidAmount": 1680000.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "ONE (1) LOT SUPPLY AND DELIVERY OF HANDHELD PORTABLE RADIOS WITH INSTALLATION, LICENSE AND CONFIGURATION OF BFP",
+          "kind": "item",
+          "values": {
+            "refNo": "25-08-1035",
+            "description": "ONE (1) LOT SUPPLY AND DELIVERY OF HANDHELD PORTABLE RADIOS WITH INSTALLATION, LICENSE AND CONFIGURATION OF BFP",
+            "abc": 3540000.0,
+            "bidder": "3M ELECTRONIX",
+            "bidderNormalized": "3M ELECTRONIX",
+            "bidderAddressName": "3M ELECTRONIX",
+            "bidderAddress": "BASAK, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 3539000.0,
+            "biddingDate": "2025-12-02"
+          }
+        },
+        {
+          "label": "4,095 PIECES ENGLISH 7 SUPPLEMENTARY WORKBOOK OF DEP.ED- DIVISION",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1579",
+            "description": "4,095 PIECES ENGLISH 7 SUPPLEMENTARY WORKBOOK OF DEP.ED- DIVISION",
+            "abc": 2999423.7,
+            "bidder": "VICARISH PUBLICATIONS & TRADING INC.",
+            "bidderNormalized": "VICARISH PUBLICATIONS & TRADING INC.",
+            "bidderAddressName": "VICARISH PUBLICATIONS AND TRADING, INC.",
+            "bidderAddress": "1946- A F. TORREST ST. COR. DIAMANTE EXT. STA. ANA, MANILA, METRO MANILA",
+            "bidAmount": 2993445.0,
+            "biddingDate": "2025-12-09"
+          }
+        },
+        {
+          "label": "INGREDIENTS FOR SUPPLEMENTARY FEEDING PROGRAM OF CSWDO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1473",
+            "description": "INGREDIENTS FOR SUPPLEMENTARY FEEDING PROGRAM OF CSWDO",
+            "abc": 9280410.0,
+            "bidder": "JIKKA CONSUMER GOODS TRADING",
+            "bidderNormalized": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddressName": "JIKKA CONSUMER GOODS TRADING",
+            "bidderAddress": "RM. 206 2ND FLOOR AMCO PLAZA BLDG. MLQ. NATIONAL HIGHWAY, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 9212157.55,
+            "biddingDate": "2025-12-09"
+          }
+        },
+        {
+          "label": "RADIO COMMUNICATION EQUIPMENT OF LDRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-09-1472",
+            "description": "RADIO COMMUNICATION EQUIPMENT OF LDRRMO",
+            "abc": 7599995.0,
+            "bidder": "3M ELECTRONIX",
+            "bidderNormalized": "3M ELECTRONIX",
+            "bidderAddressName": "3M ELECTRONIX",
+            "bidderAddress": "BASAK, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 7598990.0,
+            "biddingDate": "2025-12-09"
+          }
+        },
+        {
+          "label": "LABORATORY REAGENTS OF SRCH",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1555",
+            "description": "LABORATORY REAGENTS OF SRCH",
+            "abc": 3461140.0,
+            "bidder": "EASA PHARMA DISTRIBUTION",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddressName": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "96 P. DEL ROSARIO EXT. SAMBAG CEBU CITY",
+            "bidAmount": 3457188.0,
+            "biddingDate": "2025-12-18"
+          }
+        },
+        {
+          "label": "ONE (1) LOT SPORTING GOODS OF SP OFFICE",
+          "kind": "item",
+          "values": {
+            "refNo": "25-10-1486",
+            "description": "ONE (1) LOT SPORTING GOODS OF SP OFFICE",
+            "abc": 2407950.0,
+            "bidder": "VITAL SPECIALIZED GOODS TRADING",
+            "bidderNormalized": "VITAL SPECIALIZED GOODS TRADING",
+            "bidderAddressName": "VITAL SPECIALIZED GOODS TRADING",
+            "bidderAddress": "CORNER URDANETA ST. BRGY. GUIZO, MANDAUE CITY, CEBU",
+            "bidAmount": 2406450.0,
+            "biddingDate": "2025-12-18"
+          }
+        },
+        {
+          "label": "TRANSFER/ DISPOSAL OF 19,800 TONS RESIDUAL WASTE ( FY 23026) OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-11-1618",
+            "description": "TRANSFER/ DISPOSAL OF 19,800 TONS RESIDUAL WASTE ( FY 23026) OF CGSO",
+            "abc": 45540000.0,
+            "bidder": "M.R.C TRADING AND SERVICES",
+            "bidderNormalized": "M.R.C. TRADING AND SERVICES",
+            "bidderAddressName": "M.R.C. TRADING AND SERVICES",
+            "bidderAddress": "1951 SANGI, PAJO, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 45540000.0,
+            "biddingDate": "2025-12-23"
+          }
+        },
+        {
+          "label": "480,000 LITERS DIESEL AND 70,000 LITERS GASOLINE ( FY 2026) OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-11-1616",
+            "description": "480,000 LITERS DIESEL AND 70,000 LITERS GASOLINE ( FY 2026) OF CGSO",
+            "abc": 37370000.0,
+            "bidder": "THUNDERGALE LUBES AND FUELS TRADING INC.",
+            "bidderNormalized": "THUNDERGALE LUBES AND FUELS TRADING INC.",
+            "bidderAddressName": "THUNDERGALE LUBES AND FUELS TRADING INC.",
+            "bidderAddress": "HABAÑA SUBDIVISION DARO, DUMAGUETE CITY, NEGROS ORIENTAL, REGION VII",
+            "bidAmount": 38260000.0,
+            "biddingDate": "2025-12-23"
+          }
+        },
+        {
+          "label": "VARIOUS TONERS AND INKS ( FY 2026) OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-11-1593",
+            "description": "VARIOUS TONERS AND INKS ( FY 2026) OF CGSO",
+            "abc": 3210250.0,
+            "bidder": "NEED INK SALES AND SERVICES",
+            "bidderNormalized": "NEED INK SALES AND SERVICES",
+            "bidderAddressName": "NEEDINK SALES & SERVICES",
+            "bidderAddress": "OPTIMUM ONE BLDG, S. OSMEÑA ST., YLA, BASAK, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 3210250.0,
+            "biddingDate": "2025-12-23"
+          }
+        },
+        {
+          "label": "HAULING OF HUMAN WASTE, ABATTOIR AND SLUDGES ( FY2026) OF CGSO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-11-1619",
+            "description": "HAULING OF HUMAN WASTE, ABATTOIR AND SLUDGES ( FY2026) OF CGSO",
+            "abc": 1700000.0,
+            "bidder": "P & J SEPTIC TANK HAULER & CLEAN UP SERVICES CORP.",
+            "bidderNormalized": "P & J SEPTIC TANK HAULER & CLEAN-UP SERVICES CORPORATION",
+            "bidderAddressName": "P & J SEPTIC TANK HAULER & CLEAN UP SERVICES CORP.",
+            "bidderAddress": "806 F.B. CABAHUG ST. IBABAO ESTANCIA, MANDAUE CITY,CEBU",
+            "bidAmount": 1699820.0,
+            "biddingDate": "2025-12-23"
+          }
+        },
+        {
+          "label": "ONE( 1) UNIT RESCUE AMBULANCE/ PATIENT TRANSPORT VEHICLE OF LDRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-11-1603",
+            "description": "ONE( 1) UNIT RESCUE AMBULANCE/ PATIENT TRANSPORT VEHICLE OF LDRRMO",
+            "abc": 3000000.0,
+            "bidder": "NISSAN CEBU DISTRIBUTORS INC.",
+            "bidderNormalized": "NISSAN CEBU DISTRIBUTORS INC.",
+            "bidderAddressName": "NISSAN CEBU DISTRIBUTORS, INC.",
+            "bidderAddress": "M.L. QUEZON AVENUE, MANDAUE CITY, CEBU, REGION VII",
+            "bidAmount": 2948000.0,
+            "biddingDate": "2025-12-23"
+          }
+        },
+        {
+          "label": "ONE (1) UNIT MULTI-PURPOSE VEHICLE ( MPV) OF CTO",
+          "kind": "item",
+          "values": {
+            "refNo": "25-11-1602",
+            "description": "ONE (1) UNIT MULTI-PURPOSE VEHICLE ( MPV) OF CTO",
+            "abc": 2200000.0,
+            "bidder": "TOYOTA LAPU-LAPU, CEBU",
+            "bidderNormalized": "TOYOTA LAPU-LAPU, CEBU",
+            "bidderAddressName": "TOYOTA LAPU-LAPU, CEBU",
+            "bidderAddress": "SITIO HAWAIIAN 1, MARIGONDON, LAPU-LAPU CITY, CEBU",
+            "bidAmount": 2198000.0,
+            "biddingDate": "2025-12-23"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "The printed \"Name and Address Of Bidder\" column repeats the company name (bold) above the address; the name line is kept in bidderAddressName and the address in bidderAddress. The name line sometimes differs from the Winning Bidder column (e.g. \"NEED INK SALES AND SERVICES\" vs \"NEEDINK SALES & SERVICES\", \"PRYCE GASES INC.\" vs \"PRYCE GAS INC.\", \"FELTA MULTI-MEDIA, INC.\" vs \"FELTA MULTI MEDIA, INC.\", \"LABSOLUTION TECHNOLOGIES INC.\" vs \"LABSOLUTIONS TECHNOLOGIES, INC.\", \"HERITAGE GENERAL MECHANDISE\" vs \"HERITAGE GENERAL MERCHANDISE\"); both are transcribed as printed.",
+    "P.R. No. 25-08-1145 (71 pack cesarean pack of City Hospital): printed bid amount 10,111,040.00 exceeds the printed ABC 1,011,466.00; checked at high resolution, transcribed as printed (likely a typo on the form, e.g. 1,011,104.00).",
+    "P.R. No. 25-11-1616 (diesel and gasoline FY 2026): printed bid amount 38,260,000.00 exceeds the printed ABC 37,370,000.00; checked at high resolution, transcribed as printed.",
+    "P.R. numbers \"26-10-1462\" and \"256-10-1537\" are transcribed as printed (likely typos for 25-10-...). \"( FY 23026)\" in P.R. 25-11-1618 is as printed.",
+    "The form has no \"No.\" column; rows are in printed order. Page 11 ends with one empty ruled row, which is omitted.",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

@@ -1,0 +1,2015 @@
+{
+  "id": "2024-q4-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2024,
+    "quarter": 4,
+    "asOf": "2024-12-31",
+    "printed": "Calendar Year: 2024, Quarter: 4",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 46053620.0,
+            "mitigation": 107458444.0,
+            "total": 153512064.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 137133010.68,
+            "total": 137133010.68
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 29850466.23,
+            "total": 29850466.23
+          }
+        },
+        {
+          "key": "carryOver:2019",
+          "label": "2019",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 11471815.19
+          }
+        },
+        {
+          "key": "carryOver:2020",
+          "label": "2020",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 28681712.88
+          }
+        },
+        {
+          "key": "carryOver:2021",
+          "label": "2021",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 43087089.38
+          }
+        },
+        {
+          "key": "carryOver:2022",
+          "label": "2022",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 28045521.93
+          }
+        },
+        {
+          "key": "carryOver:2023",
+          "label": "2023",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 80662566.27
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfer/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {}
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 46053620.0,
+            "mitigation": 274441920.91,
+            "total": 320495540.91
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. Utilization",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "January-No Liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February-No Liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Office Supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1485.0,
+            "particulars": "Office Supplies",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Cartolina etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1772.8,
+            "particulars": "Cartolina etc",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "100 pcs ballpen, etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 45295.0,
+            "particulars": "100 pcs ballpen, etc",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "42 pcs Plaque etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 104580.0,
+            "particulars": "42 pcs Plaque etc",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Honorarium for resource speaker",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 125000.0,
+            "particulars": "Honorarium for resource speaker",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 322574.76,
+            "particulars": "Cash for Work",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "Live out seminar 45 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 66600.0,
+            "particulars": "Live out seminar 45 pax",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Maintenance-labor and mat'l for Hino Truck",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 26219.0,
+            "particulars": "Maintenance-labor and mat'l for Hino Truck",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Maintenance-labor and mat'l for Hino Truck",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 18209.2,
+            "particulars": "Maintenance-labor and mat'l for Hino Truck",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "5 days live-out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 187450.0,
+            "particulars": "5 days live-out seminar",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "100 pcs ballpen, etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 37565.0,
+            "particulars": "100 pcs ballpen, etc",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "60 pcs ballpen, etc.",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 35139.0,
+            "particulars": "60 pcs ballpen, etc.",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "200 pcs. Tarpaulin etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 205600.0,
+            "particulars": "200 pcs. Tarpaulin etc",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "pumpboat rental, 2 units",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 699000.0,
+            "particulars": "pumpboat rental, 2 units",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 lot repair of labor and mat'l Hino firetruck",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 676000.0,
+            "particulars": "1 lot repair of labor and mat'l Hino firetruck",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 398210.16,
+            "particulars": "Cash for Work",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "live-in seminar 65 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 379275.0,
+            "particulars": "live-in seminar 65 pax",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "100 roll tape",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 8067.0,
+            "particulars": "100 roll tape",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "25 reams bond paper etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 5345.08,
+            "particulars": "25 reams bond paper etc",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 175801.2,
+            "particulars": "Cash for Work",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 288641.04,
+            "particulars": "Cash for Work",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 420696.36,
+            "particulars": "Cash for Work",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1533668.25,
+            "particulars": "CONTINUING AND CURRENT"
+          }
+        },
+        {
+          "label": "APPROPRIATION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1551956.03,
+            "particulars": "APPROPRIATION"
+          }
+        },
+        {
+          "label": "January-No Liquidation",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1570243.81,
+            "particulars": "January-No Liquidation",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February-No liquidation",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1588531.59,
+            "particulars": "February-No liquidation",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 lot installation of new cable, line, cctv camera, public address system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 2496911.2,
+            "particulars": "1 lot installation of new cable, line, cctv camera, public address system",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "3 days live-in seminar 130 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 759000.0,
+            "particulars": "3 days live-in seminar 130 pax",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "installation of rain water collection system (RWCS)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 9984576.0,
+            "particulars": "installation of rain water collection system (RWCS)",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "1 lot repair of ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 43000.0,
+            "particulars": "1 lot repair of ambulance",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "15% mobilization for construction of 2 storey warehouse at Talima, PH 1",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1199867.21,
+            "particulars": "15% mobilization for construction of 2 storey warehouse at Talima, PH 1",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "liveout seminar-300 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "liveout seminar-300 pax",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "160 pcs various office supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 94852.5,
+            "particulars": "160 pcs various office supplies",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "1 lot rental of sound system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 69000.0,
+            "particulars": "1 lot rental of sound system",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "labor and material repair of service vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 34620.0,
+            "particulars": "labor and material repair of service vehicle",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "purchase of 10,000 brochures and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 663000.0,
+            "particulars": "purchase of 10,000 brochures and other supplies",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 348740.52,
+            "particulars": "Cash for Work",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 408840.0,
+            "particulars": "Cash for Work",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "950 pax packed meals lunch and dinner for DRRM personnel",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 498037.5,
+            "particulars": "950 pax packed meals lunch and dinner for DRRM personnel",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "rental of 2 units pumpboat",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 699000.0,
+            "particulars": "rental of 2 units pumpboat",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "400 packs packed meals during fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 69900.0,
+            "particulars": "400 packs packed meals during fire prevention month",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "950 pax packed meals lunch, dinner and breakfast for victim of human-induced and natural disaster",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 498037.5,
+            "particulars": "950 pax packed meals lunch, dinner and breakfast for victim of human-induced and natural disaster",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "repair of service vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 43000.0,
+            "particulars": "repair of service vehicle",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "1800 packed meals for participants of community fire drill during fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 314550.0,
+            "particulars": "1800 packed meals for participants of community fire drill during fire prevention month",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "construction of 2 storey warehouse at Talima",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 4072443.98,
+            "particulars": "construction of 2 storey warehouse at Talima",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "liveout seminar-65 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 193700.0,
+            "particulars": "liveout seminar-65 pax",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "liveout seminar-55 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 165000.0,
+            "particulars": "liveout seminar-55 pax",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 531492.0,
+            "particulars": "Cash for Work",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 497149.44,
+            "particulars": "Cash for Work",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "150 pcs t-shirts for seminar participants",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 52500.0,
+            "particulars": "150 pcs t-shirts for seminar participants",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "2000 packed meals for the day during fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 649500.0,
+            "particulars": "2000 packed meals for the day during fire prevention month",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "400 pcs t-shirts for fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 200000.0,
+            "particulars": "400 pcs t-shirts for fire prevention month",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "1200 emergency kits",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 598680.0,
+            "particulars": "1200 emergency kits",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment for supplies for PWD training",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 16352.61,
+            "particulars": "payment for supplies for PWD training",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "15% mobilization for construction of Caubian seawall",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1457941.42,
+            "particulars": "15% mobilization for construction of Caubian seawall",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 283326.12,
+            "particulars": "Cash for Work",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "office supplies for rescue Olympics disaster resilience",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 21160.0,
+            "particulars": "office supplies for rescue Olympics disaster resilience",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "50 pcs ballpens for Basic Command System Training",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 25853.0,
+            "particulars": "50 pcs ballpens for Basic Command System Training",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "installation of rain water collection system (RWCS)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 4893450.0,
+            "particulars": "installation of rain water collection system (RWCS)",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "rental of 2 units pumpboat",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 699000.0,
+            "particulars": "rental of 2 units pumpboat",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "2050 pax packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 666147.5,
+            "particulars": "2050 pax packed meals",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "3 days live-out seminar-50 pax",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 105000.0,
+            "particulars": "3 days live-out seminar-50 pax",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "15% mobilization of contract for Repair and upgrade of DRRMO Bldg.",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "particulars": "15% mobilization of contract for Repair and upgrade of DRRMO Bldg.",
+            "month": "OCTOBER",
+            "mitigation": null
+          }
+        },
+        {
+          "label": "Payment of 1 lot repair and rehabilitation of the cable line and equipment of the city's CCTV camera",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 12456379.04,
+            "particulars": "Payment of 1 lot repair and rehabilitation of the cable line and equipment of the city's CCTV camera",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Honorarium for facilitators to conduct the review & update of contingency Plans Training & Workshop",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 80000.0,
+            "particulars": "Honorarium for facilitators to conduct the review & update of contingency Plans Training & Workshop",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Honorarium as a Resource speakers/trainors for 3-day Community Based Disaster Risk Reduction & Management Training Course (1st batch)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 60000.0,
+            "particulars": "Honorarium as a Resource speakers/trainors for 3-day Community Based Disaster Risk Reduction & Management Training Course (1st batch)",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Honorarium as a Resource speakers/trainors for 3-day Community Based Disaster Risk Reduction & Management Training Course (2nd batch)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 60000.0,
+            "particulars": "Honorarium as a Resource speakers/trainors for 3-day Community Based Disaster Risk Reduction & Management Training Course (2nd batch)",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "40 PCS. ACRYLIC PLAQUE 6MM EMBOSED PRINT 10 INCHES X 6 INCHES WITHY 2 INCHES BASE FOR THE DISABILITY INCLUSIVE DISASTER RISK REDUCTION CONVENTION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 99920.0,
+            "particulars": "40 PCS. ACRYLIC PLAQUE 6MM EMBOSED PRINT 10 INCHES X 6 INCHES WITHY 2 INCHES BASE FOR THE DISABILITY INCLUSIVE DISASTER RISK REDUCTION CONVENTION",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "1000 PCS. T-SHHIRTS, HALF SUBMILATION FOR THE PARTICIPANTS DURING THE DISABILITY INCLUSIVE DISASTER REDUCTION CONVENTION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 350000.0,
+            "particulars": "1000 PCS. T-SHHIRTS, HALF SUBMILATION FOR THE PARTICIPANTS DURING THE DISABILITY INCLUSIVE DISASTER REDUCTION CONVENTION",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "160 PAX FOOD AND VENUE LIVE-OUT SEMINAR W/AM SNACKS, LUNCH & PM SNACKS FOR SEMINAR ON UNDERSTANDING AND SUPPORTING THE MENTAL HEALTH OF FIRST RESPONDERS RESCUERS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 112000.0,
+            "particulars": "160 PAX FOOD AND VENUE LIVE-OUT SEMINAR W/AM SNACKS, LUNCH & PM SNACKS FOR SEMINAR ON UNDERSTANDING AND SUPPORTING THE MENTAL HEALTH OF FIRST RESPONDERS RESCUERS",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "80 PCS. POLO SHIRT (FULL SUBMILATION) FOR THE PARTICIPANTS OF THE TRAINING ON MOTOR VEHICLE EXTRICATION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 40000.0,
+            "particulars": "80 PCS. POLO SHIRT (FULL SUBMILATION) FOR THE PARTICIPANTS OF THE TRAINING ON MOTOR VEHICLE EXTRICATION",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "800 pax packed Meals (Dinner), 800 pax packed Meals (Lunch), and 800 packed Meals Breakfast (1 Rice, 2 Viands, 1 Fruit, 1 Juice/ Bottled Water) Meals for the Victims of Human Induced & Natural Resources",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 419400.0,
+            "particulars": "800 pax packed Meals (Dinner), 800 pax packed Meals (Lunch), and 800 packed Meals Breakfast (1 Rice, 2 Viands, 1 Fruit, 1 Juice/ Bottled Water) Meals for the Victims of Human Induced & Natural Resources",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "500 PCS. TARPAULIN 2X2 FT AND ETC. PRINTING OF SIGNAGES AND PRODUCTION OF IEC MATERIALS FOR DISASTER PREPAREDNESS AND PREVENTION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 301000.0,
+            "particulars": "500 PCS. TARPAULIN 2X2 FT AND ETC. PRINTING OF SIGNAGES AND PRODUCTION OF IEC MATERIALS FOR DISASTER PREPAREDNESS AND PREVENTION",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "1000 PCS. HYGIENE KIT FOR STOCKPILING OF HYGIENE KIT FOR DISASTER RESPONSE AND RECOVERY",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1388000.0,
+            "particulars": "1000 PCS. HYGIENE KIT FOR STOCKPILING OF HYGIENE KIT FOR DISASTER RESPONSE AND RECOVERY",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "60 PCS. TARPAULIN 12X16 FT AND ETC. FOR THE CONDUCT OF DRRM RELATED INFORMATION, EDUCATION COMMUNICATION CAMPAIGN AND PLANS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 293250.0,
+            "particulars": "60 PCS. TARPAULIN 12X16 FT AND ETC. FOR THE CONDUCT OF DRRM RELATED INFORMATION, EDUCATION COMMUNICATION CAMPAIGN AND PLANS",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "96 DAYS RENTAL OF BACKHOE WITH FUEL AND OPERATOR FOR DRAINAGE CLEAN-UP AND REMOVAL OF SILT IN THE AREAS OF AVIATION ROAD",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 720000.0,
+            "particulars": "96 DAYS RENTAL OF BACKHOE WITH FUEL AND OPERATOR FOR DRAINAGE CLEAN-UP AND REMOVAL OF SILT IN THE AREAS OF AVIATION ROAD",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Cash for Work and Training Program",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 625116.36,
+            "particulars": "Cash for Work and Training Program",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Honorarium for Facilitators to conduct the Rapid Damage Assessment & Needs Analysis (RDANA) last Feb. 20-23, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 80000.0,
+            "particulars": "Honorarium for Facilitators to conduct the Rapid Damage Assessment & Needs Analysis (RDANA) last Feb. 20-23, 2024",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Cash for Work for Training and caring for the vulnerable sector community disaster volunteers August 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 621845.64,
+            "particulars": "Cash for Work for Training and caring for the vulnerable sector community disaster volunteers August 2024",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Cash for work for disaster victims and vulnerable sectors training",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 509823.48,
+            "particulars": "Cash for work for disaster victims and vulnerable sectors training",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Cash for Work and Training Program",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 621436.8,
+            "particulars": "Cash for Work and Training Program",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "1 LOT STORAGE DECORATION USE DURING THE RECOGNITION DAY IN OBSERVANCE OF THE FIRE PREVENTION MONTH CELEBRATION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 44000.0,
+            "particulars": "1 LOT STORAGE DECORATION USE DURING THE RECOGNITION DAY IN OBSERVANCE OF THE FIRE PREVENTION MONTH CELEBRATION",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "2ND partial payment of contract for Construction of 2 Storey Warehouse at Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1117660.66,
+            "particulars": "2ND partial payment of contract for Construction of 2 Storey Warehouse at Olango Island",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "1 UNIT BRANDNEW 5 TONNER BOOMTRUCK FOR RESCUE OPERATIONS AND TRANSPORT OF EQUIPMENTS AND GOODS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 8480000.0,
+            "particulars": "1 UNIT BRANDNEW 5 TONNER BOOMTRUCK FOR RESCUE OPERATIONS AND TRANSPORT OF EQUIPMENTS AND GOODS",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "3 UNITS BRANDNEW 6 WHEELER 5 CBM GARBAGE DUMPTRUCK",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 10440000.0,
+            "particulars": "3 UNITS BRANDNEW 6 WHEELER 5 CBM GARBAGE DUMPTRUCK",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "50 PAX FOOD & VENUE: (5 DAY LIVE-OUT) FOR TRAINING ON MOTOR ... [continued on missing page 8]",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "particulars": "50 PAX FOOD & VENUE: (5 DAY LIVE-OUT) FOR TRAINING ON MOTOR ... [continued on missing page 8]",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "[... start on missing page 9] PERSONNEL FOR THE CONDUCT OF DISASTER PREPAREDNESS FOR THE PERIOD OF NOVEMBER 16-25, 2024 & DECEMBER 1-15, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 695000.0,
+            "particulars": "[... start on missing page 9] PERSONNEL FOR THE CONDUCT OF DISASTER PREPAREDNESS FOR THE PERIOD OF NOVEMBER 16-25, 2024 & DECEMBER 1-15, 2024"
+          }
+        },
+        {
+          "label": "Cash for work and training for the month of October, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 600177.12,
+            "particulars": "Cash for work and training for the month of October, 2024"
+          }
+        },
+        {
+          "label": "Cash for training & works",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 363049.92,
+            "particulars": "Cash for training & works"
+          }
+        },
+        {
+          "label": "2000 PCS. TSHIRT HALF SUBLIMATION FOR CONDUCT OF RESCUE OLYMPICS DURING THE DISASTER RESILIENCE",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 698000.0,
+            "particulars": "2000 PCS. TSHIRT HALF SUBLIMATION FOR CONDUCT OF RESCUE OLYMPICS DURING THE DISASTER RESILIENCE"
+          }
+        },
+        {
+          "label": "Honorarium for ICS Cadre/Instructors during the 3-Day Basic Incident Command System Training Course",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 60000.0,
+            "particulars": "Honorarium for ICS Cadre/Instructors during the 3-Day Basic Incident Command System Training Course"
+          }
+        },
+        {
+          "label": "75 PAX FOOD & VENUE: (3-DAY LIVE-OUT) FOR BASIC INCIDENT COMMAND SYSTEM (ICS) TRAINING COURSE",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 157500.0,
+            "particulars": "75 PAX FOOD & VENUE: (3-DAY LIVE-OUT) FOR BASIC INCIDENT COMMAND SYSTEM (ICS) TRAINING COURSE"
+          }
+        },
+        {
+          "label": "106 PCS. BALLPEN BLACK AND ETC. SUPPLIES AND MATERIALS FOR THE CONDUCT OF VARIOUS TRAINING ON INCIDENT COMMAND SYSTEM TRAINING COURSE",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 79890.0,
+            "particulars": "106 PCS. BALLPEN BLACK AND ETC. SUPPLIES AND MATERIALS FOR THE CONDUCT OF VARIOUS TRAINING ON INCIDENT COMMAND SYSTEM TRAINING COURSE"
+          }
+        },
+        {
+          "label": "60 PCS. BALLPEN BLACK AND ETC. SUPPLIES FOR THE REVIEW AND UPDATING OF LAPU-LAPU CITY LOCAL CLIMATE CHANGE ACTION PLAN (LCCAP)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1770.0,
+            "particulars": "60 PCS. BALLPEN BLACK AND ETC. SUPPLIES FOR THE REVIEW AND UPDATING OF LAPU-LAPU CITY LOCAL CLIMATE CHANGE ACTION PLAN (LCCAP)"
+          }
+        },
+        {
+          "label": "75 PAX FOOD & VENUE: (3-DAY LIVE-OUT) FOR EMERGENCY OPERATION CENTER TRANING COURSE",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "particulars": "75 PAX FOOD & VENUE: (3-DAY LIVE-OUT) FOR EMERGENCY OPERATION CENTER TRANING COURSE",
+            "mitigation": null
+          }
+        },
+        {
+          "label": "900 PAX LIVE-OUT FOOD & VENUE USE OF CONFERENCE ROOM 3 NIGHTS & 4 DAYS ACTIVITY FOR (4) DAYS LIVE-IN TRAINING ON COMMUNITY ACTION FOR DISASTER RESPONSE (CADRE)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 399750.0,
+            "particulars": "900 PAX LIVE-OUT FOOD & VENUE USE OF CONFERENCE ROOM 3 NIGHTS & 4 DAYS ACTIVITY FOR (4) DAYS LIVE-IN TRAINING ON COMMUNITY ACTION FOR DISASTER RESPONSE (CADRE)"
+          }
+        },
+        {
+          "label": "575 PAX PACKED MEALS (MORNING SNACKS, LUNCH, AFTERNOON SNACKS) FOR THE 2 DAYS CONDUCT OF FIRST AID AND BASIC EMERGENCY TRAINING FOR PWD AND THEIR PERSONAL CARE ASSISTANTS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 186731.25,
+            "particulars": "575 PAX PACKED MEALS (MORNING SNACKS, LUNCH, AFTERNOON SNACKS) FOR THE 2 DAYS CONDUCT OF FIRST AID AND BASIC EMERGENCY TRAINING FOR PWD AND THEIR PERSONAL CARE ASSISTANTS"
+          }
+        },
+        {
+          "label": "50 PCS. BALLPEN BLACK, SDO AND ETC. FOR THE CONDUCT OF FIRST AID AND BASIC EMERGENCY TRAINING FOR PWD AND THEIR PERSONAL CARE ASSISTANTS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 23641.39,
+            "particulars": "50 PCS. BALLPEN BLACK, SDO AND ETC. FOR THE CONDUCT OF FIRST AID AND BASIC EMERGENCY TRAINING FOR PWD AND THEIR PERSONAL CARE ASSISTANTS"
+          }
+        },
+        {
+          "label": "100 PAX PACKED MEALS (AM SNACKS), AND ETC. MEALS DURING THE CONDUCT OF TRAINING OF DRRM PERSONNEL (EMERGENCY MEDICAL RESPONSE TRAINING)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 472475.0,
+            "particulars": "100 PAX PACKED MEALS (AM SNACKS), AND ETC. MEALS DURING THE CONDUCT OF TRAINING OF DRRM PERSONNEL (EMERGENCY MEDICAL RESPONSE TRAINING)"
+          }
+        },
+        {
+          "label": "10,714 BOX FOOD RELIEF ITEMS FOR ASSISTANCE OF LLC RESIDENTS IN TIMES OF CALAMITIES (NATURAL AND MANMADE)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 14978172.0,
+            "particulars": "10,714 BOX FOOD RELIEF ITEMS FOR ASSISTANCE OF LLC RESIDENTS IN TIMES OF CALAMITIES (NATURAL AND MANMADE)"
+          }
+        },
+        {
+          "label": "900 PAX MEALS BREAKFAST, 900 PAX DINNER AND 900 PAX LUNCH FOR PERSONNEL RESPONDING TO EMERGENCIES, DISASTER AND PLAN EVENTS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "particulars": "900 PAX MEALS BREAKFAST, 900 PAX DINNER AND 900 PAX LUNCH FOR PERSONNEL RESPONDING TO EMERGENCIES, DISASTER AND PLAN EVENTS",
+            "mitigation": null
+          }
+        },
+        {
+          "label": "1000 PAX PACKED LUNCH, 1000 PAX PACKED MEALS (DINNER), AND 1000 PACKED MEALS BREAKFAST (1 RICE, 2 VIANDS, 1 FRUIT, 1 JUICE/BOTTLED WATER)",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 524850.0,
+            "particulars": "1000 PAX PACKED LUNCH, 1000 PAX PACKED MEALS (DINNER), AND 1000 PACKED MEALS BREAKFAST (1 RICE, 2 VIANDS, 1 FRUIT, 1 JUICE/BOTTLED WATER)"
+          }
+        },
+        {
+          "label": "960 PAX PACKED MEALS (BREAKFAST) 960 PAX PACKED MEALS (DINNER), AND 960 PAX PACKED MEALS (LUNCH) PROVISION OF MEALS FOR PERSONNEL RESPONDING TO EMERGENCIES, DISASTER AND PLAN EVENTS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 503856.0,
+            "particulars": "960 PAX PACKED MEALS (BREAKFAST) 960 PAX PACKED MEALS (DINNER), AND 960 PAX PACKED MEALS (LUNCH) PROVISION OF MEALS FOR PERSONNEL RESPONDING TO EMERGENCIES, DISASTER AND PLAN EVENTS"
+          }
+        },
+        {
+          "label": "1000 PAX PACKED MEALS BREAKFAST 1000 PAX LUNCH AND 1000 PAX DINNER FOR VICTIMS OF HUMAN INDUCED AND NATURAL DISASTER",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 524250.0,
+            "particulars": "1000 PAX PACKED MEALS BREAKFAST 1000 PAX LUNCH AND 1000 PAX DINNER FOR VICTIMS OF HUMAN INDUCED AND NATURAL DISASTER"
+          }
+        },
+        {
+          "label": "1000 PAX PACKED MEALS (BREAKFAST), 1000 PAX PACKED MEALS (DINNER), AND 1000 PAX PACKED MEALS (LUNCH) PROVISION OF FOODS TO VICTIMS OF HUMAN INDUCED & NATURAL DISASTER",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 524850.0,
+            "particulars": "1000 PAX PACKED MEALS (BREAKFAST), 1000 PAX PACKED MEALS (DINNER), AND 1000 PAX PACKED MEALS (LUNCH) PROVISION OF FOODS TO VICTIMS OF HUMAN INDUCED & NATURAL DISASTER"
+          }
+        },
+        {
+          "label": "4000 KITS EMERGENCY FIRS AID KIT FOR VOLUNTEERS AND VULNERABLE SECTORS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1996000.0,
+            "particulars": "4000 KITS EMERGENCY FIRS AID KIT FOR VOLUNTEERS AND VULNERABLE SECTORS"
+          }
+        },
+        {
+          "label": "455 BOXES STORAGE PLASTIC BOX 155L (NON-FOOD RELIEF ITEMS) FOR STOCKPILING OF NON FOOD ITEMS FOR DISASTER RESPONSE & RECOVERY",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1592045.0,
+            "particulars": "455 BOXES STORAGE PLASTIC BOX 155L (NON-FOOD RELIEF ITEMS) FOR STOCKPILING OF NON FOOD ITEMS FOR DISASTER RESPONSE & RECOVERY"
+          }
+        },
+        {
+          "label": "60 BAGS CEMENT, AND ETC. FOR VARIOUS CONSTRUCTION ... [continued on missing page 13]",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "particulars": "60 BAGS CEMENT, AND ETC. FOR VARIOUS CONSTRUCTION ... [continued on missing page 13]"
+          }
+        },
+        {
+          "label": "[... start on missing page 13] CUTTE, AND ETC. FOR FIREFIGHTING FORCIBLE ENTRY TOOLS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 647578.0,
+            "particulars": "[... start on missing page 13] CUTTE, AND ETC. FOR FIREFIGHTING FORCIBLE ENTRY TOOLS"
+          }
+        },
+        {
+          "label": "4 PCS ACCESSORY CORD, AND ETC. HIGH ANGLE EQUIPMENT",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1448253.0,
+            "particulars": "4 PCS ACCESSORY CORD, AND ETC. HIGH ANGLE EQUIPMENT"
+          }
+        },
+        {
+          "label": "100 ROUNDTRIPS RENTAL OF 2 UNITS PUMPBOAT FOR SEACRAFT FOR HUMANITARIAN RELIEF ASSISTANCE AND TRASNPORTATION OF PERSONNEL FOR THE CONDUCT OF DISASTER PREPAREDNESS FOR THE PERIOD OF NOVEMBER 16-25, 2024 & DECEMBER 1-15, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 699500.0,
+            "particulars": "100 ROUNDTRIPS RENTAL OF 2 UNITS PUMPBOAT FOR SEACRAFT FOR HUMANITARIAN RELIEF ASSISTANCE AND TRASNPORTATION OF PERSONNEL FOR THE CONDUCT OF DISASTER PREPAREDNESS FOR THE PERIOD OF NOVEMBER 16-25, 2024 & DECEMBER 1-15, 2024"
+          }
+        },
+        {
+          "label": "Cash for work and training for the month of December, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 695028.0,
+            "particulars": "Cash for work and training for the month of December, 2024"
+          }
+        },
+        {
+          "label": "Cash for Work for the month of December, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 327072.0,
+            "particulars": "Cash for Work for the month of December, 2024"
+          }
+        },
+        {
+          "label": "Cash for Training & work for the month of October, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 276375.92,
+            "particulars": "Cash for Training & work for the month of October, 2024"
+          }
+        },
+        {
+          "label": "Cash for training & cash for work for the month of November, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 588729.6,
+            "particulars": "Cash for training & cash for work for the month of November, 2024"
+          }
+        },
+        {
+          "label": "Cash for Training & cash for work for the month of November, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 621436.8,
+            "particulars": "Cash for Training & cash for work for the month of November, 2024"
+          }
+        },
+        {
+          "label": "Cash for training & cash for work for the month of November, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 590773.8,
+            "particulars": "Cash for training & cash for work for the month of November, 2024"
+          }
+        },
+        {
+          "label": "Cash for work and training for the month of December, 2024",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 657414.72,
+            "particulars": "Cash for work and training for the month of December, 2024"
+          }
+        },
+        {
+          "label": "44 PCS. ACRYLIC PLAQUE 6MM EMBOSSED PRINT 10 INCHES x 6 INCHES WITH 2 INCHES BASE FOR CITY WIDE FIRE OLYMPICS",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "particulars": "44 PCS. ACRYLIC PLAQUE 6MM EMBOSSED PRINT 10 INCHES x 6 INCHES WITH 2 INCHES BASE FOR CITY WIDE FIRE OLYMPICS",
+            "mitigation": null
+          }
+        },
+        {
+          "label": "TRUST FUND (heading and January-June items on missing page 15)",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "1 unit cut-off saw",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 796860.0,
+            "particulars": "1 unit cut-off saw",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "100 gallon alcohol",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 373388.0,
+            "particulars": "100 gallon alcohol",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "300 tabs allopurinol, 100mg",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1194560.6,
+            "particulars": "300 tabs allopurinol, 100mg",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "4 units steel cabinet",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 206500.0,
+            "particulars": "4 units steel cabinet",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "5 units hard case storage luggage",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 226933.0,
+            "particulars": "5 units hard case storage luggage",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "Upgrade and rehabilitation of Multi Purpose Evacuation Center -Pangan-an",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 2522179.67,
+            "particulars": "Upgrade and rehabilitation of Multi Purpose Evacuation Center -Pangan-an",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "600 pax pacxked meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 194850.0,
+            "particulars": "600 pax pacxked meals",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "Upgrade and rehabilitation of Multi Purpose Evacuation Center -Caubian final payment",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 2867300.13,
+            "particulars": "Upgrade and rehabilitation of Multi Purpose Evacuation Center -Caubian final payment",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "20 pcs android sphymamoter",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 515400.0,
+            "particulars": "20 pcs android sphymamoter",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "65 reams bondpapers",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 27874.81,
+            "particulars": "65 reams bondpapers",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "4 units 6-Wheeler Water Tank",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 39520000.0,
+            "particulars": "4 units 6-Wheeler Water Tank",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "300 units fire extinguisher",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 24853.39,
+            "particulars": "300 units fire extinguisher",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "300 units fire extinguisher chem.",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 212191.0,
+            "particulars": "300 units fire extinguisher chem.",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "300 units fire extinguisher chem.",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 512955.61,
+            "particulars": "300 units fire extinguisher chem.",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "1450 pcs Alcohol Prep Pad",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 965075.0,
+            "particulars": "1450 pcs Alcohol Prep Pad",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "12 pcs. Alcohol Pre-Pad",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 111216.24,
+            "particulars": "12 pcs. Alcohol Pre-Pad",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "50 pcs Alcohol Pre-pad",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 131833.5,
+            "particulars": "50 pcs Alcohol Pre-pad",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "2nd partial payment Pangan-an Multi Purpose Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1449907.81,
+            "particulars": "2nd partial payment Pangan-an Multi Purpose Evacuation Center",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Payment of 2475 pax packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 866250.0,
+            "particulars": "Payment of 2475 pax packed meals",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Payment of 45 pcs ballpen",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "particulars": "Payment of 45 pcs ballpen",
+            "month": "OCTOBER",
+            "mitigation": null
+          }
+        },
+        {
+          "label": "Payment of 200 bottles alcohol and other items",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 357220.0,
+            "particulars": "Payment of 200 bottles alcohol and other items",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "Payment of 500 cylinders Medical oxygen",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 210000.0,
+            "particulars": "Payment of 500 cylinders Medical oxygen",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "DECEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "No Utilization",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "particulars": "No Utilization",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 0,
+            "mitigation": 149667286.2,
+            "total": 149667286.2,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 46053620.0,
+            "mitigation": 124774634.71,
+            "total": 170828254.71
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 320495540.91,
+    "qrf": 46053620.0,
+    "mitigation": 274441920.91,
+    "totalUtilized": 149667286.2,
+    "balance": 170828254.71,
+    "qrfUtilized": 0,
+    "mitigationUtilized": 149667286.2,
+    "qrfBalance": 46053620.0,
+    "mitigationBalance": 124774634.71
+  },
+  "notes": [
+    "INCOMPLETE SOURCE: pages are numbered \"Page N of 17\" but the published PDF has only 13 pages. From the footers and the text continuity, the PDF holds printed pages 1-7, 10, 11, 12, 14, 16 and 17; pages 8, 9, 13 and 15 are missing. Consequently: the item \"50 PAX FOOD & VENUE: (5 DAY LIVE-OUT) FOR TRAINING ON MOTOR ...\" (end of page 7) and \"60 BAGS CEMENT, AND ETC. FOR VARIOUS CONSTRUCTION ...\" (end of page 12) have no visible amount; page 10 and page 14 begin mid-item (their first rows are tails of items begun on the missing pages; the printed amounts are kept); and the TRUST FUND heading plus its January-June items (except the last June item, \"1 unit cut-off saw\") are not visible. The utilization list is therefore partial and its items cannot be reconciled with the printed Total Utilization.",
+    "The printed Total Utilization 149,667,286.20 and Unutilized Balance (QRF 46,053,620.00; Mitigation 124,774,634.71; Total 170,828,254.71) are consistent with Section A (274,441,920.91 - 149,667,286.20 = 124,774,634.71). They are transcribed as printed. TOTAL MISMATCH: the visible utilization items alone sum to 167,192,904.04 (General Fund-MOOE 4,228,525.60; Continuing and Current Appropriation 109,677,029.68; Trust Fund 53,287,348.76), which already EXCEEDS the printed Total Utilization by 17,525,617.84 before adding the items on the four missing pages and the five unreadable amounts. So the printed total cannot include every listed item. In 2024-q3-ldrrmf the printed total omitted the Trust Fund July-September items (51,057,018.76, which are also listed here); the same omission may apply here, but with pages missing this cannot be verified.",
+    "Five amounts are overprinted by the \"Page N of 17\" footer and are recorded as null (see unreadable): \"15% mobilization of contract for Repair and upgrade of DRRMO Bldg.\" (3,744,7??.?6), \"75 PAX FOOD & VENUE ... EMERGENCY OPERATION CENTER TRANING COURSE\" (157,5??.??), \"900 PAX MEALS BREAKFAST ... PLAN EVENTS\" (471,???.00), \"44 PCS. ACRYLIC PLAQUE ... CITY WIDE FIRE OLYMPICS\" (109,???.00) and \"Payment of 45 pcs ballpen\" (7??.??). The scan source is low resolution (975x637 px per page), so a re-render does not help.",
+    "Months: the CONTINUING AND CURRENT APPROPRIATION items after the November heading on page 7 are followed by missing pages, so the items on pages 10-14 have no month (a December heading may have been on a missing page). The Trust Fund item \"1 unit cut-off saw\" is assigned to June by its position (its June heading is on missing page 15; same item is under June in 2024-q3-ldrrmf).",
+    "January-September items repeat those of 2024-q3-ldrrmf and were re-checked against this report's pages. The four mitigation amounts 1,533,668.25 / 1,551,956.03 / 1,570,243.81 / 1,588,531.59 printed on the \"CONTINUING AND CURRENT\", \"APPROPRIATION\", \"January-No Liquidation\" and \"February-No liquidation\" rows have no item description and form an arithmetic series (+18,287.78 each), as in Q1-Q3.",
+    "The Special Trust Fund carry-over years (2019-2023) printed under the STF line sum to 191,948,705.65, not the STF line amount 29,850,466.23; transcribed as printed.",
+    "Particulars kept as printed, including typos (e.g. \"EMBOSED\", \"WITHY\", \"T-SHHIRTS\", \"SUBMILATION\", \"TRASNPORTATION\", \"FIRS AID\", \"TRANING\", \"pacxked\", \"sphymamoter\")."
+  ],
+  "unreadable": [
+    "tables[1].rows[76].values.mitigation",
+    "tables[1].rows[109].values.mitigation",
+    "tables[1].rows[115].values.mitigation",
+    "tables[1].rows[133].values.mitigation",
+    "tables[1].rows[158].values.mitigation"
+  ]
+}

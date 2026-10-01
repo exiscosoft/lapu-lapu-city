@@ -1,0 +1,311 @@
+{
+  "id": "2025-q3-sef",
+  "type": "sef",
+  "title": "Special Education Fund Utilization",
+  "form": "FDP Form 11 - SEF Utilization (DepEd-DBM-DILG Joint Circular No. 1 s. 2017, SEF Budget Accountability Form No. 1)",
+  "period": {
+    "year": 2025,
+    "quarter": 3,
+    "asOf": "2025-09-30",
+    "printed": "CALENDAR YEAR: 2025, QUARTER: 3",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Special Education Fund Utilization",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Receipt from SEF",
+          "level": 0,
+          "kind": "total",
+          "section": "receipts",
+          "values": {
+            "amount": 582644580.23
+          }
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 50000
+          }
+        },
+        {
+          "label": "Total Personal Services",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "amount": 50000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expense",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 1619296
+          }
+        },
+        {
+          "label": "Water Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 149072.68
+          }
+        },
+        {
+          "label": "Office Supplies Expense",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 4937190.28
+          }
+        },
+        {
+          "label": "Drug and Medicines Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 1363022
+          }
+        },
+        {
+          "label": "Textbooks and Instructional Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 14756490.3
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 2542423.17
+          }
+        },
+        {
+          "label": "Internet Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 219957.13
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 367788.62
+          }
+        },
+        {
+          "label": "Awards and Rewards Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 12339388.3
+          }
+        },
+        {
+          "label": "Environment/Sanitary Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Repairs and Maintenance-Machinery and Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 28564386.95
+          }
+        },
+        {
+          "label": "Total Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "amount": 66859015.43
+          }
+        },
+        {
+          "label": "Capital Outlay-Current",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Total Capital Outlay-Current",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Capital Outlay-Continuing",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlayContinuing",
+          "values": {}
+        },
+        {
+          "label": "School Building",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 138100595.52
+          }
+        },
+        {
+          "label": "Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 827250
+          }
+        },
+        {
+          "label": "Information & Communication Technology Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 13552716.2
+          }
+        },
+        {
+          "label": "Other Structures",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 786445.8
+          }
+        },
+        {
+          "label": "Land",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 11878138.42
+          }
+        },
+        {
+          "label": "Total Capital Outlay-Continuing",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 165145145.94
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 232054161.37
+          }
+        },
+        {
+          "label": "Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 350590418.86
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "receipts": 582644580.23,
+    "ps": 50000,
+    "mooe": 66859015.43,
+    "capitalOutlay": 165145145.94,
+    "totalDisbursements": 232054161.37,
+    "balance": 350590418.86
+  },
+  "notes": [
+    "Capital Outlay-Current has no items and a printed subtotal of 0.00.",
+    "The form spans two pages (Capital Outlay-Continuing, Sub-total and Balance on page 2)."
+  ],
+  "unreadable": []
+}

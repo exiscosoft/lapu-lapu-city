@@ -1,0 +1,632 @@
+{
+  "id": "2024-q3-sef",
+  "type": "sef",
+  "title": "Special Education Fund Utilization",
+  "form": "FDP Form 11 - SEF Utilization (DepEd-DBM-DILG Joint Circular No. 1 s. 2017, SEF Budget Accountability Form No. 1)",
+  "period": {
+    "year": 2024,
+    "quarter": 3,
+    "asOf": "2024-09-30",
+    "printed": "CALENDAR YEAR 2024, QUARTER 3",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Special Education Fund Utilization",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Receipt from SEF",
+          "level": 0,
+          "kind": "total",
+          "section": "receipts",
+          "values": {
+            "amount": 696214641.44
+          }
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Total Personal Services",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expense",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 400000
+          }
+        },
+        {
+          "label": "Water Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 54537.94
+          }
+        },
+        {
+          "label": "Office Supplies Expense",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 418900
+          }
+        },
+        {
+          "label": "Drug and Medicines Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Textbooks and Instructional Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 17687338.3
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 783234.66
+          }
+        },
+        {
+          "label": "Internet Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 39098.6
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 250825.02
+          }
+        },
+        {
+          "label": "Awards and Rewards Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Repairs and Maintenance-Machinery and Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 6469321
+          }
+        },
+        {
+          "label": "Total Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "amount": 26103255.52
+          }
+        },
+        {
+          "label": "Capital Outlay-Continuing",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlayContinuing",
+          "values": {}
+        },
+        {
+          "label": "School Building",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 55593754.95
+          }
+        },
+        {
+          "label": "Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 515350
+          }
+        },
+        {
+          "label": "Information & Communication Technology Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 710000
+          }
+        },
+        {
+          "label": "Land",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 2531100
+          }
+        },
+        {
+          "label": "Total Capital Outlay-Continuing",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlayContinuing",
+          "values": {
+            "amount": 59350204.95
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 85453460.47
+          }
+        },
+        {
+          "label": "Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 610761180.97
+          }
+        }
+      ]
+    },
+    {
+      "key": "cashFlows",
+      "title": "Statement of Cash Flows (FDP Form 9), page 2 of this PDF",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Net",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Cash Flows from Operating Activities:",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Collection from taxpayers",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingIn",
+          "values": {
+            "amount": 1417133887.8
+          }
+        },
+        {
+          "label": "Share from Internal Revenue Collections",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingIn",
+          "values": {
+            "amount": 1018178504
+          }
+        },
+        {
+          "label": "Receipts from business/service",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingIn",
+          "values": {
+            "amount": 238099955.28
+          }
+        },
+        {
+          "label": "Interest Income",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingIn",
+          "values": {
+            "amount": 33987131.63
+          }
+        },
+        {
+          "label": "Gain on Sale of PPE",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingIn",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Other Receipts",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingIn",
+          "values": {
+            "amount": 187164033.67
+          }
+        },
+        {
+          "label": "Total Cash Inflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "operatingIn",
+          "values": {
+            "amount": 2894563512.38
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Payments - To suppliers/creditors",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOut",
+          "values": {
+            "amount": 839032096.15
+          }
+        },
+        {
+          "label": "To employees",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOut",
+          "values": {
+            "amount": 508708272.96
+          }
+        },
+        {
+          "label": "Interest Expense",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOut",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Other Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOut",
+          "values": {
+            "amount": 161683083.78
+          }
+        },
+        {
+          "label": "Total Cash Outflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "operatingOut",
+          "values": {
+            "amount": 1509423452.89
+          }
+        },
+        {
+          "label": "Net Cash from Operating Activities",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "total": 1385140059.49
+          }
+        },
+        {
+          "label": "Cash Flows from Investing Activities:",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "From Sale of Property, Plant and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "investingIn",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "From Sale of Debt Securities of Other Entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingIn",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "From Collection of Principal on Loans to Other Entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingIn",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Total Cash Inflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "investingIn",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "To Purchase Property, Plant and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOut",
+          "values": {
+            "amount": 937346837.3
+          }
+        },
+        {
+          "label": "To Purchase Intangible Assets",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOut",
+          "values": {
+            "amount": 132023.56
+          }
+        },
+        {
+          "label": "To Grant/Make Loans to Other Entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOut",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Total Cash Outflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "investingOut",
+          "values": {
+            "amount": 937478860.86
+          }
+        },
+        {
+          "label": "Net Cash from Investing Activities",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "total": -937478860.86
+          }
+        },
+        {
+          "label": "Cash Flows from Financing Activities",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "From Issuance of Debt Securities",
+          "level": 2,
+          "kind": "item",
+          "section": "financingIn",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "From Acquisition of Loan",
+          "level": 2,
+          "kind": "item",
+          "section": "financingIn",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Total Cash Inflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "financingIn",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Retirement/Redemption of Debt Securities",
+          "level": 2,
+          "kind": "item",
+          "section": "financingOut",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Payment of Loan Amortization",
+          "level": 2,
+          "kind": "item",
+          "section": "financingOut",
+          "values": {
+            "amount": 115064.07
+          }
+        },
+        {
+          "label": "Total Cash Outflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "financingOut",
+          "values": {
+            "amount": 115064.07
+          }
+        },
+        {
+          "label": "Net Cash from Financing Activities",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "total": -115064.07
+          }
+        },
+        {
+          "label": "Net Increase in Cash",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "total": 447546134.56
+          }
+        },
+        {
+          "label": "Cash at Beginning of the Period",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "total": 2652100282.48
+          }
+        },
+        {
+          "label": "Cash at the End of the Period",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "total": 3099646417.04
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "receipts": 696214641.44,
+    "ps": 0,
+    "mooe": 26103255.52,
+    "capitalOutlay": 59350204.95,
+    "totalDisbursements": 85453460.47,
+    "balance": 610761180.97
+  },
+  "notes": [
+    "Page 2 of this PDF is not part of the SEF form: it is an FDP Form 9 Statement of Cash Flows (BLGF MC No. 09-2012, Annex 2) for Lapu-Lapu City, CY 2024 Q3. It is transcribed as the separate table \"cashFlows\"; it is not SEF data.",
+    "On the cash-flow page the amounts sit about half a line below their labels; they were matched to labels in order (Collection from taxpayers 1,417,133,887.80 ... Other Receipts 187,164,033.67), which reproduces the printed Total Cash Inflow 2,894,563,512.38 and Total Cash Outflow 1,509,423,452.89.",
+    "Personal Services lists Honoraria with no amount; the PS subtotal is printed as a dash (0)."
+  ],
+  "unreadable": []
+}

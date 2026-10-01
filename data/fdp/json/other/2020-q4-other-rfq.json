@@ -1,0 +1,106 @@
+{
+  "id": "2020-q4-other-rfq",
+  "type": "other",
+  "title": "Request for Price Quotation",
+  "form": "Standard Form/Title: REQUEST FOR QUOTATION (Revised on: May 2004)",
+  "period": {
+    "year": 2020,
+    "quarter": 4,
+    "asOf": "2020-12-02",
+    "printed": "Date: 12/2/2020",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Atty. James Allan Sayson",
+      "position": "CGADH II - City Legal Office, BAC Chairman"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "Items & Description",
+      "columns": [
+        {
+          "key": "no",
+          "label": "Item No.",
+          "type": "number"
+        },
+        {
+          "key": "description",
+          "label": "Items & Description",
+          "type": "text"
+        },
+        {
+          "key": "qty",
+          "label": "Qty",
+          "type": "number"
+        },
+        {
+          "key": "unit",
+          "label": "Unit",
+          "type": "text"
+        },
+        {
+          "key": "unitPrice",
+          "label": "Unit Price",
+          "type": "amount"
+        },
+        {
+          "key": "totalPrice",
+          "label": "Total Price",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "LAPTOP TP510UF-E8003T W/STYLUS",
+          "kind": "item",
+          "level": 0,
+          "values": {
+            "no": 1,
+            "description": "LAPTOP TP510UF-E8003T W/STYLUS. Specs: Core i5 8250U; Win 10 Home; 8GB; 1TB+128GB SSD; NV MX130 2GB; 15.6\" FHD",
+            "qty": 1,
+            "unit": "Unit",
+            "unitPrice": null,
+            "totalPrice": null
+          }
+        },
+        {
+          "label": "LAPTOP",
+          "kind": "item",
+          "level": 0,
+          "values": {
+            "no": 2,
+            "description": "LAPTOP. Specs: Core i7-8565u; Win 10 Home; LPDDR3 16GB; 512G M.2 SSD; MX150 GGDR5 2GB; 14.0 FHD",
+            "qty": 1,
+            "unit": "Unit",
+            "unitPrice": null,
+            "totalPrice": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "kind": "total",
+          "level": 0,
+          "values": {
+            "totalPrice": null
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "prNo": "20-11-1166",
+    "endUser": "TOURIM OFFICE",
+    "abc": 146710,
+    "deadline": "December 7, 2020, 10:00 A.M.",
+    "itemCount": 2
+  },
+  "notes": [
+    "Blank Request for Price Quotation form issued by the General Services Office (P.R. No. 20-11-1166, dated 12/2/2020, end-user printed as 'TOURIM OFFICE'). Unit price, total price and TOTAL are blank on the form (to be filled by suppliers), so they are null. The only amount printed is the Approved Budget for the Contract (ABC): 146,710.00, recorded in summary.abc.",
+    "Terms: delivery within 7 C.D. upon receipt of approved funded P.O.; warranty minimum three (3) months for supplies & materials; price validity sixty (60) calendar days; PhilGEPS Registration Certificate required.",
+    "Transcribed from the PDF's text layer and checked against the page image."
+  ],
+  "unreadable": []
+}

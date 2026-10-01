@@ -1,0 +1,241 @@
+{
+  "id": "2022-q1-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Bid Results on Civil Works",
+  "form": "FDP Form 10a / FDP Form 10b",
+  "period": {
+    "year": 2022,
+    "quarter": 1,
+    "asOf": "2022-03-31",
+    "printed": "1st Quarter, CY 2022",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Florenda D. Sabsalon",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Atty. James Allan C. Sayson",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "civilWorks",
+      "title": "CIVIL WORKS",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address Of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": []
+    },
+    {
+      "key": "goodsServices",
+      "title": "GOODS AND SERVICES BID OUT",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "Purchase Request Number",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for the Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name of Address of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": [
+        {
+          "label": "2 UNITS BIOLOGICAL SAFETY CABINET OF CHO",
+          "kind": "item",
+          "values": {
+            "refNo": "21-10-0898",
+            "description": "2 UNITS BIOLOGICAL SAFETY CABINET OF CHO",
+            "abc": 1172000,
+            "bidder": "LABSOLUTIONS TECHNOLOGIES INC.",
+            "bidderNormalized": "LABSOLUTIONS TECHNOLOGIES, INC.",
+            "bidderAddress": "TRES DE ABRIL LABANGON, CEBU CITY",
+            "bidAmount": 1170000,
+            "biddingDate": "2022-01-18"
+          }
+        },
+        {
+          "label": "1 UNIT BRAND NEW RESCUE AND PATIENT TRANSPORT VEHICLE OF BFP",
+          "kind": "item",
+          "values": {
+            "refNo": "21-11-0971",
+            "description": "1 UNIT BRAND NEW RESCUE AND PATIENT TRANSPORT VEHICLE OF BFP",
+            "abc": 2000000,
+            "bidder": "NISSAN CEBU DISTRIBUTORS INC.",
+            "bidderNormalized": "NISSAN CEBU DISTRIBUTORS INC.",
+            "bidderAddress": "M.L. QUEZON AVENUE MANDAUE CITY, CEBU, REGION VII, PHILIPPINES",
+            "bidAmount": 1968000,
+            "biddingDate": "2022-01-25"
+          }
+        },
+        {
+          "label": "1 UNIT BRAND NEW TEN (10) WHEELER CAB & CHASSIS OF DRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "21-10-0815",
+            "description": "1 UNIT BRAND NEW TEN (10) WHEELER CAB & CHASSIS OF DRRMO",
+            "abc": 6000000,
+            "bidder": "PASAJERO MOTORS CORPORATION",
+            "bidderNormalized": "PASAJERO MOTORS CORPORATION",
+            "bidderAddress": "AS FORTUNA ST., MANDAUE CITY, CEBU",
+            "bidAmount": 5998000,
+            "biddingDate": "2022-02-22"
+          }
+        },
+        {
+          "label": "2 UNITS BRAND NEW TRACKED EXCAVATOR (BACKHOE) WITH BREAKER LINE OF DRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "21-10-0854",
+            "description": "2 UNITS BRAND NEW TRACKED EXCAVATOR (BACKHOE) WITH BREAKER LINE OF DRRMO",
+            "abc": 20000000,
+            "bidder": "PASAJERO MOTORS CORPORATION",
+            "bidderNormalized": "PASAJERO MOTORS CORPORATION",
+            "bidderAddress": "AS FORTUNA ST., MANDAUE CITY, CEBU",
+            "bidAmount": 19897776,
+            "biddingDate": "2022-02-22"
+          }
+        },
+        {
+          "label": "6 UNITS UHF/FM DIGITAL RADIO REPEATER SYSTEMS OF DRRMO",
+          "kind": "item",
+          "values": {
+            "refNo": "21-11-0954",
+            "description": "6 UNITS UHF/FM DIGITAL RADIO REPEATER SYSTEMS OF DRRMO",
+            "abc": 3000000,
+            "bidder": "MM & S ENTERPRISES",
+            "bidderNormalized": "MM & S ENTERPRISES",
+            "bidderAddress": "4 OLD BONIFACIO STREET, BANILAD, CEBU CITY, CEBU",
+            "bidAmount": 2998800,
+            "biddingDate": "2022-03-01"
+          }
+        },
+        {
+          "label": "DRUGS AND MEDICINES",
+          "kind": "item",
+          "values": {
+            "refNo": "22-01-0028",
+            "description": "DRUGS AND MEDICINES",
+            "abc": 2357700,
+            "bidder": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "DOOR 2 UBT BLDG. NORTH RECLAMATION AREA SUBANGDAKU, MANDAUE CITY, CEBU",
+            "bidAmount": 2352770,
+            "biddingDate": "2022-03-08"
+          }
+        },
+        {
+          "label": "6 MONTHS SUBSCRIPTION FOR ONLINE VACCINE MANAGEMENT AND MONITORING SYSTEM OF IT OFFICE",
+          "kind": "item",
+          "values": {
+            "refNo": "22-02-0053",
+            "description": "6 MONTHS SUBSCRIPTION FOR ONLINE VACCINE MANAGEMENT AND MONITORING SYSTEM OF IT OFFICE",
+            "abc": 2280000,
+            "bidder": "EDGE CLOUD TECHNOLOGY AND SOLUTIONS CORP.",
+            "bidderNormalized": "EDGE CLOUD TECHNOLOGY AND SOLUTIONS CORPORATION",
+            "bidderAddress": "5TH FLOOR ONGTIAK BUSINESS CENTER, GENERAL MAXILOM AVENUE, CEBU CITY",
+            "bidAmount": 2250000,
+            "biddingDate": "2022-03-15"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "The PDF holds two forms: page 1 is FDP Form 10a (Civil Works), which states \"No bidding of projects as of January 2022 to March 2022\" (table civilWorks has no rows); page 2 is FDP Form 10b Goods and Services Bid Out, First Quarter, Calendar Year 2022 (table goodsServices).",
+    "Goods and Services form has no location or contract duration columns. Its address column is headed \"Name of Address of Bidder\" as printed.",
+    "Page 1 prints the BAC Chairperson as \"Atty. James Allan Sayson\"; page 2 as \"Atty. James Allan C. Sayson\" (BAC Chairman), and page 2 labels Florenda D. Sabsalon \"BAC Secretariat\".",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

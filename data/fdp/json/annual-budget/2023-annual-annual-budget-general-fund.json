@@ -1,0 +1,1168 @@
+{
+  "id": "2023-annual-annual-budget-general-fund",
+  "type": "annual-budget",
+  "title": "Ordinance No. 16-053-2022: Annual Budget of the City of Lapu-Lapu for Calendar Year 2023 (General Fund Proper, Operation of Hospitals, Market and Slaughterhouse), with the Mayor's Budget Message",
+  "form": "Appropriation Ordinance (SP Resolution No. 16-0673-2022, Ordinance No. 16-053-2022) and Budget Message",
+  "period": {
+    "year": 2023,
+    "quarter": null,
+    "asOf": null,
+    "printed": "Calendar Year 2023",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Francisco Y. Limpangug",
+      "position": "SP/City Secretary"
+    }
+  ],
+  "tables": [
+    {
+      "key": "section1AppropriationsByFund",
+      "title": "Ordinance No. 16-053-2022, Section 1: Annual Budget for Calendar Year 2023 by fund",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "generalFund",
+          "label": "General Fund Proper",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "amount": 2871781518
+          }
+        },
+        {
+          "key": "hospitals",
+          "label": "Operation of Hospitals",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "amount": 250990597
+          }
+        },
+        {
+          "key": "marketSlaughterhouse",
+          "label": "Market and Slaughterhouse",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "amount": 14500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "section2SourcesGeneralFund",
+      "title": "Section 2. Sources of Funds: A. General Fund Proper",
+      "columns": [
+        {
+          "key": "budgetYear",
+          "label": "Budget Year 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Local Sources",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1. Tax Revenue",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "a. Real Property Tax (RPT)",
+          "level": 2,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "budgetYear": 330000000
+          }
+        },
+        {
+          "label": "b. Business Tax",
+          "level": 2,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "budgetYear": 624010000
+          }
+        },
+        {
+          "label": "c. Other Local Taxes",
+          "level": 2,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "budgetYear": 334000000
+          }
+        },
+        {
+          "key": "taxRevenue",
+          "label": "Total Tax Revenue",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "taxRevenue",
+          "values": {
+            "budgetYear": 1288010000
+          }
+        },
+        {
+          "label": "2. Non-tax Revenue",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "a. Regulatory Fees",
+          "level": 2,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "budgetYear": 69000000
+          }
+        },
+        {
+          "label": "b. Service User Charges",
+          "level": 2,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "budgetYear": 41500000
+          }
+        },
+        {
+          "label": "c. Other Receipts",
+          "level": 2,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "budgetYear": 27000000
+          }
+        },
+        {
+          "key": "nonTaxRevenue",
+          "label": "Total Non-Tax Revenue",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "nonTaxRevenue",
+          "values": {
+            "budgetYear": 137500000
+          }
+        },
+        {
+          "key": "localSources",
+          "label": "Total Local Sources",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "budgetYear": 1425510000
+          }
+        },
+        {
+          "label": "B. External Sources",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "nta",
+          "label": "a. National Tax Allotment",
+          "level": 2,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "budgetYear": 1445271518
+          }
+        },
+        {
+          "label": "b. Share From GOCC (PCSO)",
+          "level": 2,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "budgetYear": 1000000
+          }
+        },
+        {
+          "key": "externalSources",
+          "label": "Total External Sources",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "externalSources",
+          "values": {
+            "budgetYear": 1446271518
+          }
+        },
+        {
+          "key": "totalResources",
+          "label": "TOTAL RESOURCES",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "budgetYear": 2871781518
+          }
+        }
+      ]
+    },
+    {
+      "key": "section2SourcesHospitals",
+      "title": "Section 2. Sources of Funds: B. Operation of Hospitals",
+      "columns": [
+        {
+          "key": "budgetYear",
+          "label": "Budget Year 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "HOSPITALS",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "A. Local Sources",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1. Non-Tax Revenue",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "a. Business and Service Income",
+          "level": 2,
+          "kind": "item",
+          "section": "receipts",
+          "values": {
+            "budgetYear": 50000000
+          }
+        },
+        {
+          "label": "b. Subsidy from Other Funds",
+          "level": 2,
+          "kind": "item",
+          "section": "receipts",
+          "values": {
+            "budgetYear": 200990597
+          }
+        },
+        {
+          "key": "totalReceipts",
+          "label": "Total Receipts",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "receipts",
+          "values": {
+            "budgetYear": 250990597
+          }
+        }
+      ]
+    },
+    {
+      "key": "section2SourcesMarket",
+      "title": "Section 2. Sources of Funds: C. Market and Slaughterhouse",
+      "columns": [
+        {
+          "key": "budgetYear",
+          "label": "Budget Year 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Local Sources",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1. Non-Tax Revenue",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "a. Business and Service Income",
+          "level": 2,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "i. Income from Markets",
+          "level": 3,
+          "kind": "item",
+          "section": "receipts",
+          "values": {
+            "budgetYear": 13000000
+          }
+        },
+        {
+          "label": "ii. Income from Slaughterhouses",
+          "level": 3,
+          "kind": "item",
+          "section": "receipts",
+          "values": {
+            "budgetYear": 1500000
+          }
+        },
+        {
+          "key": "totalReceipts",
+          "label": "Total Receipts",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "receipts",
+          "values": {
+            "budgetYear": 14500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "section3UseGeneralFund",
+      "title": "Section 3. Use of Funds: A. General Fund Proper",
+      "columns": [
+        {
+          "key": "budgetYear",
+          "label": "Budget Year 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 862909483
+          }
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 1519905398
+          }
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 27633000
+          }
+        },
+        {
+          "label": "Other Purposes",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "ldrrmf",
+          "label": "Disaster Risk Reduction Mgt. Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "budgetYear": 143589076
+          }
+        },
+        {
+          "key": "developmentProject",
+          "label": "Development Project",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "budgetYear": 289054304
+          }
+        },
+        {
+          "key": "aidToBarangays",
+          "label": "Aid to Barangays",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "budgetYear": 20720000
+          }
+        },
+        {
+          "key": "debtServicing",
+          "label": "Debt Servicing",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "budgetYear": 730257
+          }
+        },
+        {
+          "key": "lumpSumRetirement",
+          "label": "Lump Sum Appropriation for Ret.& Other Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "budgetYear": 7240000
+          }
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "budgetYear": 2871781518
+          }
+        }
+      ]
+    },
+    {
+      "key": "section3UseHospitals",
+      "title": "Section 3. Use of Funds: B. Operation of Hospitals",
+      "columns": [
+        {
+          "key": "budgetYear",
+          "label": "Budget Year 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 196178391
+          }
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 52312206
+          }
+        },
+        {
+          "key": "statutoryReserve",
+          "label": "5% Statutory Reserve",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 2500000
+          }
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "budgetYear": 250990597
+          }
+        }
+      ]
+    },
+    {
+      "key": "section3UseMarket",
+      "title": "Section 3. Use of Funds: C. Market and Slaughterhouse",
+      "columns": [
+        {
+          "key": "budgetYear",
+          "label": "Budget Year 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 11330503
+          }
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "budgetYear": 3169497
+          }
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "budgetYear": 14500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "exhibit2RevenueByType",
+      "title": "Budget Message, Exhibit 2: Distribution by Type of Revenue - Budget Year 2023",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "AMOUNT",
+          "type": "amount"
+        },
+        {
+          "key": "pctOfBudget",
+          "label": "% to BUDGET",
+          "type": "percent"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Local Sources",
+          "level": 1,
+          "kind": "item",
+          "section": "r",
+          "values": {
+            "amount": 1425510000,
+            "pctOfBudget": 49.64
+          }
+        },
+        {
+          "label": "2. External Sources",
+          "level": 1,
+          "kind": "item",
+          "section": "r",
+          "values": {
+            "amount": 1000000,
+            "pctOfBudget": 0.03
+          }
+        },
+        {
+          "label": "3. National Tax Allotment",
+          "level": 1,
+          "kind": "item",
+          "section": "r",
+          "values": {
+            "amount": 1445271518,
+            "pctOfBudget": 50.33
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "r",
+          "values": {
+            "amount": 2871781518,
+            "pctOfBudget": 100
+          }
+        }
+      ]
+    },
+    {
+      "key": "exhibit3BySector",
+      "title": "Budget Message, Exhibit 3: General Fund allocation by sector/purpose",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "AMOUNT",
+          "type": "amount"
+        },
+        {
+          "key": "pctOfBudget",
+          "label": "% to BUDGET",
+          "type": "percent"
+        }
+      ],
+      "rows": [
+        {
+          "key": "generalServices",
+          "label": "General  Services",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 1344499822,
+            "pctOfBudget": 46.82
+          }
+        },
+        {
+          "key": "socialServices",
+          "label": "Social Services",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 846606786,
+            "pctOfBudget": 29.48
+          }
+        },
+        {
+          "key": "economicServices",
+          "label": "Economic Services",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 219341271,
+            "pctOfBudget": 7.64
+          }
+        },
+        {
+          "label": "Other Purpose:",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Disaster Risk Reduction Mgt. Fund",
+          "level": 2,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 143589076,
+            "pctOfBudget": 5
+          }
+        },
+        {
+          "label": "Development Projects",
+          "level": 2,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 289054304,
+            "pctOfBudget": 10.07
+          }
+        },
+        {
+          "label": "Aid to Barangays",
+          "level": 2,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 20720000,
+            "pctOfBudget": 0.72
+          }
+        },
+        {
+          "label": "Debt Servicing",
+          "level": 2,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 730257,
+            "pctOfBudget": 0.03
+          }
+        },
+        {
+          "label": "Lump-Sum Appro. for Retirement & Other Benefits",
+          "level": 2,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "amount": 7240000,
+            "pctOfBudget": 0.25
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "s",
+          "values": {
+            "amount": 2871781516,
+            "pctOfBudget": 100
+          }
+        }
+      ]
+    },
+    {
+      "key": "exhibit4SectorTrend",
+      "title": "Budget Message, Exhibit 4: Appropriation Program by Sector, Comparative Trend 2021-2023",
+      "columns": [
+        {
+          "key": "y2021",
+          "label": "2021",
+          "type": "amount"
+        },
+        {
+          "key": "y2022",
+          "label": "2022",
+          "type": "amount"
+        },
+        {
+          "key": "y2023",
+          "label": "2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "General Public Services",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 1362995858,
+            "y2022": 1840217529,
+            "y2023": 1344499822
+          }
+        },
+        {
+          "label": "Social Services",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 670262543,
+            "y2022": 614244397,
+            "y2023": 846606788
+          }
+        },
+        {
+          "label": "Economic Services",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 314924895,
+            "y2022": 310854798,
+            "y2023": 219341271
+          }
+        },
+        {
+          "label": "Disaster Risk Reduction Mgt. Fund",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 122562421,
+            "y2022": 152389210,
+            "y2023": 143589076
+          }
+        },
+        {
+          "label": "Development Project",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 225450000,
+            "y2022": 338000000,
+            "y2023": 289054304
+          }
+        },
+        {
+          "label": "Aid to Barangays",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 35720000,
+            "y2022": 20720000,
+            "y2023": 20720000
+          }
+        },
+        {
+          "label": "Debt Servicing",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 244283,
+            "y2022": 704540,
+            "y2023": 730257
+          }
+        },
+        {
+          "label": "Lump-Sum Appro.for Ret. & Other Benefits",
+          "level": 1,
+          "kind": "item",
+          "section": "s",
+          "values": {
+            "y2021": 7240000,
+            "y2022": 7240000,
+            "y2023": 7240000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "s",
+          "values": {
+            "y2021": 2739400000,
+            "y2022": 3284370474,
+            "y2023": 2871781518
+          }
+        }
+      ]
+    },
+    {
+      "key": "exhibit5ByExpenseClass",
+      "title": "Budget Message, Exhibit 5: Distribution by Major Expense Class",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "AMOUNT",
+          "type": "amount"
+        },
+        {
+          "key": "pctOfBudget",
+          "label": "% to BUDGET",
+          "type": "percent"
+        }
+      ],
+      "rows": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 862909483,
+            "pctOfBudget": 30.05
+          }
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 1519905398,
+            "pctOfBudget": 52.93
+          }
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 27633000,
+            "pctOfBudget": 0.96
+          }
+        },
+        {
+          "label": "Other Purposes:",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "* Disaster Risk Reduction Mgt. Fund",
+          "level": 1,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 143589076,
+            "pctOfBudget": 5
+          }
+        },
+        {
+          "label": "* Development Project",
+          "level": 1,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 289054304,
+            "pctOfBudget": 10.07
+          }
+        },
+        {
+          "label": "* Aid to Barangays",
+          "level": 1,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 20720000,
+            "pctOfBudget": 0.72
+          }
+        },
+        {
+          "label": "* Debt Servicing",
+          "level": 1,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 730257,
+            "pctOfBudget": 0.03
+          }
+        },
+        {
+          "label": "* Lump-Sum Appro.for Ret. & Other Benefits",
+          "level": 1,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 7240000,
+            "pctOfBudget": 0.25
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "section": "c",
+          "values": {
+            "amount": 2871781518,
+            "pctOfBudget": 100
+          }
+        }
+      ]
+    },
+    {
+      "key": "hospitalExpenditureProgram",
+      "title": "Budget Message, Operation of Hospital: Expenditure Program",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "AMOUNT",
+          "type": "amount"
+        },
+        {
+          "key": "pctOfBudget",
+          "label": "% to BUDGET",
+          "type": "percent"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 196178391,
+            "pctOfBudget": 78.16
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 52312206,
+            "pctOfBudget": 20.84
+          }
+        },
+        {
+          "label": "5% Statutory Reserve",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 2500000,
+            "pctOfBudget": 1
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "c",
+          "values": {
+            "amount": 250990597,
+            "pctOfBudget": 100
+          }
+        }
+      ]
+    },
+    {
+      "key": "hospitalSourcesOfFinancing",
+      "title": "Budget Message, Operation of Hospital: Sources of Financing",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Hospital Fees",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 50000000
+          }
+        },
+        {
+          "label": "Subsidy from Other Funds",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 200990597
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "c",
+          "values": {
+            "amount": 250990597
+          }
+        }
+      ]
+    },
+    {
+      "key": "marketExpenditureProgram",
+      "title": "Budget Message, Operation of Market and Slaughterhouse: Expenditure Program",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "AMOUNT",
+          "type": "amount"
+        },
+        {
+          "key": "pctOfBudget",
+          "label": "% to BUDGET",
+          "type": "percent"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 11330503,
+            "pctOfBudget": 78.14
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 3169497,
+            "pctOfBudget": 21.86
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "c",
+          "values": {
+            "amount": 14500000,
+            "pctOfBudget": 100
+          }
+        }
+      ]
+    },
+    {
+      "key": "marketSourcesOfFinancing",
+      "title": "Budget Message, Operation of Market and Slaughterhouse: Sources of Financing",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Income from Market",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 13000000
+          }
+        },
+        {
+          "label": "Income from Slaughterhouse",
+          "level": 0,
+          "kind": "item",
+          "section": "c",
+          "values": {
+            "amount": 1500000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "section": "c",
+          "values": {
+            "amount": 14500000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "offices": [],
+    "funds": [
+      {
+        "key": "generalFund",
+        "fund": "General Fund Proper",
+        "ps": 862909483,
+        "mooe": 1519905398,
+        "capitalOutlay": 27633000,
+        "otherPurposes": 461333637,
+        "total": 2871781518
+      },
+      {
+        "key": "hospitals",
+        "fund": "Operation of Hospitals",
+        "ps": 196178391,
+        "mooe": 52312206,
+        "capitalOutlay": null,
+        "statutoryReserve": 2500000,
+        "total": 250990597
+      },
+      {
+        "key": "marketSlaughterhouse",
+        "fund": "Market and Slaughterhouse",
+        "ps": 11330503,
+        "mooe": 3169497,
+        "capitalOutlay": null,
+        "total": 14500000
+      }
+    ],
+    "totalAppropriations": 3137272115
+  },
+  "notes": [
+    "CONTENT: this PDF is not an LBP Form 2 per-office report. PDF pages 1 to 5 are the Sangguniang Panlungsod excerpt of minutes (15th Regular Session, November 9, 2022), Resolution No. 16-0673-2022 enacting Ordinance No. 16-053-2022, the CY 2023 appropriation ordinance (Section 1 totals by fund, Section 2 Sources of Funds, Section 3 Use of Funds, Sections 4 to 6). Enacted November 9, 2022; approved (stamped date) December 05, 2022. PDF pages 6 to 13 are the City Mayor's Budget Message dated October 13, 2022 with Exhibits 1 to 5 and the hospital and market summaries. The pages carry no \"Page X of Y\" numbering (the ordinance pages are numbered \"Cont'd: -2-\" to \"-5-\").",
+    "summary.offices is empty because the document has no per-office figures (those are in 2023-annual-annual-budget-lep, -hospitals and -market-slaughterhouse). summary.funds gives the Section 3 Use of Funds class totals per fund; \"otherPurposes\" for the General Fund (461,333,637.00) is the sum of the five printed Other Purposes lines (LDRRMF, Development Project, Aid to Barangays, Debt Servicing, Lump-Sum for Retirement) and is not itself printed in the Section 3 table, though the Budget Message text states P461,333,637. summary.totalAppropriations (3,137,272,115.00) is the sum of the three fund totals printed in Section 1; the ordinance does not print this grand total.",
+    "Section 3 prints Development Project as \"289,054,304,00\" (comma for decimal point); transcribed as 289,054,304.00.",
+    "Exhibit 3 prints Social Services 846,606,786.00 and Total 2,871,781,516.00; the items do sum to the printed 2,871,781,516.00, but every other schedule (Exhibit 4 2023 column, the Budget Message text \"P846,606,788\", and the ordinance total 2,871,781,518.00) uses 846,606,788.00. Transcribed as printed.",
+    "Exhibit 1 (pie chart of the 2023 expenditure program, slice labels 46.818%, 29.480%, 7.638%, 5.000%, 10.065%, 0.722%, 0.025%, 0.252%) and the Exhibit 2 and 4 charts duplicate the tables and were not transcribed separately. The narrative Goals and Objectives, Fiscal Policies and Program Thrusts pages were not transcribed.",
+    "The Budget Message text gives Debt Servicing as P704,540 in the \"Other Purposes\" paragraph, while Section 3 and Exhibits 3 to 5 show 730,257.00 for 2023 (704,540.00 is the 2022 figure in Exhibit 4).",
+    "Section 2 General Fund tax revenue (1,288,010,000.00) excludes the 130,000,000.00 Special Education Fund tax that the Local Expenditure Program's Receipts Program includes in Total Tax Revenue (1,418,010,000.00)."
+  ],
+  "unreadable": []
+}

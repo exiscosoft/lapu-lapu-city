@@ -1,0 +1,298 @@
+{
+  "id": "2025-q4-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Bid Results on Civil Works",
+  "form": "FDP Form 10a",
+  "period": {
+    "year": 2025,
+    "quarter": 4,
+    "asOf": "2025-12-31",
+    "printed": "Calendar Year: 2025, Quarter: 4",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Ronaldo D. Malacora",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "Civil Works Bid-Out",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Name of Project",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderContact",
+          "label": "Name and Address (name)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address (address)",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Bidding Date",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Cluster 1 - Repair & Improvement of ABC Bldg (Including Retrofitting of Water Tank) & Installation of Ambulatory Surgical Clinic at Lapu-Lapu City Hospital , Pusok & Gun-ob, Lapu-Lapu City",
+          "kind": "item",
+          "values": {
+            "no": 1,
+            "refNo": "24-57 (GF)",
+            "description": "Cluster 1 - Repair & Improvement of ABC Bldg (Including Retrofitting of Water Tank) & Installation of Ambulatory Surgical Clinic at Lapu-Lapu City Hospital , Pusok & Gun-ob, Lapu-Lapu City",
+            "abc": 1159914.0,
+            "location": "Pusok & Gun-ob, LLC",
+            "bidder": "Floriane Construction Corporation",
+            "bidderNormalized": "FLORIANE CONSTRUCTION CORPORATION",
+            "bidderContact": "Florencio D. Agot",
+            "bidderAddress": "279 Annex 1st St. Guimgona Subdivision, J.P. Rizal St., Butuan City",
+            "bidAmount": 1156238.05,
+            "biddingDate": "2025-10-15",
+            "duration": "80 CD"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence with Steel Gate at MRF (Olango Island) Phase I",
+          "kind": "item",
+          "values": {
+            "no": 2,
+            "refNo": "25-54 (GF)",
+            "description": "Construction of Perimeter Fence with Steel Gate at MRF (Olango Island) Phase I",
+            "abc": 5992332.0,
+            "location": "Talima, Olango Is., LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St., Banilad, Mandaue City",
+            "bidAmount": 5990873.88,
+            "biddingDate": "2025-10-15",
+            "duration": "100 CD"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence at Mactan Elementary School",
+          "kind": "item",
+          "values": {
+            "no": 3,
+            "refNo": "24-05 (SEF)",
+            "description": "Construction of Perimeter Fence at Mactan Elementary School",
+            "abc": 1180778.0,
+            "location": "Mactan, LLC",
+            "bidder": "RT Construction Enterprises",
+            "bidderNormalized": "RT CONSTRUCTION ENTERPRISES",
+            "bidderContact": "Engr. Revelino L. Torrico",
+            "bidderAddress": "Purok Opo II, Balintawak, Pagadian City, Zamboanga del Sur",
+            "bidAmount": 1178658.68,
+            "biddingDate": "2025-10-15",
+            "duration": "90 CD"
+          }
+        },
+        {
+          "label": "Repair & Improvement of PESO Bldg, Pusok, LLC",
+          "kind": "item",
+          "values": {
+            "no": 4,
+            "refNo": "23-14 (Supplemental Fund)",
+            "description": "Repair & Improvement of PESO Bldg, Pusok, LLC",
+            "abc": 1196009.0,
+            "location": "Pusok, LLC",
+            "bidder": "RT Construction Enterprises",
+            "bidderNormalized": "RT CONSTRUCTION ENTERPRISES",
+            "bidderContact": "Engr. Revelino L. Torrico",
+            "bidderAddress": "Purok Opo II, Balintawak, Pagadian City, Zamboanga del Sur",
+            "bidAmount": 1192966.05,
+            "biddingDate": "2025-10-15",
+            "duration": "40 CD"
+          }
+        },
+        {
+          "label": "Rewiring of Dormitory at Lapu-Lapu City College",
+          "kind": "item",
+          "values": {
+            "no": 5,
+            "refNo": "23-14 (Supplemental Fund)",
+            "description": "Rewiring of Dormitory at Lapu-Lapu City College",
+            "abc": 1499999.0,
+            "location": "Gun-ob, LLC",
+            "bidder": "Sedibus Industrial & Facilities Mangement Corp.",
+            "bidderNormalized": "SEDIBUS INDUSTRIAL & FACILITIES MANAGEMENT CORP.",
+            "bidderContact": null,
+            "bidderAddress": "Block 4 Lot 13 Deca Homes 3, Basak, LLC",
+            "bidAmount": 1480949.0,
+            "biddingDate": "2025-10-15",
+            "duration": "40 CD"
+          }
+        },
+        {
+          "label": "Construction of Repair Bay for Engineering Equipment in Motorpool Compound (Phase II)",
+          "kind": "item",
+          "values": {
+            "no": 6,
+            "refNo": "25-14 (DF)",
+            "description": "Construction of Repair Bay for Engineering Equipment in Motorpool Compound (Phase II)",
+            "abc": 4986949.0,
+            "location": "Gun-ob, LLC",
+            "bidder": "Warsky Ventures Inc.",
+            "bidderNormalized": "WARSKY VENTURES INC.",
+            "bidderContact": null,
+            "bidderAddress": "3 A Horseshoe Drive, Brgy Guadalupe, Cebu City",
+            "bidAmount": 4986838.18,
+            "biddingDate": "2025-10-15",
+            "duration": "180 CD"
+          }
+        },
+        {
+          "label": "Repair of Various Classroooms at Pangan-an High School (1-storey 3 Classrooms & Office",
+          "kind": "item",
+          "values": {
+            "no": 7,
+            "refNo": "23-19 (SEF)",
+            "description": "Repair of Various Classroooms at Pangan-an High School (1-storey 3 Classrooms & Office",
+            "abc": 2209656.0,
+            "location": "Pangan-an Is., LLC",
+            "bidder": "Patigdas Construction & Supply",
+            "bidderNormalized": "PATIGDAS CONSTRUCTION & SUPPLY",
+            "bidderContact": "Angelica Carmela A. Patigdas",
+            "bidderAddress": "Suba-Panas, sitio Lawis, Subabasbas, LLC",
+            "bidAmount": 2203914.37,
+            "biddingDate": "2025-10-29",
+            "duration": "100 CD"
+          }
+        },
+        {
+          "label": "Construction of DRRM Warehouse at Olango Is.",
+          "kind": "item",
+          "values": {
+            "no": 8,
+            "refNo": "25-61 (TF)",
+            "description": "Construction of DRRM Warehouse at Olango Is.",
+            "abc": 12261724.0,
+            "location": "Talima, Olango Is., LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St., Banilad, Mandaue City",
+            "bidAmount": 12258791.09,
+            "biddingDate": "2025-10-29",
+            "duration": "330 CD"
+          }
+        },
+        {
+          "label": "Repair & Improvement of OSCA Bldg with Ground Imporvement",
+          "kind": "item",
+          "values": {
+            "no": 9,
+            "refNo": "25-26 (DF)",
+            "description": "Repair & Improvement of OSCA Bldg with Ground Imporvement",
+            "abc": 981375.0,
+            "location": "Pusok, LLC",
+            "bidder": "RT Construction Enterprises",
+            "bidderNormalized": "RT CONSTRUCTION ENTERPRISES",
+            "bidderContact": "Engr. Revelino L. Torrico",
+            "bidderAddress": "Purok Opo II, Balintawak, Pagadian City, Zamboanga del Sur",
+            "bidAmount": 979636.3,
+            "biddingDate": "2025-10-29",
+            "duration": "60 CD"
+          }
+        },
+        {
+          "label": "Construction of Multi-Purpose Bldg with Jail Facilities & Visitation Bldg at Male Dormitory City Jail (Phase III)",
+          "kind": "item",
+          "values": {
+            "no": 10,
+            "refNo": "25-20 (DF)",
+            "description": "Construction of Multi-Purpose Bldg with Jail Facilities & Visitation Bldg at Male Dormitory City Jail (Phase III)",
+            "abc": 5274000.0,
+            "location": "Soong, Mactan, LLC",
+            "bidder": "Square One Builders",
+            "bidderNormalized": "SQUARE ONE BUILDERS",
+            "bidderContact": "Mario S. De Los Reyes, Jr.",
+            "bidderAddress": "Canyon Road, Beverly Hills, Lahug, Cebu City",
+            "bidAmount": 5272121.96,
+            "biddingDate": "2025-10-29",
+            "duration": "240 CD"
+          }
+        },
+        {
+          "label": "Construction of Storage Bldg for CSWDO",
+          "kind": "item",
+          "values": {
+            "no": 11,
+            "refNo": "25-32 (DF)",
+            "description": "Construction of Storage Bldg for CSWDO",
+            "abc": 1429096.0,
+            "location": "Pusok, LLC",
+            "bidder": "Square One Builders",
+            "bidderNormalized": "SQUARE ONE BUILDERS",
+            "bidderContact": "Mario S. De Los Reyes, Jr.",
+            "bidderAddress": "Canyon Road, Beverly Hills, Lahug, Cebu City",
+            "bidAmount": 1428001.2,
+            "biddingDate": "2025-10-29",
+            "duration": "90 CD"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "The printed \"Name and Address\" column holds a contact person and an address; they are split into bidderContact and bidderAddress. Where only an address is printed, bidderContact is null.",
+    "Typos are kept as printed (e.g. \"Classroooms\", \"Imporvement\", \"Mangement\").",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

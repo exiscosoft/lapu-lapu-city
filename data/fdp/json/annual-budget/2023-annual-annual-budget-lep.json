@@ -1,0 +1,5137 @@
+{
+  "id": "2023-annual-annual-budget-lep",
+  "type": "annual-budget",
+  "title": "Local Expenditure Program, January 1 to December 31, 2023 (General Fund): Receipts Program FY 2021-2023 and Summary of FY 2023 Proposed New Appropriations",
+  "form": "Local Expenditure Program",
+  "period": {
+    "year": 2023,
+    "quarter": null,
+    "asOf": null,
+    "printed": "January 1 to December 31, 2023",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Francisco Y. Limpangug",
+      "position": "SP/City Secretary"
+    }
+  ],
+  "tables": [
+    {
+      "key": "receipts",
+      "title": "Receipts Program FY 2021-2023 (printed \"In 000 Pesos\"; figures are in full pesos)",
+      "columns": [
+        {
+          "key": "incomeClass",
+          "label": "Income Classification",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Receipts 2021 (Actual)",
+          "type": "amount"
+        },
+        {
+          "key": "currentYear",
+          "label": "Current Year Receipts 2022 (Actual/Estimate)",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Receipts 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "beginningCashBalance",
+          "label": "I. BEGINNING CASH BALANCE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "beginningCashBalance",
+          "values": {
+            "pastYear": 915925725.23,
+            "currentYear": 586846354.78,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Unappropriated Surplus",
+          "level": 1,
+          "kind": "item",
+          "section": "beginningCashBalance",
+          "values": {
+            "pastYear": 723697623.55,
+            "currentYear": 586846354.78,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Prior Years' Adjustments",
+          "level": 1,
+          "kind": "item",
+          "section": "beginningCashBalance",
+          "values": {
+            "pastYear": 192228101.68,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "II. RECEIPTS",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "A. LOCAL SOURCES",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1. Tax Revenue",
+          "level": 2,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Real Property Tax",
+          "level": 3,
+          "kind": "header",
+          "section": "taxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Real Property Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 277112987.69,
+            "currentYear": 330000000,
+            "budgetYear": 330000000
+          }
+        },
+        {
+          "label": "Special Education Fund Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 168057718.79,
+            "currentYear": 120000000,
+            "budgetYear": 130000000
+          }
+        },
+        {
+          "label": "Business Taxes",
+          "level": 3,
+          "kind": "header",
+          "section": "taxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Amusement Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 7490,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Business Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 515575607.64,
+            "currentYear": 610000000,
+            "budgetYear": 610000000
+          }
+        },
+        {
+          "label": "Franchise Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 7759248.1,
+            "currentYear": 6000000,
+            "budgetYear": 7000000
+          }
+        },
+        {
+          "label": "Printing and Publication Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 68597.48,
+            "currentYear": 3000,
+            "budgetYear": 10000
+          }
+        },
+        {
+          "label": "Tax on Delivery Vans and Trucks",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 6398011,
+            "currentYear": 6000000,
+            "budgetYear": 7000000
+          }
+        },
+        {
+          "label": "Other Taxes",
+          "level": 3,
+          "kind": "header",
+          "section": "taxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Community Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 23618989,
+            "currentYear": 23000000,
+            "budgetYear": 24000000
+          }
+        },
+        {
+          "label": "Real Property Transfer Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 74388322.36,
+            "currentYear": 40000000,
+            "budgetYear": 60000000
+          }
+        },
+        {
+          "label": "Other Taxes",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 277911437.47,
+            "currentYear": 200000000,
+            "budgetYear": 220000000
+          }
+        },
+        {
+          "label": "Tax Revenue-Fines and Penalties - Property Tax",
+          "level": 4,
+          "kind": "item",
+          "section": "taxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 40795269.09,
+            "currentYear": 22000000,
+            "budgetYear": 30000000
+          }
+        },
+        {
+          "key": "taxRevenue",
+          "label": "Total Tax Revenue",
+          "level": 3,
+          "kind": "subtotal",
+          "section": "taxRevenue",
+          "values": {
+            "pastYear": 1391693678.62,
+            "currentYear": 1357003000,
+            "budgetYear": 1418010000
+          }
+        },
+        {
+          "label": "2. Non-Tax Revenue",
+          "level": 2,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Regulatory Fees",
+          "level": 3,
+          "kind": "header",
+          "section": "nonTaxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Permit and Licenses",
+          "level": 4,
+          "kind": "header",
+          "section": "nonTaxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Occupation Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 522900,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Permit Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 50487699.14,
+            "currentYear": 36000000,
+            "budgetYear": 40000000
+          }
+        },
+        {
+          "label": "Registration Fees",
+          "level": 4,
+          "kind": "header",
+          "section": "nonTaxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Registration Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 4216741.48,
+            "currentYear": 4000000,
+            "budgetYear": 4000000
+          }
+        },
+        {
+          "label": "Inspection Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 25593609.35,
+            "currentYear": 20000000,
+            "budgetYear": 25000000
+          }
+        },
+        {
+          "label": "Service/User Charges",
+          "level": 3,
+          "kind": "header",
+          "section": "nonTaxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Clearance and Certification Fees",
+          "level": 4,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 2371517.6,
+            "currentYear": 3000000,
+            "budgetYear": 3000000
+          }
+        },
+        {
+          "label": "Other Fees",
+          "level": 4,
+          "kind": "header",
+          "section": "nonTaxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Garbage Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 15473834.41,
+            "currentYear": 15000000,
+            "budgetYear": 16000000
+          }
+        },
+        {
+          "label": "Hospital Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 51100,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Parking Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 4410224,
+            "currentYear": 3000000,
+            "budgetYear": 4000000
+          }
+        },
+        {
+          "label": "Fines and Penalties-Service Income",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 1038968.62,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Other Service Income",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 17038940.78,
+            "currentYear": 17000000,
+            "budgetYear": 17500000
+          }
+        },
+        {
+          "label": "Rent Income",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 1100,
+            "currentYear": 1000000,
+            "budgetYear": 1000000
+          }
+        },
+        {
+          "label": "School  Fees",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 38702.5,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Other Business Income",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 122950,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Other Receipts",
+          "level": 4,
+          "kind": "header",
+          "section": "nonTaxRevenue",
+          "values": {}
+        },
+        {
+          "label": "Sales Revenue",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 2533099.78,
+            "currentYear": 1000000,
+            "budgetYear": 2000000
+          }
+        },
+        {
+          "label": "Interest Income",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 28276292.5,
+            "currentYear": 20000000,
+            "budgetYear": 25000000
+          }
+        },
+        {
+          "label": "Miscellaneous Income",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 570518.87,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Tax Revenue-Fines and Penalties - Other Taxes",
+          "level": 5,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 1421232.6,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "key": "nonTaxRevenue",
+          "label": "Total Non-Tax-Revenue",
+          "level": 3,
+          "kind": "subtotal",
+          "section": "nonTaxRevenue",
+          "values": {
+            "pastYear": 154169431.63,
+            "currentYear": 120000000,
+            "budgetYear": 137500000
+          }
+        },
+        {
+          "key": "localSources",
+          "label": "TOTAL LOCAL SOURCES",
+          "level": 1,
+          "kind": "subtotal",
+          "values": {
+            "pastYear": 1545863110.25,
+            "currentYear": 1477003000,
+            "budgetYear": 1555510000
+          }
+        },
+        {
+          "label": "B. EXTERNAL SOURCES",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1. National Tax Allotment (NTA)",
+          "level": 2,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 1127245419,
+            "currentYear": 1689781187,
+            "budgetYear": 1445271518
+          }
+        },
+        {
+          "label": "2. Share from GOCCs (PCSO)",
+          "level": 2,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 2375763.85,
+            "currentYear": 1000000,
+            "budgetYear": 1000000
+          }
+        },
+        {
+          "label": "3. Other Share from National Tax Collection",
+          "level": 2,
+          "kind": "header",
+          "section": "externalSources",
+          "values": {}
+        },
+        {
+          "label": "a. Share from National Wealth",
+          "level": 3,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 188650.85,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "4. Extraordinary Receipts/Grants/Donation/Aids",
+          "level": 2,
+          "kind": "header",
+          "section": "externalSources",
+          "values": {}
+        },
+        {
+          "label": "a. Income from Grants and Donation",
+          "level": 3,
+          "kind": "item",
+          "section": "externalSources",
+          "values": {
+            "incomeClass": "NR",
+            "pastYear": 26145000,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "key": "externalSources",
+          "label": "TOTAL EXTERNAL SOURCES",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "externalSources",
+          "values": {
+            "pastYear": 1155954833.7,
+            "currentYear": 1690781187,
+            "budgetYear": 1446271518
+          }
+        },
+        {
+          "key": "totalReceipts",
+          "label": "TOTAL RECEIPTS",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "pastYear": 2701817943.95,
+            "currentYear": 3167784187,
+            "budgetYear": 3001781518
+          }
+        },
+        {
+          "key": "lessSefTax",
+          "label": "Less: Special Education Fund Tax",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "pastYear": 168057718.79,
+            "currentYear": 120000000,
+            "budgetYear": 130000000
+          }
+        },
+        {
+          "key": "totalGeneralFundReceipts",
+          "label": "TOTAL  GENERAL FUND RECEIPTS",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "pastYear": 2533760225.16,
+            "currentYear": 3047784187,
+            "budgetYear": 2871781518
+          }
+        },
+        {
+          "key": "totalAvailableResources",
+          "label": "TOTAL AVAILABLE RESOURCES FOR APPROPRIATION",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "pastYear": 3449685950.39,
+            "currentYear": 3634630541.78,
+            "budgetYear": 2871781518
+          }
+        }
+      ]
+    },
+    {
+      "key": "byObjectAndSector",
+      "title": "Summary of FY 2023 Proposed New Appropriations: 1. Proposed New Appropriations, by Object of Expense and by Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "generalPublicServices",
+          "label": "General Public Services",
+          "type": "amount"
+        },
+        {
+          "key": "socialServices",
+          "label": "Social Services",
+          "type": "amount"
+        },
+        {
+          "key": "economicServices",
+          "label": "Economic Services",
+          "type": "amount"
+        },
+        {
+          "key": "otherServices",
+          "label": "Other Services",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "PERSONAL SERVICES",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-01-010",
+            "generalPublicServices": 358386132,
+            "socialServices": 93749712,
+            "economicServices": 57043764,
+            "otherServices": null,
+            "total": 509179608
+          }
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-010",
+            "generalPublicServices": 30648000,
+            "socialServices": 5592000,
+            "economicServices": 4008000,
+            "otherServices": null,
+            "total": 40248000
+          }
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-020",
+            "generalPublicServices": 4704000,
+            "socialServices": 858000,
+            "economicServices": 768000,
+            "otherServices": null,
+            "total": 6330000
+          }
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-030",
+            "generalPublicServices": 4704000,
+            "socialServices": 858000,
+            "economicServices": 768000,
+            "otherServices": null,
+            "total": 6330000
+          }
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-040",
+            "generalPublicServices": 7662000,
+            "socialServices": 1398000,
+            "economicServices": 1002000,
+            "otherServices": null,
+            "total": 10062000
+          }
+        },
+        {
+          "label": "Subsistence Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-050",
+            "generalPublicServices": null,
+            "socialServices": 2772000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 2772000
+          }
+        },
+        {
+          "label": "Laundry Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-060",
+            "generalPublicServices": null,
+            "socialServices": 277200,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 277200
+          }
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-100",
+            "generalPublicServices": 4493600,
+            "socialServices": 17707500,
+            "economicServices": 100000,
+            "otherServices": null,
+            "total": 22301100
+          }
+        },
+        {
+          "label": "Hazard Pay",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-110",
+            "generalPublicServices": null,
+            "socialServices": 8925252,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 8925252
+          }
+        },
+        {
+          "label": "Overtime and Night Pay",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-130",
+            "generalPublicServices": 20000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 20000000
+          }
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-140",
+            "generalPublicServices": 29865511,
+            "socialServices": 7812476,
+            "economicServices": 4753647,
+            "otherServices": null,
+            "total": 42431634
+          }
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-150",
+            "generalPublicServices": 6385000,
+            "socialServices": 1165000,
+            "economicServices": 835000,
+            "otherServices": null,
+            "total": 8385000
+          }
+        },
+        {
+          "label": "Productivity Enhancement Incentive",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-990",
+            "generalPublicServices": 8405000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 8405000
+          }
+        },
+        {
+          "label": "Mid-Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-990",
+            "generalPublicServices": 29865511,
+            "socialServices": 7812476,
+            "economicServices": 4753647,
+            "otherServices": null,
+            "total": 42431634
+          }
+        },
+        {
+          "label": "Performance Base Bonus",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-990",
+            "generalPublicServices": 8405000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 8405000
+          }
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-010",
+            "generalPublicServices": 43006337,
+            "socialServices": 11249965,
+            "economicServices": 6845252,
+            "otherServices": null,
+            "total": 61101554
+          }
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-020",
+            "generalPublicServices": 1532400,
+            "socialServices": 279600,
+            "economicServices": 200400,
+            "otherServices": null,
+            "total": 2012400
+          }
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-030",
+            "generalPublicServices": 7755608,
+            "socialServices": 2042382,
+            "economicServices": 1373781,
+            "otherServices": null,
+            "total": 11171771
+          }
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-040",
+            "generalPublicServices": 1532400,
+            "socialServices": 279600,
+            "economicServices": 200400,
+            "otherServices": null,
+            "total": 2012400
+          }
+        },
+        {
+          "label": "Loyalty Incentive Award",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-04-990",
+            "generalPublicServices": 700000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 700000
+          }
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-04-990",
+            "generalPublicServices": 17919306,
+            "socialServices": 4687485,
+            "economicServices": 2852188,
+            "otherServices": null,
+            "total": 25458979
+          }
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-04-990",
+            "generalPublicServices": 14392997,
+            "socialServices": 3765043,
+            "economicServices": 2290911,
+            "otherServices": null,
+            "total": 20448951
+          }
+        },
+        {
+          "label": "Total, Personal Services",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "generalPublicServices": 600362802,
+            "socialServices": 171231691,
+            "economicServices": 87794990,
+            "otherServices": null,
+            "total": 859389483
+          }
+        },
+        {
+          "label": "MAINTENANCE AND OTHER OPERATING EXPENSES",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-01-010",
+            "generalPublicServices": 3260000,
+            "socialServices": 1826000,
+            "economicServices": 175000,
+            "otherServices": null,
+            "total": 5261000
+          }
+        },
+        {
+          "label": "Traveling Expenses-Foreign",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-01-020",
+            "generalPublicServices": 2000000,
+            "socialServices": 100000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 2100000
+          }
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-02-010",
+            "generalPublicServices": 8200000,
+            "socialServices": 1000000,
+            "economicServices": 1000000,
+            "otherServices": null,
+            "total": 10200000
+          }
+        },
+        {
+          "label": "Scholarships ang Grants Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-02-020",
+            "generalPublicServices": 100000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-010",
+            "generalPublicServices": 6000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 6000000
+          }
+        },
+        {
+          "label": "Accountable Forms Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-020",
+            "generalPublicServices": 4400000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 4400000
+          }
+        },
+        {
+          "label": "Animal/Zoological Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 1200000,
+            "otherServices": null,
+            "total": 1200000
+          }
+        },
+        {
+          "label": "Drugs and Medicines Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-070",
+            "generalPublicServices": null,
+            "socialServices": 27525000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 27525000
+          }
+        },
+        {
+          "label": "Medical, Dental and Laboratory Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-080",
+            "generalPublicServices": null,
+            "socialServices": 9700000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 9700000
+          }
+        },
+        {
+          "label": "Fuel, Oil and Lubricants Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-090",
+            "generalPublicServices": 30000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 30000000
+          }
+        },
+        {
+          "label": "Agricultural Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-100",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 350000,
+            "otherServices": null,
+            "total": 350000
+          }
+        },
+        {
+          "label": "Textbooks and Instructional Materials",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-110",
+            "generalPublicServices": null,
+            "socialServices": 1600000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1600000
+          }
+        },
+        {
+          "label": "Military, Police and Traffic  Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-120",
+            "generalPublicServices": 300000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 300000
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-990",
+            "generalPublicServices": 34305000,
+            "socialServices": 3940000,
+            "economicServices": 870000,
+            "otherServices": null,
+            "total": 39115000
+          }
+        },
+        {
+          "label": "Water Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-04-010",
+            "generalPublicServices": 750000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 750000
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-04-020",
+            "generalPublicServices": 177100000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 177100000
+          }
+        },
+        {
+          "label": "Postage and Courier Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-05-010",
+            "generalPublicServices": 137500,
+            "socialServices": 10500,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 148000
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-05-020",
+            "generalPublicServices": 7594000,
+            "socialServices": 288000,
+            "economicServices": 234000,
+            "otherServices": null,
+            "total": 8116000
+          }
+        },
+        {
+          "label": "Internet Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-05-030",
+            "generalPublicServices": 2500000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 2500000
+          }
+        },
+        {
+          "label": "Cable, Satellite, Telegraph and Radio Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-05-040",
+            "generalPublicServices": 20000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 20000
+          }
+        },
+        {
+          "label": "Awards/Rewards Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-06-010",
+            "generalPublicServices": 2000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 2000000
+          }
+        },
+        {
+          "label": "Prizes",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-06-020",
+            "generalPublicServices": 500000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Demolition and Relocation Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-08-010",
+            "generalPublicServices": 500000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Confidential Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-10-010",
+            "generalPublicServices": 10000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 10000000
+          }
+        },
+        {
+          "label": "Extraordinary and Miscellaneous Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-10-030",
+            "generalPublicServices": 5542259,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 5542259
+          }
+        },
+        {
+          "label": "Consultancy Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-11-030",
+            "generalPublicServices": 2000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 2000000
+          }
+        },
+        {
+          "label": "Other Professional Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-11-990",
+            "generalPublicServices": 15362000,
+            "socialServices": 11058000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 26420000
+          }
+        },
+        {
+          "label": "Environment/Sanitary Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-12-010",
+            "generalPublicServices": 2000000,
+            "socialServices": null,
+            "economicServices": 99727281,
+            "otherServices": null,
+            "total": 101727281
+          }
+        },
+        {
+          "label": "Security Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-12-030",
+            "generalPublicServices": 7734796,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 7734796
+          }
+        },
+        {
+          "label": "Other General Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-12-990",
+            "generalPublicServices": 119931251,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 119931251
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Infrastructure Assets",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-13-030",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 3500000,
+            "otherServices": null,
+            "total": 3500000
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Buildings and Other Structures",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-13-040",
+            "generalPublicServices": 3000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 3000000
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Machinery and Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-13-050",
+            "generalPublicServices": 4000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 4000000
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Transportation Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-13-060",
+            "generalPublicServices": 12000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 12000000
+          }
+        },
+        {
+          "label": "Taxes, Duties and Licenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-16-010",
+            "generalPublicServices": 200000,
+            "socialServices": 150000,
+            "economicServices": 300000,
+            "otherServices": null,
+            "total": 650000
+          }
+        },
+        {
+          "label": "Fidelity Bond Premium",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-16-020",
+            "generalPublicServices": 700000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 700000
+          }
+        },
+        {
+          "label": "Insurance Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-16-030",
+            "generalPublicServices": 9000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 9000000
+          }
+        },
+        {
+          "label": "Advertising Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-010",
+            "generalPublicServices": 1600000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1600000
+          }
+        },
+        {
+          "label": "Printing and Publication Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-020",
+            "generalPublicServices": 116000,
+            "socialServices": 565000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 681000
+          }
+        },
+        {
+          "label": "Representation Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-030",
+            "generalPublicServices": 7000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 7000000
+          }
+        },
+        {
+          "label": "Transportation and Delivery Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-040",
+            "generalPublicServices": 100000,
+            "socialServices": null,
+            "economicServices": 530000,
+            "otherServices": null,
+            "total": 630000
+          }
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-050",
+            "generalPublicServices": 1000000,
+            "socialServices": 575000,
+            "economicServices": 50000,
+            "otherServices": null,
+            "total": 1625000
+          }
+        },
+        {
+          "label": "Membership Dues and Contribution to Organization",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-060",
+            "generalPublicServices": 400000,
+            "socialServices": 75000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 475000
+          }
+        },
+        {
+          "label": "Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-070",
+            "generalPublicServices": 200000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Donations",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-080",
+            "generalPublicServices": 8200000,
+            "socialServices": 114260000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 122460000
+          }
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-990",
+            "generalPublicServices": 110828501,
+            "socialServices": 52902000,
+            "economicServices": 23510000,
+            "otherServices": null,
+            "total": 187240501
+          }
+        },
+        {
+          "label": "Total, Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "generalPublicServices": 600581307,
+            "socialServices": 225574500,
+            "economicServices": 131446281,
+            "otherServices": null,
+            "total": 957602088
+          }
+        },
+        {
+          "label": "CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-05-010",
+            "generalPublicServices": 655000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 655000
+          }
+        },
+        {
+          "label": "Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-05-020",
+            "generalPublicServices": 1320000,
+            "socialServices": 244000,
+            "economicServices": 50000,
+            "otherServices": null,
+            "total": 1614000
+          }
+        },
+        {
+          "label": "Information and Communication Technology Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-05-030",
+            "generalPublicServices": 1705000,
+            "socialServices": 3825000,
+            "economicServices": 50000,
+            "otherServices": null,
+            "total": 5580000
+          }
+        },
+        {
+          "label": "Military, Police and Security Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-05-100",
+            "generalPublicServices": null,
+            "socialServices": 300000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 300000
+          }
+        },
+        {
+          "label": "Medical Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-05-110",
+            "generalPublicServices": null,
+            "socialServices": 300000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 300000
+          }
+        },
+        {
+          "label": "Technical and Scientific Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-05-140",
+            "generalPublicServices": null,
+            "socialServices": 1700000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1700000
+          }
+        },
+        {
+          "label": "Motor Vehicles",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-06-010",
+            "generalPublicServices": 125000,
+            "socialServices": 1200000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1325000
+          }
+        },
+        {
+          "label": "Furniture and Fixtures",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-07-07-010",
+            "generalPublicServices": null,
+            "socialServices": 351000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 351000
+          }
+        },
+        {
+          "label": "Computer Software",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "1-09-01-020",
+            "generalPublicServices": 2000000,
+            "socialServices": 7780000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 9780000
+          }
+        },
+        {
+          "label": "Total, Capital Outlay",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "generalPublicServices": 5805000,
+            "socialServices": 15700000,
+            "economicServices": 100000,
+            "otherServices": null,
+            "total": 21605000
+          }
+        },
+        {
+          "label": "SPECIAL PURPOSE APPROPRIATIONS",
+          "level": 0,
+          "kind": "header",
+          "section": "specialPurpose",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 1,
+          "kind": "header",
+          "section": "spaPs",
+          "values": {}
+        },
+        {
+          "label": "Honoraria",
+          "level": 2,
+          "kind": "item",
+          "section": "spaPs",
+          "values": {
+            "accountCode": "5-01-02-100",
+            "generalPublicServices": null,
+            "socialServices": 3520000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 3520000
+          }
+        },
+        {
+          "label": "Retirement Gratuity",
+          "level": 2,
+          "kind": "item",
+          "section": "spaPs",
+          "values": {
+            "accountCode": "5-01-04-020",
+            "generalPublicServices": 240000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 240000
+          }
+        },
+        {
+          "label": "Terminal Leave Benefits",
+          "level": 2,
+          "kind": "item",
+          "section": "spaPs",
+          "values": {
+            "accountCode": "5-01-04-030",
+            "generalPublicServices": 7000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 7000000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaPs",
+          "values": {
+            "generalPublicServices": 7240000,
+            "socialServices": 3520000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 10760000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "spaMooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses - Local",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-01-010",
+            "generalPublicServices": 300000,
+            "socialServices": 10000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 310000
+          }
+        },
+        {
+          "label": "Training Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-02-010",
+            "generalPublicServices": 2892000,
+            "socialServices": 240000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 3132000
+          }
+        },
+        {
+          "label": "Food Supplies Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-03-050",
+            "generalPublicServices": 6000000,
+            "socialServices": 2000000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 8000000
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-03-990",
+            "generalPublicServices": 3585000,
+            "socialServices": 2870000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 6455000
+          }
+        },
+        {
+          "label": "Postage and Courier Services",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-05-010",
+            "generalPublicServices": 30000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 30000
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-05-020",
+            "generalPublicServices": 498000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 498000
+          }
+        },
+        {
+          "label": "Internet Subscription Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-05-030",
+            "generalPublicServices": 1000000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Survey Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-07-010",
+            "generalPublicServices": 1530000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1530000
+          }
+        },
+        {
+          "label": "Other Professional Services",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-11-990",
+            "generalPublicServices": 16437000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 16437000
+          }
+        },
+        {
+          "label": "Environment/Sanitary Services",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-12-010",
+            "generalPublicServices": null,
+            "socialServices": 20000000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 20000000
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Other Prop, Plant and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-13-990",
+            "generalPublicServices": null,
+            "socialServices": 1000000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Advertising Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-99-010",
+            "generalPublicServices": 500000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Printing and Publication Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-99-020",
+            "generalPublicServices": null,
+            "socialServices": 10000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 10000
+          }
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-99-050",
+            "generalPublicServices": 100000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Donation",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-99-080",
+            "generalPublicServices": null,
+            "socialServices": 8000000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 8000000
+          }
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaMooe",
+          "values": {
+            "accountCode": "5-02-99-990",
+            "generalPublicServices": 98950713,
+            "socialServices": 195360000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 294310713
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaMooe",
+          "values": {
+            "generalPublicServices": 131822713,
+            "socialServices": 229490000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 361312713
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 1,
+          "kind": "header",
+          "section": "spaCo",
+          "values": {}
+        },
+        {
+          "label": "Buildings",
+          "level": 2,
+          "kind": "item",
+          "section": "spaCo",
+          "values": {
+            "accountCode": "1-07-04-010",
+            "generalPublicServices": 350000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 350000
+          }
+        },
+        {
+          "label": "Office Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaCo",
+          "values": {
+            "accountCode": "1-07-05-020",
+            "generalPublicServices": 1324000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 1324000
+          }
+        },
+        {
+          "label": "Information and Communication Technology Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaCo",
+          "values": {
+            "accountCode": "1-07-05-030",
+            "generalPublicServices": 210000,
+            "socialServices": 100000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 310000
+          }
+        },
+        {
+          "label": "Other Machinery and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaCo",
+          "values": {
+            "accountCode": "1-07-05-990",
+            "generalPublicServices": 444000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 444000
+          }
+        },
+        {
+          "label": "Furniture and Fixtures",
+          "level": 2,
+          "kind": "item",
+          "section": "spaCo",
+          "values": {
+            "accountCode": "1-07-07-010",
+            "generalPublicServices": 300000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 300000
+          }
+        },
+        {
+          "label": "Computer Software",
+          "level": 2,
+          "kind": "item",
+          "section": "spaCo",
+          "values": {
+            "accountCode": "1-09-01-020",
+            "generalPublicServices": 3300000,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 3300000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaCo",
+          "values": {
+            "generalPublicServices": 5928000,
+            "socialServices": 100000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 6028000
+          }
+        },
+        {
+          "label": "Assistance to Hospitals",
+          "level": 0,
+          "kind": "header",
+          "section": "spaHospitals",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "spaHospitals",
+          "values": {}
+        },
+        {
+          "label": "Subsidy to Hospitals",
+          "level": 2,
+          "kind": "item",
+          "section": "spaHospitals",
+          "values": {
+            "accountCode": "5-02-14-990",
+            "generalPublicServices": null,
+            "socialServices": 200990597,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 200990597
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaHospitals",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": 200990597,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 200990597
+          }
+        },
+        {
+          "label": "Debt Services",
+          "level": 0,
+          "kind": "header",
+          "section": "spaDebt",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "spaDebt",
+          "values": {}
+        },
+        {
+          "label": "Loan Payable",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDebt",
+          "values": {
+            "accountCode": "2-01-02-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 710257,
+            "total": 710257
+          }
+        },
+        {
+          "label": "Interest Payment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDebt",
+          "values": {
+            "accountCode": "5-03-01-020",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 20000,
+            "total": 20000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaDebt",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 730257,
+            "total": 730257
+          }
+        },
+        {
+          "label": "Aid to Barangays",
+          "level": 0,
+          "kind": "header",
+          "section": "spaAidToBarangays",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "spaAidToBarangays",
+          "values": {}
+        },
+        {
+          "label": "Donations",
+          "level": 2,
+          "kind": "item",
+          "section": "spaAidToBarangays",
+          "values": {
+            "accountCode": "5-02-99-080",
+            "generalPublicServices": null,
+            "socialServices": 20720000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 20720000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaAidToBarangays",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": 20720000,
+            "economicServices": null,
+            "otherServices": null,
+            "total": 20720000
+          }
+        },
+        {
+          "label": "Local Disaster Risk Reduction and Management",
+          "level": 0,
+          "kind": "header",
+          "section": "spaLdrrm",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "spaLdrrmMooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-02-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 8000000,
+            "total": 8000000
+          }
+        },
+        {
+          "label": "Welfare Goods Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-03-060",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 18500000,
+            "total": 18500000
+          }
+        },
+        {
+          "label": "Medical, Dental and Lab Supplies Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-03-080",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 1000000,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-03-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 5012353,
+            "total": 5012353
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Transportation Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-13-060",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 2000000,
+            "total": 2000000
+          }
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-99-050",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 4000000,
+            "total": 4000000
+          }
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "accountCode": "5-02-99-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 12000000,
+            "total": 12000000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaLdrrmMooe",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 50512353,
+            "total": 50512353
+          }
+        },
+        {
+          "label": "Local Disaster Risk Reduction and Management",
+          "level": 0,
+          "kind": "header",
+          "section": "spaLdrrm",
+          "values": {}
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 1,
+          "kind": "header",
+          "section": "spaLdrrmCo",
+          "values": {}
+        },
+        {
+          "label": "Water Supply System",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmCo",
+          "values": {
+            "accountCode": "1-07-03-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 10000000,
+            "total": 10000000
+          }
+        },
+        {
+          "label": "Buildings",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmCo",
+          "values": {
+            "accountCode": "1-07-04-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 30000000,
+            "total": 30000000
+          }
+        },
+        {
+          "label": "Other Structures",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmCo",
+          "values": {
+            "accountCode": "1-07-04-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 10000000,
+            "total": 10000000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaLdrrmCo",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 50000000,
+            "total": 50000000
+          }
+        },
+        {
+          "label": "30% Quick Response Fund",
+          "level": 2,
+          "kind": "item",
+          "section": "spaLdrrmQrf",
+          "values": {
+            "accountCode": "9998",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 43076723,
+            "total": 43076723
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaLdrrmQrf",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 43076723,
+            "total": 43076723
+          }
+        },
+        {
+          "key": "totalLdrrm",
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 143589076,
+            "total": 143589076
+          }
+        },
+        {
+          "label": "Development Projects",
+          "level": 0,
+          "kind": "header",
+          "section": "spaDevelopmentProjects",
+          "values": {}
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 1,
+          "kind": "header",
+          "section": "spaDevelopmentProjects",
+          "values": {}
+        },
+        {
+          "label": "Road Networks",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "accountCode": "1-07-03-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 199399304,
+            "total": 199399304
+          }
+        },
+        {
+          "label": "Flood Control System",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "accountCode": "1-07-03-020",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 5000000,
+            "total": 5000000
+          }
+        },
+        {
+          "label": "Water Supply System",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "accountCode": "1-07-03-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 600000,
+            "total": 600000
+          }
+        },
+        {
+          "label": "Buildings",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "accountCode": "1-07-04-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 33200000,
+            "total": 33200000
+          }
+        },
+        {
+          "label": "Hospitals and Health Centers",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "accountCode": "1-07-04-030",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 7200000,
+            "total": 7200000
+          }
+        },
+        {
+          "label": "Medical Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "accountCode": "1-07-05-110",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 43655000,
+            "total": 43655000
+          }
+        },
+        {
+          "label": "Sub-Total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "spaDevelopmentProjects",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": null,
+            "otherServices": 289054304,
+            "total": 289054304
+          }
+        },
+        {
+          "key": "totalAppropriations",
+          "label": "TOTAL APPROPRIATIONS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "generalPublicServices": 1351739822,
+            "socialServices": 867326788,
+            "economicServices": 219341271,
+            "otherServices": 433373637,
+            "total": 2871781518
+          }
+        }
+      ]
+    },
+    {
+      "key": "byOffice",
+      "title": "Summary of FY 2023 Proposed New Appropriations: 2. Proposed New Appropriations, by Office",
+      "columns": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlay",
+          "type": "amount"
+        },
+        {
+          "key": "lumpSum",
+          "label": "Lump-Sum Appropriation",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "office-of-the-city-mayor",
+          "label": "A. Office of the City Mayor",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 321769796,
+            "mooe": 252722285,
+            "capitalOutlay": 225000,
+            "lumpSum": null,
+            "total": 574717081
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--local-disaster-risk-reduction-management-fund",
+          "label": "Local Disaster Risk Reduction Management Fund",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 50512353,
+            "capitalOutlay": 50000000,
+            "lumpSum": 43076723,
+            "total": 143589076
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--development-project",
+          "label": "Development Project",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 289054304,
+            "lumpSum": null,
+            "total": 289054304
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--local-disaster-risk-reduction-management-office",
+          "label": "Local Disaster Risk Reduction Management Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 20550000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 20550000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--peace-and-order",
+          "label": "Peace and Order",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 24675000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 24675000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--public-employment-office",
+          "label": "Public Employment Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 13975000,
+            "capitalOutlay": 80000,
+            "lumpSum": null,
+            "total": 14055000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--manpower-office",
+          "label": "Manpower Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 2277000,
+            "capitalOutlay": 1222000,
+            "lumpSum": null,
+            "total": 3499000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--urban-poor-office",
+          "label": "Urban Poor Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 3150000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 3150000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--sports-development-office",
+          "label": "Sports Development Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 3520000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 3520000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--lapu-lapu-cooperative-office",
+          "label": "Lapu-Lapu Cooperative Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1785000,
+            "capitalOutlay": 50000,
+            "lumpSum": null,
+            "total": 1835000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--mactan-north-reclamation-development-office",
+          "label": "Mactan North Reclamation Development Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 15000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 15000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--project-development-monitoring-office",
+          "label": "Project Development Monitoring Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1570000,
+            "capitalOutlay": 75000,
+            "lumpSum": null,
+            "total": 1645000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--operations-of-hoops-dome",
+          "label": "Operations of Hoops Dome",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 135000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 135000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--local-investment-and-promotion-office",
+          "label": "Local Investment and Promotion Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1039000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 1039000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--clean-and-green-office",
+          "label": "Clean and Green Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 2010000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 2010000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--dilg-office",
+          "label": "DILG Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 613000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 613000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--public-attorneys-office",
+          "label": "Public Attorney's Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 965000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 965000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--information-technology-office",
+          "label": "Information Technology Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 4100000,
+            "capitalOutlay": 4446000,
+            "lumpSum": null,
+            "total": 8546000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--public-information-office",
+          "label": "Public Information Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 664000,
+            "capitalOutlay": 55000,
+            "lumpSum": null,
+            "total": 719000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--local-youth-development-office",
+          "label": "Local Youth Development Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 630000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 630000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--city-of-lapu-lapu-office-for-substance-abuse-prevention-closap",
+          "label": "City of Lapu-Lapu Office for Substance Abuse Prevention (CLOSAP)",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 2650000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 2650000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--bjmp",
+          "label": "BJMP",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 8950000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 8950000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--traffic-development-office",
+          "label": "Traffic Development Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 25734713,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 25734713
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--aid-and-contribution-to-national-agencies",
+          "label": "Aid and Contribution to National Agencies",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 4000000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 4000000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--subsidy-to-hospitals",
+          "label": "Subsidy to Hospitals",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 200990597,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 200990597
+          }
+        },
+        {
+          "label": "A. Office of the City Mayor",
+          "level": 1,
+          "kind": "header",
+          "section": "offices",
+          "values": {}
+        },
+        {
+          "key": "office-of-the-city-mayor--sanitary-services-street-cleaning",
+          "label": "Sanitary Services - Street Cleaning",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 20000000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 20000000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--streetlighting-services",
+          "label": "Streetlighting Services",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1500000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 1500000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--beautification-community-development",
+          "label": "Beautification - Community Development",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 1000000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--maintenance-of-plazas-parks-and-monuments",
+          "label": "Maintenance of Plazas, Parks and Monuments",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 1000000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--financial-assistance-to-eruf",
+          "label": "Financial Assistance to ERUF",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 4000000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 4000000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--aid-to-barangays",
+          "label": "Aid to Barangays",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 20720000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 20720000
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--loans",
+          "label": "Loans",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 730257,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 730257
+          }
+        },
+        {
+          "key": "office-of-the-city-mayor--terminal-leave-benefits",
+          "label": "Terminal Leave Benefits",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 7240000,
+            "mooe": null,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 7240000
+          }
+        },
+        {
+          "key": "office-of-the-city-vice-mayor",
+          "label": "B. Office of the City Vice-Mayor",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 9531170,
+            "mooe": 1020000,
+            "capitalOutlay": 60000,
+            "lumpSum": null,
+            "total": 10611170
+          }
+        },
+        {
+          "key": "office-of-the-internal-audit-services-officer",
+          "label": "C. Office of the Internal Audit Services Officer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 6667999,
+            "mooe": 121000,
+            "capitalOutlay": 70000,
+            "lumpSum": null,
+            "total": 6858999
+          }
+        },
+        {
+          "key": "office-of-the-sangguniang-panlungsod",
+          "label": "D. Office of the Sangguniang Panlungsod",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 44982172,
+            "mooe": 3060000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 48042172
+          }
+        },
+        {
+          "key": "office-of-the-secretary-to-the-sangguniang-panlungsod",
+          "label": "E. Office of the Secretary to the Sangguniang Panlungsod",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 19856234,
+            "mooe": 1400000,
+            "capitalOutlay": 485000,
+            "lumpSum": null,
+            "total": 21741234
+          }
+        },
+        {
+          "key": "office-of-the-city-administrator",
+          "label": "F. Office of the City Administrator",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 10501040,
+            "mooe": 203000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 10704040
+          }
+        },
+        {
+          "key": "office-of-the-city-human-resource-management-and-development",
+          "label": "G. Office of the City Human Resource Management and Development",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 12339069,
+            "mooe": 5231000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 17570069
+          }
+        },
+        {
+          "key": "office-of-the-city-planning-and-development-officer",
+          "label": "H. Office of the City Planning and Development Officer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 19765597,
+            "mooe": 288000,
+            "capitalOutlay": 140000,
+            "lumpSum": null,
+            "total": 20193597
+          }
+        },
+        {
+          "key": "office-of-the-city-civil-registrar",
+          "label": "I. Office of the City Civil Registrar",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 9677601,
+            "mooe": 306000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 9983601
+          }
+        },
+        {
+          "key": "office-of-the-city-general-services",
+          "label": "J. Office of the City General Services",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 19702043,
+            "mooe": 303471000,
+            "capitalOutlay": 1575000,
+            "lumpSum": null,
+            "total": 324748043
+          }
+        },
+        {
+          "key": "office-of-the-city-general-services--bids-and-awards-committee",
+          "label": "Bids and Awards Committee",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 0,
+            "mooe": 350000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 350000
+          }
+        },
+        {
+          "key": "office-of-the-city-budget-officer",
+          "label": "K. Office of the City Budget Officer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 15986984,
+            "mooe": 406000,
+            "capitalOutlay": 290000,
+            "lumpSum": null,
+            "total": 16682984
+          }
+        },
+        {
+          "key": "office-of-the-city-accountant",
+          "label": "L. Office of the City Accountant",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 22798233,
+            "mooe": 566000,
+            "capitalOutlay": 1960000,
+            "lumpSum": null,
+            "total": 25324233
+          }
+        },
+        {
+          "key": "office-of-the-city-treasurer",
+          "label": "M. Office of the City Treasurer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 39323912,
+            "mooe": 13284196,
+            "capitalOutlay": 0,
+            "lumpSum": null,
+            "total": 52608108
+          }
+        },
+        {
+          "key": "office-of-the-city-assessor",
+          "label": "N. Office of the City Assessor",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 21421265,
+            "mooe": 1589326,
+            "capitalOutlay": 1000000,
+            "lumpSum": null,
+            "total": 24010591
+          }
+        },
+        {
+          "key": "office-of-the-city-auditor",
+          "label": "O. Office of the City Auditor",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 55000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 55000
+          }
+        },
+        {
+          "key": "office-of-the-city-library",
+          "label": "P. Office of the City Library",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 2245270,
+            "mooe": 10500,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 2255770
+          }
+        },
+        {
+          "key": "office-of-the-city-attorney",
+          "label": "Q. Office of the City Attorney",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 15256613,
+            "mooe": 606000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 15862613
+          }
+        },
+        {
+          "key": "office-of-the-city-prosecutor",
+          "label": "R. Office of the City Prosecutor",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 7779463,
+            "mooe": 3149000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 10928463
+          }
+        },
+        {
+          "key": "office-of-the-parole-and-probation",
+          "label": "S. Office of the Parole and Probation",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 277000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 277000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-5-fc",
+          "label": "T. Office of the Regional Trial Court - Branch 5 FC",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 228000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 228000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-27",
+          "label": "U. Office of the Regional Trial Court - Branch 27",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-53",
+          "label": "V. Office of the Regional Trial Court - Branch 53",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 228000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 228000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-54",
+          "label": "W. Office of the Regional Trial Court - Branch 54",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 228000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 228000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-67",
+          "label": "X. Office of the Regional Trial Court - Branch 67",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-68",
+          "label": "Y. Office of the Regional Trial Court - Branch 68",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-69",
+          "label": "Z. Office of the Regional Trial Court - Branch 69",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-70",
+          "label": "AA. Office of the Regional Trial Court - Branch 70",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 228000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 228000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-71",
+          "label": "AB. Office of the Regional Trial Court - Branch 71",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-72",
+          "label": "AC. Office of the Regional Trial Court - Branch 72",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-regional-trial-court-branch-73",
+          "label": "AD. Office of the Regional Trial Court - Branch 73",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-municipal-trial-court-in-cities-branch-1",
+          "label": "AE. Office of the Municipal Trial Court in Cities Branch 1",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 364741,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 597741
+          }
+        },
+        {
+          "key": "office-of-the-municipal-trial-court-in-cities-branch-2",
+          "label": "AF. Office of the Municipal Trial Court in Cities Branch 2",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-municipal-trial-court-in-cities-branch-3",
+          "label": "AG. Office of the Municipal Trial Court in Cities Branch 3",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 233000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 233000
+          }
+        },
+        {
+          "key": "office-of-the-municipal-trial-court-in-cities-clerk-of-court",
+          "label": "AH. Office of the Municipal Trial Court in Cities Clerk of Court",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 77000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 77000
+          }
+        },
+        {
+          "key": "office-of-the-clerk-of-court",
+          "label": "AI. Office of the Clerk of Court",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 149000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 149000
+          }
+        },
+        {
+          "key": "office-of-the-register-of-deeds",
+          "label": "AJ. Office of the Register of Deeds",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 72000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 72000
+          }
+        },
+        {
+          "key": "office-of-the-police-services",
+          "label": "AK. Office of the Police Services",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 6354000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 6354000
+          }
+        },
+        {
+          "key": "office-of-the-police-services--crime-prevention",
+          "label": "Crime Prevention",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 7105000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 7105000
+          }
+        },
+        {
+          "key": "office-of-the-police-services--law-enforcement",
+          "label": "Law Enforcement",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 73500,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 73500
+          }
+        },
+        {
+          "key": "office-of-the-police-services--internal-security",
+          "label": "Internal Security",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 2175000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 2175000
+          }
+        },
+        {
+          "key": "office-of-the-police-services--counter-terrorism",
+          "label": "Counter Terrorism",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 318500,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 318500
+          }
+        },
+        {
+          "label": "AK. Office of the Police Services",
+          "level": 1,
+          "kind": "header",
+          "section": "offices",
+          "values": {}
+        },
+        {
+          "key": "office-of-the-police-services--environmental-protection",
+          "label": "Environmental Protection",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1029000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 1029000
+          }
+        },
+        {
+          "key": "office-of-the-police-services--drug-affectation",
+          "label": "Drug Affectation",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 1641500,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 1641500
+          }
+        },
+        {
+          "key": "office-of-the-police-services--prosecution-and-courts-program",
+          "label": "Prosecution and Courts Program",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 122500,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 122500
+          }
+        },
+        {
+          "key": "office-of-the-peoples-law-enforcement-board",
+          "label": "AL. Office of the People's Law Enforcement Board",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 393600,
+            "mooe": 5000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 398600
+          }
+        },
+        {
+          "key": "office-of-the-fire-and-safety-services",
+          "label": "AM. Office of the Fire and Safety Services",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 2917000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 2917000
+          }
+        },
+        {
+          "key": "department-of-education",
+          "label": "AN. Department of Education",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 11003976,
+            "mooe": 11058000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 22061976
+          }
+        },
+        {
+          "key": "lapu-lapu-city-college",
+          "label": "AO. Lapu-Lapu City College",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 47969979,
+            "mooe": 4736000,
+            "capitalOutlay": 10000000,
+            "lumpSum": null,
+            "total": 62705979
+          }
+        },
+        {
+          "key": "office-of-the-city-health-officer",
+          "label": "AP. Office of the City Health Officer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 71814228,
+            "mooe": 45068000,
+            "capitalOutlay": 2700000,
+            "lumpSum": null,
+            "total": 119582228
+          }
+        },
+        {
+          "key": "office-of-the-social-welfare-and-development-officer",
+          "label": "AQ. Office of the Social Welfare and Development Officer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 40443508,
+            "mooe": 164712500,
+            "capitalOutlay": 3000000,
+            "lumpSum": null,
+            "total": 208156008
+          }
+        },
+        {
+          "key": "office-of-the-social-welfare-and-development-officer--senior-citizens-office",
+          "label": "Senior Citizens Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 3520000,
+            "mooe": 194710000,
+            "capitalOutlay": 50000,
+            "lumpSum": null,
+            "total": 198280000
+          }
+        },
+        {
+          "key": "office-of-the-social-welfare-and-development-officer--gender-and-development-office",
+          "label": "Gender and Development Office",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 730000,
+            "capitalOutlay": 50000,
+            "lumpSum": null,
+            "total": 780000
+          }
+        },
+        {
+          "key": "office-of-the-social-welfare-and-development-officer--home-care-center",
+          "label": "Home Care Center",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 2500000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 2500000
+          }
+        },
+        {
+          "key": "office-of-the-social-welfare-and-development-officer--stimulation-and-therapeutic-activity-center-stac",
+          "label": "Stimulation and Therapeutic Activity Center (STAC)",
+          "level": 2,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": null,
+            "mooe": 50000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 50000
+          }
+        },
+        {
+          "key": "office-of-the-city-veterinarian",
+          "label": "AR. Office of the City Veterinarian",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 6189480,
+            "mooe": 2951000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 9140480
+          }
+        },
+        {
+          "key": "office-of-the-city-environment-and-natural-resources",
+          "label": "AS. Office of the City Environment and Natural Resources",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 17722974,
+            "mooe": 105063281,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 122786255
+          }
+        },
+        {
+          "key": "office-of-the-city-engineer",
+          "label": "AT. Office of the City Engineer",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 54446122,
+            "mooe": 3926000,
+            "capitalOutlay": null,
+            "lumpSum": null,
+            "total": 58372122
+          }
+        },
+        {
+          "key": "office-of-the-city-tourism",
+          "label": "AU. Office of the City Tourism",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 9436414,
+            "mooe": 19506000,
+            "capitalOutlay": 100000,
+            "lumpSum": null,
+            "total": 29042414
+          }
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "section": "offices",
+          "values": {
+            "ps": 870149483,
+            "mooe": 1591868008,
+            "capitalOutlay": 366687304,
+            "lumpSum": 43076723,
+            "total": 2871781518
+          }
+        }
+      ]
+    },
+    {
+      "key": "statutoryObligations",
+      "title": "Summary of FY 2023 Proposed New Appropriations: 3. Summary Statement of All Statutory and Contractual Obligations Due",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Statutory and Contractual Obligations",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1.1 Retirement Gratuity",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 240000
+          }
+        },
+        {
+          "label": "1.2 Terminal Leave Benefits",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 7000000
+          }
+        },
+        {
+          "label": "1.3 Debt Service",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 730257
+          }
+        },
+        {
+          "label": "1.4 Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 2012400
+          }
+        },
+        {
+          "label": "1.5 PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 11171771
+          }
+        },
+        {
+          "label": "1.6 PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 2012400
+          }
+        },
+        {
+          "label": "1.7 Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 61101554
+          }
+        },
+        {
+          "label": "2. Budgetary Requirements",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "2.1 20% of IRA for Development Fund",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 289054304
+          }
+        },
+        {
+          "label": "2.2 5% Local Disaster Risk Reduction and Management",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 143589076
+          }
+        },
+        {
+          "label": "2.3 Financial Assistance to Barangays ( P 1,000.00 minimum aid)",
+          "level": 1,
+          "kind": "item",
+          "section": "obligations",
+          "values": {
+            "amount": 20720000
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "section": "obligations",
+          "values": {
+            "amount": 537631762
+          }
+        }
+      ]
+    },
+    {
+      "key": "indebtedness",
+      "title": "Statement of Indebtedness, Budget Year 2023, General Fund",
+      "columns": [
+        {
+          "key": "creditor",
+          "label": "Creditor",
+          "type": "text"
+        },
+        {
+          "key": "dateContracted",
+          "label": "Date Contracted",
+          "type": "text"
+        },
+        {
+          "key": "term",
+          "label": "Term",
+          "type": "text"
+        },
+        {
+          "key": "principalAmount",
+          "label": "Principal Amount",
+          "type": "amount"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "prevPrincipal",
+          "label": "Previous Payments Made: Principal",
+          "type": "amount"
+        },
+        {
+          "key": "prevInterest",
+          "label": "Previous Payments Made: Interest",
+          "type": "amount"
+        },
+        {
+          "key": "prevTotal",
+          "label": "Previous Payments Made: Total",
+          "type": "amount"
+        },
+        {
+          "key": "duePrincipal",
+          "label": "Amount Due Budget Year 2023: Principal",
+          "type": "amount"
+        },
+        {
+          "key": "dueInterest",
+          "label": "Amount Due Budget Year 2023: Interest",
+          "type": "amount"
+        },
+        {
+          "key": "dueTotal",
+          "label": "Amount Due Budget Year 2023: Total",
+          "type": "amount"
+        },
+        {
+          "key": "balance",
+          "label": "Balance of the Principal",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Land Bank of the Philippines",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "National Housing Authority",
+          "level": 1,
+          "kind": "item",
+          "section": "loans",
+          "values": {
+            "creditor": "National Housing Authority",
+            "dateContracted": "1/18/2008",
+            "term": "15 yrs",
+            "principalAmount": 2000000,
+            "prevPrincipal": 1750000,
+            "prevInterest": 1647908.03,
+            "prevTotal": 3397908.03,
+            "duePrincipal": 250000,
+            "dueInterest": 20000,
+            "dueTotal": 270000,
+            "balance": 0
+          }
+        },
+        {
+          "label": "National Housing Authority - Sudtungan",
+          "level": 1,
+          "kind": "item",
+          "section": "loans",
+          "values": {
+            "creditor": "National Housing Authority - Sudtungan",
+            "dateContracted": "1/16/2020",
+            "term": "6 yrs",
+            "principalAmount": 2761537.56,
+            "prevPrincipal": 920512.56,
+            "prevInterest": null,
+            "prevTotal": 920512.56,
+            "duePrincipal": 460257,
+            "dueInterest": null,
+            "dueTotal": 460257,
+            "balance": 1380768
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "section": "loans",
+          "values": {
+            "principalAmount": 4761537.56,
+            "prevPrincipal": 2670512.56,
+            "prevInterest": 1647908.03,
+            "prevTotal": 4318420.59,
+            "duePrincipal": 710257,
+            "dueInterest": 20000,
+            "dueTotal": 730257,
+            "balance": 1380768
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "offices": [
+      {
+        "key": "office-of-the-city-mayor",
+        "office": "Office of the City Mayor",
+        "ps": 321769796,
+        "mooe": 252722285,
+        "capitalOutlay": 225000,
+        "total": 574717081
+      },
+      {
+        "key": "office-of-the-city-mayor--development-project",
+        "office": "Development Project",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": null,
+        "capitalOutlay": 289054304,
+        "total": 289054304
+      },
+      {
+        "key": "office-of-the-city-mayor--local-disaster-risk-reduction-management-office",
+        "office": "Local Disaster Risk Reduction Management Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 20550000,
+        "capitalOutlay": null,
+        "total": 20550000
+      },
+      {
+        "key": "office-of-the-city-mayor--peace-and-order",
+        "office": "Peace and Order",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 24675000,
+        "capitalOutlay": null,
+        "total": 24675000
+      },
+      {
+        "key": "office-of-the-city-mayor--public-employment-office",
+        "office": "Public Employment Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 13975000,
+        "capitalOutlay": 80000,
+        "total": 14055000
+      },
+      {
+        "key": "office-of-the-city-mayor--manpower-office",
+        "office": "Manpower Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 2277000,
+        "capitalOutlay": 1222000,
+        "total": 3499000
+      },
+      {
+        "key": "office-of-the-city-mayor--urban-poor-office",
+        "office": "Urban Poor Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 3150000,
+        "capitalOutlay": null,
+        "total": 3150000
+      },
+      {
+        "key": "office-of-the-city-mayor--sports-development-office",
+        "office": "Sports Development Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 3520000,
+        "capitalOutlay": null,
+        "total": 3520000
+      },
+      {
+        "key": "office-of-the-city-mayor--lapu-lapu-cooperative-office",
+        "office": "Lapu-Lapu Cooperative Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 1785000,
+        "capitalOutlay": 50000,
+        "total": 1835000
+      },
+      {
+        "key": "office-of-the-city-mayor--mactan-north-reclamation-development-office",
+        "office": "Mactan North Reclamation Development Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 15000,
+        "capitalOutlay": null,
+        "total": 15000
+      },
+      {
+        "key": "office-of-the-city-mayor--project-development-monitoring-office",
+        "office": "Project Development Monitoring Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 1570000,
+        "capitalOutlay": 75000,
+        "total": 1645000
+      },
+      {
+        "key": "office-of-the-city-mayor--operations-of-hoops-dome",
+        "office": "Operations of Hoops Dome",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 135000,
+        "capitalOutlay": null,
+        "total": 135000
+      },
+      {
+        "key": "office-of-the-city-mayor--local-investment-and-promotion-office",
+        "office": "Local Investment and Promotion Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 1039000,
+        "capitalOutlay": null,
+        "total": 1039000
+      },
+      {
+        "key": "office-of-the-city-mayor--clean-and-green-office",
+        "office": "Clean and Green Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 2010000,
+        "capitalOutlay": null,
+        "total": 2010000
+      },
+      {
+        "key": "office-of-the-city-mayor--dilg-office",
+        "office": "DILG Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 613000,
+        "capitalOutlay": null,
+        "total": 613000
+      },
+      {
+        "key": "office-of-the-city-mayor--public-attorneys-office",
+        "office": "Public Attorney's Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 965000,
+        "capitalOutlay": null,
+        "total": 965000
+      },
+      {
+        "key": "office-of-the-city-mayor--information-technology-office",
+        "office": "Information Technology Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 4100000,
+        "capitalOutlay": 4446000,
+        "total": 8546000
+      },
+      {
+        "key": "office-of-the-city-mayor--public-information-office",
+        "office": "Public Information Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 664000,
+        "capitalOutlay": 55000,
+        "total": 719000
+      },
+      {
+        "key": "office-of-the-city-mayor--local-youth-development-office",
+        "office": "Local Youth Development Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 630000,
+        "capitalOutlay": null,
+        "total": 630000
+      },
+      {
+        "key": "office-of-the-city-mayor--city-of-lapu-lapu-office-for-substance-abuse-prevention-closap",
+        "office": "City of Lapu-Lapu Office for Substance Abuse Prevention (CLOSAP)",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 2650000,
+        "capitalOutlay": null,
+        "total": 2650000
+      },
+      {
+        "key": "office-of-the-city-mayor--bjmp",
+        "office": "BJMP",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 8950000,
+        "capitalOutlay": null,
+        "total": 8950000
+      },
+      {
+        "key": "office-of-the-city-mayor--traffic-development-office",
+        "office": "Traffic Development Office",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 25734713,
+        "capitalOutlay": null,
+        "total": 25734713
+      },
+      {
+        "key": "office-of-the-city-mayor--aid-and-contribution-to-national-agencies",
+        "office": "Aid and Contribution to National Agencies",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 4000000,
+        "capitalOutlay": null,
+        "total": 4000000
+      },
+      {
+        "key": "office-of-the-city-mayor--subsidy-to-hospitals",
+        "office": "Subsidy to Hospitals",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 200990597,
+        "capitalOutlay": null,
+        "total": 200990597
+      },
+      {
+        "key": "office-of-the-city-mayor--sanitary-services-street-cleaning",
+        "office": "Sanitary Services - Street Cleaning",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 20000000,
+        "capitalOutlay": null,
+        "total": 20000000
+      },
+      {
+        "key": "office-of-the-city-mayor--streetlighting-services",
+        "office": "Streetlighting Services",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 1500000,
+        "capitalOutlay": null,
+        "total": 1500000
+      },
+      {
+        "key": "office-of-the-city-mayor--beautification-community-development",
+        "office": "Beautification - Community Development",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 1000000,
+        "capitalOutlay": null,
+        "total": 1000000
+      },
+      {
+        "key": "office-of-the-city-mayor--maintenance-of-plazas-parks-and-monuments",
+        "office": "Maintenance of Plazas, Parks and Monuments",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 1000000,
+        "capitalOutlay": null,
+        "total": 1000000
+      },
+      {
+        "key": "office-of-the-city-mayor--financial-assistance-to-eruf",
+        "office": "Financial Assistance to ERUF",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 4000000,
+        "capitalOutlay": null,
+        "total": 4000000
+      },
+      {
+        "key": "office-of-the-city-mayor--aid-to-barangays",
+        "office": "Aid to Barangays",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 20720000,
+        "capitalOutlay": null,
+        "total": 20720000
+      },
+      {
+        "key": "office-of-the-city-mayor--loans",
+        "office": "Loans",
+        "parent": "office-of-the-city-mayor",
+        "ps": null,
+        "mooe": 730257,
+        "capitalOutlay": null,
+        "total": 730257
+      },
+      {
+        "key": "office-of-the-city-mayor--terminal-leave-benefits",
+        "office": "Terminal Leave Benefits",
+        "parent": "office-of-the-city-mayor",
+        "ps": 7240000,
+        "mooe": null,
+        "capitalOutlay": null,
+        "total": 7240000
+      },
+      {
+        "key": "office-of-the-city-vice-mayor",
+        "office": "Office of the City Vice-Mayor",
+        "ps": 9531170,
+        "mooe": 1020000,
+        "capitalOutlay": 60000,
+        "total": 10611170
+      },
+      {
+        "key": "office-of-the-internal-audit-services-officer",
+        "office": "Office of the Internal Audit Services Officer",
+        "ps": 6667999,
+        "mooe": 121000,
+        "capitalOutlay": 70000,
+        "total": 6858999
+      },
+      {
+        "key": "office-of-the-sangguniang-panlungsod",
+        "office": "Office of the Sangguniang Panlungsod",
+        "ps": 44982172,
+        "mooe": 3060000,
+        "capitalOutlay": null,
+        "total": 48042172
+      },
+      {
+        "key": "office-of-the-secretary-to-the-sangguniang-panlungsod",
+        "office": "Office of the Secretary to the Sangguniang Panlungsod",
+        "ps": 19856234,
+        "mooe": 1400000,
+        "capitalOutlay": 485000,
+        "total": 21741234
+      },
+      {
+        "key": "office-of-the-city-administrator",
+        "office": "Office of the City Administrator",
+        "ps": 10501040,
+        "mooe": 203000,
+        "capitalOutlay": null,
+        "total": 10704040
+      },
+      {
+        "key": "office-of-the-city-human-resource-management-and-development",
+        "office": "Office of the City Human Resource Management and Development",
+        "ps": 12339069,
+        "mooe": 5231000,
+        "capitalOutlay": null,
+        "total": 17570069
+      },
+      {
+        "key": "office-of-the-city-planning-and-development-officer",
+        "office": "Office of the City Planning and Development Officer",
+        "ps": 19765597,
+        "mooe": 288000,
+        "capitalOutlay": 140000,
+        "total": 20193597
+      },
+      {
+        "key": "office-of-the-city-civil-registrar",
+        "office": "Office of the City Civil Registrar",
+        "ps": 9677601,
+        "mooe": 306000,
+        "capitalOutlay": null,
+        "total": 9983601
+      },
+      {
+        "key": "office-of-the-city-general-services",
+        "office": "Office of the City General Services",
+        "ps": 19702043,
+        "mooe": 303471000,
+        "capitalOutlay": 1575000,
+        "total": 324748043
+      },
+      {
+        "key": "office-of-the-city-general-services--bids-and-awards-committee",
+        "office": "Bids and Awards Committee",
+        "parent": "office-of-the-city-general-services",
+        "ps": 0,
+        "mooe": 350000,
+        "capitalOutlay": null,
+        "total": 350000
+      },
+      {
+        "key": "office-of-the-city-budget-officer",
+        "office": "Office of the City Budget Officer",
+        "ps": 15986984,
+        "mooe": 406000,
+        "capitalOutlay": 290000,
+        "total": 16682984
+      },
+      {
+        "key": "office-of-the-city-accountant",
+        "office": "Office of the City Accountant",
+        "ps": 22798233,
+        "mooe": 566000,
+        "capitalOutlay": 1960000,
+        "total": 25324233
+      },
+      {
+        "key": "office-of-the-city-treasurer",
+        "office": "Office of the City Treasurer",
+        "ps": 39323912,
+        "mooe": 13284196,
+        "capitalOutlay": 0,
+        "total": 52608108
+      },
+      {
+        "key": "office-of-the-city-assessor",
+        "office": "Office of the City Assessor",
+        "ps": 21421265,
+        "mooe": 1589326,
+        "capitalOutlay": 1000000,
+        "total": 24010591
+      },
+      {
+        "key": "office-of-the-city-auditor",
+        "office": "Office of the City Auditor",
+        "ps": null,
+        "mooe": 55000,
+        "capitalOutlay": null,
+        "total": 55000
+      },
+      {
+        "key": "office-of-the-city-library",
+        "office": "Office of the City Library",
+        "ps": 2245270,
+        "mooe": 10500,
+        "capitalOutlay": null,
+        "total": 2255770
+      },
+      {
+        "key": "office-of-the-city-attorney",
+        "office": "Office of the City Attorney",
+        "ps": 15256613,
+        "mooe": 606000,
+        "capitalOutlay": null,
+        "total": 15862613
+      },
+      {
+        "key": "office-of-the-city-prosecutor",
+        "office": "Office of the City Prosecutor",
+        "ps": 7779463,
+        "mooe": 3149000,
+        "capitalOutlay": null,
+        "total": 10928463
+      },
+      {
+        "key": "office-of-the-parole-and-probation",
+        "office": "Office of the Parole and Probation",
+        "ps": null,
+        "mooe": 277000,
+        "capitalOutlay": null,
+        "total": 277000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-5-fc",
+        "office": "Office of the Regional Trial Court - Branch 5 FC",
+        "ps": null,
+        "mooe": 228000,
+        "capitalOutlay": null,
+        "total": 228000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-27",
+        "office": "Office of the Regional Trial Court - Branch 27",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-53",
+        "office": "Office of the Regional Trial Court - Branch 53",
+        "ps": null,
+        "mooe": 228000,
+        "capitalOutlay": null,
+        "total": 228000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-54",
+        "office": "Office of the Regional Trial Court - Branch 54",
+        "ps": null,
+        "mooe": 228000,
+        "capitalOutlay": null,
+        "total": 228000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-67",
+        "office": "Office of the Regional Trial Court - Branch 67",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-68",
+        "office": "Office of the Regional Trial Court - Branch 68",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-69",
+        "office": "Office of the Regional Trial Court - Branch 69",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-70",
+        "office": "Office of the Regional Trial Court - Branch 70",
+        "ps": null,
+        "mooe": 228000,
+        "capitalOutlay": null,
+        "total": 228000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-71",
+        "office": "Office of the Regional Trial Court - Branch 71",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-72",
+        "office": "Office of the Regional Trial Court - Branch 72",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-regional-trial-court-branch-73",
+        "office": "Office of the Regional Trial Court - Branch 73",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-municipal-trial-court-in-cities-branch-1",
+        "office": "Office of the Municipal Trial Court in Cities Branch 1",
+        "ps": 364741,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 597741
+      },
+      {
+        "key": "office-of-the-municipal-trial-court-in-cities-branch-2",
+        "office": "Office of the Municipal Trial Court in Cities Branch 2",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-municipal-trial-court-in-cities-branch-3",
+        "office": "Office of the Municipal Trial Court in Cities Branch 3",
+        "ps": null,
+        "mooe": 233000,
+        "capitalOutlay": null,
+        "total": 233000
+      },
+      {
+        "key": "office-of-the-municipal-trial-court-in-cities-clerk-of-court",
+        "office": "Office of the Municipal Trial Court in Cities Clerk of Court",
+        "ps": null,
+        "mooe": 77000,
+        "capitalOutlay": null,
+        "total": 77000
+      },
+      {
+        "key": "office-of-the-clerk-of-court",
+        "office": "Office of the Clerk of Court",
+        "ps": null,
+        "mooe": 149000,
+        "capitalOutlay": null,
+        "total": 149000
+      },
+      {
+        "key": "office-of-the-register-of-deeds",
+        "office": "Office of the Register of Deeds",
+        "ps": null,
+        "mooe": 72000,
+        "capitalOutlay": null,
+        "total": 72000
+      },
+      {
+        "key": "office-of-the-police-services",
+        "office": "Office of the Police Services",
+        "ps": null,
+        "mooe": 6354000,
+        "capitalOutlay": null,
+        "total": 6354000
+      },
+      {
+        "key": "office-of-the-police-services--crime-prevention",
+        "office": "Crime Prevention",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 7105000,
+        "capitalOutlay": null,
+        "total": 7105000
+      },
+      {
+        "key": "office-of-the-police-services--law-enforcement",
+        "office": "Law Enforcement",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 73500,
+        "capitalOutlay": null,
+        "total": 73500
+      },
+      {
+        "key": "office-of-the-police-services--internal-security",
+        "office": "Internal Security",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 2175000,
+        "capitalOutlay": null,
+        "total": 2175000
+      },
+      {
+        "key": "office-of-the-police-services--counter-terrorism",
+        "office": "Counter Terrorism",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 318500,
+        "capitalOutlay": null,
+        "total": 318500
+      },
+      {
+        "key": "office-of-the-police-services--environmental-protection",
+        "office": "Environmental Protection",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 1029000,
+        "capitalOutlay": null,
+        "total": 1029000
+      },
+      {
+        "key": "office-of-the-police-services--drug-affectation",
+        "office": "Drug Affectation",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 1641500,
+        "capitalOutlay": null,
+        "total": 1641500
+      },
+      {
+        "key": "office-of-the-police-services--prosecution-and-courts-program",
+        "office": "Prosecution and Courts Program",
+        "parent": "office-of-the-police-services",
+        "ps": null,
+        "mooe": 122500,
+        "capitalOutlay": null,
+        "total": 122500
+      },
+      {
+        "key": "office-of-the-peoples-law-enforcement-board",
+        "office": "Office of the People's Law Enforcement Board",
+        "ps": 393600,
+        "mooe": 5000,
+        "capitalOutlay": null,
+        "total": 398600
+      },
+      {
+        "key": "office-of-the-fire-and-safety-services",
+        "office": "Office of the Fire and Safety Services",
+        "ps": null,
+        "mooe": 2917000,
+        "capitalOutlay": null,
+        "total": 2917000
+      },
+      {
+        "key": "department-of-education",
+        "office": "Department of Education",
+        "ps": 11003976,
+        "mooe": 11058000,
+        "capitalOutlay": null,
+        "total": 22061976
+      },
+      {
+        "key": "lapu-lapu-city-college",
+        "office": "Lapu-Lapu City College",
+        "ps": 47969979,
+        "mooe": 4736000,
+        "capitalOutlay": 10000000,
+        "total": 62705979
+      },
+      {
+        "key": "office-of-the-city-health-officer",
+        "office": "Office of the City Health Officer",
+        "ps": 71814228,
+        "mooe": 45068000,
+        "capitalOutlay": 2700000,
+        "total": 119582228
+      },
+      {
+        "key": "office-of-the-social-welfare-and-development-officer",
+        "office": "Office of the Social Welfare and Development Officer",
+        "ps": 40443508,
+        "mooe": 164712500,
+        "capitalOutlay": 3000000,
+        "total": 208156008
+      },
+      {
+        "key": "office-of-the-social-welfare-and-development-officer--senior-citizens-office",
+        "office": "Senior Citizens Office",
+        "parent": "office-of-the-social-welfare-and-development-officer",
+        "ps": 3520000,
+        "mooe": 194710000,
+        "capitalOutlay": 50000,
+        "total": 198280000
+      },
+      {
+        "key": "office-of-the-social-welfare-and-development-officer--gender-and-development-office",
+        "office": "Gender and Development Office",
+        "parent": "office-of-the-social-welfare-and-development-officer",
+        "ps": null,
+        "mooe": 730000,
+        "capitalOutlay": 50000,
+        "total": 780000
+      },
+      {
+        "key": "office-of-the-social-welfare-and-development-officer--home-care-center",
+        "office": "Home Care Center",
+        "parent": "office-of-the-social-welfare-and-development-officer",
+        "ps": null,
+        "mooe": 2500000,
+        "capitalOutlay": null,
+        "total": 2500000
+      },
+      {
+        "key": "office-of-the-social-welfare-and-development-officer--stimulation-and-therapeutic-activity-center-stac",
+        "office": "Stimulation and Therapeutic Activity Center (STAC)",
+        "parent": "office-of-the-social-welfare-and-development-officer",
+        "ps": null,
+        "mooe": 50000,
+        "capitalOutlay": null,
+        "total": 50000
+      },
+      {
+        "key": "office-of-the-city-veterinarian",
+        "office": "Office of the City Veterinarian",
+        "ps": 6189480,
+        "mooe": 2951000,
+        "capitalOutlay": null,
+        "total": 9140480
+      },
+      {
+        "key": "office-of-the-city-environment-and-natural-resources",
+        "office": "Office of the City Environment and Natural Resources",
+        "ps": 17722974,
+        "mooe": 105063281,
+        "capitalOutlay": null,
+        "total": 122786255
+      },
+      {
+        "key": "office-of-the-city-engineer",
+        "office": "Office of the City Engineer",
+        "ps": 54446122,
+        "mooe": 3926000,
+        "capitalOutlay": null,
+        "total": 58372122
+      },
+      {
+        "key": "office-of-the-city-tourism",
+        "office": "Office of the City Tourism",
+        "ps": 9436414,
+        "mooe": 19506000,
+        "capitalOutlay": 100000,
+        "total": 29042414
+      }
+    ],
+    "specialPurposeAppropriations": [
+      {
+        "key": "office-of-the-city-mayor--local-disaster-risk-reduction-management-fund",
+        "name": "Local Disaster Risk Reduction Management Fund",
+        "parent": "office-of-the-city-mayor",
+        "mooe": 50512353,
+        "capitalOutlay": 50000000,
+        "lumpSum": 43076723,
+        "total": 143589076
+      }
+    ],
+    "totalAppropriations": 2871781518,
+    "totalByClass": {
+      "ps": 870149483,
+      "mooe": 1591868008,
+      "capitalOutlay": 366687304,
+      "lumpSum": 43076723
+    },
+    "totalGeneralFundReceipts": 2871781518
+  },
+  "notes": [
+    "General Fund portion of the 2023 Local Expenditure Program. Printed pages present: \"Page 1 of 152 pages\" to \"Page 4 of 152 pages\" (Receipts Program) and \"Page 135 of 152\" to \"Page 152 of 152 pages\", plus the General Fund Statement of Indebtedness (\"Page 1 of 1 Page\"). Printed pages 5 to 134 (the per-office expenditure programs) are not in the PDF.",
+    "PDF page 1 is the cover (\"Local Expenditure Program, January 1 to December 31, 2023\"); PDF pages 6 to 11 (printed pages 135 to 140) are the narrative General Provisions of the appropriation ordinance and its signature page (certified by SP/City Secretary Francisco Y. Limpangug, attested by Vice-Mayor Celedonio B. Sitoy, approved by City Mayor Junard \"Ahong\" Q. Chan). They were not transcribed.",
+    "UNITS: the Receipts Program header says \"(In 000 Pesos)\", but the figures are in full pesos, not thousands: e.g. the 2023 National Tax Allotment is printed 1,445,271,518.00 and Total General Fund Receipts 2,871,781,518.00, which equal the appropriation totals in the other schedules (TOTAL by office 2,871,781,518.00) and the approved P2,871,781,518.00 General Fund budget in the ordinance. Values are transcribed as printed, in pesos, not multiplied by 1,000.",
+    "This document is not an LBP Form 2 per-office report. summary.offices is taken from schedule \"2. Proposed New Appropriations, by Office\" (budget year 2023). The schedule prints no per-office subtotals: lettered offices (A to AU) and the indented programs/units listed under them are separate rows, so an indented row carries \"parent\" (the lettered office it is printed under) and is not included in the lettered office's own figures. The Local Disaster Risk Reduction Management Fund row (under A. Office of the City Mayor) has a Lump-Sum Appropriation of 43,076,723.00 and is listed in summary.specialPurposeAppropriations instead of summary.offices.",
+    "The by-office schedule repeats \"A. Office of the City Mayor\" and \"AK. Office of the Police Services\" as continuation headings at the top of the next page; kept as header rows.",
+    "Faint marks at the right edge of the Receipts Program budget-year column (Occupation Fees, Miscellaneous Income, Tax Revenue-Fines and Penalties - Other Taxes) look like scan specks rather than printed dashes; those cells are transcribed as blank (null).",
+    "Cross-check: the by-office class totals reconcile with the by-object schedule: PS 870,149,483.00 = Total Personal Services 859,389,483.00 + special-purpose PS 10,760,000.00; MOOE 1,591,868,008.00 = 957,602,088.00 + special-purpose MOOE (361,312,713.00 + hospital subsidy 200,990,597.00 + debt service 730,257.00 + aid to barangays 20,720,000.00 + LDRRM 50,512,353.00); Capital Outlay 366,687,304.00 = 21,605,000.00 + 6,028,000.00 + LDRRM 50,000,000.00 + development projects 289,054,304.00; Lump-Sum 43,076,723.00 = 30% Quick Response Fund. In the by-object schedule, Debt Services (Loan Payable 710,257.00, Interest Payment 20,000.00) is printed under a \"Maintenance and Other Operating Expenses\" sub-heading.",
+    "Statement of Indebtedness: the National Housing Authority (2008) loan's Balance of the Principal is printed \"-\" (0). \"Land Bank of the Philippines\" is printed as a heading row with no figures."
+  ],
+  "unreadable": []
+}

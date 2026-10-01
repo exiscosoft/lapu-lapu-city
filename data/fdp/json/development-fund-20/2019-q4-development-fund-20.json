@@ -1,0 +1,153 @@
+{
+  "id": "2019-q4-development-fund-20",
+  "type": "development-fund-20",
+  "title": "20% Component of the IRA Utilization",
+  "form": "FDP Form 7 - 20% Component of the IRA Utilization",
+  "period": {
+    "year": 2019,
+    "quarter": 4,
+    "asOf": "2019-12-31",
+    "printed": "As of December 31, 2019",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "20% Component of the IRA Utilization",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Economic Development (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "economic",
+          "values": {}
+        },
+        {
+          "label": "1. Improvement of/ Riprapping & Desilting of Basak Outfall Creek",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "1. Improvement of/ Riprapping & Desilting of Basak Outfall Creek",
+            "location": "Gun-ob",
+            "totalCost": 70445062.13,
+            "dateStarted": "2018-12-21",
+            "targetCompletion": "2019-02-16",
+            "pctCompletion": 43,
+            "costIncurred": 30291376.75,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "2. Installation of Drainage Line-Sudtunggan",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "2. Installation of Drainage Line-Sudtunggan",
+            "location": "Basak",
+            "totalCost": 69507888.4,
+            "dateStarted": "2019-01-18",
+            "targetCompletion": "2020-07-11",
+            "pctCompletion": 12,
+            "costIncurred": 10426184,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "3. Rehabilitation of Concrete Pavement Portion of Pajac-Maribago Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "values": {
+            "program": "3. Rehabilitation of Concrete Pavement Portion of Pajac-Maribago Road",
+            "location": "Pajac-Maribago",
+            "totalCost": 927906.2,
+            "dateStarted": "2019-01-18",
+            "targetCompletion": "2019-02-17",
+            "pctCompletion": 40,
+            "costIncurred": 370150.5,
+            "extensions": null,
+            "remarks": "On-Going"
+          }
+        },
+        {
+          "label": "Environmental Management (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "environmental",
+          "values": {}
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 3
+  },
+  "notes": [
+    "The form lists only Economic Development projects; the Environmental Management section is printed as \"NONE\" (Location and Total Cost columns). No Social Development section is printed.",
+    "The form prints no subtotals or grand total; summary totals are null."
+  ],
+  "unreadable": []
+}

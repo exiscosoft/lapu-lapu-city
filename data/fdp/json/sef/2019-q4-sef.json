@@ -1,0 +1,392 @@
+{
+  "id": "2019-q4-sef",
+  "type": "sef",
+  "title": "SEF Utilization",
+  "form": "FDP Form 11 - SEF Utilization (SEF Budget Accountability Form No. 1)",
+  "period": {
+    "year": 2019,
+    "quarter": 4,
+    "asOf": "2019-12-31",
+    "printed": "As of December 31, 2019",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "SEF Utilization",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Receipt from SEF",
+          "level": 0,
+          "kind": "total",
+          "section": "receipts",
+          "values": {
+            "amount": 214336375.09
+          }
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular Pay",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 170520.38
+          }
+        },
+        {
+          "label": "PERA",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 15769.5
+          }
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 6000
+          }
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 1552500
+          }
+        },
+        {
+          "label": "Other Bonuses and Allowances",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 21619
+          }
+        },
+        {
+          "label": "Life & Retirement Insurance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 20754.22
+          }
+        },
+        {
+          "label": "Pag-ibig Contribution",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 800
+          }
+        },
+        {
+          "label": "Philhealth Contribution",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 2351.02
+          }
+        },
+        {
+          "label": "ECC Contribution",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "amount": 800
+          }
+        },
+        {
+          "label": "Total Personal Services",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "amount": 1791114.12
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expense",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 1265376
+          }
+        },
+        {
+          "label": "Office Supplies Expense",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 11613
+          }
+        },
+        {
+          "label": "Drug and Medicines Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 249677
+          }
+        },
+        {
+          "label": "Textbooks and Instructional Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 4159000
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 9849130.5
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 1233540.69
+          }
+        },
+        {
+          "label": "Awards and Rewards Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 525700
+          }
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "amount": 11062702.9
+          }
+        },
+        {
+          "label": "Total Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "amount": 27079751.09
+          }
+        },
+        {
+          "label": "Capital Outlay-Continuing",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "School Building",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 48564955.76
+          }
+        },
+        {
+          "label": "Other Machinery and Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 10899200
+          }
+        },
+        {
+          "label": "Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 4064580
+          }
+        },
+        {
+          "label": "Technical And Scientific Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 979727.21
+          }
+        },
+        {
+          "label": "Computer Software",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 4040000
+          }
+        },
+        {
+          "label": "Furniture and Fixtures",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 1726409
+          }
+        },
+        {
+          "label": "Information and Comm. Technology Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 7384200
+          }
+        },
+        {
+          "label": "Other Land Improvements",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 1175893.04
+          }
+        },
+        {
+          "label": "Other Structures (Fencing)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 1041841.26
+          }
+        },
+        {
+          "label": "Current Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "50 KVA Transformer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 4563967.7
+          }
+        },
+        {
+          "label": "Total Capital Outlay",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "amount": 84440773.97
+          }
+        },
+        {
+          "label": "Financial Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "financialExpenses",
+          "values": {}
+        },
+        {
+          "label": "Total Financial Expenses",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "financialExpenses",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 113311639.18
+          }
+        },
+        {
+          "label": "Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 101024735.91
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "receipts": 214336375.09,
+    "ps": 1791114.12,
+    "mooe": 27079751.09,
+    "capitalOutlay": 84440773.97,
+    "totalDisbursements": 113311639.18,
+    "balance": 101024735.91
+  },
+  "notes": [
+    "The single Capital Outlay subtotal covers both the Capital Outlay-Continuing items and the Current Capital Outlay item.",
+    "Financial Expenses printed with no items and a subtotal of 0.",
+    "Printed MOOE subtotal 27,079,751.09 does not equal the sum of its printed items 28,356,740.09 (difference 1,276,989.00 = Training Expense 1,265,376.00 + Office Supplies Expense 11,613.00, the same omission seen in the 2019 Q2 and Q3 forms); Sub-total and Balance are consistent with the printed MOOE subtotal. Transcribed as printed.",
+    "The form header (FDP Form 11) is cut off at the top of the scan."
+  ],
+  "unreadable": []
+}

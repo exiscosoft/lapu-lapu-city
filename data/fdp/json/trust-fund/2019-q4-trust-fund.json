@@ -1,0 +1,200 @@
+{
+  "id": "2019-q4-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization (DILG Form)",
+  "period": {
+    "year": 2019,
+    "quarter": 4,
+    "asOf": "2019-12-31",
+    "printed": "AS OF DECEMBER 31, 2019",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Cluster VIII- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Cluster VIII- Construction of Public toilet",
+            "location": "Pta. Engano",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-22",
+            "remarks": "Suspended due to lot problem (BUB)"
+          }
+        },
+        {
+          "label": "2. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Cluster X- Construction of Public toilet",
+            "location": "Calawisan and",
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-07-15",
+            "remarks": "Suspended due to lot problem (BUB)"
+          }
+        },
+        {
+          "label": "2. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Cluster X- Construction of Public toilet",
+            "location": "Babag",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-22",
+            "pctCompletion": 100,
+            "costIncurred": 894128.37,
+            "remarks": "Completed (BUB)"
+          }
+        },
+        {
+          "label": "3. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Cluster X- Construction of Public toilet",
+            "location": "Pajo",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-21",
+            "remarks": "Suspended due to lot problem (BUB)"
+          }
+        },
+        {
+          "label": "4. Improvement/ Rehabilitation of Poblacion Plaza (Phase 2)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Improvement/ Rehabilitation of Poblacion Plaza (Phase 2)",
+            "location": "Poblacion",
+            "totalCost": 24048060.4,
+            "dateStarted": "2019-12-05",
+            "targetCompletion": "2020-12-29",
+            "pctCompletion": 3,
+            "costIncurred": 3607209.06,
+            "remarks": "General and Trust Fund"
+          }
+        },
+        {
+          "label": "4. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Cluster X- Construction of Public toilet",
+            "location": "Canjulao and",
+            "totalCost": 1986951.94,
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-21",
+            "pctCompletion": 100,
+            "costIncurred": 1986951.94,
+            "remarks": "Completed (BUB)"
+          }
+        },
+        {
+          "label": "4. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Cluster X- Construction of Public toilet",
+            "location": "Subabasbas",
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-06-21",
+            "remarks": "Completed (BUB)"
+          }
+        },
+        {
+          "label": "6. Repair/Renovation/ Expansion of Sta. Rosa Community Hospital (Emergency Room and Cadaver Holding Room)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "6. Repair/Renovation/ Expansion of Sta. Rosa Community Hospital (Emergency Room and Cadaver Holding Room)",
+            "location": "Talima, Olango",
+            "totalCost": 4949664.1,
+            "dateStarted": "2019-05-24",
+            "targetCompletion": "2020-01-19",
+            "pctCompletion": 90,
+            "costIncurred": 4414697.7,
+            "remarks": "On going- DOH Fund"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 6
+  },
+  "notes": [
+    "The two scanned pages are in reverse order in the PDF (PDF page 1 is printed \"Page 2 of 2\"); rows are given in printed page order.",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null; projectCount counts the six numbered projects.",
+    "Project numbering is as printed: page 1 has items 1-4 and page 2 has items \"4\" and \"6\" (no item 5).",
+    "Projects 2 (\"Calawisan and\" / \"Babag\") and the page-2 Cluster X project (\"Canjulao and\" / \"Subabasbas\") are printed over two lines with separate status entries; each line is a row. The total cost is printed only once per project."
+  ],
+  "unreadable": []
+}

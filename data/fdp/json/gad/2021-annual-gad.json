@@ -1,0 +1,1066 @@
+{
+  "id": "2021-annual-gad",
+  "type": "gad",
+  "title": "Amended Annual Gender and Development (GAD) Plan and Budget",
+  "form": null,
+  "period": {
+    "year": 2021,
+    "quarter": null,
+    "asOf": "2021-12-31",
+    "printed": "CY 2021",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "OIC - City Budget Officer, GFPS-TWG Secretariat (Prepared by)"
+    },
+    {
+      "name": "Perla T. Amar",
+      "position": "City Planning & Development Officer (Recommending Approval)"
+    },
+    {
+      "name": "Junard \"Ahong\" Q. Chan",
+      "position": "Local Chief Executive (Approved)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Amended Annual Gender and Development (GAD) Plan and Budget CY 2021",
+      "columns": [
+        {
+          "key": "gadIssue",
+          "label": "Gender Issue/GAD Mandate",
+          "type": "text"
+        },
+        {
+          "key": "objective",
+          "label": "GAD Objective",
+          "type": "text"
+        },
+        {
+          "key": "ppa",
+          "label": "Relevant LGU Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "activity",
+          "label": "GAD Activity",
+          "type": "text"
+        },
+        {
+          "key": "indicators",
+          "label": "Performance Indicator and Target",
+          "type": "text"
+        },
+        {
+          "key": "mooeDetails",
+          "label": "GAD Budget (Php) - MOOE (details)",
+          "type": "text"
+        },
+        {
+          "key": "mooe",
+          "label": "GAD Budget (Php) - MOOE",
+          "type": "amount"
+        },
+        {
+          "key": "ps",
+          "label": "GAD Budget (Php) - PS",
+          "type": "amount"
+        },
+        {
+          "key": "co",
+          "label": "GAD Budget (Php) - CO",
+          "type": "amount"
+        },
+        {
+          "key": "office",
+          "label": "Lead or Responsible Office",
+          "type": "text"
+        },
+        {
+          "key": "total",
+          "label": "Total (printed on subtotal/grand total rows only)",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. CLIENT FOCUSED",
+          "level": 0,
+          "kind": "header",
+          "section": "client",
+          "values": {}
+        },
+        {
+          "label": "Hiring of deserving indigent students in the city government during summer",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter 3, Art. VIII, Section 61 - Equal Access to Education, Culture and Sports- Limited access of indigent students to qualify for higher education due to financial constraints",
+            "objective": "To provide employment to deserving indigent students as their fund source for enrolment",
+            "ppa": "Social Welfare and Development: Special Program for Employment of Students (SPES)",
+            "activity": "Hiring of deserving indigent students in the city government during summer",
+            "indicators": "3,343 indigent students hired under the SPES and were able to enroll in tertiary schools after the program (Female - 2,006; Male-1,337)(15-25 years old indigent students = 3,344)",
+            "mooeDetails": "Php 404.00 /student/day for 10 working days",
+            "mooe": 13510000,
+            "ps": null,
+            "co": null,
+            "office": "PESO / CMO"
+          }
+        },
+        {
+          "label": "a) Conduct of Inter-barangay sportsfest",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter 3, Art. VIII, Section 61 - Equal Access to Education, Culture and Sports",
+            "objective": "To improve access of children and youth to sports development program to lure them away from illegal drugs, gangsterism and juvenile delinquency",
+            "ppa": "Social Welfare and Development: Youth and Sports Development",
+            "activity": "a) Conduct of Inter-barangay sportsfest",
+            "indicators": "At least 6,000 male and female youth and children will be sportsminded and diverted from illegal drugs, gangsterism and juvenile delinquency",
+            "mooeDetails": "Prizes; Honoraria of game officials; food; sports equipment and materials",
+            "mooe": 2500000,
+            "ps": null,
+            "co": null,
+            "office": "City Sports Commission"
+          }
+        },
+        {
+          "label": "b) Participation in Phil. National Games",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High vulnerability of children and youth to illegal drugs, gangsterism, and juvenile delinquency",
+            "objective": "To improve access of children and youth to sports development program to lure them away from illegal drugs, gangsterism and juvenile delinquency",
+            "ppa": "Social Welfare and Development: Youth and Sports Development",
+            "activity": "b) Participation in Phil. National Games",
+            "indicators": "At least 6,000 male and female youth and children will be sportsminded and diverted from illegal drugs, gangsterism and juvenile delinquency",
+            "mooeDetails": "Travelling expenses; sports equipment and materials",
+            "mooe": 300000,
+            "ps": null,
+            "co": null,
+            "office": "City Sports Commission"
+          }
+        },
+        {
+          "label": "c) Conduct of Seminars and Sports Clinic",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High vulnerability of children and youth to illegal drugs, gangsterism, and juvenile delinquency",
+            "objective": "To improve access of children and youth to sports development program to lure them away from illegal drugs, gangsterism and juvenile delinquency",
+            "ppa": "Social Welfare and Development: Youth and Sports Development",
+            "activity": "c) Conduct of Seminars and Sports Clinic",
+            "indicators": "At least 6,000 male and female youth and children will be sportsminded and diverted from illegal drugs, gangsterism and juvenile delinquency",
+            "mooeDetails": "Sports equipment and materials",
+            "mooe": 100000,
+            "ps": null,
+            "co": null,
+            "office": "City Sports Commission"
+          }
+        },
+        {
+          "label": "Conduct of BP monitoring and blood sugar testing Provision of Medicine and supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter 3, Art. II, Section 15 City GAD Code: Right to Comprehensive Health Services. Health Service Delivery - High incidence of Non-communicable and Communicable diseases",
+            "objective": "To provide medical services and medicines",
+            "ppa": "Social Services: Health - PhilPen Program",
+            "activity": "Conduct of BP monitoring and blood sugar testing Provision of Medicine and supplies",
+            "indicators": "Reduction in the number of residents with non-communicable diseases",
+            "mooeDetails": "Medicine and other medical supplies",
+            "mooe": 10000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of Medicine for pneumonia for children and adults",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High Prevalence of pneumonia among children and adults",
+            "objective": "To reduce prevalence and prevent the infection of pneumonia among children and adults from 30% to 15%.",
+            "ppa": "Social Services: Health, Communicable diseases",
+            "activity": "Provision of Medicine for pneumonia for children and adults",
+            "indicators": "Affected children and adults provided treatment and reduced the mortality rate due to pneumonia",
+            "mooeDetails": "Medicines for treatment of pneumonia",
+            "mooe": 3500000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Purchase of NS1 and conduct of dengue prevention and control",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High incidence of dengue fever among children",
+            "objective": "To reduce the incidence of dengue from 20%-10%",
+            "ppa": "Social Services: Health, Communicable diseases",
+            "activity": "Purchase of NS1 and conduct of dengue prevention and control",
+            "indicators": "NS1 kit administered for early determination of dengue virus",
+            "mooeDetails": "NS1=40 boxes in 25kg./box @Php12,500/box",
+            "mooe": 500000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Purchase of larvicidal (chemical dengue control)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High incidence of dengue fever among children",
+            "objective": "To reduce the incidence of dengue from 20%-10%",
+            "ppa": "Social Services: Health, Communicable diseases",
+            "activity": "Purchase of larvicidal (chemical dengue control)",
+            "indicators": "Larvicidal and misting machines distributed to 30 barangays/dengue causing mosquitoes reduced and exterminated and reduce incidence of dengue",
+            "mooeDetails": "8,000 bottles of larvicidal @Php250.00/bottle",
+            "mooe": 2000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Conduct of Advocacy and mobilization, PPD screening and provision of anti-TB drugs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High prevalence of TB in Children (Out of 2000 TB cases 48 children are affected with TB - Male-31; female - 17)",
+            "objective": "To reduce number of TB cases in children from 5% to 1% and provide treatment to those affected",
+            "ppa": "Social Services: Health - TB program",
+            "activity": "Conduct of Advocacy and mobilization, PPD screening and provision of anti-TB drugs",
+            "indicators": "Children determined to be affected with TB are provided with cure and anti-TB medicines",
+            "mooeDetails": "Drugs and medicines",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "1. Focus Group Discussion (FGD) and USAPAN kind of lecture discussion on motivating clients for family planning; 2. Number of family development sessions done (FDS); 3. Number of pre-marriage counselling done; 4. Provision of Family Planning commodities",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "B. Reproductive Health and Family Planning Services -Strengthen the coverage of FP acceptors among men and women",
+            "objective": "To increase coverage among men and women (couples) accepting Family Planning services from 70% to 75%",
+            "ppa": "Social Services: Health - Family Planning",
+            "activity": "1. Focus Group Discussion (FGD) and USAPAN kind of lecture discussion on motivating clients for family planning; 2. Number of family development sessions done (FDS); 3. Number of pre-marriage counselling done; 4. Provision of Family Planning commodities",
+            "indicators": "Increased number of couples motivated to avail of family planning services as FP acceptors; Family Development sessions done with couples acquiring knowledge on family responsibility; Couples acquiring knowledge on proper family planning; FP acceptors provided with family planning commodities",
+            "mooeDetails": "Reproductive Health supplies (printed against activity 4)",
+            "mooe": 2000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of micronutrient supplements to pregnant women",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Maternal and Newborn services- Low coverage of Pre-natal care among women during the 1st semester",
+            "objective": "To increase pre-natal care services among pregnant women by 15 % (80% - 95%)",
+            "ppa": "Social Services: Maternal and Child Health Care",
+            "activity": "Provision of micronutrient supplements to pregnant women",
+            "indicators": "Vitamin A and FeSo4 given to pregnant women",
+            "mooeDetails": "250,000 tablets @ Php4/tablet",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of mother and child booklet to pregnant women",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Low coverage of Pre-natal care among women during the 1st semester",
+            "objective": "To increase pre-natal care services among pregnant women by 15 % (80% - 95%)",
+            "ppa": "Social Services: Maternal and Child Health Care",
+            "activity": "Provision of mother and child booklet to pregnant women",
+            "indicators": "Increased awareness of pregnant women on the importance of pre-natal care",
+            "mooeDetails": "Other MOE- PABASA",
+            "mooe": 500000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of medicines, supplies and materials for 8 lying-in facilities and RTI clinics",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Safe Motherhood - Low level of awareness among pregnant women to deliver in a health facility",
+            "objective": "To increase awareness among pregnant women to deliver in a health facility and attended by a skilled health worker",
+            "ppa": "Social Services: Health- Safe Motherhood program",
+            "activity": "Provision of medicines, supplies and materials for 8 lying-in facilities and RTI clinics",
+            "indicators": "Pregnant women are encouraged to avail services of government birthing facilities (lying-in clinics) and provided proper medical care",
+            "mooeDetails": "Medicines and medical supplies",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "PABASA campaign in nutrition",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "C. Nutrition - High prevalence of malnutrition among pre-schoolers",
+            "objective": "To reduce the prevalence rate of malnutrition among pre-schoolers (from 1.5% - 1.3%)",
+            "ppa": "Social Services: Child care nutrition program and micronutrient supplementation",
+            "activity": "PABASA campaign in nutrition",
+            "indicators": "Reduction in the number of malnourished children",
+            "mooeDetails": "Micronutritional supplements",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Distribution of Food supplements Monthly weighing of 0-24 mos. and pre-schoolers",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "C. Nutrition - High prevalence of malnutrition among pre-schoolers",
+            "objective": "To reduce the prevalence rate of malnutrition among pre-schoolers (from 1.5% - 1.3%)",
+            "ppa": "Social Services: Child care nutrition program and micronutrient supplementation",
+            "activity": "Distribution of Food supplements Monthly weighing of 0-24 mos. and pre-schoolers",
+            "indicators": "0-71 months and pre-schoolers weighed and malnourished identified. F- 439; M - 394",
+            "mooeDetails": "Food supplements",
+            "mooe": 1500000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "1. Increase condom use among men 2. Advocacy/behavioral change communication 3. Training of outreach peer educators and counselors regarding HIV prevention and control. 4. Provision of HIV1 & 2 kits 5. Provision of HBsAg kit 6. Provision of STI/HIV-AIDS supplies and materials/Treatment of STI, HIV/AIDS infected persons",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "City GAD Code, Chap 3, Art. II, Sec 24. HIV AIDS Prevention and Control (Prevalence of STI, HIV/AIDS cases )",
+            "objective": "To reduce prevalence and/or incidence of STI, HIV/AIDS cases from 3% to 2%. To treat patients affected with STI, HIV/AIDS",
+            "ppa": "Social Services: HIV/AIDS program",
+            "activity": "1. Increase condom use among men 2. Advocacy/behavioral change communication 3. Training of outreach peer educators and counselors regarding HIV prevention and control. 4. Provision of HIV1 & 2 kits 5. Provision of HBsAg kit 6. Provision of STI/HIV-AIDS supplies and materials/Treatment of STI, HIV/AIDS infected persons",
+            "indicators": "Incidence of STI, HIV/AIDS reduced by 1%. 150 clients diagnosed, treated and referred",
+            "mooeDetails": "STI/HIV/AIDS supplies and medicines",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of laboratory supplies and materials",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Laboratory Services - Low turn-out of pregnant women/MSM/CSW availing laboratory examination for early detection of UTI and HIV/AIDS",
+            "objective": "To improve laboratory services in the CHO",
+            "ppa": "Social Services: Health- Clinical Laboratory Services",
+            "activity": "Provision of laboratory supplies and materials",
+            "indicators": "Pregnant Women, Men having Sex with Men, Commercial Sex Workers availed of laboratory services for early detection of infections (UTI/HIV-AIDS)",
+            "mooeDetails": "Blood typing and other laboratory reagents",
+            "mooe": 2000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of Anti-Rabies vaccines",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Animal Bite Center - Inadequate support to women, children and other adults who are victims of animal bites and are vulnerable to rabies infection",
+            "objective": "To reduce incidence of animal bite and mortality due to rabies",
+            "ppa": "Social Services: Health- Rabies Prevention and Control Program",
+            "activity": "Provision of Anti-Rabies vaccines",
+            "indicators": "Clients bitten with animals (dogs, cats and bats) given anti-rabies vaccine/lesser mortality rate for rabies infected persons",
+            "mooeDetails": "Rabies vaccine (Category 1,2 & 3 infections)",
+            "mooe": 5000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Provision of Anti-Rabies vaccines",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Animal Bite Center - Inadequate support to women, children and other adults who are victims of animal bites and are vulnerable to rabies infection",
+            "objective": "To reduce incidence of animal bite and mortality due to rabies",
+            "ppa": "Social Services: Health- Rabies Prevention and Control Program",
+            "activity": "Provision of Anti-Rabies vaccines",
+            "indicators": "All residents of Olango island and neighboring islets given anti-rabies vaccine",
+            "mooeDetails": "Rabies vaccine (Category 1,2 & 3 infections)",
+            "mooe": 750000,
+            "ps": null,
+            "co": null,
+            "office": "Sta. Rosa Comm. Hospital"
+          }
+        },
+        {
+          "label": "Provision of dental care services, medicines, supplies and materials",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Dental Care- High prevalence of poor oral hygiene among pre-schoolers, adolescents, youth and senior citizens",
+            "objective": "To improve oral hygiene among pre-schoolers, adolescents, youth and Senior Citizens",
+            "ppa": "Social Services: Health- Dental Care Program",
+            "activity": "Provision of dental care services, medicines, supplies and materials",
+            "indicators": "Dental Health care provided to beneficiaries and their dental health conditions become better",
+            "mooeDetails": "Dental supplies and materials",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CHO"
+          }
+        },
+        {
+          "label": "Set up a lactation station and /or breastfeeding room with the required and necessary equipment and facilities.",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter III, Art. VI, Section 48 - Facilities and Support System for well-being of Women and Men. Lack of Lactation station/ breastfeeding room with necessary equipment and facilities established",
+            "objective": "To provide nursing mother an exclusive room/space top breastfeed their babies while transacting official business.",
+            "ppa": "Social Services: Basic Services for Nursing mothers",
+            "activity": "Set up a lactation station and /or breastfeeding room with the required and necessary equipment and facilities.",
+            "indicators": "Breastfeeding mothers provided with exclusive rooms/ station while on visit with the offices concerned.",
+            "mooeDetails": "Other Supplies & Expenses (Furnitures - 8,000; TV monitor- 10,000; stainless sin - 3,000; diaper changing table- 1,500; supply of soap - 500);",
+            "mooe": 23000,
+            "ps": null,
+            "co": null,
+            "office": "Lapu-Lapu City Hospital"
+          }
+        },
+        {
+          "label": "Emergency assistance - Stockpiling of relief goods",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to rights and benefits of women and children who are victims of disaster and pandemics such as COVID-19",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities such as COVID 19 to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection- DRRM",
+            "activity": "Emergency assistance - Stockpiling of relief goods",
+            "indicators": "5,000 clients (male & female) provided with food and non-food items",
+            "mooeDetails": "5,000pax @ P250 (food items) 5,000pax @ P250(non-food items)",
+            "mooe": 2500000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Emergency Assistance - Aid to Individuals in Crises Situation",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to rights and benefits of women and children who are victims of disaster and pandemics such as COVID-19",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities such as COVID 19 to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection- DRRM",
+            "activity": "Emergency Assistance - Aid to Individuals in Crises Situation",
+            "indicators": "5,000 persons provided with financial support",
+            "mooeDetails": "5,000 @ P1,000/person",
+            "mooe": 5000000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provide Emergency Shelter Assistance (ESA)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to rights and benefits of women and children who are victims of disaster and pandemics such as COVID-19",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities such as COVID 19 to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection- DRRM",
+            "activity": "Provide Emergency Shelter Assistance (ESA)",
+            "indicators": "1,000 victims of disaster received shelter assistance",
+            "mooeDetails": "1000 persons @ P5,000 each",
+            "mooe": 5000000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to rights and benefits of women and children who are victims of disaster and pandemics such as COVID-19",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities such as COVID 19 to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection- DRRM",
+            "activity": "Provision of Cash for Work",
+            "indicators": "1,421 persons received cash for work assistance",
+            "mooeDetails": "1,421 persons @ P406/day for one(1) month",
+            "mooe": 17400000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of Rice Support to Indigent Families",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to rights and benefits of women and children who are victims of disaster and pandemics such as COVID-19",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities such as COVID 19 to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection- DRRM",
+            "activity": "Provision of Rice Support to Indigent Families",
+            "indicators": "1,200 victims received rice support",
+            "mooeDetails": "1,200 persons @ P500",
+            "mooe": 600000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of capacity building activities for VAW Desk Officers (one day)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter 1, Art. 1, Section 8, City GAD Code- Establishment of VAWC Desks Not all barangays have functional VAWC Help Desks",
+            "objective": "To capacitate VAW Desk Officers and make them functional",
+            "ppa": "Social Services: Women's Welfare",
+            "activity": "Conduct of capacity building activities for VAW Desk Officers (one day)",
+            "indicators": "Organized VAWC Desk and VAWC Desk Officers capacitated and made functional",
+            "mooeDetails": "Food and venue - 100 pax",
+            "mooe": 40000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Assembly of Parent Leaders and members for Family Week celebration with Resource Speaker on Family Solidarity",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Continued prevalence of gender inequality in the family/household",
+            "objective": "To promote gender equality at home and in the community",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Assembly of Parent Leaders and members for Family Week celebration with Resource Speaker on Family Solidarity",
+            "indicators": "2,500 individuals attended Family Week Celebration and gained awareness on gender equality at home and in society",
+            "mooeDetails": "Meals and snacks for 2,500 @ P200/px",
+            "mooe": 500000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Organization of ERPAT and conduct of regular meetings",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Continued prevalence of gender inequality in the family/household",
+            "objective": "To capacitate and enhance paternal role and function in the family",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Organization of ERPAT and conduct of regular meetings",
+            "indicators": "270 attended and joined the ERPAT organization with members activated and strengthened roles of officers",
+            "mooeDetails": "Meals and snacks for 270pax @ P225/pax",
+            "mooe": 100000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Production and distribution of IEC materials (RA9262, 7610, 9344, 9165, 908, others)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of VAWC cases, Trafficking in Persons, Cyberpornography and oter gender-based violence",
+            "objective": "To raise the level of community awareness on VAWC, cyberpornography, trafficking in persons and other gender-based violence thru advocacy",
+            "ppa": "Social Welfare and Development; Public safety and peace and order",
+            "activity": "Production and distribution of IEC materials (RA9262, 7610, 9344, 9165, 908, others)",
+            "indicators": "Increased awareness of communities on laws and issuance on VAWC, Cyberpornography, Trafficking in Persons and other gender-based violence",
+            "mooeDetails": "28,000 IEC booklets @ p7.00 per",
+            "mooe": 200000,
+            "ps": null,
+            "co": null,
+            "office": "PNP"
+          }
+        },
+        {
+          "label": "Provision of Material and Financial support assistance to WEDC",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Women Empowerment : poor Senior Citizens, Solo Parents, Female -headed households, VAWC victims needing special protection",
+            "objective": "To provide adequate support to women in emergency and difficult circumstances",
+            "ppa": "Social Services: Women's Welfare",
+            "activity": "Provision of Material and Financial support assistance to WEDC",
+            "indicators": "200 women victims provided with financial assistance (Women victim survivors of GBV)",
+            "mooeDetails": "200 women victims @Php1,000",
+            "mooe": 200000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of financial assistance to PWDs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to social protection for Person with Disabilities (PWDs) and Senior Citizens",
+            "objective": "To provide social protection and package of services and support to indigent PWDs",
+            "ppa": "Social Services: PWDs and Senior Citizens",
+            "activity": "Provision of financial assistance to PWDs",
+            "indicators": "6,000 PWDs provided social and financial support",
+            "mooeDetails": "6,000 @ Php4,000.00 per PWD (Jan - June)",
+            "mooe": 24000000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of financial assistance to Senior Citizens",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens and PWDs lacking in social protection and needing special protection",
+            "objective": "To provide social protection and package of services and support to Senior Citizens",
+            "ppa": "Social Services : Senior Citizens",
+            "activity": "Provision of financial assistance to Senior Citizens",
+            "indicators": "100% of listed senior citizens received cash assistance",
+            "mooeDetails": "30,000 SCs @Php5,000.00 per senior citizen (Jan - June)",
+            "mooe": 150000000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of Cash Award to Senior Citizens reaching 100 yrs old (centenarians)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens and PWDs lacking in social protection and needing special protection",
+            "objective": "To provide social protection and package of services and support to Senior Citizens",
+            "ppa": "Social Services: OSCA Social Enhancement Program",
+            "activity": "Provision of Cash Award to Senior Citizens reaching 100 yrs old (centenarians)",
+            "indicators": "10 expected centenarians received cash incentives and financial support",
+            "mooeDetails": "P100,000.00/ centenarian",
+            "mooe": 1000000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct activities in welcoming for another year of life to Senior Citizens",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens and PWDs lacking in social protection and needing special protection",
+            "objective": "To provide social protection and package of services and support to Senior Citizens",
+            "ppa": "Social Services: OSCA Social Enhancement Program",
+            "activity": "Conduct activities in welcoming for another year of life to Senior Citizens",
+            "indicators": "Due recognition given to Senior Citizens celebrating another year of life Adding Quality Life to years",
+            "mooeDetails": "Food and venue for 30,000 @ P200 per senior citizen",
+            "mooe": 6000000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct Gender Sensivity Training",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens and PWDs lacking in social protection and needing special protection",
+            "objective": "To promote Gender Awareness and Equality among the marginalized",
+            "ppa": "Women Empowerment",
+            "activity": "Conduct Gender Sensivity Training",
+            "indicators": "500 women were provided with Gender Sensitivity Training",
+            "mooeDetails": "Meals & snacks @ P200",
+            "mooe": 100000,
+            "ps": null,
+            "co": null,
+            "office": "LLCLRC"
+          }
+        },
+        {
+          "label": "Accept referral/Conduct rescue of children victims of abuse and provide temporary shelter and custodial care services at the Home Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right of girl-children to social protection: Rising number of girl children victims of sexual abuse = 100 cases of cases /year",
+            "objective": "To rescue and provide appropriate intervention for children victims of sexual abuse",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Accept referral/Conduct rescue of children victims of abuse and provide temporary shelter and custodial care services at the Home Care Center",
+            "indicators": "Financial assistance for food provided to children while staying in the Home Care facility for social protection and support/expected 100 children availed of custodial care services",
+            "mooeDetails": "Food for 100 children",
+            "mooe": 1825000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Livelihood Training after Care Services",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right of girl-children to social protection: Rising number of girl children victims of sexual abuse = 100 cases of cases /year",
+            "objective": "To rescue and provide appropriate intervention for children victims of sexual abuse",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Livelihood Training after Care Services",
+            "indicators": "Livelihood Training after Care Services for children ready to exit",
+            "mooeDetails": "Training materials P300/child every month for 50 children",
+            "mooe": 500000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of collaboration meetings with BCPC officers in the barangay",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Strengthening the functionality of Local Councils for the Protection of Children (LCPC) - barangay level",
+            "objective": "To enhance collaboration of roles and functions on responding case of CICLs and CAR and other children issues",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Conduct of collaboration meetings with BCPC officers in the barangay",
+            "indicators": "Improved functionality of BCPC in programs and projects implementation",
+            "mooeDetails": "Food and venue for 100 pax @Php 455.00/pax for quarterly meetings",
+            "mooe": 182000,
+            "ps": null,
+            "co": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Civil Registry Seminar and Orientation",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right to have a name and identity (availing the petition for correction of clerical error and late registration on birth, marriage & death civil documents)",
+            "objective": "To promote correct and timely registration of civil documents. To lessen application on petition on correction of clerical errors",
+            "ppa": "Social Services: Civil Registration",
+            "activity": "Civil Registry Seminar and Orientation",
+            "indicators": "100 stakeholders both in the public and private institution attended the orientation and acquired knowledge on the importance of civil registration",
+            "mooeDetails": "100 pax with 2 snacks @Php 100.00 & lunch- P200/ = Php30,000.00; Honoraria for RS - Php 5,000.00; Supplies and materials - Php5,000",
+            "mooe": 40000,
+            "ps": null,
+            "co": null,
+            "office": "Local Civil Registry"
+          }
+        },
+        {
+          "label": "Conduct of Kababayen-an Wellness and Beauty Care and Kababayen-an Product display",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Women Empowerment and Equalization",
+            "objective": "To promote Women Empowerment and Equalization",
+            "ppa": "Celebration of LapuLapu City 2021 Women's Month",
+            "activity": "Conduct of Kababayen-an Wellness and Beauty Care and Kababayen-an Product display",
+            "indicators": "1,000 women joined the various activities during the women's month celebration",
+            "mooeDetails": "snacks P75 for 1,000= P75,000; Supplies - 25,000",
+            "mooe": 100000,
+            "ps": null,
+            "co": null,
+            "office": "LCLRC/ CMO"
+          }
+        },
+        {
+          "label": "a)Conduct of Livelihood and microentrepreneurial skills training",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter III, Art V, Section 43, City GAD Code- Support for Overseas Filipino Workers (OFW)- Economic Empowerment for OFWs - Limited access of displaced and/or returning OFWs on job/livelihood opportunities for reintegration",
+            "objective": "To provide livelihood opportunities to economically displaced OFWs; to promote entrepreneurial skills development for their living",
+            "ppa": "Economic Services: Economic Empowerment for Displaced Migrant Workers/OFW",
+            "activity": "a)Conduct of Livelihood and microentrepreneurial skills training",
+            "indicators": "a)500 displaced and returning OFWs availed and acquired livelihood and microentrepreneurial skills and generate income for their families",
+            "mooeDetails": "Food @ 200.00/pax",
+            "mooe": 100000,
+            "ps": null,
+            "co": null,
+            "office": "PESO / LCLRC"
+          }
+        },
+        {
+          "label": "Conduct of center-based livelihood skills training and product development: Cake and pastries, balicucha making, tamarind candy making, dried and sweetened anchovies",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter III, Art IX, Section 62, City GAD Code- Women's economic Empowerment and Employment- Economic Empowerment for the marginalized: MSMEs",
+            "objective": "To facilitate the 2021 Lapulapu City Cooperative Celebration",
+            "ppa": "Economic Services: MSMEs",
+            "activity": "Conduct of center-based livelihood skills training and product development: Cake and pastries, balicucha making, tamarind candy making, dried and sweetened anchovies",
+            "indicators": "Fifty (50) women trained and acquired skills and started their group MSME",
+            "mooeDetails": "Supplies and materials",
+            "mooe": 87000,
+            "ps": null,
+            "co": null,
+            "office": "LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of Livelihood Skills Trainer's Training (2 days)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Economic Empowerment for the marginalized: MSMEs",
+            "objective": "To promote and develop community based livelihood trainers for sustainability",
+            "ppa": "Economic Services: Poverty reduction",
+            "activity": "Conduct of Livelihood Skills Trainer's Training (2 days)",
+            "indicators": "190 KAUSABAN members attended with livelihood trainings and seminars",
+            "mooeDetails": "Meals & 2 snacks@ P275 for 190= P52,250; Honoraria for RS= P14,000; supplies= P3,750",
+            "mooe": 70000,
+            "ps": null,
+            "co": null,
+            "office": "LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of leadership training cum team building and development",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Economic Empowerment for the marginalized: MSMEs",
+            "objective": "To promote leadership, cooperativism, unity and solidarity of women in the community",
+            "ppa": "Economic Services: Poverty reduction",
+            "activity": "Conduct of leadership training cum team building and development",
+            "indicators": "500 female enhanced /improved their functionality and performance as leaders in their respective communities",
+            "mooeDetails": "Meals and snacks at P275 x 500 pax= P137,500; Honoraria for RS= P14,000; supplies = P48,500",
+            "mooe": 200000,
+            "ps": null,
+            "co": null,
+            "office": "LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of Competency /skills training on the following: 1. Dressmaking and Industrial Sewing Machine Operation",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of employable skills, knowledge and attitude for employment (Rights and empowerment of marginalized sectors)",
+            "objective": "To improve employable skills to match requirements of the different locators at the MEPZ",
+            "ppa": "Economic Services: Manpower Development/Economic Empowerment",
+            "activity": "Conduct of Competency /skills training on the following: 1. Dressmaking and Industrial Sewing Machine Operation",
+            "indicators": "720 Olango Island Training Center and MHDTC graduated on dressmaking and industrial sewing machine operation (60% female, 40% male) with 90% employed and 10% self-employed",
+            "mooeDetails": "Training materials - Php999,360 (720@ Php1388.00/trainee) ; Honoraria of 2 Trainers(Olango Is.) - Php6,000/mo x 12 months; Mainland- Php5,000/mo. X 12 months = 132,000.00",
+            "mooe": 1132000,
+            "ps": null,
+            "co": null,
+            "office": "Manpower Development Office (MHDTC)"
+          }
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "client",
+          "values": {
+            "mooe": 267059000,
+            "ps": 0,
+            "co": 0,
+            "total": 267059000
+          }
+        },
+        {
+          "label": "B. ORGANIZATION- FOCUSED",
+          "level": 0,
+          "kind": "header",
+          "section": "organization",
+          "values": {}
+        },
+        {
+          "label": "Conduct of regular meetings (quarterly)",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Strengthening of GAD Focal Point System (GFPS)",
+            "objective": "To have a functional GFPS",
+            "ppa": "General Services: GAD Mainstreaming",
+            "activity": "Conduct of regular meetings (quarterly)",
+            "indicators": "Functional GFPS",
+            "mooeDetails": "Food @ P100.00/member for 40 members x 4 meetings (GFPS members, Secretariat and TWG)",
+            "mooe": 16000,
+            "ps": null,
+            "co": null,
+            "office": "GFPS"
+          }
+        },
+        {
+          "label": "Conduct workshop on GAD Plan and Budget Formulation (2022)",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Strengthening of GAD Focal Point System (GFPS)",
+            "objective": "To have a functional GFPS",
+            "ppa": "General Services: GAD Mainstreaming",
+            "activity": "Conduct workshop on GAD Plan and Budget Formulation (2022)",
+            "indicators": "GAD Plan and Budget prepared and formulated",
+            "mooeDetails": "Food and accommodation for 40 members @ P2,000.00/pax for 2 days",
+            "mooe": 80000,
+            "ps": null,
+            "co": null,
+            "office": "GFPS"
+          }
+        },
+        {
+          "label": "Conduct of Monitoring, Evaluation and Assessment of GAD Projects Implementation",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Strengthening of GAD Focal Point System (GFPS)",
+            "objective": "To have a functional GFPS",
+            "ppa": "General Services: GAD Mainstreaming",
+            "activity": "Conduct of Monitoring, Evaluation and Assessment of GAD Projects Implementation",
+            "indicators": "Mid-Year and Year-end Assessments conducted to identify gaps and strategies; and as benchmark for future planning and budgeting",
+            "mooeDetails": "Food and venue for 40 GFPS members and TWG @Php2,000.00 per pax for 2 assessments/ evaluation",
+            "mooe": 160000,
+            "ps": null,
+            "co": null,
+            "office": "GFPS"
+          }
+        },
+        {
+          "label": "Updating and sex-disaggregation of GAD data base. Hire a personnel assign to GAD office to make, maintain and update a GAD database",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Limited awareness among LGU employees on sexual harassment, discrimination and other forms of violence against women",
+            "objective": "Empowered and knowledgeable employees in dealing with sexual harassment and other forms of violence",
+            "ppa": "HR training and development program",
+            "activity": "Updating and sex-disaggregation of GAD data base. Hire a personnel assign to GAD office to make, maintain and update a GAD database",
+            "indicators": "GAD database accessible",
+            "mooeDetails": "Job Order emp.- P8,994.48/mos= P107,934; Philhealth- P1,800; CCP(8%) = P8,635",
+            "mooe": 118369,
+            "ps": null,
+            "co": null,
+            "office": "HRMDO/ GFPS / CMO"
+          }
+        },
+        {
+          "label": "Sub Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "organization",
+          "values": {
+            "mooe": 374369,
+            "ps": 0,
+            "co": 0,
+            "total": 374369
+          }
+        },
+        {
+          "label": "C. ATTRIBUTED PROGRAMS",
+          "level": 0,
+          "kind": "header",
+          "section": "attributed",
+          "values": {}
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "mooe": 267433369,
+            "ps": 0,
+            "co": 0,
+            "total": 267433369
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "approvedBudget": 267433369,
+    "actualCost": null,
+    "totalLguBudget": 2739400000,
+    "clientFocused": 267059000,
+    "organizationFocused": 374369,
+    "attributedPrograms": null
+  },
+  "notes": [
+    "This is a GAD Plan and Budget (not an accomplishment report), so no actual cost is printed; summary.actualCost is null and approvedBudget is the printed GRAND TOTAL / Total GAD Budget (P267,433,369.00).",
+    "Header block: Region VII - Central Visayas; HUC Lapu-Lapu City; Total Budget of the LGU P2,739,400,000.00; Total GAD Budget P267,433,369.00.",
+    "The MOOE column prints a cost breakdown text next to each amount; the text is in mooeDetails and the amount in mooe. PS and CO cells are blank for every item (null); the subtotal and grand total rows print P0.00 for PS and CO.",
+    "The total column is printed only on the Sub Total and GRAND TOTAL rows (in the Lead or Responsible Office column).",
+    "Section C (Attributed Programs) has column headings (Title of LGU Program or Project, HGDG Design Checklist Score, Total Annual Budget of the Program, GAD Budget, Lead or Responsible Office) but no entries.",
+    "The Family Planning row lists four activities in one cell; the P2,000,000.00 (Reproductive Health supplies) is printed against activity 4.",
+    "Page footer stamp: 'judafu 10.02.20'."
+  ],
+  "unreadable": []
+}

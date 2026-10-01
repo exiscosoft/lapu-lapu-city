@@ -1,0 +1,686 @@
+{
+  "id": "2019-q1-bid-results-goods-services",
+  "type": "bid-results",
+  "title": "Bid Results on Goods and Services",
+  "form": "FDP Form 10b",
+  "period": {
+    "year": 2019,
+    "quarter": 1,
+    "asOf": "2019-03-31",
+    "printed": "FIRST QUARTER CALENDAR YEAR 2019",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Cleofe A. Amores",
+      "position": "BAC Secretariat"
+    },
+    {
+      "name": "Rhodora P. Ortega",
+      "position": "Engineer III"
+    }
+  ],
+  "tables": [
+    {
+      "key": "goodsServices",
+      "title": "GOODS AND SERVICES BID OUT (City of Lapu-Lapu, First Quarter, Calendar Year 2019)",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "Reference NO",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for the Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name of Address of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Office Cubicles with Tables & Chairs",
+          "kind": "item",
+          "values": {
+            "refNo": "18-09-2023",
+            "description": "Office Cubicles with Tables & Chairs",
+            "abc": 800000,
+            "bidder": "CMGN Solutions, Inc.",
+            "bidderNormalized": "CMGN SOLUTIONS, INC.",
+            "bidderAddress": "Subangdako, Mandaue City",
+            "bidAmount": 788000,
+            "biddingDate": "2019-01-08"
+          }
+        },
+        {
+          "label": "Sports Uniform for CVIRAA",
+          "kind": "item",
+          "values": {
+            "refNo": "19-01-0003",
+            "description": "Sports Uniform for CVIRAA",
+            "abc": 3977853,
+            "bidder": "CEBU ARTSHOPPE",
+            "bidderNormalized": "CEBU ARTSHOPPE",
+            "bidderAddress": "Jagobiao, Mandaue City",
+            "bidAmount": 3975512.5,
+            "biddingDate": "2019-01-29"
+          }
+        },
+        {
+          "label": "Re-insulation of Aircon Ducting @ Hoopsdome",
+          "kind": "item",
+          "values": {
+            "refNo": "18-11-2768",
+            "description": "Re-insulation of Aircon Ducting @ Hoopsdome",
+            "abc": 4000000,
+            "bidder": "Martel Sales & Mechanical Works",
+            "bidderNormalized": "MARTEL SALES AND MECHANICAL WORKS INC.",
+            "bidderAddress": "ML National Highway, Pajo, LLC",
+            "bidAmount": 3125000,
+            "biddingDate": "2019-01-29"
+          }
+        },
+        {
+          "label": "LCR SYSTEM",
+          "kind": "item",
+          "values": {
+            "refNo": "18-10-2471",
+            "description": "LCR SYSTEM",
+            "abc": 1900000,
+            "bidder": "LEXSYS TECHNOLOGIES",
+            "bidderNormalized": "LEXSYS TECHNOLOGIES INC.",
+            "bidderAddress": "Panay Ave. South Triangel, Q.C",
+            "bidAmount": 1880000,
+            "biddingDate": "2019-02-07"
+          }
+        },
+        {
+          "label": "Librarian Automation of LLC College",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0340",
+            "description": "Librarian Automation of LLC College",
+            "abc": 600000,
+            "bidder": "Electronic's Information Solution",
+            "bidderNormalized": "ELECTRONIC'S INFORMATION SOLUTION",
+            "bidderAddress": "St. Bangkal, Makati City",
+            "bidAmount": 600000,
+            "biddingDate": "2019-03-12"
+          }
+        },
+        {
+          "label": "Painting Materials & Supplies",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0378",
+            "description": "Painting Materials & Supplies",
+            "abc": 796000,
+            "bidder": "Pentax Hardware, Inc.",
+            "bidderNormalized": "PENTAX HARDWARE, INC.",
+            "bidderAddress": "F. Gonzales St., Cebu City",
+            "bidAmount": 786000,
+            "biddingDate": "2019-03-12"
+          }
+        },
+        {
+          "label": "Ordinary medals",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0308",
+            "description": "Ordinary medals",
+            "abc": 900000,
+            "bidder": "Peter Sports & Craft Sales",
+            "bidderNormalized": "PETER SPORTS & CRAFT SALES",
+            "bidderAddress": "Pelaez, St., Cebu Ctiy",
+            "bidAmount": 895000,
+            "biddingDate": "2019-03-12"
+          }
+        },
+        {
+          "label": "350 pcs. Imported Volleyball Net",
+          "kind": "item",
+          "values": {
+            "refNo": "9-01-0209",
+            "description": "350 pcs. Imported Volleyball Net",
+            "abc": 682000,
+            "bidder": "Peter Sports & Craft Sales",
+            "bidderNormalized": "PETER SPORTS & CRAFT SALES",
+            "bidderAddress": "Pelaez, St., Cebu Ctiy",
+            "bidAmount": 681800,
+            "biddingDate": "2019-03-12"
+          }
+        },
+        {
+          "label": "Sporting Goods",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0306",
+            "description": "Sporting Goods",
+            "abc": 864000,
+            "bidder": "Peter Sports & Craft Sales",
+            "bidderNormalized": "PETER SPORTS & CRAFT SALES",
+            "bidderAddress": "Pelaez, St., Cebu Ctiy",
+            "bidAmount": 863000,
+            "biddingDate": "2019-03-12"
+          }
+        },
+        {
+          "label": "Trophies in various sizes",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0310",
+            "description": "Trophies in various sizes",
+            "abc": 845900,
+            "bidder": "Peter Sports & Craft Sales",
+            "bidderNormalized": "PETER SPORTS & CRAFT SALES",
+            "bidderAddress": "Pelaez, St., Cebu Ctiy",
+            "bidAmount": 845460,
+            "biddingDate": "2019-03-12"
+          }
+        },
+        {
+          "label": "Ordinary medals",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0307",
+            "description": "Ordinary medals",
+            "abc": 1600000,
+            "bidder": "Peter Sports & Craft Sales",
+            "bidderNormalized": "PETER SPORTS & CRAFT SALES",
+            "bidderAddress": "Pelaez, St., Cebu Ctiy",
+            "bidAmount": 1592000,
+            "biddingDate": "2019-03-19"
+          }
+        },
+        {
+          "label": "I unit Operatin Room Table",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0472",
+            "description": "I unit Operatin Room Table",
+            "abc": 650000,
+            "bidder": "Easa Pharma Distribution",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "P. Del Rosario Ext. Cebu, City",
+            "bidAmount": 638000,
+            "biddingDate": "2019-03-26"
+          }
+        },
+        {
+          "label": "Disposal of 18,518 tons Residual Wastes",
+          "kind": "item",
+          "values": {
+            "refNo": "19-01-0058",
+            "description": "Disposal of 18,518 tons Residual Wastes",
+            "abc": 24999300,
+            "bidder": "Jomara Konstruckt Corporation",
+            "bidderNormalized": "JOMARA KONSTRUCKT CORPORATION",
+            "bidderAddress": "Poblacion Ward III, Minglanilla, Cebu",
+            "bidAmount": 24999300,
+            "biddingDate": "2019-03-26"
+          }
+        },
+        {
+          "label": "Thermoplastic Primer safe & Roadline",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02-0420",
+            "description": "Thermoplastic Primer safe & Roadline",
+            "abc": 910000,
+            "bidder": "DML'S TRADING",
+            "bidderNormalized": "DML'S TRADING",
+            "bidderAddress": "Cabangkalan, Mandaue City",
+            "bidAmount": 909650,
+            "biddingDate": "2019-03-26"
+          }
+        }
+      ]
+    },
+    {
+      "key": "civilWorks",
+      "title": "Civil Works (Province, City or Municipality: Lapu-Lapu, 1ST Quarter, CY 2019)",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Name of Project",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Bidding Date",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Cluster VIII-Const. of Communal Public Toilet Punta Engaño Lot 5094 & Lot 6727-U",
+          "kind": "item",
+          "values": {
+            "refNo": "18-71",
+            "description": "Cluster VIII-Const. of Communal Public Toilet Punta Engaño Lot 5094 & Lot 6727-U",
+            "abc": 1990046,
+            "location": "Punta Engano",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1986951.94,
+            "biddingDate": "2019-01-03",
+            "duration": "120 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Cluster IX-Const.n of Communal Public Toilet Looc Purok Calachuchi & Looc Purok Yellowbell",
+          "kind": "item",
+          "values": {
+            "refNo": "18-72",
+            "description": "Cluster IX-Const.n of Communal Public Toilet Looc Purok Calachuchi & Looc Purok Yellowbell",
+            "abc": 6998294,
+            "location": "Looc",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1986951.94,
+            "biddingDate": "2019-01-03",
+            "duration": "120 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Cluster X-Construction of Communal Public Toilet Babag & Calawisan",
+          "kind": "item",
+          "values": {
+            "refNo": "18-73",
+            "description": "Cluster X-Construction of Communal Public Toilet Babag & Calawisan",
+            "abc": 70613769,
+            "location": "Babag & Calawisan",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1986951.94,
+            "biddingDate": "2019-01-03",
+            "duration": "120 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Cluster XI-Construction of Communal Public Toilet Pajo & Poblacion",
+          "kind": "item",
+          "values": {
+            "refNo": "18-74",
+            "description": "Cluster XI-Construction of Communal Public Toilet Pajo & Poblacion",
+            "abc": 13773990,
+            "location": "Pajo & Poblacion",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1986951.94,
+            "biddingDate": "2019-01-03",
+            "duration": "120 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Cluster XII-Construction of Communal Public Toilet Canjulao & Subabasbas",
+          "kind": "item",
+          "values": {
+            "refNo": "18-75",
+            "description": "Cluster XII-Construction of Communal Public Toilet Canjulao & Subabasbas",
+            "abc": 1499999,
+            "location": "Canjulao & Subabasbas",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1986951.94,
+            "biddingDate": "2019-01-03",
+            "duration": "120 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Construction of Jail Facilities City Jail Female Dormitory",
+          "kind": "item",
+          "values": {
+            "refNo": "18-76",
+            "description": "Construction of Jail Facilities City Jail Female Dormitory",
+            "abc": 1999269,
+            "location": "Soong",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1990799.88,
+            "biddingDate": "2019-01-03",
+            "duration": "100 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Construction of Multi-Purpose Building at Homecare Center",
+          "kind": "item",
+          "values": {
+            "refNo": "18-77",
+            "description": "Construction of Multi-Purpose Building at Homecare Center",
+            "abc": 2265321,
+            "location": "Gun-ob",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 2261816.34,
+            "biddingDate": "2019-01-03",
+            "duration": "90 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Const. of 2-Storey Police Office at Talima Olango Island Talima Olango Island",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02",
+            "description": "Const. of 2-Storey Police Office at Talima Olango Island Talima Olango Island",
+            "abc": 5999982,
+            "location": "Talima Olango",
+            "bidder": "Mega Plus Construction",
+            "bidderNormalized": "MEGA PLUS CONSTRUCTION",
+            "bidderAddress": "Villalon Subdivision, Capitol Hills Cebu City",
+            "bidAmount": 5991520.52,
+            "biddingDate": "2019-01-29",
+            "duration": "245C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Repair & Improvement of Tugas Health Center",
+          "kind": "item",
+          "values": {
+            "refNo": "19-03",
+            "description": "Repair & Improvement of Tugas Health Center",
+            "abc": 234573,
+            "location": "Gun-ob",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 233174.12,
+            "biddingDate": "2019-02-07",
+            "duration": "40 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Repair & Improvement of Law Enforcement Office",
+          "kind": "item",
+          "values": {
+            "refNo": "19-04",
+            "description": "Repair & Improvement of Law Enforcement Office",
+            "abc": 335436,
+            "location": "Pusok",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 333418.06,
+            "biddingDate": "2019-02-07",
+            "duration": "45 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Construction of Caubian Barangay Hall",
+          "kind": "item",
+          "values": {
+            "refNo": "19-05",
+            "description": "Construction of Caubian Barangay Hall",
+            "abc": 4793992,
+            "location": "Caubian",
+            "bidder": "Mega Plus Construction",
+            "bidderNormalized": "MEGA PLUS CONSTRUCTION",
+            "bidderAddress": "Villalon Subdivision, Capitol Hills Cebu City",
+            "bidAmount": 4789416.44,
+            "biddingDate": "2019-02-12",
+            "duration": "120C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Const. of Comfort Rms at the back of Police Station 3 Beside Hoopsdome Bldg",
+          "kind": "item",
+          "values": {
+            "refNo": "19-06",
+            "description": "Const. of Comfort Rms at the back of Police Station 3 Beside Hoopsdome Bldg",
+            "abc": 1916185,
+            "location": "Gun-ob",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1912766.7,
+            "biddingDate": "2019-02-12",
+            "duration": "120C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Const of ALS Learning Center (GAD) at Lapu-Lapu City Jail Female Dormitory",
+          "kind": "item",
+          "values": {
+            "refNo": "19-07",
+            "description": "Const of ALS Learning Center (GAD) at Lapu-Lapu City Jail Female Dormitory",
+            "abc": 973918,
+            "location": "Soong",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 971694.64,
+            "biddingDate": "2019-02-26",
+            "duration": "90C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Repair and Renovation of OLD Slaughterhouse",
+          "kind": "item",
+          "values": {
+            "refNo": "19-08",
+            "description": "Repair and Renovation of OLD Slaughterhouse",
+            "abc": 1438018,
+            "location": "Pusok",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1435668.1,
+            "biddingDate": "2019-02-26",
+            "duration": "80 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Completion of Evacuation Facility/Center Talima Olango Island",
+          "kind": "item",
+          "values": {
+            "refNo": "19-09",
+            "description": "Completion of Evacuation Facility/Center Talima Olango Island",
+            "abc": 781347,
+            "location": "Talima Olango",
+            "bidder": "Mega Plus Construction",
+            "bidderNormalized": "MEGA PLUS CONSTRUCTION",
+            "bidderAddress": "Villalon Subdivision, Capitol Hills Cebu City",
+            "bidAmount": 778617.66,
+            "biddingDate": "2019-02-26",
+            "duration": "75C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Construction of 5-Storey 20 Classroom TLE with Activity Center Mactan NHS",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10",
+            "description": "Construction of 5-Storey 20 Classroom TLE with Activity Center Mactan NHS",
+            "abc": 33947520,
+            "location": "Mactan",
+            "bidder": "Goldfin Const & Dev. Corp",
+            "bidderNormalized": "GOLDFIN CONST & DEV. CORP",
+            "bidderAddress": "Villalon Subdivision, Capitol Hills Cebu City",
+            "bidAmount": 33896138.44,
+            "biddingDate": "2019-03-12",
+            "duration": "360 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Improvement of Perimeter Fence of Hoopsdome",
+          "kind": "item",
+          "values": {
+            "refNo": "19-11",
+            "description": "Improvement of Perimeter Fence of Hoopsdome",
+            "abc": 1647953,
+            "location": "Gun-ob",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 1645922.63,
+            "biddingDate": "2019-03-12",
+            "duration": "76 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Liberty Shrine Re-Development Project Mactan",
+          "kind": "item",
+          "values": {
+            "refNo": "19-12",
+            "description": "Liberty Shrine Re-Development Project Mactan",
+            "abc": 47067050,
+            "location": "Mactan",
+            "bidder": "ARQ Builders",
+            "bidderNormalized": "ARQ BUILDERS",
+            "bidderAddress": "#229 Nangka Rd, Guingona Subd, Butuan City",
+            "bidAmount": 47035056.2,
+            "biddingDate": "2019-03-25",
+            "duration": "90 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Demolition of Concrete Elevated (Dilapidated) Tank at City Jail Compound",
+          "kind": "item",
+          "values": {
+            "refNo": "19-13",
+            "description": "Demolition of Concrete Elevated (Dilapidated) Tank at City Jail Compound",
+            "abc": 167473,
+            "location": "Soong",
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "119 F. Llamas St. Pta Princesa, Cebu City",
+            "bidAmount": 166367.9,
+            "biddingDate": "2019-03-25",
+            "duration": "15 C.D.",
+            "no": null
+          }
+        },
+        {
+          "label": "Cluster I- Repair/Renovation/Expansion of Sta. Rosa Community Hospital (Emergency Rooms & Cadaver Holding Room), Sta Rosa olango Island",
+          "kind": "item",
+          "values": {
+            "refNo": "19-01",
+            "description": "Cluster I- Repair/Renovation/Expansion of Sta. Rosa Community Hospital (Emergency Rooms & Cadaver Holding Room), Sta Rosa olango Island",
+            "abc": 4959651,
+            "location": "Sta. Rosa",
+            "bidder": "Goldfin Const & Dev. Corp",
+            "bidderNormalized": "GOLDFIN CONST & DEV. CORP",
+            "bidderAddress": "Villalon Subdivision, Capitol Hills Cebu City",
+            "bidAmount": 4949664.1,
+            "biddingDate": "2019-03-25",
+            "duration": "240 C.D.",
+            "no": null
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "The PDF holds two forms: page 1 is FDP Form 10b Goods and Services bid-out (\"FIRST QUARTER CALENDAR YEAR 2019\", prepared by Cleofe A. Amores, BAC Secretariat); page 2 is a civil works bid-out (\"1ST Quarter, CY 2019\", submitted by Rhodora P. Ortega, Engineer III). Page 2 header prints \"Looc\" under \"Republic of the Philippines\".",
+    "goodsServices 18-09-2023: ABC printed \"P 800,000,00\" (comma in place of decimal point); transcribed as 800,000.00.",
+    "goodsServices 18-11-2768: ABC printed as \"4,000,000\" without centavos, overflowing from the description cell.",
+    "goodsServices 9-01-0209: reference number transcribed as printed; its first character appears cut off on the scan (likely \"19-01-0209\").",
+    "Address \"Pelaez, St., Cebu Ctiy\", \"Panay Ave. South Triangel, Q.C\" and descriptions \"I unit Operatin Room Table\" are spelled as printed.",
+    "civilWorks: the No. column is printed but blank for every row (values null). Rows 18-72 to 18-75 print the same bid amount 1,986,951.94 as 18-71 although ABCs differ widely (e.g. 18-73 ABC 70,613,769.00; 18-75 ABC 1,499,999.00, below the bid); transcribed as printed.",
+    "civilWorks 19-10: bid amount printed \"33,896,,138.44\" (double comma); transcribed as 33,896,138.44.",
+    "civilWorks row 19-04 is very faint on the scan; values read from a 7200px re-render (ABC 335,436.00; bid 333,418.06).",
+    "Contract durations transcribed as printed, including inconsistent spacing (\"245C.D.\", \"120C.D.\").",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "summary": {},
+  "unreadable": []
+}

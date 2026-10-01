@@ -1,0 +1,839 @@
+{
+  "id": "2025-annual-gad",
+  "type": "gad",
+  "title": "Annual Gender and Development (GAD) Accomplishment Report",
+  "form": "FDP Form 5 - Annual GAD Accomplishment Report (PCW-DILG-DBM-NEDA JMC No. 2016-01 dated January 12, 2016, Annex E)",
+  "period": {
+    "year": 2025,
+    "quarter": null,
+    "asOf": "2025-12-31",
+    "printed": "Calendar Year: 2025",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "CBO/ GFPS-TWG Secretariat (Prepared by, GAD Focal Point System)"
+    },
+    {
+      "name": "Maria Sheila C. Baylosis",
+      "position": "OIC-CSWD/GAD Focal Person (Prepared by)"
+    },
+    {
+      "name": "Engr. Perla T. Amar",
+      "position": "City Planning & Development Officer (Recommending Approval)"
+    },
+    {
+      "name": "Hon. Maria Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor/ Chairperson GFPS EXECOM (Approved)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Annual Gender and Development (GAD) Accomplishment Report",
+      "columns": [
+        {
+          "key": "gadIssue",
+          "label": "Gender Issue or GAD Mandate (1)",
+          "type": "text"
+        },
+        {
+          "key": "objective",
+          "label": "GAD Objective (2)",
+          "type": "text"
+        },
+        {
+          "key": "ppa",
+          "label": "Relevant LGU Program or Project (3)",
+          "type": "text"
+        },
+        {
+          "key": "activity",
+          "label": "GAD Activity (4)",
+          "type": "text"
+        },
+        {
+          "key": "indicators",
+          "label": "Performance Indicator and Target (5)",
+          "type": "text"
+        },
+        {
+          "key": "actualResults",
+          "label": "Actual Results (6)",
+          "type": "text"
+        },
+        {
+          "key": "gadBudget",
+          "label": "Approved GAD Budget (7)",
+          "type": "amount"
+        },
+        {
+          "key": "actualCost",
+          "label": "Actual Cost or GAD Expenditure (8)",
+          "type": "amount"
+        },
+        {
+          "key": "variance",
+          "label": "Variance or Remarks (9)",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CLIENT-FOCUSED",
+          "level": 0,
+          "kind": "header",
+          "section": "client",
+          "values": {}
+        },
+        {
+          "label": "Hiring of deserving indigent students in the city government during summer",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "GAD Mandate: Chapter IV.Rights and Empowerment, Sec. 13- Equal Access and Elimination of Discremination in Education, Scholarship, and Training of RA 9710.",
+            "objective": "To provide employment to deserving indigent students and Out of School Youth (OSY) as their fund source for enrolment.",
+            "ppa": "Summer Job for Youth",
+            "activity": "Hiring of deserving indigent students in the city government during summer",
+            "indicators": "5,400 indigent students will be hired under the summer job and able to enroll in tertiary schools after the program (Female - 3, 240; Male - 2,160) (15-25 years old indigent students = 5,400",
+            "actualResults": "9,000 indigent students were hired under the summer job and able to enroll in tertiary schools after the program (Female- 5,400; Male- 3,600) (15-30 years old indigent students)",
+            "gadBudget": 13500000,
+            "actualCost": 13499946,
+            "variance": 54
+          }
+        },
+        {
+          "label": "Conduct of Competency/ Skills Training (CBT) in Dressmaking for Livelihood and Employment, Dressmaking NCII And Industrial Sewing Machine Operator",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of employable skills, knowledge and attitude for employment . RA 9710, Chapter V ( Rights and Empowerment of Marginalized sectors) Sec. 24, Right to Education and Training",
+            "objective": "1. To improve employable skills to match requirements to different locators at the MEPZ. 2. To enhance knowledge in dressmaking for self-employment and livelihood",
+            "ppa": "Economic Services: Manpower Development/ Economic Empowerment",
+            "activity": "Conduct of Competency/ Skills Training (CBT) in Dressmaking for Livelihood and Employment, Dressmaking NCII And Industrial Sewing Machine Operator",
+            "indicators": "400 completers (both Mainland and Olango) in CBT, Dressmaking (NCII) and Industrial Sewing Machine operation 200 Female, 160 Male, 40 LGBTQ, w/ 50% employed and 50% self-employed P2,000 Training Materials x 400trainees=P800,000,Seminar/Workshop for Trainers & staff (14pax) w/ 3 Speakers for 2 days (1 breakfast, 4 snacks, 2 lunch & 1 dinner) Day 1 - 500/head x 1pax Day 2 - 350/head x 17 pax;Venue- 12,000",
+            "actualResults": "362 completers (both Mainland and Olango) on Dressmaking and Industrial Sewing Machine Operator Male- 118 Female-231 LGBTQ-13 40% employed and 60% livelihood/self-employed",
+            "gadBudget": 829000,
+            "actualCost": 801708,
+            "variance": 27292
+          }
+        },
+        {
+          "label": "Conduct of Livelihood Skills Training for one (1) month course for fifty (50) PDL(Person's Deprived of Liberty)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "1.Female detainees have limited livelihood projects to engage in while incarcerated and they need livelihood skills to prepare for employment upon release. 2. (Sec.23 of MCW:Right to livelihood,Credit,Capital,and Technology)",
+            "objective": "To provide PDL (Persons Deprived of Liberty)knowledge and skills needed for employment and/or livelihood activities",
+            "ppa": "BJMP-Livelihood Program /Skills and Enhancement Trainings for female PDL",
+            "activity": "Conduct of Livelihood Skills Training for one (1) month course for fifty (50) PDL(Person's Deprived of Liberty)",
+            "indicators": "Fifty(50) female detainees, will be trained and provided with NCII certificates upon graduation.Registration fee and total training fee of 50 PDL @PHP5,000.00 per pax for a total of 250,000.00",
+            "actualResults": "Forty (40) Female Persons Deprived of Liberty (PDL) were trained and provided NCII Certificates for Rehabilitation and Livelihood Training",
+            "gadBudget": 375000,
+            "actualCost": 375000,
+            "variance": 0
+          }
+        },
+        {
+          "label": "Conduct of Cognitive Behavioral and Rehabilitational Trainings for one (1) month in every twenty five (25) released PDL (Persons Deprived of Liberty",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Inadequate After Care Program in unit as post-release services and supervision that provide ongoing support to the released Female Persons Deprived of Liberty",
+            "objective": "To strengthen and enhance rehabilitation cycle towards BJMPs mission.",
+            "ppa": "Therapeutic Community Modality Program/Cognitive Behavioral Treatment/Skills and Enhancement Trainings for released PDL",
+            "activity": "Conduct of Cognitive Behavioral and Rehabilitational Trainings for one (1) month in every twenty five (25) released PDL (Persons Deprived of Liberty",
+            "indicators": "Twenty five (25) female detainees, will be trained and provided with complete after care and rehabilitation program. Registration fee,venue and meals,training fee of 25 PDL @PHP5,000.00 per pax",
+            "actualResults": null,
+            "gadBudget": null,
+            "actualCost": null,
+            "variance": null
+          }
+        },
+        {
+          "label": "Procurement of Fitness and Sports Equipment for different sports and recreational activities (volleyball,badminton, table tennis,yoga fitness )",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of Fitness and Sports Equipment to conduct sports and recreational activities for female PDL and Personnel",
+            "objective": "To boost Female Personnel and PDL individual wellness and health related factors",
+            "ppa": "BJMP-Welfare Programs for Sports and Recreational of female Personnel and PDL",
+            "activity": "Procurement of Fitness and Sports Equipment for different sports and recreational activities (volleyball,badminton, table tennis,yoga fitness )",
+            "indicators": "Purchased and Acquired Fitness and Sports Equipment; Volleyball = Ball,Net,Posts and Cables (Php10,000.00) Yoga Fitrness =Yoga Mats, (50pcs x 500 = (Php25,000.00) Badminton =Badminton Rackets and Shuttlecocks for Badminton, ( Php15,000.00) Table Tennis = Table,Net, Ball and Racket (Php30,000.00) Summary Total =Php 80,000.00",
+            "actualResults": "Purchased and acquired Fitness and Sports Supplies & equipments: 15 yoga mats-P6,225; Basketball-P2,690; Basketball nets-P410; Volleybal-P2,380; Volleyballnets-P7,815; Chess boardd-P5,580; Foldable Tennis table-P15,120; Tabletennis ball-P525; Tabletennis racket-P2,280; BadmintonNet- P1,850; Badminton Racket- P17,480; Badminton Shuttlecock; Scrabble Board set- P13,130 Total -P79,115.00",
+            "gadBudget": 80000,
+            "actualCost": 78670,
+            "variance": 1330
+          }
+        },
+        {
+          "label": "> Setting up Lactation room for breastfeeding mothers >Child-minding center >Refrigeration or appropriate cooling facilities for storing expressed breastmilk",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Absence of Breastfeeding Room equipments. Chapter III, Art. VI, Sec 48 - Facilities and support System for well-being of Women and Men",
+            "objective": "To provide a private and comfortable space for mothers to nurse their babies or express breast milk.",
+            "ppa": "Expanded Breastfeeding Act of 2009",
+            "activity": "> Setting up Lactation room for breastfeeding mothers >Child-minding center >Refrigeration or appropriate cooling facilities for storing expressed breastmilk",
+            "indicators": ">100% of postpartums can avail of the breastfeeding room (if immediate rooming-in of newborns is delayed or is contraidicated) Room is equipped with appropriate equipments and fixtures. Refrigerator - P50,000.00 Sala set - P50,000.00 Lavatory - P5,000.00 Changing diaper table - P10,000.00 Water dispenser - P5,000.00",
+            "actualResults": "Physical implementation and functional of Lactation Room and Lactation corners with availability of supplies like refrigerator, breastmilk storage bag, bottle sterilizer, manual breast pump and drying rack.",
+            "gadBudget": 20000,
+            "actualCost": 0,
+            "variance": 20000
+          }
+        },
+        {
+          "label": "> Facilitate pap smears at a none to minimal cost to the patient",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Increasing incidence rate of Cervical Cancer",
+            "objective": "0",
+            "ppa": null,
+            "activity": "> Facilitate pap smears at a none to minimal cost to the patient",
+            "indicators": ">at least 1% of the total female population in Lapu-Lapu City can avail of the none to minimal screening exam (pap smear) Target patients - 250 Procured disposable speculum - P87,500; Disposable cytobrush - P3,750;glass slide- P5,000; fixative solution- P25,000; gloves- P12,500;underpad-P12,500; cotton applicator-P3,750;lubricant jelly- P37,500;",
+            "actualResults": "Completed the procured supplies and logistical requirements for conducting the PAP Smear tests For finalization of the patient flow and processing guidelines",
+            "gadBudget": 312500,
+            "actualCost": 101605,
+            "variance": 210895
+          }
+        },
+        {
+          "label": "Conduct of Inter-Barangay Sportsfest",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter V. Rights and Empowerment, Sec. 14 Women in Sports of RA 9710 High vulnerability of children and Youth to illegal drugs, gangsterism, and juvenile deliquency.",
+            "objective": "To improve access of children and youth to Sports Development Program to lure them away from illegal drugs, gangsterism and juvenile deliquency.",
+            "ppa": "Social Welfare & Development: Youth and Sports Development",
+            "activity": "Conduct of Inter-Barangay Sportsfest",
+            "indicators": "At least 6,000 male and female youth and children will be sportsminded and diverted from illegal drugs, gangsterism and juvenile deliquency. Games: Volleyball, Basketball, Tabletennis,etc",
+            "actualResults": "A total of 8,256 male, female, LGBT adults youths and children were enthralled and more focus in sports. Males - 4,288 Females - 2,136 LGBT - 1,832 (adult, youth & children) OLANGO INTER BARANGAY (Seniors & 21uCategory) Feb 8-23,2025 VOLLEYBALL(men & Women's Open Category) Feb 4-23,2025 MAINLAND INTER-BARANGAY BASKETBALL (40 above & Seniors Category) April 6-30,2025 VOLLEYBALL (Men's Open, Women's Open, Men's 21U and Women's 21U April 6-30, 2025.",
+            "gadBudget": 2500000,
+            "actualCost": 2500000,
+            "variance": 0
+          }
+        },
+        {
+          "label": "GAD awareness Training and seminars for Elected presidents of the urban poor association from mainland and Olango",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Presidents from Urban Poor Associations are lack of knowledge regarding GAD and other related laws",
+            "objective": "To increase the knowledge of the urban poor presidents with regards to GAD and other related issuances",
+            "ppa": "Urban Poor Associations Monthly activities in collaboration with the City of LapuLapu.",
+            "activity": "GAD awareness Training and seminars for Elected presidents of the urban poor association from mainland and Olango",
+            "indicators": "2 day GAD awareness Training and Seminar: Females- 200; Males-50 1st batch- 200 urban poor Presidents from mainland. 2nd Batch 50 urban poor Presidents from Olango Total of 250 participants. 75 snacks/pax , 150x250= 37,500 lunch 150x250 =37,500 snacks and lunch total of 75,000 speakers Honorarium 5,000/day x 2= 10,000",
+            "actualResults": "There was no training implemented",
+            "gadBudget": 85000,
+            "actualCost": 0,
+            "variance": 85000
+          }
+        },
+        {
+          "label": "Provision of Family planning Commodities and supplies Information",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Responsible Parenthood and Reproductive Health Act of 2012",
+            "objective": "To increase the no. of new female acceptors of family planning services and provide FP commodities to all acceptors",
+            "ppa": "Reproductive Health Program",
+            "activity": "Provision of Family planning Commodities and supplies Information",
+            "indicators": "Increase no. of Female family planning acceptors. Target : 31,075 1 Information Drive conducted",
+            "actualResults": "Female- 30,864 Male- 50 1 Information Drive conducted per Barangay Health Center in August - September 2025.",
+            "gadBudget": 1800000,
+            "actualCost": 1393583,
+            "variance": 406417
+          }
+        },
+        {
+          "label": "Regular Pre-natal Check-ups",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of Maternal Mortality and Neonatal Death",
+            "objective": "To ensure safe deliveries and decrease maternal and neonatal deaths",
+            "ppa": "Maternal and Child Health care program",
+            "activity": "Regular Pre-natal Check-ups",
+            "indicators": "7,500 registered pregnant women received regular pre-natal check-ups 40 Barangay Health Centers and 2 Birthing Homes received essential Medicines, drugs and supplies.",
+            "actualResults": "Regular Pre-natal Check-ups Actual No. of Pregnant women who received pre-natal check-up in 2025 : 6,554",
+            "gadBudget": 2000000,
+            "actualCost": 1995172,
+            "variance": 4828
+          }
+        },
+        {
+          "label": "Safe Motherhood Caravan and Symposium",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of Maternal Motarlity and Neonatal Death",
+            "objective": "To ensure safe deliveries and decrease maternal and neonatal deaths",
+            "ppa": "Maternal and Child Health care program",
+            "activity": "Safe Motherhood Caravan and Symposium",
+            "indicators": "Target 6,666 pregnant women attended the safe motherhood symposiums. Includes AM/ PM Snacks and lunch @ P375/pax 1 Caravan/ Information Drive Conducted",
+            "actualResults": "A safe motherhood Caravan/Symposium was conducted in the Mainland of Lapu-Lapu City and in Olango Island Usapang Mananay sessions occurred at least one in every Barangay Health Center per week which started in August Actual: 6,554 Pregnant Pregnant Women 2 Maternal Deaths 29 Neonatal Deaths",
+            "gadBudget": 2500000,
+            "actualCost": 2498962,
+            "variance": 1038
+          }
+        },
+        {
+          "label": "Provision of supplies to prevent HIV/AIDS and other STIs to males, and females and LGBTQ++ (condoms, lubricants) Information Procurement of supplies to screen and monitor cases HIV/AIDS and other STIs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High Prevalence of HIV cases on Women",
+            "objective": "To screen and monitor HIV/AIDS/STI cases",
+            "ppa": "HIV/AIDS/STI cases Prevention and control program",
+            "activity": "Provision of supplies to prevent HIV/AIDS and other STIs to males, and females and LGBTQ++ (condoms, lubricants) Information Procurement of supplies to screen and monitor cases HIV/AIDS and other STIs",
+            "indicators": "50,198 at least 1 information drive conducted Target: Pregnant Women - 7,475 confirmed HIV cases - 3,705 Guest Relations officer (GROs); Male - 37 Female -118",
+            "actualResults": "Information drives conducted in the community with free HIV testing. Actual : 6,554 Pregnant Women were tested; 871confirmed HIV cases; 2,158 confirmed TB patients were also tested, Registered Guest relations officer (GROs): Male- 21 Female -105 Procured: 9,075 HIV 1/2 test kits 191 HEPA A Rapid Test kits",
+            "gadBudget": 2000000,
+            "actualCost": 1992102,
+            "variance": 7898
+          }
+        },
+        {
+          "label": "3-Day Basic Life Support and Cardiopulmonary Resuscitation (BLS-CPR) Training for women in the barangays",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Section 10 of Republic Act No. 9710, also known as the Magna Carta of Women",
+            "objective": "To increase women resiliency in disasters and responsiveness in emergencies",
+            "ppa": "Disaster Risk Reduction Management in Health (DRRM-H)",
+            "activity": "3-Day Basic Life Support and Cardiopulmonary Resuscitation (BLS-CPR) Training for women in the barangays",
+            "indicators": "Target:60 women (2 per barangay) attended the 3-Day Basic Life Support and Cardiopulmonary Resuscitation (BLS-CPR) Training; am/pm snacks, lunch, & venue is provided during training(60pax * PHP720/pax * 3 days)",
+            "actualResults": "Actual : 47 selected Female participants were trained on Basic Life Support an Cardiopulmonary Resuscitation (BLS-CPR)",
+            "gadBudget": 140400,
+            "actualCost": 135360,
+            "variance": 5040
+          }
+        },
+        {
+          "label": "Provision of Micronutrient Supplementation (ferrous salt+folic acids) to Pregnant/Lactating women while conducting USAPAN Tayo",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of Iron Deficiency anemia in Pregnant/ Lactating Women",
+            "objective": "To provide micronutrient supplement (ferrous sulfate) to Pregnant Women",
+            "ppa": "Nutrition program",
+            "activity": "Provision of Micronutrient Supplementation (ferrous salt+folic acids) to Pregnant/Lactating women while conducting USAPAN Tayo",
+            "indicators": "Ferrous salt+folic Acid (iron) - 270 tabs (180 tabs during pregnacy + 90 tabs post pregnancy) Target: Pregnant women 7,475",
+            "actualResults": "Procured: *1.886,014 capsules of Ferrous Sulfate + Folic Acid 60mg Supplemental Iron + 400mg folic acid film coated Actual:6,554 Pregnant Women received supplements",
+            "gadBudget": 2000000,
+            "actualCost": 1985789.52,
+            "variance": 14210.48
+          }
+        },
+        {
+          "label": "Calcium carbonate at least 378 tabs/pregnant woman (3tabs/day starting from 20th",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of Iron Deficiency anemia in Pregnant/ Lactating Women",
+            "objective": "To provide micronutrient supplement (ferrous sulfate) to Pregnant Women",
+            "ppa": "Nutrition program",
+            "activity": null,
+            "indicators": "Calcium carbonate at least 378 tabs/pregnant woman (3tabs/day starting from 20th week of pregnancy Target:Pregnant women (High-Risk) - 900",
+            "actualResults": "Procured: *300,000 tablets of calcium carbonate 500 mg Actual: 6,554 Pregnant Women received Calcium Carbonate supplements",
+            "gadBudget": null,
+            "actualCost": null,
+            "variance": null
+          }
+        },
+        {
+          "label": "Provision of Emergency Assistance- Aid to Individual Crisis Situation",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter IV, Rights and Empowerment, Sec. 10-Women Affected by Disasters, Calamities and Other Crisis Situation of RA 9710",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities to affected populace; provide support for relief goods for survival especially Mothers who are the financially affected in looking up the needs of the family",
+            "ppa": "Social Services: Welfare and Social Protection-DRRM",
+            "activity": "Provision of Emergency Assistance- Aid to Individual Crisis Situation",
+            "indicators": "5000 persons provided with Financial Support",
+            "actualResults": "527 (Male-176 & Female-351) individuals received financial assistance. The assistance were able to ease their struggles due to medical emergencies, displacement, sudden loss of family income due to retrenchment or death of family breadwinners, need for education support, and budget deficit for basic survival needs of the family.",
+            "gadBudget": 11000000,
+            "actualCost": 6280787,
+            "variance": 4719213
+          }
+        },
+        {
+          "label": "Provide Emergency Shelter Assistance",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter V, Rights and Empowerment of Marginalized Sectors, SEC 30 Women in Especially Difficult Circumstances & SEC 31. Services and Intervention of RA 9710",
+            "objective": "To be able to provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection-DRRM",
+            "activity": "Provide Emergency Shelter Assistance",
+            "indicators": "600 victims of disaster received shelter assistance @ p15,000 each",
+            "actualResults": "506 were provided with Financial support as an aid to recovery after being hit by disaster (fire & demolition) Female - 305 Male- 201",
+            "gadBudget": 5000000,
+            "actualCost": 8412480,
+            "variance": -3412480
+          }
+        },
+        {
+          "label": "Provision of material and financial support assistance to WEDC",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter IIII, Art I. Support mechanism to Empower Women and Marginalized Women Empowerment: Poor Senior Citizens, Solo Parents, Female- headed households, VAWC victims needing protection",
+            "objective": "To provide adequate support women in Emergency and difficult circumstances",
+            "ppa": "Social Services: Women's Welfare- Financial Assistance to WEDC",
+            "activity": "Provision of material and financial support assistance to WEDC",
+            "indicators": "500 women victims provided with support and assistance @ P2,000 each (Women Victims Survivors of GBV)",
+            "actualResults": "61 women victims provided with social support & financial assistance. Financial support was given to cover expenses for case filing, case follow-up, psychological testing and therapy sessions, transportations, and food.",
+            "gadBudget": 1000000,
+            "actualCost": 987000,
+            "variance": 13000
+          }
+        },
+        {
+          "label": "Livelihood training After Care Services",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter IV, Rights and Empowerment, Sec. 10-Womens Affected by Disasters, Calamities and Other Crisis Situation",
+            "objective": "To rescue and provide appropriate intervention for children victims of sexual abuse",
+            "ppa": "Social Services: ACAF - After care and Follow up- Domestic Violent Client",
+            "activity": "Livelihood training After Care Services",
+            "indicators": "Livelihood Training After Care Services for Male/ Female & LGBT children ready to exit (100 children)",
+            "actualResults": "22 women beneficiaries availed of Livelihood training After Care Services.",
+            "gadBudget": 100000,
+            "actualCost": 0,
+            "variance": 100000
+          }
+        },
+        {
+          "label": "Profiling of women beneficiaries; Provision of livelihood capital and monitoring and evaluation activities",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter V Rights and Empowerment of Marginalized Sectors, Sec-23,Right to Livelihood, Credit, Capital, and Technology of RA 9710",
+            "objective": "To provide Livelihood assistance to Women beneficiaries",
+            "ppa": "Social Services: Livelihood Assistance for Women",
+            "activity": "Profiling of women beneficiaries; Provision of livelihood capital and monitoring and evaluation activities",
+            "indicators": "1000 women in the mainland LapuLapu and 1000 Women in Olango Island 1400 Women provided with seed capital for Livelihood",
+            "actualResults": "1045 women received support through the livelihood assistance program to women. Each beneficiaries received 5,000 as an aid capital to their small scale business namely: sari-sari store, trapo making/selling,food/snackbusiness&shoemaking.",
+            "gadBudget": 7000000,
+            "actualCost": 5430000,
+            "variance": 1570000
+          }
+        },
+        {
+          "label": "Conduct consultation and monitoring of persons with mental illness and provide assistance to their families",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Increasing number of mentally challenged individuals that need proper intervention Women has the most number of cases Women- Chapter V, Rights and Empowerment of Marginalized Sectors, Sec. 30. Women in Especially Difficult Circumstances & SEC.31. Services and Intervention of RA 9710",
+            "objective": "To promote activities on mental health awareness",
+            "ppa": "Social Welfare: Mental Health Awareness in the Family and Community Welfare",
+            "activity": "Conduct consultation and monitoring of persons with mental illness and provide assistance to their families",
+            "indicators": "50 mentally ill persons will be given with medical consultation by experts and provided with medicines and monitored monthly.",
+            "actualResults": "1,227 clients availed of the mental health clinic twice per month. Mental health clients also received psychosocial support and availed of the mental health awareness sessions.",
+            "gadBudget": 500000,
+            "actualCost": 399985,
+            "variance": 100015
+          }
+        },
+        {
+          "label": "Conduct of Roles and Function of Punong Barangay, Committee Chair on Family, Women and Children and VAWC Desk Officer, Gender-Based Violence and Gender Sensitivity Training to Punong Barangay, committee chair on Family, Women and Children and VAWC Desk Officer of 30 Barangays",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter IV, Rights and Empowerment, Sec. 10-Women Affected by Disasters, Calamities and Other Crisis Situation of RA 9710",
+            "objective": "To address violence against women and children in keeping with fundamental freedom/right. To improve the handling worker's sensitivity, and empathy in handling VAW victims and for being gender-responsive",
+            "ppa": "Social Welfare and Development Program",
+            "activity": "Conduct of Roles and Function of Punong Barangay, Committee Chair on Family, Women and Children and VAWC Desk Officer, Gender-Based Violence and Gender Sensitivity Training to Punong Barangay, committee chair on Family, Women and Children and VAWC Desk Officer of 30 Barangays",
+            "indicators": "Roles and Function of Punong Barangay, committee chair on Family, Women and Children and VAWC Desk Officer, Gender-Based Violence and Gender Sensitivity Training conducted to 90 (30 PB, 30 committee chair on Family, Women and Children and 60 VAWC Desk Officer) 1st quarter",
+            "actualResults": "120 duty bearers Male-10, Female- 11 (VAWC Desk Officers, Committee member on Family, Women and Children) availed the Capability Building session on Interviewing & Basic Counselling Skills. This training has improved the skills of the VAWC Desk Officers & Committee members in dealing with VAWC clients.",
+            "gadBudget": 150000,
+            "actualCost": 149500,
+            "variance": 500
+          }
+        },
+        {
+          "label": "Conduct of Community-Based Paralegal Skills Training Phase 2 to Punong Barangay, committee chair on Family, Women and Children and VAWC Desk Officer of 30 Barangays.",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "RA 9262 Anti-Violence against Women and their Children Act of 2004",
+            "objective": "To increase the knowledge of the handling workers on the salient features of the laws protecting women and children, particularly RA 9262 and the basics of efficient evidence information gathering and safe-keeping",
+            "ppa": "Social Welfare and Development Program",
+            "activity": "Conduct of Community-Based Paralegal Skills Training Phase 2 to Punong Barangay, committee chair on Family, Women and Children and VAWC Desk Officer of 30 Barangays.",
+            "indicators": "Community-Based Paralegal Skills Training Phase 2 conducted to 90 (30 Punong Barangay, 30 committee chair on Family, Women and Children and 60 VAWC Desk Officer) 2nd quarter",
+            "actualResults": "90 duty bearers Male- 9;Female- 61 (Barangay Captains, committee member of Family Women and Children and VAWC- Desk Officers) attended the Para Legal Training in handling VAWC Cases. This training has equipped the duty bearers to better assist clients in journeying them through the legal aspect of handling or filing the VAWC cases.",
+            "gadBudget": 200000,
+            "actualCost": 198900,
+            "variance": 1100
+          }
+        },
+        {
+          "label": "Printing of VAW IEC materials to distribute to 30 Barangays.",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Proclamation No. 1172 extended the national Campaign to End Violence",
+            "objective": "Highlight the gains and milestones in the effort to prevent and address VAW and the Philippines' participation in the global campaign to end it.",
+            "ppa": "Social Welfare and Development Program",
+            "activity": "Printing of VAW IEC materials to distribute to 30 Barangays.",
+            "indicators": "IEC materials to be distributed to 30 Barangays.",
+            "actualResults": "End VAW IEC distributed to 30 barangays and VAW tarp displayed in the City Hall and CSWDO Office. Program brochures are also produced and distributed to partners and clients.",
+            "gadBudget": 100000,
+            "actualCost": 91692,
+            "variance": 8308
+          }
+        },
+        {
+          "label": "To conduct Capability Building Seminar to newly Registered Solo parent 400 Men & 400 Women.",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Increasing number of children of Solo Parents who involved in different social problems including Teen-age Pregnancy, gangs and use of illegal substance",
+            "objective": "To decrease the number of children of Solo Parents to be able to fulfill their role and responsibilities in raising and managing their children while performing their dual/ multiple roles at home",
+            "ppa": "Social Welfare Program",
+            "activity": "To conduct Capability Building Seminar to newly Registered Solo parent 400 Men & 400 Women.",
+            "indicators": "400 solo parents are provided with Seminar and Capability Building activities within five sessions. (400 solo parents x P650 heavy meals )",
+            "actualResults": "645 Solo Parents availed of the capability building on parent effectiveness seminar. This training has aided solo parent in dealing w/parental challenges, making sure that parental approaches should be gender based.",
+            "gadBudget": 260000,
+            "actualCost": 129463,
+            "variance": 130537
+          }
+        },
+        {
+          "label": "HALAD Kang LOLO and LOLA Program; Provision of Support and Assistance to members of vulnerable sector 60 years and above.",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens lacking in social protection and needing special protection Chapter V Right and Empowerment of Marginalized Sectors,Sec-23,Right to Livelihood, Credit, Capital, and Technology of RA 9710",
+            "objective": "To provide social protection and package of services and support to senior citizens",
+            "ppa": "Social Services: OSCA Elderly Citizens Welfare Program",
+            "activity": "HALAD Kang LOLO and LOLA Program; Provision of Support and Assistance to members of vulnerable sector 60 years and above.",
+            "indicators": "40,000 target beneficiaries @ P4,000 x 2 semester",
+            "actualResults": "37,071 Senior Citizens Male-15,796 Female-21,275 They received the mid-year cash assistance. 36,442 Senior Citizens received the year-end cash assistance. Male- 15,499 Female- 20,741 The Cash assistance were used by our senior citizens for their basic and medical needs. But the said assistance has also brought great inspiration to senior citizens as it has become their indicator that senior citizen's voices are heard.",
+            "gadBudget": 320000000,
+            "actualCost": 282009000,
+            "variance": 37991000
+          }
+        },
+        {
+          "label": "Social Enhancement Program for Senior Citizens-Birthday Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens lacking in social protection and needing special protection Chapter V Right and Empowerment of Marginalized Sectors,Sec-23,Right to Livelihood, Credit, Capital,& Technlgy of RA 9710",
+            "objective": "To provide Social protection and package of services and support to Senior Citizens",
+            "ppa": "Social Services: OSCA Social Enhancement Program",
+            "activity": "Social Enhancement Program for Senior Citizens-Birthday Cash Gift",
+            "indicators": "40,000 Senior Citizens @P1,000 will celebrate Adding Quality Life to Years",
+            "actualResults": "36,129 Senior Citizens received their birthday cash gift at P1,000 each. Male-15,388 Female- 20,741",
+            "gadBudget": 40000000,
+            "actualCost": 33946000,
+            "variance": 6054000
+          }
+        },
+        {
+          "label": "Provision of financial assistance to Persons w/ Disability",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Chapter V Right and Empowerment of Marginalized Sectors,Sec-23,Right to Livelihood, Credit, Capital, and Technology of RA 9710,Sec 27 Social Protection. The State shall support women with disabilities on a community based social protection scheme",
+            "objective": "To provide social protection and package of services and support to indigent PWDs",
+            "ppa": "Social Services: Disabled Persons Welfare",
+            "activity": "Provision of financial assistance to Persons w/ Disability",
+            "indicators": "8,000 PWDs at P3,500 x 2 semester- provided social and financial support",
+            "actualResults": "8,873 received the Mid year cash assistance for persons with disabilities Male-4,680 Female -4,193 10,348 received the year end cash assistance.",
+            "gadBudget": 54252000,
+            "actualCost": 49759000,
+            "variance": 4493000
+          }
+        },
+        {
+          "label": "Purchase of Assistive Devices for Person with Disabilities who are in need",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Inadequate assistive device for Indigent PWD under RA 9442",
+            "objective": "To provide assistive device for Indigent PWDs specific to different types of disability",
+            "ppa": "Social Services: PWD Program- Assistive Devices",
+            "activity": "Purchase of Assistive Devices for Person with Disabilities who are in need",
+            "indicators": "Procurement of wheelchair, crutches, canes and hearing aids Request for Assistive Devices: Female -43 Male - 19",
+            "actualResults": "A total of 241 wheelchairs were released to PWDs including Senior PWDs, 10 crutches, 4 single canes, 4 hearing aids & 2 white cane units.",
+            "gadBudget": 2000000,
+            "actualCost": 1999103,
+            "variance": 897
+          }
+        },
+        {
+          "label": "SUB TOTAL FOR CLIENT FOCUSED",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "client",
+          "values": {
+            "gadBudget": 469703900,
+            "actualCost": 417150807.52,
+            "variance": 52553092.48
+          }
+        },
+        {
+          "label": "ORGANIZATION-FOCUSED",
+          "level": 0,
+          "kind": "header",
+          "section": "organization",
+          "values": {}
+        },
+        {
+          "label": "Seminar/Forum in eliminating violence against women",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Inadequate awareness of women employee on their rights against violence",
+            "objective": "Elimination of all forms of violence against women and raising awareness on their rights",
+            "ppa": "GAD Programs",
+            "activity": "Seminar/Forum in eliminating violence against women",
+            "indicators": "2-day seminar on Rights of Women Against Any Form of Violence will be conducted with a total of thirteen (13) female employee participants with meals, snacks, refreshments, honoraria and training materials",
+            "actualResults": "There was no training conducted due to time constraints",
+            "gadBudget": 40000,
+            "actualCost": 0,
+            "variance": 40000
+          }
+        },
+        {
+          "label": "A 2-day Specialized Skills Training both armed and unarmed tactical courses, for thirteen (13) female personnel",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Chapter IV, Rights and Empowerment Sec.13 Equal Access and Elimination Of Discrimination in Education, Scholarship and Training , Sec. 15 Women in the Military Of RA 9710",
+            "objective": "To provide Female Personnel with right sets of skills to handle jail crisis.",
+            "ppa": "BJMP-Operational, Tactics, and Crisis Management",
+            "activity": "A 2-day Specialized Skills Training both armed and unarmed tactical courses, for thirteen (13) female personnel",
+            "indicators": "Thirteen (13) female personnel will be trained , enhanced and undergo series of tactical modules strategic operations for Firearm Proficiency, 13x5000 (training fee and 200 rounds of ammunition) =65,000",
+            "actualResults": "There was no training implemented",
+            "gadBudget": 65000,
+            "actualCost": 0,
+            "variance": 65000
+          }
+        },
+        {
+          "label": "Conduct Specialized Skills Training both armed and un-armed tactical courses, Firearm Handling for twenty five(25) female personnel",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Lack of budgetary requirements coming from National Government to sustain skills of Female Personnel on handling crisis situation.",
+            "objective": "To provide Female Personnel with Programs /Trainings on how to handle emergency situation",
+            "ppa": "BJMP-Operational, Tactics, and Crisis Management",
+            "activity": "Conduct Specialized Skills Training both armed and un-armed tactical courses, Firearm Handling for twenty five(25) female personnel",
+            "indicators": "Twenty five (25) female personnel will be trained , enhanced and undergo series of tactical modules strategic operations for Firearm Proficiency, 200 rounds of ammunition @ 30.00/unit price for 25 Personnel) 200 X 30 = 6000 x 25 Php 150, 000.00",
+            "actualResults": "There was no training implemented.",
+            "gadBudget": 150000,
+            "actualCost": 0,
+            "variance": 150000
+          }
+        },
+        {
+          "label": "Conduct Magna Carta for Women and GAD Awareness Orientation and Seminar (Gender Sensitivity Training)",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "JMC Guidelines on the Localization of the Magna Carta of Women \" Capacity Development Training",
+            "objective": "To capacitate employees of the GAD & women rights",
+            "ppa": "HR Training & Development Programs",
+            "activity": "Conduct Magna Carta for Women and GAD Awareness Orientation and Seminar (Gender Sensitivity Training)",
+            "indicators": "120 participants to attend seminar conducted advocating women rights and GAD",
+            "actualResults": "Total Participants - 654 Male - 258 Female- 396 Trainings: Magna Carta of Women Seminar -Violence against Women & Children Sem. -Sexual Harassment Seminar -HR Policies & Government Orientation -Enhancing Customer Service Skills & Upholding Ethical Stds. in Public Service Sem. -Assessment w/ Quality /Manual Mgt. Compliance w/ Quality Service & Data Protection Regulatory Req. Seminar -Reorientation on Govt. Mandated Benefits",
+            "gadBudget": 1500000,
+            "actualCost": 886350,
+            "variance": 613650
+          }
+        },
+        {
+          "label": "Conduct of Monitoring, Evaluation and Assessment of GAD Projects Implementation",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "JMC 2016-01-Guidelines on the Localization of the Magna Carta of Women \"Capacity Development on GAD\" Strengthening of GAD Focal Point System",
+            "objective": "To have a functional GFPS",
+            "ppa": "Gen. Services: GAD Mainstreaming",
+            "activity": "Conduct of Monitoring, Evaluation and Assessment of GAD Projects Implementation",
+            "indicators": "Mid-Year and Year-End Assessments conducted to identify gaps and strategies; and as benchmark for future planning and budgeting. Food and Venue: 60 participants; 2 activities for assessments and evaluation",
+            "actualResults": "The Year End Assessment conducted; and strategic planning for the CY 2026 on Gender and Development Plan and Budget. Food and Venue- 50 pax @ P2,200; 54 attended. Female-35; Male-19",
+            "gadBudget": 200000,
+            "actualCost": 110000,
+            "variance": 90000
+          }
+        },
+        {
+          "label": "Conduct workshop on GAD Plan and Budget Formulation (2023)",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "JMC 2016-01-Guidelines on the Localization of the Magna Carta of Women \"Capacity Development on GAD\"",
+            "objective": "To have a functional GFPS",
+            "ppa": "Gen. Services: GAD Mainstreaming",
+            "activity": "Conduct workshop on GAD Plan and Budget Formulation (2023)",
+            "indicators": "GAD Plan and Budget prepared and formulated with 60 participants (GFPS members) Food&Venue- 60x P780/px for 2 days; Honorarium Speakers: P10,000",
+            "actualResults": "Conducted 2 days training on Harmonized Gender & Development Guidelines and Strategic Planning & Budgeting for 2026. Food and Venue-P70,000; Honorarium- Speaker P30,000 for 2 days 63 Participants ( Male-22; LGBT-5; Females-36)",
+            "gadBudget": 100000,
+            "actualCost": 100000,
+            "variance": 0
+          }
+        },
+        {
+          "label": "SUB TOTAL FOR ORGANIZATIONAL FOCUSED",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "organization",
+          "values": {
+            "gadBudget": 2055000,
+            "actualCost": 1096350,
+            "variance": 958650
+          }
+        },
+        {
+          "label": "Grand TOTAL (A+B+C)",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "gadBudget": 471758900,
+            "actualCost": 418247157.52,
+            "variance": 53511742.48
+          }
+        }
+      ]
+    },
+    {
+      "key": "attributedPrograms",
+      "title": "Attributed Programs",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Title of LGU Program or Project (10)",
+          "type": "text"
+        },
+        {
+          "key": "hgdgScore",
+          "label": "HGDG PIMME/ FIMME Score (11)",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Annual Program/ Project Cost or Expenditure (12)",
+          "type": "amount"
+        },
+        {
+          "key": "attributedCost",
+          "label": "GAD Attributed Program/Project Cost or Expenditure (13)",
+          "type": "amount"
+        },
+        {
+          "key": "variance",
+          "label": "Variance or Remarks (14)",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "N/A",
+          "level": 1,
+          "kind": "item",
+          "section": "attributed",
+          "values": {
+            "program": "N/A",
+            "hgdgScore": null,
+            "totalCost": null,
+            "attributedCost": null,
+            "variance": null
+          }
+        },
+        {
+          "label": "N/A",
+          "level": 1,
+          "kind": "item",
+          "section": "attributed",
+          "values": {
+            "program": "N/A",
+            "hgdgScore": null,
+            "totalCost": null,
+            "attributedCost": null,
+            "variance": null
+          }
+        },
+        {
+          "label": "SUB TOTAL FOR ATTRIBUTED PROGRAMS",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "attributed",
+          "values": {
+            "totalCost": null,
+            "attributedCost": null,
+            "variance": null
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "approvedBudget": 471758900,
+    "actualCost": 418247157.52,
+    "variance": 53511742.48,
+    "totalLguBudget": 3714968888,
+    "clientFocused": {
+      "approvedBudget": 469703900,
+      "actualCost": 417150807.52
+    },
+    "organizationFocused": {
+      "approvedBudget": 2055000,
+      "actualCost": 1096350
+    },
+    "attributedPrograms": null
+  },
+  "notes": [
+    "Header: Region VII, Province Cebu, Lapu-Lapu City, Calendar Year 2025; Total LGU Budget 3,714,968,888.00; Total GAD Expenditure 418,247,157.52 (equals the printed Grand TOTAL actual cost).",
+    "Printed '-' in Actual Cost or Variance cells transcribed as 0. Every row's variance equals approved budget minus actual cost; section subtotals and the grand total agree with their items.",
+    "The Emergency Shelter Assistance row prints actual cost 8,412,480.00 against an approved budget of 5,000,000.00, with variance (3,412,480.00) transcribed as -3412480.",
+    "Two client-focused rows have no amounts: the BJMP after-care program for released female PDL (no actual results or amounts printed) and a calcium carbonate sub-row under the iron-deficiency anemia row (no activity or amounts printed). Their amount cells are null.",
+    "The cervical cancer row's GAD Objective cell prints only '0' and its Relevant LGU Program cell is blank.",
+    "Attributed Programs (section C) lists two 'N/A' rows with blank amounts; its subtotal row is blank.",
+    "Pages 7-9 of the PDF are rotated 90 degrees; they were rotated for reading. The PDF's embedded text layer is garbage OCR and was ignored."
+  ],
+  "unreadable": []
+}

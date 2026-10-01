@@ -1,0 +1,1678 @@
+{
+  "id": "2025-q4-ldrrmf-part-1",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2025,
+    "quarter": 4,
+    "asOf": "2025-12-31",
+    "printed": "Calendar Year: 2025, Quarter: 3",
+    "cumulative": true
+  },
+  "certifiedBy": [],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 126068911.5,
+            "total": 180098445.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 97170006.0,
+            "total": 97170006.0
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 135302573.8,
+            "total": 135302573.8
+          }
+        },
+        {
+          "key": "carryOver:2018",
+          "label": "2018",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 10729588.9
+          }
+        },
+        {
+          "key": "carryOver:2019",
+          "label": "2019",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 993443.18
+          }
+        },
+        {
+          "key": "carryOver:2020",
+          "label": "2020",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 6700000.0
+          }
+        },
+        {
+          "key": "carryOver:2021",
+          "label": "2021",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 4117971.4
+          }
+        },
+        {
+          "key": "carryOver:2022",
+          "label": "2022",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 22215900.68
+          }
+        },
+        {
+          "key": "carryOver:2023",
+          "label": "2023",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 29850466.23
+          }
+        },
+        {
+          "key": "carryOver:2024",
+          "label": "2024",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 60695203.41
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfer/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {}
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 358541491.3,
+            "total": 412571024.8
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. UTILIZATION",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 336475.32,
+            "particulars": "cash for work",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 629204.76,
+            "particulars": "cash for work",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 690000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "rental of 2 units pumpboat for relief assistance",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 699500.0,
+            "particulars": "rental of 2 units pumpboat for relief assistance",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 639966.6,
+            "particulars": "cash for work",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 562608.0,
+            "particulars": "cash for work",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 lot sound system & led wall",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 69500.0,
+            "particulars": "1 lot sound system & led wall",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "40 pcs. Acrylic plague (ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 99920.0,
+            "particulars": "40 pcs. Acrylic plague (ANDAM)",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "500 pcs t-shirt (ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 175000.0,
+            "particulars": "500 pcs t-shirt (ANDAM)",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 lot rental of sound sys(ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 79500.0,
+            "particulars": "1 lot rental of sound sys(ANDAM)",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "50 pads alcohol and other medical supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 614349.0,
+            "particulars": "50 pads alcohol and other medical supplies",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "300 pcs. Tarpaulin",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 386250.0,
+            "particulars": "300 pcs. Tarpaulin",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 45000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 75000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 289274.28,
+            "particulars": "cash for work",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 487593.6,
+            "particulars": "cash for work",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator (second batch)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "honoraria for DRRM facilitator (second batch)",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator (third batch)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "honoraria for DRRM facilitator (third batch)",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "400 t-shirt fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 200000.0,
+            "particulars": "400 t-shirt fire prevention month",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 lot stage decoration for recognition of fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 44200.0,
+            "particulars": "1 lot stage decoration for recognition of fire prevention month",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "fire prevention month purchase of office supplies and others",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 14293.0,
+            "particulars": "fire prevention month purchase of office supplies and others",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "170 pcs. Tarpaulin",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 302925.0,
+            "particulars": "170 pcs. Tarpaulin",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "rental of wing van for distribution of relief goods 60 times round trip",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 587700.0,
+            "particulars": "rental of wing van for distribution of relief goods 60 times round trip",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 570000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 540572.52,
+            "particulars": "cash for work",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "cash for training/care",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 469308.84,
+            "particulars": "cash for training/care",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "cash for training/care",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 543854.4,
+            "particulars": "cash for training/care",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "packed meals for fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 524850.0,
+            "particulars": "packed meals for fire prevention month",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "100 roundtrip boat rentals",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 699000.0,
+            "particulars": "100 roundtrip boat rentals",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "ballpens and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 5161.75,
+            "particulars": "ballpens and other supplies",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "ballpens and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 8675.0,
+            "particulars": "ballpens and other supplies",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "ledwall rental during disaster resilience month 2025",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 69800.0,
+            "particulars": "ledwall rental during disaster resilience month 2025",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "5000 pcs iec materials",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 573750.0,
+            "particulars": "5000 pcs iec materials",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 637622.4,
+            "particulars": "cash for work",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "2000 pax meals for fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 219880.0,
+            "particulars": "2000 pax meals for fire prevention month",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "ballpens and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 5472.75,
+            "particulars": "ballpens and other supplies",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "70 pax seminar Olango-Andam",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 90650.0,
+            "particulars": "70 pax seminar Olango-Andam",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "70 pax seminar Olango-Andam",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 33000.0,
+            "particulars": "70 pax seminar Olango-Andam",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "heavy duty bolt cutter etc for fire fighting entry tools",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 647578.0,
+            "particulars": "heavy duty bolt cutter etc for fire fighting entry tools",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "50 pax live in seminar (CADRE)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 399750.0,
+            "particulars": "50 pax live in seminar (CADRE)",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "1000 pax meals Olango-Andam",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 324950.0,
+            "particulars": "1000 pax meals Olango-Andam",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "1000 pax meals 1st qrtr simulation exercise",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 524850.0,
+            "particulars": "1000 pax meals 1st qrtr simulation exercise",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "10 box clip and other materials ICSPC training",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 37547.9,
+            "particulars": "10 box clip and other materials ICSPC training",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "70 ream bondpaper and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 38538.9,
+            "particulars": "70 ream bondpaper and other supplies",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "35 reams bondpaper etc (ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 9197.92,
+            "particulars": "35 reams bondpaper etc (ANDAM)",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "35 reams bondpaper legal",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 7967.4,
+            "particulars": "35 reams bondpaper legal",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "50 reams bondpaper for (ahimt) training",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 27470.4,
+            "particulars": "50 reams bondpaper for (ahimt) training",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "3 packs cartolina and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 6850.0,
+            "particulars": "3 packs cartolina and other supplies",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "3 packs cartolina and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 39920.0,
+            "particulars": "3 packs cartolina and other supplies",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "10 packs cartolina etc",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 10568.0,
+            "particulars": "10 packs cartolina etc",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "500 pcs ballpen and others",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 88470.78,
+            "particulars": "500 pcs ballpen and others",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "140 pax 3 day live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 315000.0,
+            "particulars": "140 pax 3 day live out seminar",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "60 pax 5 days live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "60 pax 5 days live out seminar",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "60 pax 5 days live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "60 pax 5 days live out seminar",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "60 pcs acrylic plaque",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 149700.0,
+            "particulars": "60 pcs acrylic plaque",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 457119.0,
+            "particulars": "cash for work",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 120000.0,
+            "particulars": "honoraria for DRRM facilitator",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 115000.0,
+            "particulars": "honoraria for DRRM facilitator",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 100000.0,
+            "particulars": "honoraria for DRRM facilitator",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 135000.0,
+            "particulars": "honoraria for DRRM facilitator",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 45000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "livelihood recovery program",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 323499.6,
+            "particulars": "livelihood recovery program",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "10 boxes clip and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 64874.8,
+            "particulars": "10 boxes clip and other supplies",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "140 pcs polo shirt",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 76580.0,
+            "particulars": "140 pcs polo shirt",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "5 jar glue and other supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 6690.5,
+            "particulars": "5 jar glue and other supplies",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "honorarium for livelihood program",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 658720.2,
+            "particulars": "honorarium for livelihood program",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 90000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 120000.0,
+            "particulars": "honoraria for DRRM facilitator",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "for payment of 4 units e.r. stretcher with i.v. pole for sta. rosa community hospital's new isolation facility",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 544000.0,
+            "particulars": "for payment of 4 units e.r. stretcher with i.v. pole for sta. rosa community hospital's new isolation facility",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "to 2nd. partial payment of contract for improvement of city hall building & facilities, pusok, lapu-lapu city which is 66.10% work accomplished",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 2826334.64,
+            "particulars": "to 2nd. partial payment of contract for improvement of city hall building & facilities, pusok, lapu-lapu city which is 66.10% work accomplished",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to 2nd. & final payment of contract for repair of mangagawa building, pajo, lapu-lapu city including extra works which is 100%",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1124045.23,
+            "particulars": "to 2nd. & final payment of contract for repair of mangagawa building, pajo, lapu-lapu city including extra works which is 100%",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to 1st. partial payment of contract for repair & improvement of pajac road, pajac, lapu-lapu city which is 60.02% work accomplished with its supporting documents",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1526228.86,
+            "particulars": "to 1st. partial payment of contract for repair & improvement of pajac road, pajac, lapu-lapu city which is 60.02% work accomplished with its supporting documents",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "DECEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 60480.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 67500.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected lot for proposed first mactan bridge to ferry landing seaside road opening in pajo lot # 207-b-part area affected 527 sqm",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 4866244.22,
+            "particulars": "payment of 50% just compensation for affected lot for proposed first mactan bridge to ferry landing seaside road opening in pajo lot # 207-b-part area affected 527 sqm",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "to 1st. partial payment of contract for repair & improvement of caohagan barangay hall, caohagan island, lapu-lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1526258.04,
+            "particulars": "to 1st. partial payment of contract for repair & improvement of caohagan barangay hall, caohagan island, lapu-lapu city",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "to 1st. & final payment of contract for asphalt overlay of risdon street, poblacion, including front of auditorium, poblacion, lapu-lapu cityincluding extra works which is 100%",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 7533028.77,
+            "particulars": "to 1st. & final payment of contract for asphalt overlay of risdon street, poblacion, including front of auditorium, poblacion, lapu-lapu cityincluding extra works which is 100%",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 65812.5,
+            "particulars": "payment of 100% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 83700.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT APPROPRIATION",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1570243.81,
+            "particulars": "JANUARY",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 40320.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 60480.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 26812.5,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 28080.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 51637.5,
+            "particulars": "payment of 50% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 75600.0,
+            "particulars": "payment of 100% just compensation for affected structure for proposed first mactan bridge to ferry landing seaside road opening in pajo",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "purchase of 7 lots and installation of community water and fire system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 5242216.0,
+            "particulars": "purchase of 7 lots and installation of community water and fire system",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "4 sets crossover selfloading stretcher for city ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1887600.0,
+            "particulars": "4 sets crossover selfloading stretcher for city ambulance",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "payment of 1 unit drone",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 335000.0,
+            "particulars": "payment of 1 unit drone",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "lot purchase and installation-20 kilowatts solar renewable hybrid off grid system-solar power system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 4999999.0,
+            "particulars": "lot purchase and installation-20 kilowatts solar renewable hybrid off grid system-solar power system",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "1st partial payment of contract for repair & upgrade of DRRMO Bldg.",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 6370548.92,
+            "particulars": "1st partial payment of contract for repair & upgrade of DRRMO Bldg.",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 unit DSLR camera with lens",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 250000.0,
+            "particulars": "1 unit DSLR camera with lens",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "9 units 6 wheeler garbage dump truck",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 31320000.0,
+            "particulars": "9 units 6 wheeler garbage dump truck",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "2nd partial payment repair of DRRMO building",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 7102230.15,
+            "particulars": "2nd partial payment repair of DRRMO building",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "1500 CYL oxygen",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 637500.0,
+            "particulars": "1500 CYL oxygen",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "300 pax live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 219000.0,
+            "particulars": "300 pax live out seminar",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "final payment of Pangan-an evacutaion center",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 994941.17,
+            "particulars": "final payment of Pangan-an evacutaion center",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "1 unit 6 wheeler dumptruck",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 3480000.0,
+            "particulars": "1 unit 6 wheeler dumptruck",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 478216.8,
+            "particulars": "cash for work",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to 2nd. partial payment of contract for construction of seawall in caubian island, caubian, lapu-lapu city which is 99.10% work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 5699487.02,
+            "particulars": "to 2nd. partial payment of contract for construction of seawall in caubian island, caubian, lapu-lapu city which is 99.10% work",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure for proposed sudtunggan road widening/opening phase 1 in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 41040.0,
+            "particulars": "payment of 100% just compensation for affected structure for proposed sudtunggan road widening/opening phase 1 in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 18346.5,
+            "particulars": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 32393.13,
+            "particulars": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 158353.5,
+            "particulars": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to full payment of just compensation for affected structure for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 79200.16,
+            "particulars": "to full payment of just compensation for affected structure for proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to first payment of just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 86941.68,
+            "particulars": "to first payment of just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to first half payment of just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 266500.0,
+            "particulars": "to first half payment of just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to first payment of just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 273000.0,
+            "particulars": "to first payment of just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected lot of the proposed new barangay hall & covered court/evacuation center in canjulao",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 7171200.0,
+            "particulars": "payment of 100% just compensation for affected lot of the proposed new barangay hall & covered court/evacuation center in canjulao",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structure for proposed g.tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 26145.0,
+            "particulars": "payment of 50% just compensation for affected structure for proposed g.tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "ayment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 48859.2,
+            "particulars": "ayment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+            "month": "SEPTEMBER"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 412571024.8,
+    "qrf": 54029533.5,
+    "mitigation": 358541491.3,
+    "totalUtilized": null,
+    "balance": null
+  },
+  "notes": [
+    "PERIOD: every page prints \"CALENDAR YEAR: 2025, QUARTER: 3\", but the General Fund-MOOE utilization runs through OCTOBER, NOVEMBER and DECEMBER 2025, so this is the year-end (Q4) report with a stale quarter heading. period.quarter is kept at 4 (asOf 2025-12-31) per the catalog and the content; period.printed records the printed heading.",
+    "Section A (Sources of Funds) is identical to the one printed in 2025-q3-ldrrmf (Total Funds Available 412,571,024.80); it was not updated for Q4.",
+    "This is Part I of a two-part report: it has no utilization total, subtotals or balance. Section B continues directly in 2025-q4-ldrrmf-part-2 (Part II page 1 resumes with further \"payment of 100% just compensation ... skywalk near cebu light industrial park (clip) in basak\" items), so totalUtilized and balance are null here.",
+    "All utilization amounts are printed in the Mitigation Fund 70% column; the QRF, NDRRM, Other LGUs, Other Sources and Total columns are blank on every utilization row.",
+    "Under \"CONTINUING AND CURRENT APPROPRIATION\" the JANUARY heading row itself prints 1,570,243.81 (no particulars); it is recorded as an item row labelled \"JANUARY\".",
+    "Pages 7, 9 and 10 carry no month heading; their rows are assigned the month of the last heading before them in PDF page order (JANUARY for page 7, SEPTEMBER for pages 9-10, both under Continuing and Current Appropriation). The page order is as published and month assignment for those pages is therefore inferred, not printed.",
+    "Particulars are transcribed as printed, including typos (\"Acrylic plague\", \"evacutaion\", \"cityincluding\", \"ayment\")."
+  ],
+  "unreadable": []
+}

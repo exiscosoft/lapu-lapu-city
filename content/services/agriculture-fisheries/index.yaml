@@ -2,18 +2,35 @@
 # This file contains all the pages/services available under the Agriculture & Fisheries category
 
 pages:
-  - name: 'Ask for free seeds, seedlings, fertilizers, or fingerlings'
+  - name: 'Ask for free seeds for backyard gardening'
     slug: 'ask-for-free-seeds-seedlings-fertilizers-or-fingerlings'
-    description: 'How to request free agricultural inputs like seeds, seedlings, fertilizers, and fingerlings from your local government.'
+    description: 'Free seed packs from CENRO for residents, lot owners, and public or private groups, for personal or educational use. No requirements. Mon–Fri, 8:00am–5:00pm.'
     
-  - name: 'Get veterinary services for livestock'
-    slug: 'get-veterinary-services-for-livestock'
-    description: 'Access veterinary services for your livestock and farm animals from local government veterinarians.'
+  - name: 'Have livestock slaughtered and meat inspected'
+    slug: 'have-livestock-slaughtered-and-meat-inspected'
+    description: 'For meat suppliers and dealers. Ante-mortem and post-mortem inspection at the city slaughterhouse, plus post-abattoir inspection of meat from other slaughterhouses. Fees per head or per kilo. Open daily, including holidays, in three shifts.'
+
+  - name: 'Register your dog or cat'
+    slug: 'register-your-dog-or-cat'
+    description: 'For all dog and cat owners in the city. Requires a filled-out form. Free one-time registration (₱100 to re-issue a Green Card). Walk-in or home service, Mon–Fri, 8:00am–5:00pm (except holidays).'
+
+  - name: 'Get your dog or cat vaccinated against rabies'
+    slug: 'get-your-dog-or-cat-vaccinated-against-rabies'
+    description: 'Free anti-rabies vaccination for registered dogs and cats 3 months and older. Requires the Green Card. Walk-in or home service, Mon–Fri, 8:00am–5:00pm (except holidays).'
+
+  - name: 'Surrender or adopt a pet'
+    slug: 'surrender-or-adopt-a-pet'
+    description: 'Surrender a pet you can no longer keep (₱1,000) or adopt an unclaimed impounded pet (₱250 per pet, 1 valid ID). City Veterinary Office, Mon–Fri, 8:00am–5:00pm (except holidays).'
+
+  - name: 'Report stray dogs and cats for impounding'
+    slug: 'report-stray-dogs-and-cats-for-impounding'
+    description: 'For residents. Ask the City Veterinary Office to impound stray or unwanted dogs and cats; operations are scheduled within 20 working days. Owners claiming impounded pets pay ₱500–₱2,000 per pet. Mon–Fri, 8:00am–5:00pm.'
     
-  - name: 'Attend farming or fishing training'
-    slug: 'attend-farming-or-fishing-training'
-    description: 'Join training programs for farming and fishing techniques offered by your local government.'
+  - name: 'Get a fishing permit and register your boat'
+    slug: 'get-a-fishing-permit-and-register-your-boat'
+    description: 'Fishing permit (₱20/year for local fisherfolk), boat registration, and permit to operate (₱150–₱250 by tonnage) from CENRO. Requires barangay certificate and boat details. 3 days. Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Get an auxiliary invoice to ship fish products'
+    slug: 'get-an-auxiliary-invoice-to-ship-fish-products'
+    description: 'For anyone shipping fish and fishery products. No requirements. ₱50 per box. CENRO, Mon–Fri 8:00am–5:00pm, Sat–Sun 5:00am–2:00pm.'
     
-  - name: 'Borrow farm tools or equipment from the LGU'
-    slug: 'borrow-farm-tools-or-equipment-from-the-lgu'
-    description: 'How to borrow farm tools and equipment from your local government unit.'

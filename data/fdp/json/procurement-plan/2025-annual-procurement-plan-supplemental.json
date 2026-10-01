@@ -1,0 +1,2005 @@
+{
+  "id": "2025-annual-procurement-plan-supplemental",
+  "type": "procurement-plan",
+  "title": "Supplemental Procurement Plan",
+  "form": "FDP Form 14a - Supplemental Procurement Plan, by Office or Department; FDPP Form 14b - Supplemental Procurement Plan or Procurement List, Summary",
+  "period": {
+    "year": 2025,
+    "quarter": null,
+    "asOf": null,
+    "printed": "Calendar Year: 2025",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "BAC, Head Secretariat (Prepared by)"
+    },
+    {
+      "name": "Hon. Ma. Cynthia K. Chan",
+      "position": "Head of Procuring Entity/LCE (Approved by)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "Supplemental Procurement Plan (FDP Form 14a)",
+      "columns": [
+        {
+          "key": "code",
+          "label": "Code (PAP)",
+          "type": "text"
+        },
+        {
+          "key": "project",
+          "label": "Procurement Project",
+          "type": "text"
+        },
+        {
+          "key": "endUser",
+          "label": "PMO/ End-User",
+          "type": "text"
+        },
+        {
+          "key": "earlyProcurement",
+          "label": "Is this an Early Procurement Activity? (Yes/No)",
+          "type": "text"
+        },
+        {
+          "key": "mode",
+          "label": "Mode of Procurement",
+          "type": "text"
+        },
+        {
+          "key": "adPosting",
+          "label": "Advertisement/Posting of IB/REI",
+          "type": "text"
+        },
+        {
+          "key": "submission",
+          "label": "Submission/Opening of Bids",
+          "type": "text"
+        },
+        {
+          "key": "noticeOfAward",
+          "label": "Notice of Award",
+          "type": "text"
+        },
+        {
+          "key": "contractSigning",
+          "label": "Contract Signing",
+          "type": "text"
+        },
+        {
+          "key": "fundSource",
+          "label": "Source of Funds",
+          "type": "text"
+        },
+        {
+          "key": "total",
+          "label": "Estimated Budget (PhP) - Total",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Estimated Budget (PhP) - MOOE",
+          "type": "amount"
+        },
+        {
+          "key": "co",
+          "label": "Estimated Budget (PhP) - CO",
+          "type": "amount"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks (brief description of Project)",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Other Supplies and Materials Expenses - Two (2) Units Heavy Duty Shredder",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-5-02-03-990-2",
+            "project": "Other Supplies and Materials Expenses - Two (2) Units Heavy Duty Shredder",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "7/17/2026",
+            "submission": "-",
+            "noticeOfAward": "8/4/2025",
+            "contractSigning": "8/7/2025",
+            "fundSource": "General Fund",
+            "total": 70000,
+            "mooe": 70000,
+            "co": null,
+            "remarks": "Purchase of Heavy Duty Shredder to be use in City Mayor's Office."
+          }
+        },
+        {
+          "label": "Purchase and Installation of Four (4) Units Inverter Aircon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-020-25S2",
+            "project": "Purchase and Installation of Four (4) Units Inverter Aircon",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "-",
+            "submission": "-",
+            "noticeOfAward": "7/24/2025",
+            "contractSigning": "7/30/2025",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": null,
+            "co": 1000000,
+            "remarks": "Purchase and installation of Inverter Aircon to be use in City Mayor's Office."
+          }
+        },
+        {
+          "label": "Purchase of Six (6) Units Branded Desktop Computer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-030-25S2",
+            "project": "Purchase of Six (6) Units Branded Desktop Computer",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "-",
+            "submission": "-",
+            "noticeOfAward": "8/7/2025",
+            "contractSigning": "8/12/2025",
+            "fundSource": "General Fund",
+            "total": 420000,
+            "mooe": null,
+            "co": 420000,
+            "remarks": "Purchase of Branded Desktop Computer to be use in City Mayor's Office."
+          }
+        },
+        {
+          "label": "Purchase of Six (6) Units Multipurpose Vehicle",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-06-010-25S2",
+            "project": "Purchase of Six (6) Units Multipurpose Vehicle",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "9/22/2025",
+            "submission": "10/14/2025",
+            "noticeOfAward": "10/23/2025",
+            "contractSigning": "10/28/2025",
+            "fundSource": "General Fund",
+            "total": 7200000,
+            "mooe": null,
+            "co": 7200000,
+            "remarks": "Purchase of Multipurpose Vehicle to be use in City Mayor's Office."
+          }
+        },
+        {
+          "label": "Purchase of Forty (40) Units Motorcycle with accessories",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-06-010-25S3",
+            "project": "Purchase of Forty (40) Units Motorcycle with accessories",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "9/25/2025",
+            "submission": "12/2/2025",
+            "noticeOfAward": null,
+            "contractSigning": null,
+            "fundSource": "General Fund",
+            "total": 11000000,
+            "mooe": null,
+            "co": 11000000,
+            "remarks": "Purchase of Motorcycle with accessories to be use in City Mayor's Office."
+          }
+        },
+        {
+          "label": "Office Furnitures and Fixtures",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-07-010-25S1",
+            "project": "Office Furnitures and Fixtures",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "7/19/2025",
+            "submission": "-",
+            "noticeOfAward": "8/5/2025",
+            "contractSigning": "8/8/2025",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": null,
+            "co": 2500000,
+            "remarks": "Office Furnitures and Fixtures for the City Mayor's Office."
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Response Vehicles",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-5-02-13-060",
+            "project": "Repair and Maintenance - Response Vehicles",
+            "endUser": "LDRRMO",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "Repair and Maintenance of the Response Vehicle of DRRMO"
+          }
+        },
+        {
+          "label": "Purchase and Installation of Twelve (12) Units New 100 KVA Dry Type Aircon Transformer with Installation and Removal of Old Transformers",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-10-1-07-03-050-25S2",
+            "project": "Purchase and Installation of Twelve (12) Units New 100 KVA Dry Type Aircon Transformer with Installation and Removal of Old Transformers",
+            "endUser": "Hoops Dome",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "9/30/2025",
+            "submission": "10/21/2025",
+            "noticeOfAward": "11/3/2025",
+            "contractSigning": "11/6/2025",
+            "fundSource": "General Fund",
+            "total": 4440000,
+            "mooe": null,
+            "co": 4440000,
+            "remarks": "Purchase and Installation of New 100 KVA Dry Type Aircon Transformer with Installation and Removal of Old Transformers"
+          }
+        },
+        {
+          "label": "Audio and Video System",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1021-1-07-05-020-25S1",
+            "project": "Audio and Video System",
+            "endUser": "Office of the SP",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "11/11/2025",
+            "submission": "12/2/2025",
+            "noticeOfAward": "12/9/2025",
+            "contractSigning": "12/12/2025",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": null,
+            "co": 1500000,
+            "remarks": "Audio and Video System to be Use during conferences and meetings"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Laptop",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1051-1-07-05-030-25S1",
+            "project": "Purchase of One (1) Unit Branded Laptop",
+            "endUser": "Local Civil Registry",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/12/2025",
+            "submission": "-",
+            "noticeOfAward": "8/22/2025",
+            "contractSigning": "8/27/2025",
+            "fundSource": "General Fund",
+            "total": 80000,
+            "mooe": null,
+            "co": 80000,
+            "remarks": "Purchase of Branded Laptop To be Use in LCR Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Desktop Computer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1051-1-07-05-030-25S2",
+            "project": "Purchase of One (1) Unit Branded Desktop Computer",
+            "endUser": "Local Civil Registry",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/12/2025",
+            "submission": null,
+            "noticeOfAward": "8/20/2025",
+            "contractSigning": "8/27/2025",
+            "fundSource": "General Fund",
+            "total": 60000,
+            "mooe": null,
+            "co": 60000,
+            "remarks": "Purchase of Branded Desktop Computer to be use in LCR Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Desktop Computer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1071-1-07-05-03025S2",
+            "project": "Purchase of One (1) Unit Branded Desktop Computer",
+            "endUser": "City Budget Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "7/10/2025",
+            "submission": "-",
+            "noticeOfAward": "7/21/2025",
+            "contractSigning": "7/24/2025",
+            "fundSource": "General Fund",
+            "total": 60000,
+            "mooe": null,
+            "co": 60000,
+            "remarks": "Purchase of Branded Desktop Computer to be use in Budget's Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Heavy Duty Scanner",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1071-1-07-05-030-25S3",
+            "project": "Purchase of One (1) Unit Heavy Duty Scanner",
+            "endUser": "City Budget Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "3/20/2025",
+            "submission": "-",
+            "noticeOfAward": "5/14/2025",
+            "contractSigning": "5/19/2025",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "Purchase of Heavy Duty Scanner to be use in Budget's Office"
+          }
+        },
+        {
+          "label": "Purchase of Ten (10) Units Branded Desktop Computer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-1-07-05-030-25S2",
+            "project": "Purchase of Ten (10) Units Branded Desktop Computer",
+            "endUser": "City Treasurer's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/8/2025",
+            "submission": "-",
+            "noticeOfAward": "8/20/2025",
+            "contractSigning": "8/26/2025",
+            "fundSource": "General Fund",
+            "total": 700000,
+            "mooe": null,
+            "co": 700000,
+            "remarks": "Purchase of Branded Desktop Computer To be use in City Treasurers Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Service Vehicle",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-1-07-06-010-25S1",
+            "project": "Purchase of One (1) Unit Service Vehicle",
+            "endUser": "City Treasurer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "12/3/2025",
+            "submission": "12/3/2025",
+            "noticeOfAward": null,
+            "contractSigning": null,
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": null,
+            "co": 2500000,
+            "remarks": "Purchase of Service Vehicle to be use in Treasurer's Office"
+          }
+        },
+        {
+          "label": "Purchase and Installation of One (1) Unit Floor Mounted Inverter Aircon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1041-1-07-05-020-25S1",
+            "project": "Purchase and Installation of One (1) Unit Floor Mounted Inverter Aircon",
+            "endUser": "City Prosecutor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/24/2025",
+            "submission": "-",
+            "noticeOfAward": "11/10/2025",
+            "contractSigning": "11/13/2025",
+            "fundSource": "General Fund",
+            "total": 310000,
+            "mooe": null,
+            "co": 310000,
+            "remarks": "Purchase and Installation of Floor Mounted Inverter Aircon for the City Prosecutor's Office."
+          }
+        },
+        {
+          "label": "Drugs and Medicines - Rabies Vaccine (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4411-5-02-03-070-2",
+            "project": "Drugs and Medicines - Rabies Vaccine (GAD)",
+            "endUser": "City Health Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "9/16/2025",
+            "submission": "10/7/2025",
+            "noticeOfAward": "10/15/2025",
+            "contractSigning": "10/20/2025",
+            "fundSource": "General Fund",
+            "total": 15000000,
+            "mooe": 15000000,
+            "co": null,
+            "remarks": "To Procure of Drugs and Medicines for the City Health's Office."
+          }
+        },
+        {
+          "label": "Other MOE - Elderly Citizens Welfare Program (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "7611-5-02-99-990-2",
+            "project": "Other MOE - Elderly Citizens Welfare Program (GAD)",
+            "endUser": "CSWDO-OSCA",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 150528000,
+            "mooe": 150528000,
+            "co": null,
+            "remarks": "For Elderly Citizens Welfare Program (GAD)"
+          }
+        },
+        {
+          "label": "Other MOE - Disabled Persons Welfare (GAD)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "7611-5-02-99-990-2",
+            "project": "Other MOE - Disabled Persons Welfare (GAD)",
+            "endUser": "CSWDO-PDAO",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 29574000,
+            "mooe": 29574000,
+            "co": null,
+            "remarks": "For Disabled Persons Welfare (GAD)"
+          }
+        },
+        {
+          "label": "Repair of Truck Declogger",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-5-02-13-060",
+            "project": "Repair of Truck Declogger",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/8/2025",
+            "submission": "-",
+            "noticeOfAward": "8/20/2025",
+            "contractSigning": "8/26/2025",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Repair and Maintenance of Truck Declogger of Engineering's Office."
+          }
+        },
+        {
+          "label": "Concreting of Sitio Ibabao Pangan-an Road",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-03-010-25S1",
+            "project": "Concreting of Sitio Ibabao Pangan-an Road",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "12/5/2025",
+            "submission": "12/23/2025",
+            "noticeOfAward": "1/26/2026",
+            "contractSigning": null,
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": null,
+            "co": 5000000,
+            "remarks": "Concreting of Sitio Ibabao Pangan-an Road"
+          }
+        },
+        {
+          "label": "Repair/Improvement of ABC Bldg. (including retrofitting of Water Tank)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-04-010-25S1",
+            "project": "Repair/Improvement of ABC Bldg. (including retrofitting of Water Tank)",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "9/23/2025",
+            "submission": "10/14/2025",
+            "noticeOfAward": "10/24/2025",
+            "contractSigning": "11/6/2025",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": null,
+            "co": 600000,
+            "remarks": "Repair/Improvement of ABC Bldg. (including retrofitting of Water Tank)"
+          }
+        },
+        {
+          "label": "Installation of Ambulatory Surgical Clinic at Lapu-Lapu City Hospital",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-04-010-25S2",
+            "project": "Installation of Ambulatory Surgical Clinic at Lapu-Lapu City Hospital",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "12/5/2025",
+            "submission": "10/14/2025",
+            "noticeOfAward": "10/24/2025",
+            "contractSigning": "11/6/2025",
+            "fundSource": "General Fund",
+            "total": 700000,
+            "mooe": null,
+            "co": 700000,
+            "remarks": "Installation of Ambulatory Surgical Clinic at Lapu-Lapu City Hospital of City Engineer's Office"
+          }
+        },
+        {
+          "label": "Construction and Heavy Duty Equipment - One (1) Unit Six Wheeler (4x2) 16 ft. Dropside Cargo Body with 3 Tonner Unic Crane and Workman Basket",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-05-080-25S1",
+            "project": "Construction and Heavy Duty Equipment - One (1) Unit Six Wheeler (4x2) 16 ft. Dropside Cargo Body with 3 Tonner Unic Crane and Workman Basket",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/12/2025",
+            "submission": "9/2/2025",
+            "noticeOfAward": "9/10/2025",
+            "contractSigning": "9/15/2025",
+            "fundSource": "General Fund",
+            "total": 6000000,
+            "mooe": null,
+            "co": 6000000,
+            "remarks": "Construction and Heavy Duty Equipment - One (1) Unit Six Wheeler (4x2) 16 ft. Dropside Cargo Body with 3 Tonner Unic Crane and Workman Basket"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Six Wheeler 14 ft. Dropside Cargo Body Truck",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-06-010-25S1",
+            "project": "Purchase of One (1) Unit Six Wheeler 14 ft. Dropside Cargo Body Truck",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/12/2025",
+            "submission": "9/2/2025",
+            "noticeOfAward": "9/10/2025",
+            "contractSigning": "9/15/2025",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": null,
+            "co": 3000000,
+            "remarks": "Purchase of Six Wheeler 14 ft. Dropside Cargo Body Truck for CityEngineer's Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Six Wheeler 14 ft. Dropside Cargo with Canopy Body Truck",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-06-010-25S2",
+            "project": "Purchase of One (1) Unit Six Wheeler 14 ft. Dropside Cargo with Canopy Body Truck",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/12/2025",
+            "submission": "9/2/2025",
+            "noticeOfAward": "9/10/2025",
+            "contractSigning": "9/15/2025",
+            "fundSource": "General Fund",
+            "total": 3300000,
+            "mooe": null,
+            "co": 3300000,
+            "remarks": "Purchase of Six Wheeler 14 ft. Dropside Cargo with Canopy Body Truck for City Engineer's Office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Ten Wheeler 28 ft. Self-loader Body Truck",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-1-07-06-990-25S1",
+            "project": "Purchase of One (1) Unit Ten Wheeler 28 ft. Self-loader Body Truck",
+            "endUser": "City Engineer's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/12/2025",
+            "submission": "9/2/2025",
+            "noticeOfAward": "9/10/2025",
+            "contractSigning": "9/15/2025",
+            "fundSource": "General Fund",
+            "total": 12000000,
+            "mooe": null,
+            "co": 12000000,
+            "remarks": "Purchase of Ten Wheeler 28 ft. Self-loader Body Truck for City Engineer's Office."
+          }
+        },
+        {
+          "label": "Other MOE - Tourism Planning and Products Development",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-5-02-03-990-2",
+            "project": "Other MOE - Tourism Planning and Products Development",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 500000,
+            "mooe": 500000,
+            "co": null,
+            "remarks": "Tourism Planning and Products Development."
+          }
+        },
+        {
+          "label": "Other MOE - Garbo sa Lapu-Lapu",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-5-02-99-990-4",
+            "project": "Other MOE - Garbo sa Lapu-Lapu",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 6500000,
+            "mooe": 6500000,
+            "co": null,
+            "remarks": "Garbo sa Lapu-Lapu"
+          }
+        },
+        {
+          "label": "Other MOE - Tourism Promotions",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-5-02-99-990-5",
+            "project": "Other MOE - Tourism Promotions",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 1398900,
+            "mooe": 1398900,
+            "co": null,
+            "remarks": "Tourism Promotions"
+          }
+        },
+        {
+          "label": "Other MOE - Cultural and Heritage Promotion Activities",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-5-02-99-990-6",
+            "project": "Other MOE - Cultural and Heritage Promotion Activities",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 225000,
+            "mooe": 225000,
+            "co": null,
+            "remarks": "Cultural and Heritage Promotion Activities of Tourism's Office"
+          }
+        },
+        {
+          "label": "Installation of Drainage at Brgy. Poblacion, Lapu-Lapu City",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "9999-1-07-03-020-25S2",
+            "project": "Installation of Drainage at Brgy. Poblacion, Lapu-Lapu City",
+            "endUser": "Local Development Project",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/29/2025",
+            "submission": "9/16/2025",
+            "noticeOfAward": "9/30/2025",
+            "contractSigning": "10/10/2025",
+            "fundSource": "General Fund",
+            "total": 11000000,
+            "mooe": null,
+            "co": 11000000,
+            "remarks": "Installation of Drainage for Brgy. Poblacion, Lapu-Lapu City Use."
+          }
+        },
+        {
+          "label": "Drugs and Medicine - Non-communicable diseases medicines",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-5-02-03-070-2",
+            "project": "Drugs and Medicine - Non-communicable diseases medicines",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "10/7/2025",
+            "submission": "10/28/2025",
+            "noticeOfAward": "11/11/2025",
+            "contractSigning": "11/14/2025",
+            "fundSource": "General Fund",
+            "total": 10000000,
+            "mooe": 10000000,
+            "co": null,
+            "remarks": "To Procure of Drugs and Medicines for the LLC Hospitals."
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Buildings and Other Structure",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-5-02-13-040",
+            "project": "Repair and Maintenance - Buildings and Other Structure",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 600000,
+            "mooe": 600000,
+            "co": null,
+            "remarks": "Repair and Maintenance of Buildings and Other Structure of LLC Hospital"
+          }
+        },
+        {
+          "label": "Purchase and Installation of Two (2) Units 6.0HP Floor Standing Type Inverter Air-condition",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-020-25S2",
+            "project": "Purchase and Installation of Two (2) Units 6.0HP Floor Standing Type Inverter Air-condition",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/2/2025",
+            "submission": "-",
+            "noticeOfAward": "8/14/2025",
+            "contractSigning": "8/19/2025",
+            "fundSource": "General Fund",
+            "total": 538400,
+            "mooe": null,
+            "co": 538400,
+            "remarks": "Purchase and Installation of 6.0HP Floor Standing Type Inverter Air-condition for LLC Hospital."
+          }
+        },
+        {
+          "label": "Purchase of Two (2) Units LCD TV with heavy duty wall mounted movable bracket with Installation",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-02025-S3",
+            "project": "Purchase of Two (2) Units LCD TV with heavy duty wall mounted movable bracket with Installation",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/28/2025",
+            "submission": "-",
+            "noticeOfAward": "9/8/2025",
+            "contractSigning": "9/12/2025",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "Purchase and Installation of LCD TV with heavy duty wall mounted movable bracket for LLC Hospital"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Heavy Duty Photocopier, Printer, Scanner",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-030-25S3",
+            "project": "Purchase of One (1) Unit Heavy Duty Photocopier, Printer, Scanner",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/30/2025",
+            "submission": "-",
+            "noticeOfAward": "9/15/2025",
+            "contractSigning": "9/18/2025",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "Purchase of Heavy Duty Photocopier, Printer, Scanner of LLC Hospital."
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Fast Cycle Instruments Sterilizer with Tray",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-110-25S2",
+            "project": "Purchase of One (1) Unit Fast Cycle Instruments Sterilizer with Tray",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/12/2025",
+            "submission": "9/2/2025",
+            "noticeOfAward": "9/10/2025",
+            "contractSigning": "9/15/2025",
+            "fundSource": "General Fund",
+            "total": 1800000,
+            "mooe": null,
+            "co": 1800000,
+            "remarks": "Purchase of Fast Cycle Instruments Sterilizer with Tray of LLC Hospital"
+          }
+        },
+        {
+          "label": "Purchase of One Unit X-Ray Machine with C-Arm",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-110-25S3",
+            "project": "Purchase of One Unit X-Ray Machine with C-Arm",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/27/2025",
+            "submission": "9/16/2025",
+            "noticeOfAward": "9/24/2025",
+            "contractSigning": "9/29/2025",
+            "fundSource": "General Fund",
+            "total": 16300000,
+            "mooe": null,
+            "co": 16300000,
+            "remarks": "Purchase of X-Ray Machine with C-Arm of LLC Hospital"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials - Two (2) Units Tablets",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-5-02-03-990-4",
+            "project": "Other Supplies and Materials - Two (2) Units Tablets",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/2/2025",
+            "submission": "-",
+            "noticeOfAward": "10/13/2025",
+            "contractSigning": "10/16/2025",
+            "fundSource": "General Fund",
+            "total": 60000,
+            "mooe": 60000,
+            "co": null,
+            "remarks": "Tablet for City Mayor's Office Use."
+          }
+        },
+        {
+          "label": "Other Supplies and Materials - Fifty Five (55) units Tents",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-5-02-03-990-5",
+            "project": "Other Supplies and Materials - Fifty Five (55) units Tents",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "8/27/2025",
+            "submission": "9/16/2025",
+            "noticeOfAward": "9/23/2025",
+            "contractSigning": "9/26/2025",
+            "fundSource": "General Fund",
+            "total": 2500000,
+            "mooe": 2500000,
+            "co": null,
+            "remarks": "Tent Of City Mayor's Office"
+          }
+        },
+        {
+          "label": "Purchase of Sound System and Meeting Screen (TV)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-020-25S3",
+            "project": "Purchase of Sound System and Meeting Screen (TV)",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "10/14/2025",
+            "submission": "10/28/2025",
+            "noticeOfAward": "11/13/2025",
+            "contractSigning": "11/18/2025",
+            "fundSource": "General Fund",
+            "total": 950000,
+            "mooe": null,
+            "co": 950000,
+            "remarks": "Purchase of Sound System and Meeting Screen (TV) for City Mayor's Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Split type 2HP Inverter Aircon with Installation, Labor and Materials for",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-020-25S4",
+            "project": "Purchase of One (1) Unit Split type 2HP Inverter Aircon with Installation, Labor and Materials for",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/17/2025",
+            "submission": "-",
+            "noticeOfAward": "11/5/2025",
+            "contractSigning": "11/10/2025",
+            "fundSource": "General Fund",
+            "total": 75000,
+            "mooe": null,
+            "co": 75000,
+            "remarks": "Purchase of One (1) Unit Split type 2HP Inverter Aircon for City Mayor's Office."
+          }
+        },
+        {
+          "label": "Purchase of One Unit Laptop",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-030-25S3",
+            "project": "Purchase of One Unit Laptop",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/2/2025",
+            "submission": "-",
+            "noticeOfAward": "10/13/2025",
+            "contractSigning": "10/16/2025",
+            "fundSource": "General Fund",
+            "total": 100000,
+            "mooe": null,
+            "co": 100000,
+            "remarks": "Purchase of One Unit Laptop to be use in City Mayor's Office."
+          }
+        },
+        {
+          "label": "Purchase of Biometric Door Access",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-100-25S2",
+            "project": "Purchase of Biometric Door Access",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "8/30/2025",
+            "submission": "-",
+            "noticeOfAward": "9/15/2025",
+            "contractSigning": "9/18/2025",
+            "fundSource": "General Fund",
+            "total": 250000,
+            "mooe": null,
+            "co": 250000,
+            "remarks": "Purchase of Biometric Door Access to be Use in City Mayor's Office"
+          }
+        },
+        {
+          "label": "Other MOE - Visayas ICT Conference",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-15-5-02-99-990-4",
+            "project": "Other MOE - Visayas ICT Conference",
+            "endUser": "IT Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 1805000,
+            "mooe": 1805000,
+            "co": null,
+            "remarks": "Other MOE - Visayas ICT Conference"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Wall Mounted 1.5HP Inverter Type Aircondition Unit with Installation, labor and materials",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1021-1-07-05-020-25S3",
+            "project": "Purchase of One (1) Unit Wall Mounted 1.5HP Inverter Type Aircondition Unit with Installation, labor and materials",
+            "endUser": "Office of the SP",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "9/19/2025",
+            "submission": "-",
+            "noticeOfAward": "10/2/2025",
+            "contractSigning": "10/7/2025",
+            "fundSource": "General Fund",
+            "total": 65000,
+            "mooe": null,
+            "co": 65000,
+            "remarks": "Purchase of Wall Mounted 1.5HP Inverter Type Aircondition Unit with Installation, labor and materials for SP Office"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Wall Mounted 1.5HP Inverter Type Aircondition Unit with Installation, labor and materials",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1022-1-07-05-020-25S2",
+            "project": "Purchase of One (1) Unit Wall Mounted 1.5HP Inverter Type Aircondition Unit with Installation, labor and materials",
+            "endUser": "Office of the SP Secretary",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "9/19/2025",
+            "submission": "-",
+            "noticeOfAward": "10/2/2025",
+            "contractSigning": "10/7/2025",
+            "fundSource": "General Fund",
+            "total": 65000,
+            "mooe": null,
+            "co": 65000,
+            "remarks": "Purchase of Wall Mounted 1.5HP Inverter Type Aircondition Unit with Installation, labor and materials for SP Office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Floor Mounted 6.0HP Inverter Type Aircondition Unit with Installation, labor and materials",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1022-1-07-05-02025S3",
+            "project": "Purchase of One (1) Unit Floor Mounted 6.0HP Inverter Type Aircondition Unit with Installation, labor and materials",
+            "endUser": "Office of the SP Secretary",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "9/19/2025",
+            "submission": "-",
+            "noticeOfAward": "11/3/2025",
+            "contractSigning": "11/6/2025",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": null,
+            "co": 200000,
+            "remarks": "Purchase of Floor Mounted 6.0HP Inverter Type Aircondition Unit with Installation, labor and materials for SP Secretery's Office."
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Multifunction Color Printer",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1071-1-07-05-030-25S4",
+            "project": "Purchase of One (1) Unit Multifunction Color Printer",
+            "endUser": "City Budget Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/2/2025",
+            "submission": "-",
+            "noticeOfAward": "10/13/2025",
+            "contractSigning": "10/16/2025",
+            "fundSource": "General Fund",
+            "total": 370000,
+            "mooe": null,
+            "co": 370000,
+            "remarks": "Purchase of Multifunction Color Printer for City Budget's Office"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-5-02-03-990",
+            "project": "Other Supplies and Materials Expenses",
+            "endUser": "City Treasurer's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.10",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 4000000,
+            "mooe": 4000000,
+            "co": null,
+            "remarks": "Other Supplies and Materials Expenses"
+          }
+        },
+        {
+          "label": "Other MOE - Election Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1091-5-02-99-990-4",
+            "project": "Other MOE - Election Expenses",
+            "endUser": "City Treasurer's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.11",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 6000000,
+            "mooe": 6000000,
+            "co": null,
+            "remarks": "Other MOE - Election Expenses"
+          }
+        },
+        {
+          "label": "Other MOE - National and Local Commemoration/Celebration",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-5-02-99-990-1",
+            "project": "Other MOE - National and Local Commemoration/Celebration",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.12",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 1500000,
+            "mooe": 1500000,
+            "co": null,
+            "remarks": "Other MOE - National and Local Commemoration/Celebration"
+          }
+        },
+        {
+          "label": "Purchase of One Unit Floor Mounted Type 6.0HP Inverter Aircon with Supply Materials and Labor",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-1-07-05-020-25S2",
+            "project": "Purchase of One Unit Floor Mounted Type 6.0HP Inverter Aircon with Supply Materials and Labor",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "9/5/2025",
+            "submission": "-",
+            "noticeOfAward": "9/19/2025",
+            "contractSigning": "9/24/2025",
+            "fundSource": "General Fund",
+            "total": 282562,
+            "mooe": null,
+            "co": 282562,
+            "remarks": "Purchase of Floor Mounted Type 6.0HP Inverter Aircon with Supply Materials and Labor of City Tourism"
+          }
+        },
+        {
+          "label": "Purchase of Twelve (12) Unit Laptops",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-1-07-05-030-25S2",
+            "project": "Purchase of Twelve (12) Unit Laptops",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "9/16/2025",
+            "submission": "-",
+            "noticeOfAward": "9/25/2025",
+            "contractSigning": "9/29/2025",
+            "fundSource": "General Fund",
+            "total": 900000,
+            "mooe": null,
+            "co": 900000,
+            "remarks": "Purchase of Laptops for Tourism's Office"
+          }
+        },
+        {
+          "label": "Office Furnitures and Fixtures",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8852-1-07-07-010-25S1",
+            "project": "Office Furnitures and Fixtures",
+            "endUser": "City Tourism Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "9/15/2025",
+            "submission": "-",
+            "noticeOfAward": "10/1/2025",
+            "contractSigning": "10/6/2025",
+            "fundSource": "General Fund",
+            "total": 658000,
+            "mooe": null,
+            "co": 658000,
+            "remarks": "Office Furnitures and Fixtures"
+          }
+        },
+        {
+          "label": "Purchase of Two (2) Units LED Wall 9x12 and 16x12 with Installation and accessories",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1011-1-07-05-020-25S5",
+            "project": "Purchase of Two (2) Units LED Wall 9x12 and 16x12 with Installation and accessories",
+            "endUser": "City Mayor's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "10/21/2025",
+            "submission": "11/11/2025",
+            "noticeOfAward": "12/1/2025",
+            "contractSigning": "12/4/2025",
+            "fundSource": "General Fund",
+            "total": 5800000,
+            "mooe": null,
+            "co": 5800000,
+            "remarks": "Purchase of LED Wall 9x12 and 16x12 with Installation and accessories"
+          }
+        },
+        {
+          "label": "Office Equipment - One Unit 3.0HP Wall Mounted, Inverter Type Air Conditioning with Supply, delivery",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1031-1-07-05-020-25S1",
+            "project": "Office Equipment - One Unit 3.0HP Wall Mounted, Inverter Type Air Conditioning with Supply, delivery",
+            "endUser": "City Administrator's Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/11/2025",
+            "submission": "-",
+            "noticeOfAward": "10/23/2025",
+            "contractSigning": "10/28/2025",
+            "fundSource": "General Fund",
+            "total": 95000,
+            "mooe": null,
+            "co": 95000,
+            "remarks": "Purchase of 3.0HP Wall Mounted, Inverter Type Air Conditioning with Supply, delivery"
+          }
+        },
+        {
+          "label": "Other MOE - Residual Waste",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-99-990-2",
+            "project": "Other MOE - Residual Waste",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "adPosting": "-",
+            "submission": "-",
+            "noticeOfAward": "11/19/2025",
+            "contractSigning": "11/20/2025",
+            "fundSource": "General Fund",
+            "total": 17300000,
+            "mooe": 17300000,
+            "co": null,
+            "remarks": "Other MOE - Residual Waste"
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Machinery and Equipment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-13-050",
+            "project": "Repair and Maintenance - Machinery and Equipment",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Repair and Maintenance - Machinery and Equipment"
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Transportation Equipment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-13-060",
+            "project": "Repair and Maintenance - Transportation Equipment",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 3000000,
+            "mooe": 3000000,
+            "co": null,
+            "remarks": "Repair and Maintenance - Transportation Equipment"
+          }
+        },
+        {
+          "label": "Office Equipment - One (1) Unit Paper Shredder",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1071-1-07-05-020-25S2",
+            "project": "Office Equipment - One (1) Unit Paper Shredder",
+            "endUser": "City Budget Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/21/2025",
+            "submission": "-",
+            "noticeOfAward": "11/3/2025",
+            "contractSigning": "11/6/2025",
+            "fundSource": "General Fund",
+            "total": 90000,
+            "mooe": null,
+            "co": 90000,
+            "remarks": "Purchase of Paper Shredder for City Budget's Office"
+          }
+        },
+        {
+          "label": "Drugs and Medicine Expenses for Rabies Eradication Project",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8721-5-02-03-040-2",
+            "project": "Drugs and Medicine Expenses for Rabies Eradication Project",
+            "endUser": "City Veterinarian's Office",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "10/28/2025",
+            "submission": "11/18/2025",
+            "noticeOfAward": "12/1/2025",
+            "contractSigning": "12/4/2025",
+            "fundSource": "General Fund",
+            "total": 5000000,
+            "mooe": 5000000,
+            "co": null,
+            "remarks": "Drugs and Medicine Expenses for Rabies Eradication Project"
+          }
+        },
+        {
+          "label": "Repairs and Maintenance - Infrastructure Assets",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8751-5-02-13-030",
+            "project": "Repairs and Maintenance - Infrastructure Assets",
+            "endUser": "City Engineering Office",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 1000000,
+            "mooe": 1000000,
+            "co": null,
+            "remarks": "Repairs and Maintenance - Infrastructure Assets"
+          }
+        },
+        {
+          "label": "Drugs and Medicine",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-03-070",
+            "project": "Drugs and Medicine",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": "11/3/2025",
+            "submission": "11/25/2025",
+            "noticeOfAward": "12/1/2025",
+            "contractSigning": "12/4/2025",
+            "fundSource": "General Fund",
+            "total": 2000000,
+            "mooe": 2000000,
+            "co": null,
+            "remarks": "To Procure Drugs and Medicine to be distibuted in Sta. Rosa Community Hospital"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-03-990",
+            "project": "Other Supplies and Materials Expenses",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/22/2025",
+            "submission": "-",
+            "noticeOfAward": "11/10/2025",
+            "contractSigning": "11/13/2025",
+            "fundSource": "General Fund",
+            "total": 200000,
+            "mooe": 200000,
+            "co": null,
+            "remarks": "Other Supplies and Materials Expenses"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses - Fifteen (15) Units Wall Fan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-03-990-2",
+            "project": "Other Supplies and Materials Expenses - Fifteen (15) Units Wall Fan",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/23/2025",
+            "submission": "-",
+            "noticeOfAward": "11/10/2025",
+            "contractSigning": "11/13/2025",
+            "fundSource": "General Fund",
+            "total": 37500,
+            "mooe": 37500,
+            "co": null,
+            "remarks": "Purchase of Wall Fan for SRCH."
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses - Ten (10) Units Stand Fan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-03-990-3",
+            "project": "Other Supplies and Materials Expenses - Ten (10) Units Stand Fan",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/23/2025",
+            "submission": "-",
+            "noticeOfAward": "11/10/2025",
+            "contractSigning": "11/13/2025",
+            "fundSource": "General Fund",
+            "total": 45000,
+            "mooe": 45000,
+            "co": null,
+            "remarks": "Purchase of Stand Fan for SRCH"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses - Three (3) Units Industrial Fan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-03-990-4",
+            "project": "Other Supplies and Materials Expenses - Three (3) Units Industrial Fan",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/25/2025",
+            "submission": "-",
+            "noticeOfAward": "11/10/2025",
+            "contractSigning": "11/13/2025",
+            "fundSource": "General Fund",
+            "total": 82500,
+            "mooe": 82500,
+            "co": null,
+            "remarks": "Purcahse of Industrial Fan for SRCH"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses - Five (5) Units Boltless Metal Rack",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-5-02-03-990-5",
+            "project": "Other Supplies and Materials Expenses - Five (5) Units Boltless Metal Rack",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "10/23/2025",
+            "submission": "-",
+            "noticeOfAward": "11/10/2025",
+            "contractSigning": "11/13/2025",
+            "fundSource": "General Fund",
+            "total": 42500,
+            "mooe": 42500,
+            "co": null,
+            "remarks": "Purchase of Boltless Metal Rack for SRCH"
+          }
+        },
+        {
+          "label": "Office Equipment - Four (4) Units 2.0 Split Type Inverter Air-condition with Supply of Labor and Installation",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-1-07-05-020-25S1",
+            "project": "Office Equipment - Four (4) Units 2.0 Split Type Inverter Air-condition with Supply of Labor and Installation",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "12/11/2025",
+            "submission": "-",
+            "noticeOfAward": "12/19/2025",
+            "contractSigning": "12/22/2025",
+            "fundSource": "General Fund",
+            "total": 280000,
+            "mooe": null,
+            "co": 280000,
+            "remarks": "Purchase and Installation 2.0 Split Type Inverter Air-condition for SRCH"
+          }
+        },
+        {
+          "label": "Office Equipment - Four (4) Units 1.5 Window Type Air-condition with Supply of Labor and Installation",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-2-1-07-05-020-25S2",
+            "project": "Office Equipment - Four (4) Units 1.5 Window Type Air-condition with Supply of Labor and Installation",
+            "endUser": "Sta. Rosa Community Hospital",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "12/11/2025",
+            "submission": "-",
+            "noticeOfAward": "12/19/2025",
+            "contractSigning": "12/22/2025",
+            "fundSource": "General Fund",
+            "total": 160000,
+            "mooe": null,
+            "co": 160000,
+            "remarks": "Purchase and Installation 1.5 Window Type Air-condition"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "8811-5-02-03-990",
+            "project": "Other Supplies and Materials Expenses",
+            "endUser": "Market and Slaughterhouse",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.10",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 150000,
+            "mooe": 150000,
+            "co": null,
+            "remarks": "Other Supplies and Materials Expenses"
+          }
+        },
+        {
+          "label": "Medical, Dental, Laboratory Supplies Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-5-02-03-080",
+            "project": "Medical, Dental, Laboratory Supplies Expenses",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 1900000,
+            "mooe": 1900000,
+            "co": null,
+            "remarks": "Medical, Dental, Laboratory Supplies Expenses"
+          }
+        },
+        {
+          "label": "Medical and Laboratory Supplies Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-5-02-03-080-3",
+            "project": "Medical and Laboratory Supplies Expenses",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.10",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 1200000,
+            "mooe": 1200000,
+            "co": null,
+            "remarks": "Medical and Laboratory Supplies Expenses"
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-5-02-03-990",
+            "project": "Other Supplies and Materials Expenses",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.10",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 350000,
+            "mooe": 350000,
+            "co": null,
+            "remarks": "Other Supplies and Materials Expenses"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Patient Monitor",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-110-25S4",
+            "project": "Purchase of One (1) Unit Patient Monitor",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "NP-SV Proc. Sec 53.9",
+            "adPosting": "1/15/2026",
+            "submission": "-",
+            "noticeOfAward": "on-going",
+            "contractSigning": null,
+            "fundSource": "General Fund",
+            "total": 847500,
+            "mooe": null,
+            "co": 847500,
+            "remarks": "Purchase of Patient Monitor for LLCH"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Orthopedic Operating Table with accessories",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "4421-1-1-07-05-110-25S5",
+            "project": "Purchase of One (1) Unit Orthopedic Operating Table with accessories",
+            "endUser": "LLCH",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding",
+            "adPosting": null,
+            "submission": null,
+            "noticeOfAward": "on-going",
+            "contractSigning": null,
+            "fundSource": "General Fund",
+            "total": 3400000,
+            "mooe": null,
+            "co": 3400000,
+            "remarks": "Purchase of Orthopedic Operating Table with accessories For LLCH"
+          }
+        },
+        {
+          "label": "Other MOE - Residual Wastes",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "code": "1061-5-02-99-990-2",
+            "project": "Other MOE - Residual Wastes",
+            "endUser": "CGSO",
+            "earlyProcurement": "NO",
+            "mode": "Competitive Bidding / NP-SV Proc. Sec 53.9",
+            "adPosting": "various dates",
+            "submission": "various dates",
+            "noticeOfAward": "various dates",
+            "contractSigning": "various dates",
+            "fundSource": "General Fund",
+            "total": 4600000,
+            "mooe": 4600000,
+            "co": null,
+            "remarks": "Other MOE - Residual Wastes"
+          }
+        }
+      ]
+    },
+    {
+      "key": "summaryByOffice",
+      "title": "Supplemental Procurement Plan - Summary by Office (FDPP Form 14b)",
+      "columns": [
+        {
+          "key": "department",
+          "label": "Department",
+          "type": "text"
+        },
+        {
+          "key": "head",
+          "label": "Head of Department / Office",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "City General Services Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City General Services Office",
+            "head": "Mr. Ronaldo D. Malacora",
+            "totalCost": 27900000
+          }
+        },
+        {
+          "label": "City Administrator's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Administrator's Office",
+            "head": "Atty. Danilo E. Almendras",
+            "totalCost": 95000
+          }
+        },
+        {
+          "label": "City Budget Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Budget Office",
+            "head": "Ms. Judith D. Furuta",
+            "totalCost": 720000
+          }
+        },
+        {
+          "label": "City Engineer's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Engineer's Office",
+            "head": "Engr. Perla T. Amar",
+            "totalCost": 32100000
+          }
+        },
+        {
+          "label": "City Health Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Health Office",
+            "head": "Dr. Ashley V. Espedido",
+            "totalCost": 15000000
+          }
+        },
+        {
+          "label": "City Mayor's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Mayor's Office",
+            "head": "Hon. Ma. Cynthia K. Chan",
+            "totalCost": 31925000
+          }
+        },
+        {
+          "label": "City Prosecutor's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Prosecutor's Office",
+            "head": "Atty. Jude Henritz R. Ycong",
+            "totalCost": 310000
+          }
+        },
+        {
+          "label": "City Tourism Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Tourism Office",
+            "head": "Mr. Garry B. Lao",
+            "totalCost": 11964462
+          }
+        },
+        {
+          "label": "City Treasurer's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Treasurer's Office",
+            "head": "Ms. Claire V. Cabalda, REB, MPA",
+            "totalCost": 13200000
+          }
+        },
+        {
+          "label": "City Veterinarian's Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "City Veterinarian's Office",
+            "head": "Dr. Janice D. Togonon",
+            "totalCost": 5000000
+          }
+        },
+        {
+          "label": "CSWDO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO",
+            "head": "Ms. Maria Sheila C. Baylosis",
+            "totalCost": 180102000
+          }
+        },
+        {
+          "label": "Hoops Dome",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Hoops Dome",
+            "head": "Engr. Sharon A. Baguio",
+            "totalCost": 4440000
+          }
+        },
+        {
+          "label": "IT Office",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "IT Office",
+            "head": "Mr. Louie P. De Los Santos",
+            "totalCost": 1805000
+          }
+        },
+        {
+          "label": "LDRRMO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LDRRMO",
+            "head": "Mr. Nagiel B. Bañacia",
+            "totalCost": 2000000
+          }
+        },
+        {
+          "label": "LLCH",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LLCH",
+            "head": "Dr. Lynart Kevin R. Omnes",
+            "totalCost": 37335900
+          }
+        },
+        {
+          "label": "Local Civil Registry",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Local Civil Registry",
+            "head": "Ms. Melissa P. Agusto",
+            "totalCost": 140000
+          }
+        },
+        {
+          "label": "Local Development Project",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Local Development Project",
+            "head": "Hon. Ma. Cynthia K. Chan",
+            "totalCost": 11000000
+          }
+        },
+        {
+          "label": "Market and Slaughterhouse",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Market and Slaughterhouse",
+            "head": "Ms. Maria Elena G. Caballes",
+            "totalCost": 150000
+          }
+        },
+        {
+          "label": "Office of the SP",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Office of the SP",
+            "head": "Dr. Celedonio B. Sitoy",
+            "totalCost": 1565000
+          }
+        },
+        {
+          "label": "Office of the SP Secretary",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Office of the SP Secretary",
+            "head": "Ms. Myra A. Ycong",
+            "totalCost": 265000
+          }
+        },
+        {
+          "label": "Sta. Rosa Community Hospital",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Sta. Rosa Community Hospital",
+            "head": "Dr. Joel B. Semblante",
+            "totalCost": 2847500
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": null
+  },
+  "notes": [
+    "Pages 1-3 hold the Form 14a item list (79 items, no office grouping, subtotals or grand total). Page 4 (printed sideways) is the Form 14b summary by office, transcribed as table summaryByOffice. No grand total is printed, so summary.total is null.",
+    "Item totals summed per PMO/End-User match every printed office total on the summary page (CSWDO = CSWDO-OSCA + CSWDO-PDAO; City Engineer's Office includes the one row whose end-user is printed \"City Engineering Office\").",
+    "Schedule cells are copied as printed: \"various dates\", dates as M/D/YYYY text, \"on-going\", and a printed dash/long dash recorded as \"-\"; empty cells are null. Some dates look inconsistent on the form (e.g. the first item's advertisement date 7/17/2026 precedes a 8/4/2025 notice of award; the Ambulatory Surgical Clinic row shows advertisement 12/5/2025 but bid opening 10/14/2025); transcribed as printed.",
+    "Region/Province/City fields are blank on the Form 14a pages; the summary page reads VII / CEBU / LAPU-LAPU CITY."
+  ],
+  "unreadable": []
+}

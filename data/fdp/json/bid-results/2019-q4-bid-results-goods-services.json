@@ -1,0 +1,666 @@
+{
+  "id": "2019-q4-bid-results-goods-services",
+  "type": "bid-results",
+  "title": "Bid Results on Goods and Services",
+  "form": "FDP Form 10b",
+  "period": {
+    "year": 2019,
+    "quarter": 4,
+    "asOf": "2019-12-31",
+    "printed": "FOURTH QUARTER CALENDAR YEAR 2019",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Cleofe A. Amores",
+      "position": "BAC Secretariat"
+    },
+    {
+      "name": "Atty. James Allan Sayson",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "goodsServices",
+      "title": "GOODS AND SERVICES BID OUT (City of Lapu-Lapu, Fourth Quarter, Calendar Year 2019)",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "Reference NO",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for the Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name of Address of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Drugs and Medicines",
+          "kind": "item",
+          "values": {
+            "refNo": "19-08-1807",
+            "description": "Drugs and Medicines",
+            "abc": 7134527,
+            "bidder": "Pharmaceutica Filipina De visayas",
+            "bidderNormalized": "PHARMACEUTICA FILIPINA DE VISAYAS",
+            "bidderAddress": "Nivel Hills Lahug , Cebu city",
+            "bidAmount": 6900593.44,
+            "biddingDate": "2019-11-05"
+          }
+        },
+        {
+          "label": "Purified Rabiew Vaccines",
+          "kind": "item",
+          "values": {
+            "refNo": "19-09-1906",
+            "description": "Purified Rabiew Vaccines",
+            "abc": 1229300,
+            "bidder": "Pharma-Surrey International",
+            "bidderNormalized": "PHARMA-SURREY INTERNATIONAL",
+            "bidderAddress": "Sta. Mesa Heights, Quezon City",
+            "bidAmount": 1164600,
+            "biddingDate": "2019-11-05"
+          }
+        },
+        {
+          "label": "Health Care Waste Disposal",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2193",
+            "description": "Health Care Waste Disposal",
+            "abc": 799995,
+            "bidder": "Pollution Abatement System",
+            "bidderNormalized": "POLLUTION ABATEMENT SYSTEM",
+            "bidderAddress": "D. Jakolsalem St., Cebu City",
+            "bidAmount": 799995,
+            "biddingDate": "2019-11-05"
+          }
+        },
+        {
+          "label": "Water Storage Tank Rain Collector",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2149",
+            "description": "Water Storage Tank Rain Collector",
+            "abc": 5000000,
+            "bidder": "INCA PHILS. INC.",
+            "bidderNormalized": "INCA PHILIPPINES, INC.",
+            "bidderAddress": "Muntinlupa City",
+            "bidAmount": null,
+            "biddingDate": "2019-11-05"
+          }
+        },
+        {
+          "label": "Contraceptives",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2144",
+            "description": "Contraceptives",
+            "abc": 1999050,
+            "bidder": "ACE Medical Solutions, Inc.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "North Recl. Subangdako, Mandaue",
+            "bidAmount": 1680800,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Cyfluthrin & Deltamethrin",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2209",
+            "description": "Cyfluthrin & Deltamethrin",
+            "abc": 1112500,
+            "bidder": "4A Agro Science Corp.",
+            "bidderNormalized": "4A AGRO SCIENCE CORP.",
+            "bidderAddress": "A. C. Cortes Ave., Ibabao, Mandaue",
+            "bidAmount": 1112500,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "1 unit Heavy duty Rescue Truck",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2015",
+            "description": "1 unit Heavy duty Rescue Truck",
+            "abc": 19000000,
+            "bidder": "Pasajeo Motors Corp.",
+            "bidderNormalized": "PASAJERO MOTORS CORPORATION",
+            "bidderAddress": "A. S. Fortuna St., Banilad, Mandaue",
+            "bidAmount": 18880000,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Professional Digital Repeater System",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-1111",
+            "description": "Professional Digital Repeater System",
+            "abc": 5600000,
+            "bidder": "MM & S Enterprises",
+            "bidderNormalized": "MM & S ENTERPRISES",
+            "bidderAddress": "Bonifacio St., Banilad, Cebu City",
+            "bidAmount": 5550000,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Double Cab Pick-Up",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2146",
+            "description": "Double Cab Pick-Up",
+            "abc": 4000000,
+            "bidder": "Genesis Motors Corp.",
+            "bidderNormalized": "GENESIS MOTORS CORPORATION",
+            "bidderAddress": "Highway, Ibabao, Mandaue City",
+            "bidAmount": 3936000,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Doppler Ultrasound System",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2167",
+            "description": "Doppler Ultrasound System",
+            "abc": 4500000,
+            "bidder": "Easa Pharma Distribution",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "Sambag I, Cebu City",
+            "bidAmount": 4380888,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "50 units Steel Filing Cabinet",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2166",
+            "description": "50 units Steel Filing Cabinet",
+            "abc": 687000,
+            "bidder": "United Automart",
+            "bidderNormalized": "UNITED AUTOMART",
+            "bidderAddress": "189 Leon Kilat St., Cebu City",
+            "bidAmount": 685000,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "1 unit High-End dental Chair",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2373",
+            "description": "1 unit High-End dental Chair",
+            "abc": 645000,
+            "bidder": "Cebu Far Eastern Drug, Inc.",
+            "bidderNormalized": "CEBU FAR EASTERN DRUG, INC.",
+            "bidderAddress": "Osmena Blvd., Cebu City",
+            "bidAmount": 638000,
+            "biddingDate": "2019-03-26"
+          }
+        },
+        {
+          "label": "Snacks",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2183",
+            "description": "Snacks",
+            "abc": 300000,
+            "bidder": "Bright Star Industries, Inc.",
+            "bidderNormalized": "BRIGHT STAR INDUSTRIES, INC.",
+            "bidderAddress": "Plaridel St., Ermita, Cebu City",
+            "bidAmount": 300000,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Meals",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2109",
+            "description": "Meals",
+            "abc": 711500,
+            "bidder": "Bright Star Industries, Inc.",
+            "bidderNormalized": "BRIGHT STAR INDUSTRIES, INC.",
+            "bidderAddress": "Plaridel St., Ermita, Cebu City",
+            "bidAmount": 909650,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Delivery Van Stickers",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2019",
+            "description": "Delivery Van Stickers",
+            "abc": 1200000,
+            "bidder": "Power Plates Dev't. Concepts",
+            "bidderNormalized": "POWER PLATES DEV'T. CONCEPTS",
+            "bidderAddress": "Ibarra St., Sampaloc, Manila",
+            "bidAmount": 1200000,
+            "biddingDate": "2019-11-19"
+          }
+        },
+        {
+          "label": "Medical Supplies",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2311",
+            "description": "Medical Supplies",
+            "abc": 2702300,
+            "bidder": "Easa Pharma Distribution",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "Sambag I, Cebu City",
+            "bidAmount": 2697700,
+            "biddingDate": "2019-11-26"
+          }
+        },
+        {
+          "label": "40 units Hospital Bed",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2439",
+            "description": "40 units Hospital Bed",
+            "abc": 1400000,
+            "bidder": "ACE Medical Solutions, Inc.",
+            "bidderNormalized": "ACE MEDICAL SOLUTIONS, INC.",
+            "bidderAddress": "North Recl. Subangdako, Mandaue",
+            "bidAmount": 1200000,
+            "biddingDate": "2019-11-26"
+          }
+        },
+        {
+          "label": "1 unit Electric Generator Set",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2159",
+            "description": "1 unit Electric Generator Set",
+            "abc": 1500000,
+            "bidder": "United Automart",
+            "bidderNormalized": "UNITED AUTOMART",
+            "bidderAddress": "189 Leon Kilat St., Cebu City",
+            "bidAmount": 1495000,
+            "biddingDate": "2019-11-26"
+          }
+        },
+        {
+          "label": "Interactive Education Package",
+          "kind": "item",
+          "values": {
+            "refNo": "19-07-1603",
+            "description": "Interactive Education Package",
+            "abc": 44100000,
+            "bidder": "Vicarish Publication Trading, Inc.",
+            "bidderNormalized": "VICARISH PUBLICATIONS & TRADING INC.",
+            "bidderAddress": "Sta. Ana, Manila",
+            "bidAmount": 44097300,
+            "biddingDate": "2019-11-26"
+          }
+        },
+        {
+          "label": "Textbooks",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2283",
+            "description": "Textbooks",
+            "abc": 4159000,
+            "bidder": "Rex Bookstore Inc.",
+            "bidderNormalized": "REX BOOKSTORE INC.",
+            "bidderAddress": "11 Sancaingko St., Cebu City",
+            "bidAmount": 4195000,
+            "biddingDate": "2019-12-03"
+          }
+        },
+        {
+          "label": "Laboratory Information System",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2258",
+            "description": "Laboratory Information System",
+            "abc": 2800000,
+            "bidder": "Easa Pharma Distribution",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "Sambag I, Cebu City",
+            "bidAmount": 2788000,
+            "biddingDate": "2019-12-03"
+          }
+        },
+        {
+          "label": "Raincoat & Rainboots",
+          "kind": "item",
+          "values": {
+            "refNo": "19-11-2642",
+            "description": "Raincoat & Rainboots",
+            "abc": 435000,
+            "bidder": "Krypton Int'l. Resources Sale",
+            "bidderNormalized": "KRYPTON INT'L. RESOURCES SALE",
+            "bidderAddress": "Hi-way Tipolo, Mandaue City",
+            "bidAmount": 432000,
+            "biddingDate": "2019-12-03"
+          }
+        },
+        {
+          "label": "Office Furniture",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2553",
+            "description": "Office Furniture",
+            "abc": 983638.79,
+            "bidder": "Gela Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderAddress": "F. Llamas St., Punta Pricesa, Cebu",
+            "bidAmount": 981500,
+            "biddingDate": "2019-12-03"
+          }
+        },
+        {
+          "label": "Traffic Supplies & Accessories",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2237",
+            "description": "Traffic Supplies & Accessories",
+            "abc": 1495461.05,
+            "bidder": "DML's Trading",
+            "bidderNormalized": "DML'S TRADING",
+            "bidderAddress": "Cabancalan, Mandaue City",
+            "bidAmount": 1495350,
+            "biddingDate": "2019-12-10"
+          }
+        },
+        {
+          "label": "X'Ray Machine with Portable X-ray Mach",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2438",
+            "description": "X'Ray Machine with Portable X-ray Mach",
+            "abc": 6800000,
+            "bidder": "Easa Pharma Distribution",
+            "bidderNormalized": "EASA PHARMA DISTRIBUTION",
+            "bidderAddress": "Sambag I, Cebu City",
+            "bidAmount": 6780000,
+            "biddingDate": "2019-12-10"
+          }
+        },
+        {
+          "label": "Sports Uniform",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2282",
+            "description": "Sports Uniform",
+            "abc": 2580617.4,
+            "bidder": "Panalay Tailoring",
+            "bidderNormalized": "PANALAY TAILORING",
+            "bidderAddress": "Talisay, Cebu",
+            "bidAmount": 2057850,
+            "biddingDate": "2019-12-10"
+          }
+        },
+        {
+          "label": "6 sets Diving Gear",
+          "kind": "item",
+          "values": {
+            "refNo": "19-10-2537",
+            "description": "6 sets Diving Gear",
+            "abc": 999944,
+            "bidder": "Cebu Ernbri Import, Inc.",
+            "bidderNormalized": "CEBU ERNBRI IMPORT, INC.",
+            "bidderAddress": "Osmena Blvd., Cebu City",
+            "bidAmount": 848832,
+            "biddingDate": "2019-12-17"
+          }
+        },
+        {
+          "label": "Janitorial Supplies",
+          "kind": "item",
+          "values": {
+            "refNo": "19-09-2025",
+            "description": "Janitorial Supplies",
+            "abc": 1428099.5,
+            "bidder": "J-Joel Enteprises & Printing",
+            "bidderNormalized": "J-JOEL ENTEPRISES & PRINTING",
+            "bidderAddress": "Lapu-Lapu City",
+            "bidAmount": 1426695.17,
+            "biddingDate": "2019-12-17"
+          }
+        }
+      ]
+    },
+    {
+      "key": "civilWorks",
+      "title": "CIVIL WORKS (Province, City or Municipality: Lapu-Lapu, 4th Quarter, CY 2019)",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderContact",
+          "label": "Name and Address Of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address Of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Improvement/Rehabilitation of Poblacion Plaza (Phase I)",
+          "kind": "item",
+          "values": {
+            "refNo": "19-02A",
+            "description": "Improvement/Rehabilitation of Poblacion Plaza (Phase I)",
+            "abc": 24343873,
+            "bidder": "ARQ Builders",
+            "bidderNormalized": "ARQ BUILDERS",
+            "bidderContact": "Stepehen Philip C. Arquisola",
+            "bidderAddress": "#8 Tupaz St. St. Michael Subd., Kasambagan, Cebu City",
+            "bidAmount": 24048060.4,
+            "biddingDate": "2019-10-17"
+          }
+        },
+        {
+          "label": "Cluster IA- Repair/Improvement Hoopsdome Building",
+          "kind": "item",
+          "values": {
+            "refNo": "19-03A",
+            "description": "Cluster IA- Repair/Improvement Hoopsdome Building",
+            "abc": 3176315,
+            "bidder": "BT Construction",
+            "bidderNormalized": "BT CONSTRUCTION & GENERAL SERVICES",
+            "bidderContact": "Benjamin O. Tan",
+            "bidderAddress": "94 Gen. Echavez St. Cebu City",
+            "bidAmount": 3158119.94,
+            "biddingDate": "2019-10-17"
+          }
+        },
+        {
+          "label": "Completion of Visitor's Lounge at Home Care Center",
+          "kind": "item",
+          "values": {
+            "refNo": "19-07A",
+            "description": "Completion of Visitor's Lounge at Home Care Center",
+            "abc": 524406,
+            "bidder": "GELA Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderContact": "Alvin S. Kuan",
+            "bidderAddress": "108 F Lamas St. Punta Princessa Cebu City",
+            "bidAmount": 515967.83,
+            "biddingDate": "2019-10-17"
+          }
+        },
+        {
+          "label": "Improvement of Old Manpower Training Center (Phase II)",
+          "kind": "item",
+          "values": {
+            "refNo": "19-06A",
+            "description": "Improvement of Old Manpower Training Center (Phase II)",
+            "abc": 728559,
+            "bidder": "GELA Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderContact": "Alvin S. Kuan",
+            "bidderAddress": "108 F Lamas St. Punta Princessa Cebu City",
+            "bidAmount": 718193.1,
+            "biddingDate": "2019-10-17"
+          }
+        },
+        {
+          "label": "Installation of Breastfeeding Station/Room",
+          "kind": "item",
+          "values": {
+            "refNo": "19-05A",
+            "description": "Installation of Breastfeeding Station/Room",
+            "abc": 565715,
+            "bidder": "GELA Construction",
+            "bidderNormalized": "GELA CONSTRUCTION",
+            "bidderContact": "Alvin S. Kuan",
+            "bidderAddress": "108 F Lamas St. Punta Princessa Cebu City",
+            "bidAmount": 562647.79,
+            "biddingDate": "2019-10-17"
+          }
+        },
+        {
+          "label": "Installation of Drainage at Bankal National High School",
+          "kind": "item",
+          "values": {
+            "refNo": "19-04A",
+            "description": "Installation of Drainage at Bankal National High School",
+            "abc": 1656311,
+            "bidder": "MCDHENNIZCE Builders",
+            "bidderNormalized": "MCDHENNIZCE BUILDERS",
+            "bidderContact": "Dennis L. Saplad",
+            "bidderAddress": "20-C, P. Basubas St. Tipolo, Mandaue City",
+            "bidAmount": 1621263.52,
+            "biddingDate": "2019-10-17"
+          }
+        },
+        {
+          "label": "Repair/Improvement of Public Market (Phase III)",
+          "kind": "item",
+          "values": {
+            "refNo": "19-01A",
+            "description": "Repair/Improvement of Public Market (Phase III)",
+            "abc": 10186348,
+            "bidder": "PHIL ASIA RESOURCES DEVELOPMENT CORP",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Resituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg. A.S. Fortuna St. Banilad Mandaue City",
+            "bidAmount": 10160265.25,
+            "biddingDate": "2019-10-15"
+          }
+        },
+        {
+          "label": "Cluster 2A- Construction & Completion of Shower Room STEC: Advance Biology Laboratory, Basak, Lapu-Lapu City",
+          "kind": "item",
+          "values": {
+            "refNo": "19-17A",
+            "description": "Cluster 2A- Construction & Completion of Shower Room STEC: Advance Biology Laboratory, Basak, Lapu-Lapu City",
+            "abc": 179768,
+            "bidder": "Froy J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4 Bankal Lapu-Lapu City",
+            "bidAmount": 178756.04,
+            "biddingDate": "2019-12-15"
+          }
+        },
+        {
+          "label": "Cluster 3A- Completion of VAWC Victims Shelter (GAD) and CICL Building for Big Boys Homecare Center, Gun-ob, Lapu-Lapu City",
+          "kind": "item",
+          "values": {
+            "refNo": "19-19A",
+            "description": "Cluster 3A- Completion of VAWC Victims Shelter (GAD) and CICL Building for Big Boys Homecare Center, Gun-ob, Lapu-Lapu City",
+            "abc": 566165,
+            "bidder": "Froy J Builders & Supplies",
+            "bidderNormalized": "FROY J BUILDERS & SUPPLIES",
+            "bidderContact": "Flordeliza S. Jimenez",
+            "bidderAddress": "Blk 24 Lot 79 Deca Home 4 Bankal Lapu-Lapu City",
+            "bidAmount": 563002.38,
+            "biddingDate": "2019-12-12"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "The PDF holds two forms: page 1 is the FDP Form 10b Goods and Services bid-out (Fourth Quarter CY 2019); page 2 is a Civil Works form for 4th Quarter CY 2019 (its header still reads \"FDP Form 10b - Bid Results on Goods and Services\"). Page 2 signatories: Cleofe A. Amores (BAC Secretariat Head) and Atty. James Allan Sayson (BAC Chairperson).",
+    "goodsServices 19-10-2149 (Water Storage Tank Rain Collector, INCA PHILS. INC.): the Bid Amount cell is blank on the form.",
+    "goodsServices 19-10-2109 (Meals): printed bid 909,650.00 exceeds the printed ABC 711,500.00; transcribed as printed (the same figure appears as a bid amount in the Q1 2019 form).",
+    "goodsServices 19-10-2283 (Textbooks): printed bid 4,195,000.00 exceeds the printed ABC 4,159,000.00 (possible digit transposition on the form); transcribed as printed.",
+    "goodsServices 19-10-2373: bidding date printed \"26-Mar-19\" although all other rows are Nov-Dec 2019; transcribed as printed.",
+    "Spellings kept as printed: \"Purified Rabiew Vaccines\", \"J-Joel Enteprises & Printing\", \"Punta Pricesa\", \"Stepehen Philip C. Arquisola\", \"108 F Lamas St.\".",
+    "civilWorks 19-17A: a pen mark overlaps the bidding date; read as \"Dec. 15, 2019\".",
+    "civilWorks: the \"Name and Address Of Bidder\" column prints a contact person above the address; split into bidderContact and bidderAddress.",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "summary": {},
+  "unreadable": []
+}

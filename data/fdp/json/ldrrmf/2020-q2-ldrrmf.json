@@ -1,0 +1,442 @@
+{
+  "id": "2020-q2-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (COA Form)",
+  "period": {
+    "year": 2020,
+    "quarter": 2,
+    "asOf": "2020-06-30",
+    "printed": "As of June 30, 2020",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 39236449.0,
+            "mitigation": 91551714.0,
+            "total": 130788163.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 181168856.03,
+            "total": 181168856.03
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 147585232.72,
+            "total": 147585232.72
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfers/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "total": 0
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 39236449.0,
+            "mitigation": 420305802.75,
+            "total": 459542251.75
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. Utilization",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "2020",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFund2020",
+          "values": {}
+        },
+        {
+          "label": "Payrolls-Jan and Feb.-Hazard",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2020",
+          "values": {
+            "mitigation": 1600138.01,
+            "particulars": "Payrolls-Jan and Feb.-Hazard"
+          }
+        },
+        {
+          "label": "Payrolls-Hazard-April",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2020",
+          "values": {
+            "mitigation": 1660078.04,
+            "particulars": "Payrolls-Hazard-April"
+          }
+        },
+        {
+          "label": "Payrolls-Hazard-May",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2020",
+          "values": {
+            "mitigation": 1408505.53,
+            "particulars": "Payrolls-Hazard-May"
+          }
+        },
+        {
+          "label": "Payrolls-Hazard-June",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2020",
+          "values": {
+            "mitigation": 279132.7,
+            "particulars": "Payrolls-Hazard-June"
+          }
+        },
+        {
+          "label": "CONTINUING APPROPRIATION - GENERAL FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAppropriationGeneralFund",
+          "values": {}
+        },
+        {
+          "label": "CCTV Project",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAppropriationGeneralFund",
+          "values": {
+            "mitigation": 5344004.32,
+            "particulars": "CCTV Project"
+          }
+        },
+        {
+          "label": "Drainage Bankal National High School",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAppropriationGeneralFund",
+          "values": {
+            "mitigation": 1621263.52,
+            "particulars": "Drainage Bankal National High School"
+          }
+        },
+        {
+          "label": "Purchase of 2 units Quick Response Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAppropriationGeneralFund",
+          "values": {
+            "mitigation": 3936000.0,
+            "particulars": "Purchase of 2 units Quick Response Vehicle"
+          }
+        },
+        {
+          "label": "Purchase of Rain Water Harvester Units for Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAppropriationGeneralFund",
+          "values": {
+            "mitigation": 4980000.0,
+            "particulars": "Purchase of Rain Water Harvester Units for Olango Island"
+          }
+        },
+        {
+          "label": "QUICK RESPONSE EXPENSE",
+          "level": 0,
+          "kind": "header",
+          "section": "quickResponseExpense",
+          "values": {}
+        },
+        {
+          "label": "Purchase of disinfectant",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 1700000.0,
+            "particulars": "Purchase of disinfectant"
+          }
+        },
+        {
+          "label": "10,000 packed meals for COVID frontliners and respondents",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 4000000.0,
+            "particulars": "10,000 packed meals for COVID frontliners and respondents"
+          }
+        },
+        {
+          "label": "10,000 boxes food relief items for disaster victims",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 10000000.0,
+            "particulars": "10,000 boxes food relief items for disaster victims"
+          }
+        },
+        {
+          "label": "200 pcs PPEs",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 1483950.0,
+            "particulars": "200 pcs PPEs"
+          }
+        },
+        {
+          "label": "1,000 gallons of organic disinfectant spray and sanitizer",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 2060000.0,
+            "particulars": "1,000 gallons of organic disinfectant spray and sanitizer"
+          }
+        },
+        {
+          "label": "5,000 packed meals for responder, security & enforcement agencies",
+          "level": 1,
+          "kind": "item",
+          "section": "quickResponseExpense",
+          "values": {
+            "qrf": 2000000.0,
+            "particulars": "5,000 packed meals for responder, security & enforcement agencies"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "ARC Hospital-Covid Related",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 2955944.67,
+            "particulars": "ARC Hospital-Covid Related"
+          }
+        },
+        {
+          "label": "UP Training",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 328185.2,
+            "particulars": "UP Training"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 21243950.0,
+            "mitigation": 24113251.99,
+            "total": 45357201.99,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 17992499.0,
+            "mitigation": 396192550.76,
+            "total": 414185049.76
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 459542251.75,
+    "qrf": 39236449.0,
+    "mitigation": 420305802.75,
+    "totalUtilized": 45357201.99,
+    "balance": 414185049.76,
+    "qrfUtilized": 21243950.0,
+    "mitigationUtilized": 24113251.99,
+    "qrfBalance": 17992499.0,
+    "mitigationBalance": 396192550.76
+  },
+  "notes": [
+    "All printed totals reconcile exactly: QRF and Mitigation utilization items sum to the printed Total Utilization, and Total Funds Available minus Total Utilization equals the printed Unutilized Balance in each column.",
+    "Utilization groups as printed: \"2020 / GENERAL FUND\", \"CONTINUING APPROPRIATION / GENERAL FUND\", \"QUICK RESPONSE EXPENSE\" (QRF column) and \"TRUST FUND\". No month headings.",
+    "Transfers/Grants Total column prints \"-\" (recorded as 0). No year-by-year Special Trust Fund breakdown is printed on this form."
+  ],
+  "unreadable": []
+}

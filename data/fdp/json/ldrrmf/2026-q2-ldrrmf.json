@@ -1,0 +1,896 @@
+{
+  "id": "2026-q2-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2026,
+    "quarter": 2,
+    "asOf": "2026-06-30",
+    "printed": "Calendar Year: 2026, Quarter: 2",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 126068911.5,
+            "total": 180098445.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 80969442.98,
+            "total": 80969442.98
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 82884023.48,
+            "total": 82884023.48
+          }
+        },
+        {
+          "key": "carryOver:2021",
+          "label": "2021",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 3707564.0
+          }
+        },
+        {
+          "key": "carryOver:2022",
+          "label": "2022",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 10276608.25
+          }
+        },
+        {
+          "key": "carryOver:2023",
+          "label": "2023",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 16382605.73
+          }
+        },
+        {
+          "key": "carryOver:2024",
+          "label": "2024",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 58895203.41
+          }
+        },
+        {
+          "key": "carryOver:2025",
+          "label": "2025",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 52517245.5
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfer/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {}
+        },
+        {
+          "key": "fundsReturnedToGeneralFund",
+          "label": "Funds return to General Fund unutilized for the period 2018 and 2019",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "total": 10729588.9
+          }
+        },
+        {
+          "key": "fundsReturnedToGeneralFund:2",
+          "label": "(second amount on the \"Funds return to General Fund\" lines)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "total": 935443.18
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 289922377.96,
+            "total": 355616943.54
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. UTILIZATION",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "training expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 969102.75,
+            "particulars": "training expenses",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "boat rental etc.",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1537950.0,
+            "particulars": "boat rental etc.",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 645000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 499500.0,
+            "particulars": "cash for work",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "purchase of medical supplies for Ambulance operation and post Hospital Care Patients",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 637500.0,
+            "particulars": "purchase of medical supplies for Ambulance operation and post Hospital Care Patients",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "IEC Materials for climate change Adaptation",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 198940.0,
+            "particulars": "IEC Materials for climate change Adaptation",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "particulars": "rental subsidy for fire victims",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 890460.0,
+            "particulars": "cash for work",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "Donation-alternative Livelihood",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1323000.0,
+            "particulars": "Donation-alternative Livelihood",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "Donation-alternative Livelihood",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 1678320.0,
+            "particulars": "Donation-alternative Livelihood",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT APPROPRIATION",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "repair & upgrade of DRRMO Bldg.",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 4794377.62,
+            "particulars": "repair & upgrade of DRRMO Bldg.",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "purchase of one LED Wall",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 894600.0,
+            "particulars": "purchase of one LED Wall",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "purchae of Collapsed Structure rescue tools/equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1602842.0,
+            "particulars": "purchae of Collapsed Structure rescue tools/equipment",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "purchase of breathing Air Compressor",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 979000.0,
+            "particulars": "purchase of breathing Air Compressor",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "purchase of cutting tools",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1069980.0,
+            "particulars": "purchase of cutting tools",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "purchase of tricycle, two units of 6 wheeler brand new truck",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 5992000.0,
+            "particulars": "purchase of tricycle, two units of 6 wheeler brand new truck",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "purchase of 2 units pick up truck for CENRO and CSWDO",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 2999000.0,
+            "particulars": "purchase of 2 units pick up truck for CENRO and CSWDO",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "purchase of 15 units beds for Sta. Rosa Hospital",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 749700.0,
+            "particulars": "purchase of 15 units beds for Sta. Rosa Hospital",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "purchase of handheld and base radio",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 7598990.0,
+            "particulars": "purchase of handheld and base radio",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "50 galloons alcohol",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 399104.0,
+            "particulars": "50 galloons alcohol",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "Stale check-Globe",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": -1999.0,
+            "particulars": "Stale check-Globe",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "reclass Financial Assistance for typhoon victims-Valenzuela",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": -2860.0,
+            "particulars": "reclass Financial Assistance for typhoon victims-Valenzuela",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "reclass Financial Assistance for typhoon victims-Valenzuela",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": -500000.0,
+            "particulars": "reclass Financial Assistance for typhoon victims-Valenzuela",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "reclass excess transfer to PSA as per COA recommendation",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": -42784.0,
+            "particulars": "reclass excess transfer to PSA as per COA recommendation",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "70 boxes 12 colors crayons",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 199774.0,
+            "particulars": "70 boxes 12 colors crayons",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "210 amps diazepam ampule",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 199560.0,
+            "particulars": "210 amps diazepam ampule",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "6 sets portable generator",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 371100.0,
+            "particulars": "6 sets portable generator",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "750 packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 506212.5,
+            "particulars": "750 packed meals",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "630 packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 314874.0,
+            "particulars": "630 packed meals",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "6,000 pcs. IEC materials",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 686100.0,
+            "particulars": "6,000 pcs. IEC materials",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "100 tabs Albendazole 400mg",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1795154.0,
+            "particulars": "100 tabs Albendazole 400mg",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "20 amp. Adenosine 3mg/2ml ampule",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 498607.0,
+            "particulars": "20 amp. Adenosine 3mg/2ml ampule",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "1,200 pcs. T-shirt full sublimation",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 540000.0,
+            "particulars": "1,200 pcs. T-shirt full sublimation",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "78 pcs accylic plaque",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 194844.0,
+            "particulars": "78 pcs accylic plaque",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "purchase of 24 pcs fabricated steal garbage bin",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1968000.0,
+            "particulars": "purchase of 24 pcs fabricated steal garbage bin",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "payment for construction of 2 unit communal toilet in island barangay",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1459025.8,
+            "particulars": "payment for construction of 2 unit communal toilet in island barangay",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1,500 tank medical oxygen",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 637500.0,
+            "particulars": "1,500 tank medical oxygen",
+            "month": "JUNE"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 0,
+            "mitigation": 44282474.67,
+            "total": 44282474.67,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 245639903.29,
+            "total": 311334468.87
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 355616943.54,
+    "qrf": 54029533.5,
+    "mitigation": 289922377.96,
+    "totalUtilized": 44282474.67,
+    "balance": 311334468.87,
+    "qrfUtilized": 0,
+    "mitigationUtilized": 44282474.67,
+    "qrfBalance": 54029533.5,
+    "mitigationBalance": 245639903.29
+  },
+  "notes": [
+    "Section A adds a line \"Funds return to General Fund unutilized for the period 2018 and 2019\" with two amounts printed only in the Total column on consecutive lines: 10,729,588.90 and 935,443.18 (these resemble the 2018 and 2019 Special Trust Fund carry-overs; the 2019 figure in 2025 reports was 993,443.18). Printed Total Funds Available (Total column) 355,616,943.54 includes them (343,951,911.46 + 10,729,588.90 + 935,443.18), although funds returned to the General Fund would normally reduce availability; the fund columns (QRF 54,029,533.50, Mitigation 289,922,377.96) do not include them, so the Total column of Total Funds Available and of Unutilized Balance (311,334,468.87) exceeds QRF + Mitigation by 11,665,032.08. Transcribed as printed.",
+    "The Special Trust Fund carry-over years (2021-2025) printed under the STF line sum to 141,779,226.89, not the STF line amount 82,884,023.48; transcribed as printed.",
+    "The scan has a vertical streak through the middle digits of the Mitigation Fund column (e.g. 1,537,950.00; 198,940.00; 7,598,990.00; 194,844.00). The obscured digits were read from a 4500px re-render; the utilization items then sum exactly to the printed Total Utilization 44,282,474.67, which confirms them.",
+    "GF-MOOE May: \"rental subsidy for fire victims\" is printed on its own line with no amount, followed by \"cash for work\" 890,460.00; kept as two rows (the first with no amount).",
+    "Negative amounts printed in parentheses (Trust Fund January) are recorded as negative numbers. Particulars spelling kept as printed (e.g. \"galloons\", \"purchae\", \"accylic\", \"steal\")."
+  ],
+  "unreadable": []
+}

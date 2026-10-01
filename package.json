@@ -4,8 +4,8 @@
   "version": "0.2.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "dev": "npm run search:index && npm run llm:build && npm run fdp:build && vite",
+    "build": "tsc -b && npm run search:index && npm run llm:build && npm run fdp:build && vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write .",
@@ -14,7 +14,11 @@
     "prepare": "husky",
     "convert-yaml": "node scripts/yaml-to-json.js",
     "dev:yaml": "npm run convert-yaml && npm run dev",
-    "setup": "node scripts/setup-starter-kit.js"
+    "setup": "node scripts/setup-starter-kit.js",
+    "search:index": "node scripts/build-search-index.js",
+    "llm:build": "node scripts/build-llm-files.js",
+    "fdp:build": "node scripts/fdp/build-fdp-data.js",
+    "fdp:validate": "node scripts/fdp/validate.js"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
@@ -43,6 +47,8 @@
     "react-i18next": "^15.7.3",
     "react-markdown": "^10.1.0",
     "react-router-dom": "^7.9.2",
+    "recharts": "^3.10.1",
+    "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.1",
     "tailwind-merge": "^3.3.1"
   },
@@ -59,6 +65,7 @@
     "globals": "^16.4.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.1.6",
+    "pagefind": "^1.5.2",
     "postcss": "^8.5.6",
     "prettier": "^3.6.2",
     "tailwindcss": "^4.0.0",

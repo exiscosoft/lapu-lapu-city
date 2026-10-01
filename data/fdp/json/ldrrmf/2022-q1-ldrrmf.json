@@ -1,0 +1,463 @@
+{
+  "id": "2022-q1-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (COA Form)",
+  "period": {
+    "year": 2022,
+    "quarter": 1,
+    "asOf": "2022-03-31",
+    "printed": "As of March 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 36768726.0,
+            "mitigation": 85793695.0,
+            "total": 122562421.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 132133010.68,
+            "total": 132133010.68
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 162019183.2,
+            "total": 162019183.2
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "(unlabelled line; Transfers/Grants position)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "total": 0
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 36768726.0,
+            "mitigation": 379945888.88,
+            "total": 416714614.88
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. Utilization",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "January-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "Februay-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT APPROPRIATION",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {}
+        },
+        {
+          "label": "January-No Liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February-No liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "QUICK RESPONSE EXPENSE",
+          "level": 0,
+          "kind": "header",
+          "section": "quickResponseExpense",
+          "values": {}
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "January",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "1 lot suplly of labor, spare parts and materials for the repair of HINO firetruck",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 1298000.0,
+            "particulars": "1 lot suplly of labor, spare parts and materials for the repair of HINO firetruck",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "City Payroll-January",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 514637.86,
+            "particulars": "City Payroll-January",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "City Payroll-January",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 257099.72,
+            "particulars": "City Payroll-January",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "Shovel, Axes and wheelborrows",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 148500.0,
+            "particulars": "Shovel, Axes and wheelborrows",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "1 lot suplly of labor, spare parts and materials for the repair of HINO Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 299000.0,
+            "particulars": "1 lot suplly of labor, spare parts and materials for the repair of HINO Vehicle",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "600 tshirts for Fire Auxiliary",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 354000.0,
+            "particulars": "600 tshirts for Fire Auxiliary",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "Repair of Firetruck engine",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 499500.0,
+            "particulars": "Repair of Firetruck engine",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "3 units computer-NHS Mactan",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 286500.0,
+            "particulars": "3 units computer-NHS Mactan",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "6300 food packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 2520000.0,
+            "particulars": "6300 food packed meals",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "City Payroll-February",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 414963.18,
+            "particulars": "City Payroll-February",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "ARC-Hospital-COVID Related",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "qrf": 213219.84,
+            "particulars": "ARC-Hospital-COVID Related",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "Globe Telecom",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "particulars": "Globe Telecom",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 6805420.6,
+            "mitigation": 0,
+            "total": 6805420.6,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 29963305.4,
+            "mitigation": 379945888.88,
+            "total": 409909194.28
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 416714614.88,
+    "qrf": 36768726.0,
+    "mitigation": 379945888.88,
+    "totalUtilized": 6805420.6,
+    "balance": 409909194.28,
+    "qrfUtilized": 6805420.6,
+    "mitigationUtilized": 0,
+    "qrfBalance": 29963305.4,
+    "mitigationBalance": 379945888.88
+  },
+  "notes": [
+    "All printed totals reconcile exactly: the utilization items sum to the printed Total Utilization 6,805,420.60, and Total Funds Available minus Total Utilization equals the printed Unutilized Balance in each column.",
+    "Although listed under the TRUST FUND heading, every utilization amount is printed in the Quick Response Fund (QRF) column; the Mitigation Fund Total Utilization prints \"-\". Transcribed as printed.",
+    "General Fund-MOOE, Continuing and Current Appropriation and Quick Response Expense groups print only \"No liquidation\" headings or nothing.",
+    "Section A has an unlabelled line (where Transfers/Grants usually is) with \"-\" in the Total column; recorded as transferGrants = 0. No Special Trust Fund year breakdown is printed.",
+    "\"Globe Telecom\" is printed as the last Trust Fund line with no amount. Spelling kept as printed (\"suplly\", \"wheelborrows\", \"Februay\")."
+  ],
+  "unreadable": []
+}

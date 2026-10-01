@@ -1,0 +1,1293 @@
+{
+  "id": "2025-q4-ldrrmf-part-2",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2025,
+    "quarter": 4,
+    "asOf": "2025-12-31",
+    "printed": "Calendar Year: 2025, Quarter: 3",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "ayment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 62021.7,
+            "particulars": "ayment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "ayment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 48750.0,
+            "particulars": "ayment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 166005.0,
+            "particulars": "payment of 100% just compensation for affected structure of proposed skywalk near cebu light industrial park (clip) in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to 2nd. partial payment of contract for construction and improvement of tugas cemetery, gun-ob, lapu-lapu city which is 60.01% work accomplished with its supporting documents hereto",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 4008198.42,
+            "particulars": "to 2nd. partial payment of contract for construction and improvement of tugas cemetery, gun-ob, lapu-lapu city which is 60.01% work accomplished with its supporting documents hereto",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to 1st. & final payment of contract for repair & improvement of dormitory building at city college, gun-ob, lapu-lapu city which is 100% work accomplished with its supporting documents hereto",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 986567.94,
+            "particulars": "to 1st. & final payment of contract for repair & improvement of dormitory building at city college, gun-ob, lapu-lapu city which is 100% work accomplished with its supporting documents hereto",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 371285.0,
+            "particulars": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 44686.5,
+            "particulars": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "to 3rd. & final payment of contract for construction of multi-purpose bldg. w/jail facility & visitation bldg. (gad) phase ii, soong, mactan, lapu-lapu city which is 100% work accomplished",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 859570.9,
+            "particulars": "to 3rd. & final payment of contract for construction of multi-purpose bldg. w/jail facility & visitation bldg. (gad) phase ii, soong, mactan, lapu-lapu city which is 100% work accomplished",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 103208.6,
+            "particulars": "payment of 50% just compensation for affected structures of the proposed g. tampus road widening/opening project in basak",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 454774.8,
+            "particulars": "cash for work",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "first half payment of just compensation for the affected property of the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 64420.0,
+            "particulars": "first half payment of just compensation for the affected property of the proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "full payment of just compensation for the affected structure of the proposed g. tampus road widening opening project basak, llc",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 8715.0,
+            "particulars": "full payment of just compensation for the affected structure of the proposed g. tampus road widening opening project basak, llc",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures for the proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 51888.8,
+            "particulars": "payment of 50% just compensation for affected structures for the proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "first half payment of just compensation for affected structure of the proposed g. tampus road widening/opening project",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 11620.0,
+            "particulars": "first half payment of just compensation for affected structure of the proposed g. tampus road widening/opening project",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "half payment of just compensation for affected structure of the proposed g. tampus road widening/opening project",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 25050.0,
+            "particulars": "half payment of just compensation for affected structure of the proposed g. tampus road widening/opening project",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "half payment of just compensation for the affected lot of the proposed g. tampus road widening opening project",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 130000.0,
+            "particulars": "half payment of just compensation for the affected lot of the proposed g. tampus road widening opening project",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "to 2nd. & final payment of contract for repair & improvement of barangay sabang covered court, sabang, lapu-lapu cityincluding extra works which is 100% work accomplished",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 2090394.61,
+            "particulars": "to 2nd. & final payment of contract for repair & improvement of barangay sabang covered court, sabang, lapu-lapu cityincluding extra works which is 100% work accomplished",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 70207.04,
+            "particulars": "payment of 50% just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures for proposed g.tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 55195.0,
+            "particulars": "payment of 50% just compensation for affected structures for proposed g.tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "full payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, lapu-lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 31500.0,
+            "particulars": "full payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, lapu-lapu city",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "full payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, lapu-lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 94477.5,
+            "particulars": "full payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, lapu-lapu city",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures for proposed g. tamapus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 86801.6,
+            "particulars": "payment of 50% just compensation for affected structures for proposed g. tamapus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 123500.0,
+            "particulars": "payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 305500.0,
+            "particulars": "payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 24180.0,
+            "particulars": "payment of 100% just compensation for affected structure for proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "to 2nd. & final payment of contract for repair of repair & improvement of i.t. building at lapu-lapu city college, gun-ob, lapu-lapu city including extra works which is 100%",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1197800.26,
+            "particulars": "to 2nd. & final payment of contract for repair of repair & improvement of i.t. building at lapu-lapu city college, gun-ob, lapu-lapu city including extra works which is 100%",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 99552.8,
+            "particulars": "payment of 50% just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 78435.0,
+            "particulars": "payment of 50% just compensation for affected structures for proposed g. tampus road widening/opening project in basak",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "to payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak (parcel of land lot # 1656-b 767 sqm",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 2914600.0,
+            "particulars": "to payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak (parcel of land lot # 1656-b 767 sqm",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to 3rd. partial payment of contract for repair & upgrade of drrmo building near hoopsdome gun-ob, lapu-lapu city which is 80.12%",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 3956505.04,
+            "particulars": "to 3rd. partial payment of contract for repair & upgrade of drrmo building near hoopsdome gun-ob, lapu-lapu city which is 80.12%",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "for payment of 2 units confined space tripod for high angle rescue equipment & accessories",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 249961.0,
+            "particulars": "for payment of 2 units confined space tripod for high angle rescue equipment & accessories",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to 1st. & final payment of contract for rehabilitation & upgrade of pangan-an multi-purpose/evacuation center (phase ii), pangan-an, lapu-lapu city which is 100% work accomplished",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1197845.88,
+            "particulars": "to 1st. & final payment of contract for rehabilitation & upgrade of pangan-an multi-purpose/evacuation center (phase ii), pangan-an, lapu-lapu city which is 100% work accomplished",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 14815.0,
+            "particulars": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city,",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 364000.0,
+            "particulars": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city,",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to full payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 78585.0,
+            "particulars": "to full payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 33115.0,
+            "particulars": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 87108.0,
+            "particulars": "to first payment of just compensation for the affected structures of the proposed g. tampus road widening/ opening project in basak, lapu - lapu city",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "to 2nd. & final payment of contract for repair & improvement of mini city hall building (phase ii) at talima, talima, olango, lapu-lapu city which is 100%",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 706112.08,
+            "particulars": "to 2nd. & final payment of contract for repair & improvement of mini city hall building (phase ii) at talima, talima, olango, lapu-lapu city which is 100%",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure of proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 5250.0,
+            "particulars": "payment of 100% just compensation for affected structure of proposed g. tampus road widening/opening project in basak",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "payment of 100% just compensation for affected structure of proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 29050.0,
+            "particulars": "payment of 100% just compensation for affected structure of proposed g. tampus road widening/opening project in basak",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "payment of just compensation for the affected structures of the proposed g. tampus road widening/opening project in basak, llc",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 173644.7,
+            "particulars": "payment of just compensation for the affected structures of the proposed g. tampus road widening/opening project in basak, llc",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "DECEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "for payment of 1 unit childbirth simulator, and 3 sets cpr manikin (adult, junior, baby) - advance life support (als) and nursing manikins for training on defibrilation, airway management, tracheostomy",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1499947.0,
+            "particulars": "for payment of 1 unit childbirth simulator, and 3 sets cpr manikin (adult, junior, baby) - advance life support (als) and nursing manikins for training on defibrilation, airway management, tracheostomy",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "for payment of 1 unit support vehicle (van) for ambulatory medical response",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1998000.0,
+            "particulars": "for payment of 1 unit support vehicle (van) for ambulatory medical response",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "half payment of just compesation for affected structures of the proposed g. tampus road widening/opening project in basak llc",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 57265.0,
+            "particulars": "half payment of just compesation for affected structures of the proposed g. tampus road widening/opening project in basak llc",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "first half payment of just compesation for affected structures of the proposed g. tampus road widening/opening project in basak llc",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 50885.0,
+            "particulars": "first half payment of just compesation for affected structures of the proposed g. tampus road widening/opening project in basak llc",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "to half payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, llc",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 219240.0,
+            "particulars": "to half payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, llc",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "to half payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, llc",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 269880.0,
+            "particulars": "to half payment of just compensation for the affected structure of the proposed sudtunggan road widening/opening phase 1 in basak, llc",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 6500.0,
+            "particulars": "payment of 50% just compensation for affected lot for proposed g. tampus road widening/opening project in basak",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of expanded withholding tax (ewt) & doc stamp for just compensation of the property owned by dbp for the proposed new barangay hall & covered court/evacuation center",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 277896.0,
+            "particulars": "payment of expanded withholding tax (ewt) & doc stamp for just compensation of the property owned by dbp for the proposed new barangay hall & covered court/evacuation center",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "payment of expanded withholding tax (ewt) & doc stamp for just compensation of the property owned by dbp for the proposed new barangay hall & covered court/evacuation center",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1960171.65,
+            "particulars": "payment of expanded withholding tax (ewt) & doc stamp for just compensation of the property owned by dbp for the proposed new barangay hall & covered court/evacuation center",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "for payment of 10 units infusion pump for hospital use as stated in p.o",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 897000.0,
+            "particulars": "for payment of 10 units infusion pump for hospital use as stated in p.o",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "10 units motorcycles",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1880000.0,
+            "particulars": "10 units motorcycles",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 810000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "20 pcs acrylic Plaque",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 49980.0,
+            "particulars": "20 pcs acrylic Plaque",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "20 units filing rack",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 404000.0,
+            "particulars": "20 units filing rack",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "200 food pax for seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 150000.0,
+            "particulars": "200 food pax for seminar",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 135000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "500 pcs non rebreather mask",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 170800.0,
+            "particulars": "500 pcs non rebreather mask",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1 day live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 210000.0,
+            "particulars": "1 day live out seminar",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "850 pcs. T-shirts",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 297500.0,
+            "particulars": "850 pcs. T-shirts",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1,000 cylinder oxygen 40 liters",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 424000.0,
+            "particulars": "1,000 cylinder oxygen 40 liters",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "500 pcs T-shirts",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 175000.0,
+            "particulars": "500 pcs T-shirts",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 580552.8,
+            "particulars": "cash for work",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "5 unts vertical deep well jet pump",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 224875.0,
+            "particulars": "5 unts vertical deep well jet pump",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "50 reams short sized bondpaper",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 20467.5,
+            "particulars": "50 reams short sized bondpaper",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "6 units collapsible tent with aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 467700.0,
+            "particulars": "6 units collapsible tent with aircon",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental of 1 lot sound system & LED Wall",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 69800.0,
+            "particulars": "rental of 1 lot sound system & LED Wall",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental of 1 lot sound system & LED Wall",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 69800.0,
+            "particulars": "rental of 1 lot sound system & LED Wall",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 unit New 6 Wheeler Vacuum tanker",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 6700000.0,
+            "particulars": "1 unit New 6 Wheeler Vacuum tanker",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 unit New 6 Wheeler Vacuum tanker",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1908000.0,
+            "particulars": "1 unit New 6 Wheeler Vacuum tanker",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "350 units Fire Extinguisher",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 416177.4,
+            "particulars": "350 units Fire Extinguisher",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "350 units Fire Extinguisher",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 453572.6,
+            "particulars": "350 units Fire Extinguisher",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "25 pcs PL-259 connector and other items",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1451000.0,
+            "particulars": "25 pcs PL-259 connector and other items",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "JULY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "Rain water Harvest Collection System",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 250000.0,
+            "particulars": "Rain water Harvest Collection System",
+            "month": "JULY"
+          }
+        },
+        {
+          "label": "AUGUST",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "400 pcs refill of fire extinguisher",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 698000.0,
+            "particulars": "400 pcs refill of fire extinguisher",
+            "month": "AUGUST"
+          }
+        },
+        {
+          "label": "SEPTEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "300 pax live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 219000.0,
+            "particulars": "300 pax live out seminar",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "final payment of Pangan-an evacutaion center",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 994941.17,
+            "particulars": "final payment of Pangan-an evacutaion center",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "1 unit 6 wheeler dumptruck",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 3480000.0,
+            "particulars": "1 unit 6 wheeler dumptruck",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 478216.8,
+            "particulars": "cash for work",
+            "month": "SEPTEMBER"
+          }
+        },
+        {
+          "label": "OCTOBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Financial Assisstance-San Remegio",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 700000.0,
+            "particulars": "Financial Assisstance-San Remegio",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Financial Assisstance-Bantayan",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 700000.0,
+            "particulars": "Financial Assisstance-Bantayan",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Financial Assisstance-Medellin",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 700000.0,
+            "particulars": "Financial Assisstance-Medellin",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Financial Assisstance-Tabogon",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 700000.0,
+            "particulars": "Financial Assisstance-Tabogon",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Financial Assisstance-Tabuelan",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 700000.0,
+            "particulars": "Financial Assisstance-Tabuelan",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "Financial Assisstance-Borbon",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1000000.0,
+            "particulars": "Financial Assisstance-Borbon",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 454774.8,
+            "particulars": "cash for work",
+            "month": "OCTOBER"
+          }
+        },
+        {
+          "label": "NOVEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "payment of 1000 meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 324950.0,
+            "particulars": "payment of 1000 meals",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "payment of 800 meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 259960.0,
+            "particulars": "payment of 800 meals",
+            "month": "NOVEMBER"
+          }
+        },
+        {
+          "label": "DECEMBER",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "Financial Assistance-Sogod",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1000000.0,
+            "particulars": "Financial Assistance-Sogod",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "10,000 trag amlodipine 10mg",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 766618.0,
+            "particulars": "10,000 trag amlodipine 10mg",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "label": "PSA-CBMS",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 7200000.0,
+            "particulars": "PSA-CBMS",
+            "month": "DECEMBER"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 0,
+            "mitigation": 183872593.81,
+            "total": 183872593.81,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 174668897.49,
+            "total": 228698430.99
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": null,
+    "qrf": null,
+    "mitigation": null,
+    "totalUtilized": 183872593.81,
+    "balance": 228698430.99,
+    "qrfUtilized": 0,
+    "mitigationUtilized": 183872593.81,
+    "qrfBalance": 54029533.5,
+    "mitigationBalance": 174668897.49
+  },
+  "notes": [
+    "PERIOD: every page prints \"CALENDAR YEAR: 2025, QUARTER: 3\", but the utilization runs through OCTOBER, NOVEMBER and DECEMBER 2025, so this is the year-end (Q4) report with a stale quarter heading. period.quarter is kept at 4 (asOf 2025-12-31) per the catalog and the content; period.printed records the printed heading.",
+    "This is Part II of a two-part report and continues 2025-q4-ldrrmf-part-1 directly. Part II prints no Section A (Sources of Funds), so it has no sources table and summary.totalAvailable/qrf/mitigation are null. Part I prints Total Funds Available 412,571,024.80 (QRF 54,029,533.50; Mitigation 358,541,491.30); the Part II balances are consistent with it (412,571,024.80 - 183,872,593.81 = 228,698,430.99; 358,541,491.30 - 183,872,593.81 = 174,668,897.49).",
+    "The printed Total Utilization 183,872,593.81 covers the whole report (Parts I and II): Part I items (117,476,224.92) + Part II items (66,396,368.89) = 183,872,593.81 exactly. The utilization total in this file therefore does not equal the sum of this file's items alone.",
+    "The first nine rows (page 1 and the top of page 2) continue the CONTINUING AND CURRENT APPROPRIATION list from Part I, whose last printed month heading is SEPTEMBER; their month is inferred as SEPTEMBER, not printed on this part. Later month headings (OCTOBER, NOVEMBER, DECEMBER, and the TRUST FUND months) are printed.",
+    "All utilization amounts are printed in the Mitigation Fund 70% column; the QRF, NDRRM, Other LGUs, Other Sources and Total columns are blank on every utilization row. Total Utilization prints \"-\" for QRF.",
+    "Particulars are transcribed as printed, including typos and truncations (\"ayment\", \"tamapus\", \"compesation\", \"cityincluding\", \"repair of repair\", \"unts\", \"Assisstance\", \"evacutaion\", \"trag\")."
+  ],
+  "unreadable": []
+}

@@ -7,7 +7,18 @@ import ScrollToTop from './components/ui/ScrollToTop';
 import Services from './pages/Services';
 import Document from './pages/Document';
 import Government from './pages/Government';
+import Search from './pages/Search';
+import Sitemap from './pages/Sitemap';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { lazy, Suspense } from 'react';
+
+// Charts (Recharts) load only when the reports dashboard is opened.
+const Reports = lazy(() => import('./pages/reports/Reports'));
+const reports = (
+  <Suspense fallback={<div className="min-h-screen" />}>
+    <Reports />
+  </Suspense>
+);
 
 function App() {
   return (
@@ -25,12 +36,22 @@ function App() {
                 path="/services/:category/:documentSlug"
                 element={<Document categoryType="service" />}
               />
+              <Route
+                path="/government/reports-and-statistics"
+                element={reports}
+              />
+              <Route
+                path="/government/reports-and-statistics/:section"
+                element={reports}
+              />
               <Route path="/government/:category" element={<Government />} />
               <Route path="/government" element={<Government />} />
               <Route
                 path="/government/:category/:documentSlug"
                 element={<Document categoryType="government" />}
               />
+              <Route path="/search" element={<Search />} />
+              <Route path="/sitemap" element={<Sitemap />} />
               <Route path="/:lang/:documentSlug" element={<Document />} />
               <Route path="/:documentSlug" element={<Document />} />
             </Routes>

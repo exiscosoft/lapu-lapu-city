@@ -1,0 +1,896 @@
+{
+  "id": "2023-annual-annual-budget-market-slaughterhouse",
+  "type": "annual-budget",
+  "title": "Market and Slaughterhouse: 2023 Local Expenditure Program (Receipts Program FY 2021-2023 and Summary of FY 2023 Proposed New Appropriations)",
+  "form": "Local Expenditure Program",
+  "period": {
+    "year": 2023,
+    "quarter": null,
+    "asOf": null,
+    "printed": "FY 2023 (Receipts Program FY 2021-2023)",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Francisco Y. Limpangug",
+      "position": "SP/City Secretary"
+    }
+  ],
+  "tables": [
+    {
+      "key": "receipts",
+      "title": "Receipts Program FY 2021-2023 (printed \"In 000 Pesos\"; figures are in full pesos)",
+      "columns": [
+        {
+          "key": "incomeClass",
+          "label": "Income Classification",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Receipts 2021 (Actual)",
+          "type": "amount"
+        },
+        {
+          "key": "currentYear",
+          "label": "Current Year Receipts 2022 (Actual/Estimate)",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Receipts 2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "beginningCashBalance",
+          "label": "I. BEGINNING CASH BALANCE",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "beginningCashBalance",
+          "values": {
+            "pastYear": 2809115.7,
+            "currentYear": 9661278.41,
+            "budgetYear": 0
+          }
+        },
+        {
+          "label": "Unappropriated Surplus",
+          "level": 1,
+          "kind": "item",
+          "section": "beginningCashBalance",
+          "values": {
+            "pastYear": 2297099.34,
+            "currentYear": 9661278.41,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Prior Years' Adjustments",
+          "level": 1,
+          "kind": "item",
+          "section": "beginningCashBalance",
+          "values": {
+            "pastYear": 512016.36,
+            "currentYear": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "II. RECEIPTS",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "A. LOCAL SOURCES",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1. Tax Revenue",
+          "level": 2,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "2. Non-Tax Revenue",
+          "level": 2,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "a. Regulatory Fees",
+          "level": 3,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "b. Business and Service Income",
+          "level": 3,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Income from Markets",
+          "level": 4,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 12850810.62,
+            "currentYear": 12000000,
+            "budgetYear": 13000000
+          }
+        },
+        {
+          "label": "Income from Slaughterhouse",
+          "level": 4,
+          "kind": "item",
+          "section": "nonTaxRevenue",
+          "values": {
+            "incomeClass": "R",
+            "pastYear": 1700135.6,
+            "currentYear": 2300000,
+            "budgetYear": 1500000
+          }
+        },
+        {
+          "key": "nonTaxRevenue",
+          "label": "Total Non-Tax-Revenue",
+          "level": 3,
+          "kind": "subtotal",
+          "section": "nonTaxRevenue",
+          "values": {
+            "pastYear": 14550946.22,
+            "currentYear": 14300000,
+            "budgetYear": 14500000
+          }
+        },
+        {
+          "key": "totalReceipts",
+          "label": "TOTAL RECEIPTS",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "pastYear": 14550946.22,
+            "currentYear": 14300000,
+            "budgetYear": 14500000
+          }
+        },
+        {
+          "key": "totalAvailableResources",
+          "label": "TOTAL AVAILABLE RESOURCES FOR APPROPRIATION",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "pastYear": 17360061.92,
+            "currentYear": 23961278.41,
+            "budgetYear": 14500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "byObjectAndSector",
+      "title": "Summary of FY 2023 Proposed New Appropriations: 1. Proposed New Appropriations, by Object of Expense and by Sector",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "generalPublicServices",
+          "label": "General Public Services",
+          "type": "amount"
+        },
+        {
+          "key": "socialServices",
+          "label": "Social Services",
+          "type": "amount"
+        },
+        {
+          "key": "economicServices",
+          "label": "Economic Services",
+          "type": "amount"
+        },
+        {
+          "key": "otherServices",
+          "label": "Other Services",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "PERSONAL SERVICES",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-01-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 6617016,
+            "otherServices": null,
+            "total": 6617016
+          }
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 720000,
+            "otherServices": null,
+            "total": 720000
+          }
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 180000,
+            "otherServices": null,
+            "total": 180000
+          }
+        },
+        {
+          "label": "Overtime Pay and Night Pay",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-130",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 150000,
+            "otherServices": null,
+            "total": 150000
+          }
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-140",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 551418,
+            "otherServices": null,
+            "total": 551418
+          }
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-150",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 150000,
+            "otherServices": null,
+            "total": 150000
+          }
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 551418,
+            "otherServices": null,
+            "total": 551418
+          }
+        },
+        {
+          "label": "Productivity Enhancement Incentive",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 150000,
+            "otherServices": null,
+            "total": 150000
+          }
+        },
+        {
+          "label": "Performance Base Bonus",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-02-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 150000,
+            "otherServices": null,
+            "total": 150000
+          }
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 794042,
+            "otherServices": null,
+            "total": 794042
+          }
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-020",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 36000,
+            "otherServices": null,
+            "total": 36000
+          }
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-030",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 148015,
+            "otherServices": null,
+            "total": 148015
+          }
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-03-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 36000,
+            "otherServices": null,
+            "total": 36000
+          }
+        },
+        {
+          "label": "Terminal Leave Benefits",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-04-030",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 500000,
+            "otherServices": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-04-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 330851,
+            "otherServices": null,
+            "total": 330851
+          }
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "5-01-04-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 265743,
+            "otherServices": null,
+            "total": 265743
+          }
+        },
+        {
+          "label": "Total, Personal Services",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 11330503,
+            "otherServices": null,
+            "total": 11330503
+          }
+        },
+        {
+          "label": "MAINTENANCE AND OTHER OPERATING EXPENSES",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 10000,
+            "otherServices": null,
+            "total": 10000
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-03-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 267997,
+            "otherServices": null,
+            "total": 267997
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-04-020",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 2500000,
+            "otherServices": null,
+            "total": 2500000
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-05-020",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 24000,
+            "otherServices": null,
+            "total": 24000
+          }
+        },
+        {
+          "label": "Environmental/Sanitary Services - Desludging",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-12-010",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 100000,
+            "otherServices": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Repair and Maintenance-Buildings and Other Structures",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-13-040",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 12500,
+            "otherServices": null,
+            "total": 12500
+          }
+        },
+        {
+          "label": "MAINTENANCE AND OTHER OPERATING EXPENSES",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Repair and Maintenance-Machinery and Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-13-050",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 10000,
+            "otherServices": null,
+            "total": 10000
+          }
+        },
+        {
+          "label": "Printing and Publication Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-020",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 5000,
+            "otherServices": null,
+            "total": 5000
+          }
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "5-02-99-990",
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 240000,
+            "otherServices": null,
+            "total": 240000
+          }
+        },
+        {
+          "label": "Total, Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 3169497,
+            "otherServices": null,
+            "total": 3169497
+          }
+        },
+        {
+          "key": "totalAppropriations",
+          "label": "TOTAL APPROPRIATIONS",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "generalPublicServices": null,
+            "socialServices": null,
+            "economicServices": 14500000,
+            "otherServices": null,
+            "total": 14500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "byOffice",
+      "title": "Summary of FY 2023 Proposed New Appropriations: 2. Proposed New Appropriations, by Office",
+      "columns": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlay",
+          "type": "amount"
+        },
+        {
+          "key": "financialExpenses",
+          "label": "Financial Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "market-and-slaughterhouse",
+          "label": "A. Market and Slaughterhouse",
+          "level": 1,
+          "kind": "item",
+          "section": "offices",
+          "values": {
+            "ps": 11330503,
+            "mooe": 3169497,
+            "capitalOutlay": null,
+            "financialExpenses": null,
+            "total": 14500000
+          }
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": 11330503,
+            "mooe": 3169497,
+            "capitalOutlay": null,
+            "financialExpenses": null,
+            "total": 14500000
+          }
+        }
+      ]
+    },
+    {
+      "key": "statutoryObligations",
+      "title": "Summary of FY 2023 Proposed New Appropriations: 3. Summary Statement of All Statutory and Contractual Obligations Due",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Statutory and Contractual Obligations",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "1.1 Retirement Gratuity",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "1.2 Terminal Leave Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": 500000
+          }
+        },
+        {
+          "label": "1.3 Debt Service",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "1.4 Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": 36000
+          }
+        },
+        {
+          "label": "1.5 PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": 148015
+          }
+        },
+        {
+          "label": "1.6 PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": 36000
+          }
+        },
+        {
+          "label": "1.7 Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": 794042
+          }
+        },
+        {
+          "label": "2. Budgetary Requirements",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "2.1 20% of IRA for Development Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "2.2 5% Local Disaster Risk Reduction and Management",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "2.3 Financial Assistance to Barangays ( P 1,000.00 minimum aid)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 1514057
+          }
+        }
+      ]
+    },
+    {
+      "key": "indebtedness",
+      "title": "Statement of Indebtedness, Budget Year 2023, Market and Slaughterhouse",
+      "columns": [
+        {
+          "key": "creditor",
+          "label": "Creditor",
+          "type": "text"
+        },
+        {
+          "key": "dateContracted",
+          "label": "Date Contracted",
+          "type": "text"
+        },
+        {
+          "key": "term",
+          "label": "Term",
+          "type": "text"
+        },
+        {
+          "key": "principalAmount",
+          "label": "Principal Amount",
+          "type": "amount"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "prevPrincipal",
+          "label": "Previous Payments Made: Principal",
+          "type": "amount"
+        },
+        {
+          "key": "prevInterest",
+          "label": "Previous Payments Made: Interest",
+          "type": "amount"
+        },
+        {
+          "key": "prevTotal",
+          "label": "Previous Payments Made: Total",
+          "type": "amount"
+        },
+        {
+          "key": "duePrincipal",
+          "label": "Amount Due Budget Year 2023: Principal",
+          "type": "amount"
+        },
+        {
+          "key": "dueInterest",
+          "label": "Amount Due Budget Year 2023: Interest",
+          "type": "amount"
+        },
+        {
+          "key": "dueTotal",
+          "label": "Amount Due Budget Year 2023: Total",
+          "type": "amount"
+        },
+        {
+          "key": "balance",
+          "label": "Balance of the Principal",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "NONE",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "offices": [
+      {
+        "key": "market-and-slaughterhouse",
+        "office": "Market and Slaughterhouse",
+        "ps": 11330503,
+        "mooe": 3169497,
+        "capitalOutlay": null,
+        "total": 14500000
+      }
+    ],
+    "totalAppropriations": 14500000,
+    "totalReceipts": 14500000
+  },
+  "notes": [
+    "Section of the 2023 Local Expenditure Program for the Market and Slaughterhouse economic enterprise. Printed pages present: \"Page 1 of 13 pages\" (Receipts Program) and \"Page 5 of 13\" to \"Page 13 of 13 pages\", plus the Statement of Indebtedness (\"Page 1 of 1 Page\"). Printed pages 2 to 4 of 13 are not in the PDF.",
+    "PDF page 1 is a title sheet; PDF pages 3 to 7 (printed pages 5 to 9) are the narrative General Provisions of the appropriation ordinance and its signature page (Section 2. Effectivity: January 1, 2023; certified by the SP/City Secretary, attested by Vice-Mayor Celedonio B. Sitoy, approved by City Mayor Junard \"Ahong\" Q. Chan). They were not transcribed.",
+    "The Receipts Program header says \"(In 000 Pesos)\" but the figures are plainly in full pesos (e.g. Income from Markets 13,000,000.00 for 2023, consistent with the 14,500,000.00 total appropriation in the other schedules). Values transcribed as printed, in pesos, not multiplied by 1,000.",
+    "This is not an LBP Form 2 per-office report: the only office-level figures are the \"Proposed New Appropriations, by Office\" schedule (single office). summary.offices uses that schedule (budget year 2023). There is no Capital Outlay or Financial Expenses column entry.",
+    "The by-object table repeats the heading \"MAINTENANCE AND OTHER OPERATING EXPENSES\" midway through the MOOE list (as printed); kept as a second header row.",
+    "Statement of Indebtedness for the Market and Slaughterhouse prints \"NONE\".",
+    "In the Receipts Program, all aggregate lines (Beginning Cash Balance, Total Non-Tax-Revenue, Total Receipts, Total Available Resources) are kind \"subtotal\"; the Beginning Cash Balance budget-year cell is printed \"-\"."
+  ],
+  "unreadable": []
+}

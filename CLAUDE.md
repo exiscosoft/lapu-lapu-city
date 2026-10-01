@@ -12,6 +12,7 @@ npm run lint:fix     # Auto-fix ESLint issues
 npm run format       # Format with Prettier
 npm run dev:yaml     # Convert YAML to JSON, then start dev server
 npm run setup        # Interactive setup script for new installations
+npm run llm:build    # Generate llms.txt, llms-full.txt, per-page .md, sitemap.xml, robots.txt into public/
 ```
 
 Pre-commit hook runs `lint-staged` automatically (ESLint + Prettier on staged files).
@@ -64,6 +65,10 @@ Markdown files are loaded dynamically via `import()` in `src/lib/markdownLoader.
 A markdown page can have an optional companion JSON file with the same slug (e.g. `executive.md` + `executive.json`). The loader attempts to import the JSON and passes it to `interpolate()`, which replaces `{PLACEHOLDER}` tokens in the markdown. Resolution order: JSON value → `VITE_<KEY>` env var → unchanged token.
 
 Example: `{MAYOR}` in the markdown is replaced with the `MAYOR` value from `executive.json`, or `VITE_MAYOR` if no JSON file exists.
+
+### Machine-readable output
+
+`scripts/build-llm-files.js` runs on `dev` and `build` and writes generated (gitignored) files into `public/`: `llms.txt`, `llms-full.txt`, a markdown copy of every page at its URL + `.md` (e.g. `/services/business/foo.md`), `sitemap.xml` and `robots.txt`. Absolute URLs use `VITE_WEBSITE_URL`. It and `build-search-index.js` share the content walker in `scripts/lib/content.js`. The human-readable `/sitemap` page is `src/pages/Sitemap.tsx`.
 
 ### Internationalization
 

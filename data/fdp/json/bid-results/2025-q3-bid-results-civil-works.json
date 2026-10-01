@@ -1,0 +1,211 @@
+{
+  "id": "2025-q3-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Bid Results on Civil Works",
+  "form": "FDP Form 10a",
+  "period": {
+    "year": 2025,
+    "quarter": 3,
+    "asOf": "2025-09-30",
+    "printed": "Calendar Year: 2025, Quarter: 3",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Ronaldo D. Malacora",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "CIVIL WORKS BID-OUT",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Name of Project",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderContact",
+          "label": "Name and Address (name)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address (address)",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Bidding Date",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Installation of Drainage at Barangay Poblacion",
+          "kind": "item",
+          "values": {
+            "no": 7,
+            "refNo": "25-60 (DF)",
+            "description": "Installation of Drainage at Barangay Poblacion",
+            "abc": 10652910.0,
+            "location": "Poblacion, LLC",
+            "bidder": "AST Builders",
+            "bidderNormalized": "AST BUILDERS",
+            "bidderContact": "Anthony S. Tan",
+            "bidderAddress": "B. Suico ST., Brgy Tingub, Mandaue City",
+            "bidAmount": 10638818.5,
+            "biddingDate": "2025-09-17",
+            "duration": "90 CD"
+          }
+        },
+        {
+          "label": "Repair of MRF Bldg. Mactan (Phase II)",
+          "kind": "item",
+          "values": {
+            "no": 8,
+            "refNo": "25-33 (DF)",
+            "description": "Repair of MRF Bldg. Mactan (Phase II)",
+            "abc": 4966453.0,
+            "location": "Mactan, LLC",
+            "bidder": "BT Construction & General Services",
+            "bidderNormalized": "BT CONSTRUCTION & GENERAL SERVICES",
+            "bidderContact": "Benjamin O. Tan",
+            "bidderAddress": "94 Gen. Echavez St., Cebu City",
+            "bidAmount": 4965317.08,
+            "biddingDate": "2025-09-17",
+            "duration": "230 CD"
+          }
+        },
+        {
+          "label": "Construction of Concrete Guard Railings & Fence along Basak-Babag access Road (with",
+          "kind": "item",
+          "values": {
+            "no": 9,
+            "refNo": "25-30 (DF)",
+            "description": "Construction of Concrete Guard Railings & Fence along Basak-Babag access Road (with",
+            "abc": 14880567.0,
+            "location": "Basak & Babag, LLC",
+            "bidder": "Heritage Genertal Construction Services",
+            "bidderNormalized": "HERITAGE GENERTAL CONSTRUCTION SERVICES",
+            "bidderContact": null,
+            "bidderAddress": null,
+            "bidAmount": 14878170.27,
+            "biddingDate": "2025-09-17",
+            "duration": "90 CD"
+          }
+        },
+        {
+          "label": "Construction of Fence & Niches at Olango Cemetery",
+          "kind": "item",
+          "values": {
+            "no": 10,
+            "refNo": "25-31 (DF)",
+            "description": "Construction of Fence & Niches at Olango Cemetery",
+            "abc": 14962479.0,
+            "location": "Tungasan, Olango Is., LLC",
+            "bidder": "PHIL ASIA Resources & Development Center",
+            "bidderNormalized": "PHIL ASIA RESOURCES & DEVELOPMENT CENTER",
+            "bidderContact": "Engr. Restituto M. Villegas",
+            "bidderAddress": "Pasajero Bldg., A.S. Fortuna St., Banilad, Mandaue City",
+            "bidAmount": 14961241.17,
+            "biddingDate": "2025-09-17",
+            "duration": "180 CD"
+          }
+        },
+        {
+          "label": "Repair of Various Classrooms at STEC High School",
+          "kind": "item",
+          "values": {
+            "no": 11,
+            "refNo": "23-25",
+            "description": "Repair of Various Classrooms at STEC High School",
+            "abc": 3498071.0,
+            "location": "Basak, LLC",
+            "bidder": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderNormalized": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderContact": "Emiliano Tadeo Ruiz Jr",
+            "bidderAddress": "Z3-30B A. Bacaltos St., Mohon, Talisay City, Cebu",
+            "bidAmount": 3494888.0,
+            "biddingDate": "2025-09-17",
+            "duration": "110 CD"
+          }
+        },
+        {
+          "label": "Repair of Various Classrooms at Babag National High School Night High School",
+          "kind": "item",
+          "values": {
+            "no": 12,
+            "refNo": "23-14 (SEF)",
+            "description": "Repair of Various Classrooms at Babag National High School Night High School",
+            "abc": 1385047.0,
+            "location": "Babag, LLC",
+            "bidder": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderNormalized": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderContact": "Emiliano Tadeo Ruiz Jr",
+            "bidderAddress": "Z3-30B A. Bacaltos St., Mohon, Talisay City, Cebu",
+            "bidAmount": 1382888.0,
+            "biddingDate": "2025-09-17",
+            "duration": "95 CD"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "Items are numbered 7-12 on the page (numbering continues from earlier quarters); transcribed as printed.",
+    "Item 9 description is cut off on the page after \"(with\"; transcribed as printed.",
+    "Item 9 has a blank Name and Address cell. Bidder name \"Heritage Genertal Construction Services\" is spelled as printed.",
+    "The \"Name and Address\" column prints a contact person and an address; they are split into bidderContact and bidderAddress.",
+    "The first letter of the BAC Chairperson name is cut off by the scan (\".ONALDO D. MALACORA\"); full name \"Ronaldo D. Malacora\" taken from the Q3 2025 consulting-services form signed by the same officer.",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

@@ -2,10 +2,30 @@
 # This file contains all the pages/services available under the Environment category
 
 pages:
-  - name: 'Join clean-up drives and tree planting activities'
+  - name: 'Organize a coastal cleanup or mangrove planting activity'
     slug: 'join-clean-up-drives-and-tree-planting-activities'
-    description: 'Information about participating in community clean-up drives and tree planting activities.'
-    
-  - name: 'Report illegal logging, quarrying, or fishing'
+    description: 'For individuals, groups, and organizations holding a coastal cleanup or mangrove planting. Submit a letter to CENRO. Fee: ₱50. Processing: 3–7 days. Open Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Report environmental problems (dumping, pollution, coastal and marine)'
     slug: 'report-illegal-logging-quarrying-or-fishing'
-    description: 'How to report illegal environmental activities like logging, quarrying, or illegal fishing.'
+    description: 'For residents, lot owners, and businesses. Send a complaint letter to CENRO with photos and a sketch of the location. Free. Processing: 7 days. Open Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Turn over rescued wildlife'
+    slug: 'turn-over-rescued-wildlife'
+    description: 'For residents and organizations who rescue a wild animal. Bring it to CENRO with details on its species, size, and origin to get a turn-over receipt. Free. Open Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Get a tree cutting or trimming endorsement'
+    slug: 'get-a-tree-cutting-or-trimming-endorsement'
+    description: 'For residents, lot owners, developers, and businesses. Requires request letters, barangay clearance, site photos, and 5 seedlings per tree cut. Fee: ₱50. Processing: 7 days. Open Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Get a hauling permit for soil and rocks'
+    slug: 'get-a-hauling-permit-for-soil-and-rocks'
+    description: 'For contractors and developers hauling common waste rocks or soil. Requires permits, clearances, ECC, and a site inspection. Fee set by the City Mayor''s Office. Processing: 7 days. Open Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Get a permit to conduct environmental research'
+    slug: 'get-a-permit-to-conduct-environmental-research'
+    description: 'For students, researchers, and organizations. Submit a letter of request describing your study. Fee: ₱50 per item. Processing: 3 days. Open Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'Request an environmental seminar for your community'
+    slug: 'request-an-environmental-seminar-for-your-community'
+    description: 'For public or private groups. Send CENRO a letter with the date, venue, participants, and topic. Free. Processing: 7 days. Open Mon–Sat, 8:00am–5:00pm.'

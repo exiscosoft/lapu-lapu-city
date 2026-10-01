@@ -44,22 +44,7 @@ Below are **city-led** or **LGU-facilitated** programs you can use for study sup
 
 ## 3) Student Employment (SPES) via PESO Lapu-Lapu
 
-**What it is**
-
-- The **Special Program for the Employment of Students (SPES)** lets poor but deserving **students/OSYs (15–30)** work during breaks to earn and gain experience.
-- Implemented locally through the **Public Employment Service Office (PESO)** with DOLE.
-
-**How to access**
-
-1. Follow **PESO Lapu-Lapu City** on Facebook for **SPES application windows** and job fair advisories.
-2. Prepare IDs, school docs, and income/indigency proofs per announcement.
-3. Submit online or at the PESO office; attend orientation when shortlisted.
-
-**Links**
-
-- **PESO Lapu-Lapu City** Facebook page (official announcements)
-- DepEd/BLSS-YFD: **SPES 2025 guidelines & timelines**
-- City press: **PESO career fair / youth employment events** — City Information Office
+The Public Employment Service Office (PESO) runs the summer job program for students and out-of-school youth. For who can apply, the requirements, and the steps, see [Apply for the Summer Job Program](/services/business/apply-for-the-summer-job-program).
 
 ---
 

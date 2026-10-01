@@ -1,0 +1,128 @@
+{
+  "id": "2022-q4-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization (DILG Form)",
+  "period": {
+    "year": 2022,
+    "quarter": 4,
+    "asOf": "2022-12-31",
+    "printed": "AS OF DECEMBER 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Cluster X- Construction of Public toilet",
+            "location": "Calawisan",
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-07-15",
+            "remarks": "Suspended (BUB)"
+          }
+        },
+        {
+          "label": "2. Improvement /Renovation of Fireman's quarter of LLC Fire District Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Improvement /Renovation of Fireman's quarter of LLC Fire District Gun-ob",
+            "location": "Gun-ob",
+            "totalCost": 299984.28,
+            "dateStarted": "2022-10-06",
+            "targetCompletion": "2022-10-21",
+            "remarks": "Repair"
+          }
+        },
+        {
+          "label": "3. Improvement of Lapulapu City Hall Comples",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Improvement of Lapulapu City Hall Comples",
+            "location": "Pusok",
+            "totalCost": 16995964.33,
+            "dateStarted": "2022-08-15",
+            "targetCompletion": "2022-12-13",
+            "pctCompletion": 50,
+            "costIncurred": 10467033.65,
+            "remarks": "On going"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 3
+  },
+  "notes": [
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null; projectCount counts the three numbered projects.",
+    "\"Comples\" is printed as such (Complex)."
+  ],
+  "unreadable": []
+}

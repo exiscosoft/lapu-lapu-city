@@ -1,0 +1,1018 @@
+{
+  "id": "2019-q1-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (COA Form)",
+  "period": {
+    "year": 2019,
+    "quarter": 1,
+    "asOf": "2019-03-31",
+    "printed": "As of March 31, 2019",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 35010131.0,
+            "mitigation": 81690307.0,
+            "total": 116700438.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 122644089.46,
+            "total": 122644089.46
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 281499059.07,
+            "total": 281499059.07
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfers/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "total": 0
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 35010131.0,
+            "mitigation": 485833455.53,
+            "total": 520843586.53
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. Utilization",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Purch. of Portable Genset",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 288800.0,
+            "particulars": "Purch. of Portable Genset"
+          }
+        },
+        {
+          "label": "Purchase of Van (GF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 3100000.0,
+            "particulars": "Purchase of Van (GF)"
+          }
+        },
+        {
+          "label": "Aviation Road (GF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 4831081.92,
+            "particulars": "Aviation Road (GF)"
+          }
+        },
+        {
+          "label": "Projector (TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 41000.0,
+            "particulars": "Projector (TF)"
+          }
+        },
+        {
+          "label": "80 units Fire Extinguisher (TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 1320000.0,
+            "particulars": "80 units Fire Extinguisher (TF)"
+          }
+        },
+        {
+          "label": "Food Supplies",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 859600.0,
+            "particulars": "Food Supplies"
+          }
+        },
+        {
+          "label": "2 units Firetruck",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 24997776.0,
+            "particulars": "2 units Firetruck"
+          }
+        },
+        {
+          "label": "Equipment (GF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 213820.0,
+            "particulars": "Equipment (GF)"
+          }
+        },
+        {
+          "label": "Construction of Drainage System -Bagong Silang(TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 10840352.51,
+            "particulars": "Construction of Drainage System -Bagong Silang(TF)"
+          }
+        },
+        {
+          "label": "Dredging of Basak Creek",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 1260077.5,
+            "particulars": "Dredging of Basak Creek"
+          }
+        },
+        {
+          "label": "20 units handheld radios",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 425000.0,
+            "particulars": "20 units handheld radios"
+          }
+        },
+        {
+          "label": "Chainsaw",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 159818.0,
+            "particulars": "Chainsaw"
+          }
+        },
+        {
+          "label": "Fire Station Repair-Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 615150.81,
+            "particulars": "Fire Station Repair-Gun-ob"
+          }
+        },
+        {
+          "label": "Android Smartphones",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 1159342.0,
+            "particulars": "Android Smartphones"
+          }
+        },
+        {
+          "label": "Transfers to other LGUs",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 3000000.0,
+            "particulars": "Transfers to other LGUs"
+          }
+        },
+        {
+          "label": "Mosquito Net",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 43920.0,
+            "particulars": "Mosquito Net"
+          }
+        },
+        {
+          "label": "Payment Installation of RCCP Drainage-Lopez, Jaena Poblacion(TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 6051741.64,
+            "particulars": "Payment Installation of RCCP Drainage-Lopez, Jaena Poblacion(TF)"
+          }
+        },
+        {
+          "label": "Drainage-Aviation Road(GF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 14412727.72,
+            "particulars": "Drainage-Aviation Road(GF)"
+          }
+        },
+        {
+          "label": "Purchase of bulldozer (TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 23990000.0,
+            "particulars": "Purchase of bulldozer (TF)"
+          }
+        },
+        {
+          "label": "Rehabilitation of Road Grader Engine(TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 3239100.0,
+            "particulars": "Rehabilitation of Road Grader Engine(TF)"
+          }
+        },
+        {
+          "label": "RDAK-shovel (TF)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 17447.5,
+            "particulars": "RDAK-shovel (TF)"
+          }
+        },
+        {
+          "label": "2016",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "General Fund",
+          "level": 1,
+          "kind": "header",
+          "section": "generalFund2016",
+          "values": {}
+        },
+        {
+          "label": "Training (Eloisa Royal Suites)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 111190.0,
+            "particulars": "Training (Eloisa Royal Suites)"
+          }
+        },
+        {
+          "label": "Purchase-Emergency Vehicle-(RDAK)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 4494000.0,
+            "particulars": "Purchase-Emergency Vehicle-(RDAK)"
+          }
+        },
+        {
+          "label": "Community Based Monitoring System-Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 5641910.0,
+            "particulars": "Community Based Monitoring System-Payroll"
+          }
+        },
+        {
+          "label": "Trainings",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 572984.5,
+            "particulars": "Trainings"
+          }
+        },
+        {
+          "label": "Emergency Manuals(J-Joel)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 212455.0,
+            "particulars": "Emergency Manuals(J-Joel)"
+          }
+        },
+        {
+          "label": "Caps & bags (J-Joel)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 150850.0,
+            "particulars": "Caps & bags (J-Joel)"
+          }
+        },
+        {
+          "label": "Polo shirts & Caps (J-Joel)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 123110.0,
+            "particulars": "Polo shirts & Caps (J-Joel)"
+          }
+        },
+        {
+          "label": "Circular Saw-Officebox",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 100000.0,
+            "particulars": "Circular Saw-Officebox"
+          }
+        },
+        {
+          "label": "Electrical Drill-Officebox",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 38500.0,
+            "particulars": "Electrical Drill-Officebox"
+          }
+        },
+        {
+          "label": "Survey Stickers-Jjoel",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 607670.0,
+            "particulars": "Survey Stickers-Jjoel"
+          }
+        },
+        {
+          "label": "Construction Materials-JSL",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 85820.0,
+            "particulars": "Construction Materials-JSL"
+          }
+        },
+        {
+          "label": "Supplies-Jjoel",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 91000.0,
+            "particulars": "Supplies-Jjoel"
+          }
+        },
+        {
+          "label": "Training-San Vicente fisherfolks",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 24000.0,
+            "particulars": "Training-San Vicente fisherfolks"
+          }
+        },
+        {
+          "label": "IT Equipment-SECC",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 134000.0,
+            "particulars": "IT Equipment-SECC"
+          }
+        },
+        {
+          "label": "Supplies-Jjoel",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFund2016",
+          "values": {
+            "mitigation": 106150.0,
+            "particulars": "Supplies-Jjoel"
+          }
+        },
+        {
+          "label": "Continuing: GF",
+          "level": 1,
+          "kind": "header",
+          "section": "gfContinuing2016",
+          "values": {}
+        },
+        {
+          "label": "Installation of Drainage System Aviation Road",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2016",
+          "values": {
+            "mitigation": 4974873.83,
+            "particulars": "Installation of Drainage System Aviation Road"
+          }
+        },
+        {
+          "label": "Installation of concrete culvert pipe drainage-Ceres Road",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2016",
+          "values": {
+            "mitigation": 1825000.0,
+            "particulars": "Installation of concrete culvert pipe drainage-Ceres Road"
+          }
+        },
+        {
+          "label": "Handheld Radios",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2016",
+          "values": {
+            "mitigation": 934300.0,
+            "particulars": "Handheld Radios"
+          }
+        },
+        {
+          "label": "Trust Fund",
+          "level": 1,
+          "kind": "header",
+          "section": "trustFund2016",
+          "values": {}
+        },
+        {
+          "label": "Drainage-F. Martir, Poblacion 1st partial payment",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 999623.3,
+            "particulars": "Drainage-F. Martir, Poblacion 1st partial payment"
+          }
+        },
+        {
+          "label": "Declogger Truck",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 38000000.0,
+            "particulars": "Declogger Truck"
+          }
+        },
+        {
+          "label": "Construction of STP-Basak",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 12948107.82,
+            "particulars": "Construction of STP-Basak"
+          }
+        },
+        {
+          "label": "CCTV Cameras(Full Payment)",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 11798375.45,
+            "particulars": "CCTV Cameras(Full Payment)"
+          }
+        },
+        {
+          "label": "Cebu Based Monitoring Services (CBMS)-Payroll",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 2601590.0,
+            "particulars": "Cebu Based Monitoring Services (CBMS)-Payroll"
+          }
+        },
+        {
+          "label": "CBMS-Catering Services",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 15000.0,
+            "particulars": "CBMS-Catering Services"
+          }
+        },
+        {
+          "label": "CBMS Stickers & Seminars",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 99000.0,
+            "particulars": "CBMS Stickers & Seminars"
+          }
+        },
+        {
+          "label": "Foldable Cot Bed (20 units)",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2016",
+          "values": {
+            "mitigation": 98000.0,
+            "particulars": "Foldable Cot Bed (20 units)"
+          }
+        },
+        {
+          "label": "2017",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "General Gund-Continuing",
+          "level": 1,
+          "kind": "header",
+          "section": "gfContinuing2017",
+          "values": {}
+        },
+        {
+          "label": "Purchase of Rescue Van",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 1760000.0,
+            "particulars": "Purchase of Rescue Van"
+          }
+        },
+        {
+          "label": "Purchase of Dumptruck",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 10479000.0,
+            "particulars": "Purchase of Dumptruck"
+          }
+        },
+        {
+          "label": "Purchase of Portable Floodlight",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 1786800.0,
+            "particulars": "Purchase of Portable Floodlight"
+          }
+        },
+        {
+          "label": "Installation of Drainage System -Aviation Road",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 10625752.47,
+            "particulars": "Installation of Drainage System -Aviation Road"
+          }
+        },
+        {
+          "label": "Honorarium-Speakers",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 40000.0,
+            "particulars": "Honorarium-Speakers"
+          }
+        },
+        {
+          "label": "KONKA-Meals",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 175000.0,
+            "particulars": "KONKA-Meals"
+          }
+        },
+        {
+          "label": "Manuals-J.Joel Ent.",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2017",
+          "values": {
+            "mitigation": 41500.0,
+            "particulars": "Manuals-J.Joel Ent."
+          }
+        },
+        {
+          "label": "2018",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "General Fund-Continuing/MOOE",
+          "level": 1,
+          "kind": "header",
+          "section": "gfContinuingMooe2018",
+          "values": {}
+        },
+        {
+          "label": "Purchase of Nebulizer",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 100000.0,
+            "particulars": "Purchase of Nebulizer"
+          }
+        },
+        {
+          "label": "Installation of Drainage box",
+          "level": 1,
+          "kind": "header",
+          "section": "gfContinuingMooe2018",
+          "values": {}
+        },
+        {
+          "label": "- Kagudoy Road",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 3178524.32,
+            "particulars": "- Kagudoy Road"
+          }
+        },
+        {
+          "label": "- Manhole Citywide",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 225276.0,
+            "particulars": "- Manhole Citywide"
+          }
+        },
+        {
+          "label": "Construction of Evacuation Center-Subabasbas, Sabang BUB Counterpart",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 2073094.62,
+            "particulars": "Construction of Evacuation Center-Subabasbas, Sabang BUB Counterpart"
+          }
+        },
+        {
+          "label": "Purchase of Automated External Defibrillator",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 249000.0,
+            "particulars": "Purchase of Automated External Defibrillator"
+          }
+        },
+        {
+          "label": "Basic Life Support Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 440837.5,
+            "particulars": "Basic Life Support Equipment"
+          }
+        },
+        {
+          "label": "Purchase of Dumptruck",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 1394000.0,
+            "particulars": "Purchase of Dumptruck"
+          }
+        },
+        {
+          "label": "Purchase of Automated Weather System",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 475000.0,
+            "particulars": "Purchase of Automated Weather System"
+          }
+        },
+        {
+          "label": "Purchase of Search & Rescue Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 3985500.0,
+            "particulars": "Purchase of Search & Rescue Equipment"
+          }
+        },
+        {
+          "label": "Pneumatic Inflatable Tent (1)",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 1798000.0,
+            "particulars": "Pneumatic Inflatable Tent (1)"
+          }
+        },
+        {
+          "label": "Emergency Pneumatic Lifting Bags",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 1198500.0,
+            "particulars": "Emergency Pneumatic Lifting Bags"
+          }
+        },
+        {
+          "label": "Purchase of Mugs & plates Pajo and Basak",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuingMooe2018",
+          "values": {
+            "mitigation": 49980.0,
+            "particulars": "Purchase of Mugs & plates Pajo and Basak"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 1,
+          "kind": "header",
+          "section": "trustFund2018",
+          "values": {}
+        },
+        {
+          "label": "Repair of Basak old STP",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund2018",
+          "values": {
+            "mitigation": 4990997.9,
+            "particulars": "Repair of Basak old STP"
+          }
+        },
+        {
+          "label": "2019",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-CONTINUING",
+          "level": 1,
+          "kind": "header",
+          "section": "gfContinuing2019",
+          "values": {}
+        },
+        {
+          "label": "Mobilization-Humay2 Drainage",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2019",
+          "values": {
+            "mitigation": 2662199.43,
+            "particulars": "Mobilization-Humay2 Drainage"
+          }
+        },
+        {
+          "label": "Foldable Stretcher (60 pcs)",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2019",
+          "values": {
+            "mitigation": 285000.0,
+            "particulars": "Foldable Stretcher (60 pcs)"
+          }
+        },
+        {
+          "label": "Lowlight bullet camera (58units)",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2019",
+          "values": {
+            "mitigation": 6580332.64,
+            "particulars": "Lowlight bullet camera (58units)"
+          }
+        },
+        {
+          "label": "Relief Transport Vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "gfContinuing2019",
+          "values": {
+            "mitigation": 2498000.0,
+            "particulars": "Relief Transport Vehicle"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 0,
+            "mitigation": 244746560.38,
+            "total": 244746560.38,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 35010131.0,
+            "mitigation": 241086895.15,
+            "total": 276097026.15
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 520843586.53,
+    "qrf": 35010131.0,
+    "mitigation": 485833455.53,
+    "totalUtilized": 244746560.38,
+    "balance": 276097026.15,
+    "qrfUtilized": 0,
+    "mitigationUtilized": 244746560.38,
+    "qrfBalance": 35010131.0,
+    "mitigationBalance": 241086895.15
+  },
+  "notes": [
+    "Utilization is grouped by appropriation year (2016, 2017, 2018, 2019) and fund (General Fund, continuing, Trust Fund) rather than by month; the group is recorded in `section` (e.g. \"generalFund2016\", \"trustFund2018\"). The first 21 items (page 1 to top of page 2) are printed directly under \"B. Utilization\" with no year/fund heading, so they have no section.",
+    "The utilization items sum exactly to the printed Total Utilization 244,746,560.38; all amounts are in the Mitigation Fund column (QRF utilization printed as \"-\").",
+    "Transfers/Grants: Total column printed \"-\" (recorded as 0).",
+    "Particulars kept as printed, including (GF)/(TF) fund tags and typos (e.g. \"General Gund-Continuing\")."
+  ],
+  "unreadable": []
+}

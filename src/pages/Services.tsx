@@ -120,9 +120,6 @@ const Services: React.FC = () => {
                             {subcategory.description}
                           </p>
                         )}
-                        <span className="inline-block px-2 py-1 mt-2 text-xs font-medium rounded-sm bg-gray-100 text-gray-800">
-                          {categoryData.category || category}
-                        </span>
                       </CardContent>
                     </Card>
                   </Link>
@@ -145,9 +142,6 @@ const Services: React.FC = () => {
                             {subcategory.description}
                           </p>
                         )}
-                        <span className="inline-block px-2 py-1 mt-2 text-xs font-medium rounded-sm bg-gray-100 text-gray-800">
-                          {categoryData.category || category}
-                        </span>
                       </CardContent>
                     </Card>
                   </Link>

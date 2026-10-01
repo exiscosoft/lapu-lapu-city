@@ -1,0 +1,1470 @@
+{
+  "id": "2018-annual-gad",
+  "type": "gad",
+  "title": "Annual Gender and Development (GAD) Accomplishment Report",
+  "form": null,
+  "period": {
+    "year": 2018,
+    "quarter": null,
+    "asOf": "2018-12-31",
+    "printed": "FY 2018",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Ermelita C. Degamo",
+      "position": "Chairperson, GFPS-TWG (Prepared by, GAD Focal Point System)"
+    },
+    {
+      "name": "Engr. Perla T. Amar",
+      "position": "City Planning & Devt. Officer"
+    },
+    {
+      "name": "Paz C. Radaza",
+      "position": "Local Chief Executive (Approved by)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Annual Gender and Development (GAD) Accomplishment Report FY 2018, Lapu-Lapu City",
+      "columns": [
+        {
+          "key": "gadIssue",
+          "label": "Gender Issue/GAD Mandate (1)",
+          "type": "text"
+        },
+        {
+          "key": "objective",
+          "label": "GAD Objectives (2)",
+          "type": "text"
+        },
+        {
+          "key": "ppa",
+          "label": "Relevant LGU Program or Project (3)",
+          "type": "text"
+        },
+        {
+          "key": "activity",
+          "label": "GAD Activity (4)",
+          "type": "text"
+        },
+        {
+          "key": "indicators",
+          "label": "Performance Indicator and Target (5)",
+          "type": "text"
+        },
+        {
+          "key": "actualResults",
+          "label": "Actual Results (6)",
+          "type": "text"
+        },
+        {
+          "key": "gadBudget",
+          "label": "Approved GAD Budget (7)",
+          "type": "amount"
+        },
+        {
+          "key": "actualCost",
+          "label": "Actual Cost/ Expendtrs (8)",
+          "type": "amount"
+        },
+        {
+          "key": "variance",
+          "label": "Variance/ Remarks (9) - amount",
+          "type": "amount"
+        },
+        {
+          "key": "remarks",
+          "label": "Variance/ Remarks (9) - remarks text",
+          "type": "text"
+        },
+        {
+          "key": "office",
+          "label": "Office of Responsibility (10)",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. CLIENT FOCUSED",
+          "level": 0,
+          "kind": "header",
+          "section": "client",
+          "values": {}
+        },
+        {
+          "label": "Hiring of deserving indigent students in government offices",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access of indigent students to higher education due to financial constraints - estimated indigent students is 15,159",
+            "objective": "To provide employment to deserving indigent students as their fund source for enrolment",
+            "ppa": "Social Welfare and Development: Special Program for Employment of Students (SPES)",
+            "activity": "Hiring of deserving indigent students in government offices",
+            "indicators": "2,000 indigent students hired under the SPES and were able to enroll in schools after the program",
+            "actualResults": "9,045 deserving indigent students hired in Employment Program for 5 days work and 202 deserving indigent students hired in Employment Program for 15 days work. P300 per day.",
+            "gadBudget": 13400000,
+            "actualCost": 14802000,
+            "variance": 8098000,
+            "remarks": "P9,500,000 increased thru SB",
+            "office": "CMO/ Public Employment Services"
+          }
+        },
+        {
+          "label": "Provision of counterpart funds for DOLE Livelihood skills training for returning OFWs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access of displaced and/or returning OFWs on job/livelihood opportunities for reintegration",
+            "objective": "To provide livelihood opportunities to economically displaced OFWs",
+            "ppa": "Social Welfare and Development: Migrant Workers",
+            "activity": "Provision of counterpart funds for DOLE Livelihood skills training for returning OFWs",
+            "indicators": "a)150 OFWs (F- 85; M-65) were able to acquire skills for livelihood",
+            "actualResults": "884 Registered Displaced and Returning OFW's; 450 OFW's - Seminar &Training for evaluation and qualified for seed capital.",
+            "gadBudget": 300000,
+            "actualCost": 299875,
+            "variance": 125,
+            "remarks": null,
+            "office": "CMO/ Public Employment Services"
+          }
+        },
+        {
+          "label": "b) Provision of financial assistance",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": "To provide seed capital to start a small business for displaced OFWs",
+            "ppa": null,
+            "activity": "b) Provision of financial assistance",
+            "indicators": "b) 150 OFWs provided with start-up capital for their livelihood projects",
+            "actualResults": "Not implemented",
+            "gadBudget": 1500000,
+            "actualCost": 0,
+            "variance": 500000,
+            "remarks": "Approved Budget & AIP is P500,000; Reprogrammed for 2019",
+            "office": "CMO/ Public Employment Services"
+          }
+        },
+        {
+          "label": "a) Conduct of Inter-barangay sportsfest b) Indoor games facility c) participation in Phil. National Games d)) Conduct of Seminars and Sports Clinic",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High vulnerability of children and youth to illegal drugs, gangsterism, and juvenile delinquency",
+            "objective": "To improve access of children and youth to sports development program to lure them away from illegal drugs, gangsterism and juvenile delinquency",
+            "ppa": "Social Welfare and Development: Youth and Sports Development",
+            "activity": "a) Conduct of Inter-barangay sportsfest b) Indoor games facility c) participation in Phil. National Games d)) Conduct of Seminars and Sports Clinic",
+            "indicators": "At least 6,000 male and female youth and children will be sportsminded and diverted from illegal drugs, gangsterism and juvenile delinquency",
+            "actualResults": "3 Sportsfest conducted: >Inter-barangay summer tournament: Males - 1,080; Females - 150 >Pre-Christmas tournament: Males - 1,476; Females - 96 >Natl. Sportsfest : (10days) (arnis,chess,gymnast,taekwondo, tabletennis,softball,athletics) Female athletes: 75 Male athletes : 65 Coaches/officials: 27",
+            "gadBudget": 3000000,
+            "actualCost": null,
+            "variance": null,
+            "remarks": "The approved appropriation in 2018AB was P2M for Inter-Bgy; P800,000 for City Sportsfest & P1,100,000 for Natl.Sportsfest ; there was augmentation on each accounts.",
+            "office": "CMO/City Sports Commission"
+          }
+        },
+        {
+          "label": "Sports: actual cost line 1 (printed \">P1,982,000\", variance \"> 0\")",
+          "level": 2,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadBudget": null,
+            "actualCost": 1982000,
+            "variance": 0,
+            "remarks": null
+          }
+        },
+        {
+          "label": "Sports: actual cost line 2 (printed \">P1,005,680\", variance \">P320.00\")",
+          "level": 2,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadBudget": null,
+            "actualCost": 1005680,
+            "variance": 320,
+            "remarks": null
+          }
+        },
+        {
+          "label": "Sports: actual cost line 3 (printed \">P1,072,000\", variance \"> 0\")",
+          "level": 2,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadBudget": null,
+            "actualCost": 1072000,
+            "variance": 0,
+            "remarks": null
+          }
+        },
+        {
+          "label": "Production and distribution of IEC materials (RA 9262, 7610, 9344, 9165, 908, others)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of VAWC cases, Trafficking in Persons, Cyberpornography and other gender-based violence",
+            "objective": "To raise the level of community awareness on VAWC, cyberpornography, trafficking in persons and other gender-based violence thru advocacy",
+            "ppa": "Social Welfare and Development Public safety and peace and order",
+            "activity": "Production and distribution of IEC materials (RA 9262, 7610, 9344, 9165, 908, others)",
+            "indicators": "Increased awareness of communities on laws and issuances on VAWC, Cyberpornography, Trafficking in Persons and other gender-based violence",
+            "actualResults": "Purchased request for 1,000 brochures \"SUMVAC\"",
+            "gadBudget": 193680,
+            "actualCost": 194000,
+            "variance": 320,
+            "remarks": "The approved AB was P194,000",
+            "office": "PNP"
+          }
+        },
+        {
+          "label": "Conduct of Gender Sensitivity Training and Orientation on GAD related laws and issuances",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Women Empowerment/ Exploitation and threats of violence against women and children among the urban poor",
+            "objective": "To raise the level of awareness and consciousness regarding laws affecting women and children",
+            "ppa": "Social Services Urban Poor Welfare and Development",
+            "activity": "Conduct of Gender Sensitivity Training and Orientation on GAD related laws and issuances",
+            "indicators": "90 Urban poor leaders undergo the GST and orientation and acquired knowledge on different GAD related laws and issuances",
+            "actualResults": "1st batch orientation - Food & accommodation Male- 35; Female -55 2nd batch orientation - Food & accommodation Male-40; Female- 50 Honoraria for Resource Speaker",
+            "gadBudget": 150000,
+            "actualCost": 124000,
+            "variance": 26000,
+            "remarks": null,
+            "office": "CMO/ Urban Poor Services"
+          }
+        },
+        {
+          "label": "Construction/improvement of Jail Facilities",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Congested and poor prison facilities/exposure of women inmates to physical and gender-based violence",
+            "objective": "To provide private searching rooms, separate female comfort rooms and female visitor's lounge",
+            "ppa": "Social Services: Public Safety",
+            "activity": "Construction/improvement of Jail Facilities",
+            "indicators": "a) Female visitor's lounge, separate comfort rooms, searching rooms constructed within the female dorm facility",
+            "actualResults": "Not yet implemented",
+            "gadBudget": 1000000,
+            "actualCost": 0,
+            "variance": 1000000,
+            "remarks": "for POWE preparation",
+            "office": "CMO/ BJMP"
+          }
+        },
+        {
+          "label": "Not yet implemented",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": null,
+            "indicators": "b) Constructed Multi- purpose hall for service providers of female inmates (70 out of 100 members of service providers are female)",
+            "actualResults": "Not yet implemented",
+            "gadBudget": 1000000,
+            "actualCost": 0,
+            "variance": 1000000,
+            "remarks": "for POWE preparation",
+            "office": "CMO/ BJMP"
+          }
+        },
+        {
+          "label": "Conduct of TESDA Livelihood Skills training (3 month Courses )",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of productive skills of female inmates for reintegration upon release",
+            "objective": "To provide inmates knowledge and skills needed for employment and/or livelihood activities",
+            "ppa": "Social Services",
+            "activity": "Conduct of TESDA Livelihood Skills training (3 month Courses )",
+            "indicators": "50 female detainees will be trained and provided with NCII certificates upon graduation",
+            "actualResults": "Bread and Pastry Skills under supervision of TESDA Skills Devt. And Assessment Center, Inc.; 25 PDL undergone and surpass training",
+            "gadBudget": 150000,
+            "actualCost": 150000,
+            "variance": 0,
+            "remarks": null,
+            "office": "BJMP/TESDA"
+          }
+        },
+        {
+          "label": "Acquisition of lot",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Absence of interview room for victims of VAWC at WCPD Police Station 5",
+            "objective": "To guarantee the privacy of VAWC victims during the conduct of interview",
+            "ppa": "Social Services",
+            "activity": "Acquisition of lot",
+            "indicators": "Lot purchased",
+            "actualResults": null,
+            "gadBudget": 1700000,
+            "actualCost": 0,
+            "variance": 1700000,
+            "remarks": "On-going negotiations with PEZA for lot usufruct.",
+            "office": "PNP"
+          }
+        },
+        {
+          "label": "Opening of Extension classess in barangays with high number of out-of-school youth and adults; Construction of CLCs in every elementary and secondary schools",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack/shortage of CLS to cater the school aged student drop-outs: 1,573 students (elem-967, secondary-606)",
+            "objective": "Training and hiring of ALS teachers to be assigned in island barangays, squater and dumpsite areas",
+            "ppa": "Social Services: Education",
+            "activity": "Opening of Extension classess in barangays with high number of out-of-school youth and adults; Construction of CLCs in every elementary and secondary schools",
+            "indicators": "11 Mobile teachers to handle ALS classes;40 instructional managers to handle A & E; and para-teachers to handle functional literacy resulting to a decreased number of out-of school youth and adults",
+            "actualResults": "18 mobile teachers handling ALS classes; 9 instructional managers to handle A&E; 18 Para teachers; 8 special skills & content trainers to handle functional literacy resulting to a decreased number number of out-of school youth and adults",
+            "gadBudget": 500000,
+            "actualCost": 1040000,
+            "variance": 2760,
+            "remarks": "P1,042,760 approved AB",
+            "office": "DepEd (SEF)"
+          }
+        },
+        {
+          "label": "construction of CLS",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": null,
+            "indicators": null,
+            "actualResults": "construction of CLS",
+            "gadBudget": 1000000,
+            "actualCost": null,
+            "variance": null,
+            "remarks": "1M for construction of CLC was augmented to fund trainings /honoraria of implementors. [Actual Cost cell prints \"not implemented\"]",
+            "office": "DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Repair, construction and improvement of kindergarten classrooms",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of suitable classrooms for the K-12 program",
+            "objective": "To provide additional classrooms for K-12 Universal Kindergarten implementation and imrprovement of kindergarten classrooms",
+            "ppa": "Social Services: Education",
+            "activity": "Repair, construction and improvement of kindergarten classrooms",
+            "indicators": "1 classroom /district constructed/or repaired to accommodate the increasing number of enrollees (10 districts)",
+            "actualResults": "Not implemented due to recipient school has failed to submit pertinent report",
+            "gadBudget": 900000,
+            "actualCost": 0,
+            "variance": 900000,
+            "remarks": "Failure submission of pertinent papers.",
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Provision of teacher facilitators to assist kindergarten teachers in schools with large number of enrolees",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of extension classroom teacher facilitators",
+            "objective": "To provide teacher facilitators to extension classess for the K-12",
+            "ppa": "Social Services: Education",
+            "activity": "Provision of teacher facilitators to assist kindergarten teachers in schools with large number of enrolees",
+            "indicators": "30 teachers facilitators assigned in different elem schools are provided with educational materials",
+            "actualResults": "The appropriation was raised to P1,142,760 for the purchased of educational supplies materials",
+            "gadBudget": 250000,
+            "actualCost": 1040000,
+            "variance": 2760,
+            "remarks": "Approved AB is P1,042,760",
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Provision of support funds for the conduct of city-wide technolympics",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of support for the livelihood Skills and Technology olympics among male and female students in HELE, TLE and Vocational Technology",
+            "objective": "To provide support to technolympics for HELE, TLE and VOC tech classess",
+            "ppa": "Social Services: Education",
+            "activity": "Provision of support funds for the conduct of city-wide technolympics",
+            "indicators": "Elementary and senior High school students participated in the open techno competition",
+            "actualResults": "Conducted Division Technolympics and participated by sending 138 delegates to compete in the Regional Competition; F - 94; M- 40; SPED -4",
+            "gadBudget": 250000,
+            "actualCost": 441006.6,
+            "variance": 3207.84,
+            "remarks": "Total AB - P444,214.44 DFOT/RFOT Skills & Technolympics; Elementary- 200,000; Secondary - 244,214.44",
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Construction of classroom and laboratory rooms with equipment and materials",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of additional classrooms, laboratory rooms, equipment and materials for Senior High School",
+            "objective": "To provide additional classroom and laboratory rooms with materials and equipment",
+            "ppa": "Social Services: Education",
+            "activity": "Construction of classroom and laboratory rooms with equipment and materials",
+            "indicators": "Building constructed to house the laboratory rooms and classrooms",
+            "actualResults": "Purchased materials and equipment for Senior High School Laboratory.",
+            "gadBudget": 200000,
+            "actualCost": 200000,
+            "variance": null,
+            "remarks": null,
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "laboratory rooms and classrooms",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": null,
+            "indicators": null,
+            "actualResults": "laboratory rooms and classrooms",
+            "gadBudget": 55940000,
+            "actualCost": 0,
+            "variance": 55940000,
+            "remarks": "on going preparation of construction design (POWE)",
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Participation of students in division, regional and national symposia, leadership trainings, etc.",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right of students to actively participate in school governance",
+            "objective": "To develop students capability in effective leadership",
+            "ppa": "Social Services: Education",
+            "activity": "Participation of students in division, regional and national symposia, leadership trainings, etc.",
+            "indicators": "70 Supreme Student Council officials able to participate trainings and symposia and became effective student leaders",
+            "actualResults": "Participants: 138 SSG/SPG Pre&VP elementary and secondary; Elem Jr.Police - 88 Jr. & Sr. HS Police - 75",
+            "gadBudget": 200000,
+            "actualCost": 399999.2,
+            "variance": 0.8,
+            "remarks": "The approved AB is P400,000",
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Conduct of school district City Palaro; Participation in regional and national palaro",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right of every child and student to participate in sports activities",
+            "objective": "To provide equal opportunity of every student in sports development",
+            "ppa": "Social Services: Sports",
+            "activity": "Conduct of school district City Palaro; Participation in regional and national palaro",
+            "indicators": "All 10 districts with 44 elementary and 25 secondary schools conducted and participated in the different sports event for both abled and different-abled students for them to become sportsminded",
+            "actualResults": "100 % of the activity were participated",
+            "gadBudget": 13500000,
+            "actualCost": 14659038.75,
+            "variance": 482961.25,
+            "remarks": "Physical Educ.&Sports -AB - P15,142,000",
+            "office": "LSB/DepEd (SEF)"
+          }
+        },
+        {
+          "label": "Right to Health",
+          "level": 0,
+          "kind": "header",
+          "section": "client",
+          "values": {}
+        },
+        {
+          "label": "Establishment of separate room for pregnant young mothers for pre-natal check-up and health education seminars",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Increasing number of teen mothers",
+            "objective": "To provide maternal health services to pregnant young parents",
+            "ppa": "Social Services: Health",
+            "activity": "Establishment of separate room for pregnant young mothers for pre-natal check-up and health education seminars",
+            "indicators": "100% of teenage mothers provided with maternal health services to decrease complications and reduce incidence of being a teenage mother",
+            "actualResults": "People maternal services were delivered to all teenage mothers.",
+            "gadBudget": 34400,
+            "actualCost": 25680,
+            "variance": 8720,
+            "remarks": null,
+            "office": "City Hospital"
+          }
+        },
+        {
+          "label": "Provision of vitamin supplements",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right to access health services",
+            "objective": "To provide vitamin supplements to adults/adolescents and senior citizens",
+            "ppa": "Social Services: Health",
+            "activity": "Provision of vitamin supplements",
+            "indicators": "Multivitamins and ferrous sulphate purchased for distribution and accessed by needy adults/ adolescents & senior citizens",
+            "actualResults": "Distributed needy adults and senior citizens M- 509, F-287",
+            "gadBudget": 1500000,
+            "actualCost": 1498168.94,
+            "variance": 0,
+            "remarks": "P1,813.06 was augmented to Anti rabies vaccine",
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Provision of pneumonococcal and influenza immunization among senior citizens",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Vulnerability of Senior Citizens to Communicable diseases - Magna Carta for Senior Citizens",
+            "objective": "To lessen the risk of senior citizens to communicable diseases",
+            "ppa": "Social Services: Health",
+            "activity": "Provision of pneumonococcal and influenza immunization among senior citizens",
+            "indicators": "400 senior citizens provided with immunization that will reduce their risks of morbidity",
+            "actualResults": "400 Senior citizens given 2000 vials influenza vaccines (LGU) 400 vials pneumococcal vaccine donated by DOH.",
+            "gadBudget": 1000000,
+            "actualCost": 1000000,
+            "variance": 0,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Conduct of PABASA sessions as campaign against malnutrition",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High prevalence of malnutrition among pre-schoolers",
+            "objective": "To reduce the number of malnutrition among pre-schoolers",
+            "ppa": "Social Services: Health and Nutrition",
+            "activity": "Conduct of PABASA sessions as campaign against malnutrition",
+            "indicators": "PABASA sessions conducted with provision of medicines and food supplements",
+            "actualResults": "Not implemented",
+            "gadBudget": 1465000,
+            "actualCost": 0,
+            "variance": 0,
+            "remarks": "P400,000 was approved in the Annual Budget, but the amount was augmented to Anti Rabies vaccines account.",
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Monthly weighing of 0-24 mos. and malnourished pre-schoolers and provision of micro-nutritional supplements",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Monthly weighing of 0-24 mos. and malnourished pre-schoolers and provision of micro-nutritional supplements",
+            "indicators": "All malnourished pre-schoolers (0-71) weighed and provided with supplements",
+            "actualResults": "633 underweight 133 severely undernourished pre-school children distributed rice and milk -M - 509,F - 287 3600 multivit and minerals,4176 ascorbic acid+zinc, 2880ferrous fumarate syrup & 30000 micronutrient powder.",
+            "gadBudget": 1000000,
+            "actualCost": 993024,
+            "variance": 6976,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Provision of micronutrient supplements to pregnant women",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right of pregnant women to access maternal health care services",
+            "objective": "To reduce the risk of malnutrition among pregnant women",
+            "ppa": "Social Services: Maternal Health Care",
+            "activity": "Provision of micronutrient supplements to pregnant women",
+            "indicators": "Vitamin A and FeSo4 given to pregnant women",
+            "actualResults": "8,297 pregnant women given iron supplementation 250,000 capsules of vitamins and ferrous sulfate with folic acid distributed",
+            "gadBudget": 1000000,
+            "actualCost": 999950,
+            "variance": 50,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "To allocate funds for free urinalysis to pregnant women",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Low coverage of pregnant women subjected to urinalysis to identify high risk pregnancy",
+            "objective": "To increase number of women covered for urine exam to identify high risk pregnancy",
+            "ppa": "Social Services: Maternal Health Care",
+            "activity": "To allocate funds for free urinalysis to pregnant women",
+            "indicators": "1,246 pregnant women provided with free urinalysis during their pregnancies",
+            "actualResults": "8,297 pregnant women undergo urinalysis; 73,500 urine strips @ P6.8/strip",
+            "gadBudget": 500000,
+            "actualCost": 499800,
+            "variance": 200,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Conduct of PPD screening test and purchase of anti-TB drugs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High prevalence of TB in Children (44 children affected with TB)",
+            "objective": "To reduce number of TB cases in children and provide treatment to those affected",
+            "ppa": "Social Services: Health",
+            "activity": "Conduct of PPD screening test and purchase of anti-TB drugs",
+            "indicators": "6000 Anti-TB drugs and medicines purchased and dispensed to children diagnosed with TB",
+            "actualResults": "400 TB cases (all forms) identified and treated; 2000 sachets acetylcysteine, 2000tabs aboxol HCl, 300 bxs azithromycin, 200bxs cefixime, 1000cap cetirizine, 1000tab levofloxacin, 100pcs N95 mask, 50bxs surgical gloves, 100bxs face mask, 5000tabs salbutamol, 1000cap tranexamic acid, 20000tab B-complex",
+            "gadBudget": 500000,
+            "actualCost": 497200,
+            "variance": 2800,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Purchase of medicines for treatment of pneumonia and conduct of advocacy sessions",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High prevalence of pneumonia among children and adults - 147 cases recorded",
+            "objective": "To reduce and prevent the infection of pneumonia among children and adults from 30% to 15%",
+            "ppa": "Social Services: Integrated Management of Childhood Illnesses",
+            "activity": "Purchase of medicines for treatment of pneumonia and conduct of advocacy sessions",
+            "indicators": "Affected children and adults provided and treated with pneumonia drugs",
+            "actualResults": "1,029 cases identified and treated M-480; F-549 3000bxs azithro, 3000bxs cefurozime, 288bot cefuroxime, 2500bxs cefixime, 5000caps, 10000caps amox, 750bot amox,5000cap cotri, 720bot cotri, 3000tab ciproflox, 3000tab levoflox",
+            "gadBudget": 3507200,
+            "actualCost": 3417548,
+            "variance": 0,
+            "remarks": "P89,652 was augmented to Rabies Vaccine due to urgent need",
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Purchase of NS 1 and conduct of dengue prevention and control",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "High incidence of dengue fever among children",
+            "objective": "To reduce the incidence of dengue from 20%-10%",
+            "ppa": "Social Services: Integrated Management of Childhood Illnesses",
+            "activity": "Purchase of NS 1 and conduct of dengue prevention and control",
+            "indicators": "41 NS1 procured and conducted advocacy re 4 o'clock habit in barangays",
+            "actualResults": "1000 NS1 screened 40 kits dengue NS1 Ag 25's/kit @ P12,500",
+            "gadBudget": 500000,
+            "actualCost": 500000,
+            "variance": 0,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Purchase of larvicidal (chemical dengue control)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Purchase of larvicidal (chemical dengue control)",
+            "indicators": "Dengue causing mosquitoes reduced and exterminated",
+            "actualResults": "Distributed in 30 barangays/ reduced in the number of Dengue - infected persons",
+            "gadBudget": 2000000,
+            "actualCost": 998500,
+            "variance": 1500,
+            "remarks": "P1M was augmented for Rabies Vaccine due to urgent need",
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Acquisition of reproductive health supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Prevalence of STI, HIV/AIDS cases - 842 cases of STI",
+            "objective": "To reduce the incidence of STI, HIV/AIDS cases",
+            "ppa": "Social Services: Reproductive Health",
+            "activity": "Acquisition of reproductive health supplies",
+            "indicators": "Incidence of STI, HIV/AIDS reduced by 3% from 5%",
+            "actualResults": "FP commodities distributed to current users and new acceptors CU - 43,929; NA - 1,513; 12,500 single pack medroxyprogesterone acetate, 4000cyl lynestrenol oral contraceptive, 2000pck condom ultra strength",
+            "gadBudget": 200000,
+            "actualCost": 1997600,
+            "variance": 2400,
+            "remarks": "The approved appropriation in 2018 AB was P2M. [Actual cost 1,997,600.00 and variance 2,400.00 are printed in a cell merged across this row and the next (budgets 200,000.00 and 1,000,000.00)]",
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "(merged with previous row)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": "Social Services: Reproductive Health",
+            "activity": null,
+            "indicators": null,
+            "actualResults": "(merged with previous row)",
+            "gadBudget": 1000000,
+            "actualCost": null,
+            "variance": null,
+            "remarks": "(actual cost and variance printed in merged cell on previous row)",
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Treatment of STI, HI/AIDS infected persons",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": "To treat patients affected with SII, HIV/AIDS",
+            "ppa": "Social Services: Reproductive Health",
+            "activity": "Treatment of STI, HI/AIDS infected persons",
+            "indicators": "150 clients seen and treated",
+            "actualResults": "F-448, M-99 STI cases identified and treated; 200tabs acyclovir, 400bxs azithro, 600caps doxy, 200bxs cefixime,60supp metronidazole,5274pcks condom, 12vxs hepa A rapid test",
+            "gadBudget": 500000,
+            "actualCost": 494851.2,
+            "variance": 5148.8,
+            "remarks": null,
+            "office": "City Health Office"
+          }
+        },
+        {
+          "label": "Stockpiling of relief goods",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Access to rights and benefits of women and children who are victims of disaster",
+            "objective": "To provide timely relief services and restore coping mechanisms; provide stress debriefing during calamities to affected populace; provide support for relief goods for survival",
+            "ppa": "Social Services: Welfare and Social Protection-DRRM",
+            "activity": "Stockpiling of relief goods",
+            "indicators": "1,000 victims (male & female) provided with relief goods",
+            "actualResults": "Served Female: 9,453 Male: 5,970",
+            "gadBudget": 1000000,
+            "actualCost": 975635,
+            "variance": 24365,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of AICS",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Provision of AICS",
+            "indicators": "5,000 persons provided with financial support",
+            "actualResults": "Persons in dire need or crisis situation in different barangays given financial assistance Served: Female- 2,211; Male- 708",
+            "gadBudget": 7500000,
+            "actualCost": 8086817.54,
+            "variance": 413182.46,
+            "remarks": "Augmented P1M",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provide Emergency Shelter Assistance (ESA)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Provide Emergency Shelter Assistance (ESA)",
+            "indicators": "200 victims of disaster received shelter assistance",
+            "actualResults": "Fire victims given shelter assistance Served: Female- 380; Male- 246",
+            "gadBudget": 2000000,
+            "actualCost": 6173000,
+            "variance": 827000,
+            "remarks": "Augmented P5M due to addtl fire victims",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of Cash for Work",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Provision of Cash for Work",
+            "indicators": "204 persons received cash for work",
+            "actualResults": "Surrenderees were given work and paid Served: Female- 27, Male- 654",
+            "gadBudget": 1100000,
+            "actualCost": 1061825,
+            "variance": 38175,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of rice support",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Provision of rice support",
+            "indicators": "100 victims received rice support",
+            "actualResults": "Victims thru fire were given rice support Served: Female- 264; Male-43",
+            "gadBudget": 250000,
+            "actualCost": 417800,
+            "variance": 432200,
+            "remarks": "Augmented P600,000",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of Material and Financial support assistance to WEDC",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Women Empowerment : poor Senior Citizens, Solo Parents, Female -headed households, VAWC victims needing special protection",
+            "objective": "To provide adequate support to women in emergency and difficult circumstances",
+            "ppa": "Social Services: Women's Welfare",
+            "activity": "Provision of Material and Financial support assistance to WEDC",
+            "indicators": "100 women victims provided with financial assistance",
+            "actualResults": "Women in victim provided with financial assistance Served: Female - 107",
+            "gadBudget": 330000,
+            "actualCost": 91800,
+            "variance": 238200,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of capacity building activities for VAW Desk Officers",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Not all barangays have functional VAWC help Desks",
+            "objective": "To capacitate VAW Desk Officers and make it functional",
+            "ppa": "Social Services: Women's Welfare",
+            "activity": "Conduct of capacity building activities for VAW Desk Officers",
+            "indicators": "Organized VAW Desk and VAW Desk Officers capacitated and made functional",
+            "actualResults": "VAWC Desk officers undergo capacity building activities",
+            "gadBudget": 85000,
+            "actualCost": 80000,
+            "variance": 5000,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of regular meetings for VAWC Desk Officers",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Conduct of regular meetings for VAWC Desk Officers",
+            "indicators": "VAWC Desk monitored and made functional",
+            "actualResults": "Regular meetings conducted by VAWC Desk officers",
+            "gadBudget": 90000,
+            "actualCost": 90000,
+            "variance": 0,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of ACAF or after-care and follow-up of counselled clients/couples re domestic violence",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Continued prevalence of gender inequality in the family/household",
+            "objective": "To reduce incidence of domestic violence",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Provision of ACAF or after-care and follow-up of counselled clients/couples re domestic violence",
+            "indicators": "Counselled couples provided with after-care services",
+            "actualResults": "Counselling provided to couples",
+            "gadBudget": 300000,
+            "actualCost": 3300,
+            "variance": 296700,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of Parent Effectiveness Seminar (PES)/Family Development Sessions Trainer's Training",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": "To capacitate DCW on the conduct of PES/FDS sessions",
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Conduct of Parent Effectiveness Seminar (PES)/Family Development Sessions Trainer's Training",
+            "indicators": "84 Day Care Workers ( M-4/F-80) acquired skills and enhanced their capacities on conducting PES/FDS sessions",
+            "actualResults": "90 Day Care Workers participated /capacitated in PES/FDS facilitation Female- 87 ; Male - 3",
+            "gadBudget": 144200,
+            "actualCost": 144000,
+            "variance": 200,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of Basic counselling Seminar for Marriage Counsellors",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": "Social Services: Family and Community Welfare",
+            "activity": "Conduct of Basic counselling Seminar for Marriage Counsellors",
+            "indicators": "50 volunteer Marriage Counsellors provided with basic counselling skills M-25/F-25",
+            "actualResults": "Marriage Counsellors acquired knowledge on Basic Counselling Female- 26; Male- 24",
+            "gadBudget": 215500,
+            "actualCost": 132000,
+            "variance": 83500,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Organization of ERPAT and conduct of regular meetings",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": "To capacitate and enhance paternal role and function in the family",
+            "ppa": "Social Services Family and Community Welfare",
+            "activity": "Organization of ERPAT and conduct of regular meetings",
+            "indicators": "500 fathers attended and joined the ERPAT organization",
+            "actualResults": "Fathers attended and joined the ERPAT meetings and activities Members- 500 Officers- 132",
+            "gadBudget": 450000,
+            "actualCost": 325000,
+            "variance": 5000,
+            "remarks": "The AB was reverted of P120,000 to augment other accounts",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of financial assistance to PWDs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Limited access to social protection for Person with Disabilities (PWDs) and Senior Citizens",
+            "objective": "To provide social protection and package of services and support to indigent PWDs and Senior Citizens",
+            "ppa": "Social Services: PWDs and Senior Citizens",
+            "activity": "Provision of financial assistance to PWDs",
+            "indicators": "2851 PWDs provided social and financial support",
+            "actualResults": "Persons with Disability given cash assistance @ P3,500/PWD Total - 3,747 PWDs",
+            "gadBudget": 7127500,
+            "actualCost": 13114500,
+            "variance": 1760500,
+            "remarks": "Augmented with P7,747,500 thru SB due to increase in the no. of PWDs & amount",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Provision of financial assistance to Senior Citizens",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Poor woman senior citizens and PWDs lacking in social protection and needing special protection",
+            "objective": null,
+            "ppa": null,
+            "activity": "Provision of financial assistance to Senior Citizens",
+            "indicators": "100% of listed senior citizens received cash assistance.",
+            "actualResults": "Senior Citizens given Financial Assistance @P4,000/SC (with increased number of SC) Total - 24,863",
+            "gadBudget": 97788000,
+            "actualCost": 99455500,
+            "variance": 544500,
+            "remarks": "Augmented with P2,212,000 thru SB due to increase # of SCs",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of regular meetings and psychosocial activities to make the organization functional and active",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Conduct of regular meetings and psychosocial activities to make the organization functional and active",
+            "indicators": "Different PWD associations (blind, deaf, ortho,others) made functional and active",
+            "actualResults": "Meetings conducted and psychosocial activity thru Social Enhancement for the PWDs Male- 1,471; Female- 2,351",
+            "gadBudget": 427650,
+            "actualCost": 427650,
+            "variance": 0,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of milestones and social enhancement activities thru provision of birthday cakes to Senior Citizen celebrants",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": "Social Services: OSCA Social enhancement program",
+            "activity": "Conduct of milestones and social enhancement activities thru provision of birthday cakes to Senior Citizen celebrants",
+            "indicators": "Due recognition given to Senior Citizens celebrating another year of life",
+            "actualResults": "Birthday cakes provided to Senior Citizens during their birthday 1 Centenarrian @ P100,000 24447/24752 SCs @P400 per SC",
+            "gadBudget": 9778800,
+            "actualCost": 9719890,
+            "variance": 58910,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct rescue of girl children victims of child abuse and provide temporary shelter at the Home Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right of girl-children to social protection : Rising number of girl children victims of sexual abuse = 100 cases of cases per year",
+            "objective": "To rescue and provide appropriate intervention for children victims of sexual abuse",
+            "ppa": "Social Services: Children",
+            "activity": "Conduct rescue of girl children victims of child abuse and provide temporary shelter at the Home Care Center",
+            "indicators": "Financial assistance for food provided to girl children while staying in the Home Care facility for social protection support",
+            "actualResults": "Meals served daily to girl children Female- 33; Male - 43",
+            "gadBudget": 1533000,
+            "actualCost": 1496133.07,
+            "variance": 240866.93,
+            "remarks": "The approved AB was P1,737,000",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of regular meetings of the LCPC",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Reactivation of the Local Council for the Protection of Children (LCPC)",
+            "objective": "To strengthen the functionality of the LCPC",
+            "ppa": "Social Services: Children",
+            "activity": "Conduct of regular meetings of the LCPC",
+            "indicators": "LCPC made functional",
+            "actualResults": "Meetings conducted quarterly; no expense/ food utilized",
+            "gadBudget": 7500,
+            "actualCost": 0,
+            "variance": 7500,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Acquisition/purchase of vehicle",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Absence of vehicular support for use of the GAD office (rescue and other forms of intervention for victims of GBV)",
+            "objective": "To facilitate quick response on reported cases of women and children victims of violence",
+            "ppa": "Social Services: GAD",
+            "activity": "Acquisition/purchase of vehicle",
+            "indicators": "Speedy response to GAD related implementation of programs and projects",
+            "actualResults": "not expended ; vehicle just acquired",
+            "gadBudget": 60000,
+            "actualCost": 0,
+            "variance": 60000,
+            "remarks": "gasoline not yet utilized; processing of van for delivery",
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "purchased 1 unit of multipurpose van",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": null,
+            "indicators": null,
+            "actualResults": "purchased 1 unit of multipurpose van",
+            "gadBudget": 1500000,
+            "actualCost": 1500000,
+            "variance": null,
+            "remarks": null,
+            "office": "CSWDO"
+          }
+        },
+        {
+          "label": "Conduct of Livelihood Planning Workshop for COBLIA and Kababayen-an Officers",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Economic marginalization - lack of alternative skills for additional income resulting to persistent poverty",
+            "objective": "To augment income of disadvantage families/sectors",
+            "ppa": "Economic Services: Poverty reduction",
+            "activity": "Conduct of Livelihood Planning Workshop for COBLIA and Kababayen-an Officers",
+            "indicators": "Established COBLIA and Kababayen-an Officers formulated a Livelihood Skills Training Plan",
+            "actualResults": "456 COBLIA and 144 Kababayen-an established their 2018 Livelihood Skills training plan in 165 sitios in 26 barangays",
+            "gadBudget": 159000,
+            "actualCost": 159000,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO/LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of livelihood skills training (cookery and food processing)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Conduct of livelihood skills training (cookery and food processing)",
+            "indicators": "Increased economic opportunities and income for 5,000 men and women thru their acquired skills",
+            "actualResults": "Total of 26 barangays availed various forms of livelihood skills training for 117 schedules both Mainland and Island barangays with 2 to 4 types of trainings per schedule: 5,105 pax (unduplicated availed the trainings)",
+            "gadBudget": 375000,
+            "actualCost": 375000,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO/LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of livelihood skills training (bag and rag making, silk screen & T-shirt printing, souvenir items)",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Conduct of livelihood skills training (bag and rag making, silk screen & T-shirt printing, souvenir items)",
+            "indicators": "100 women and men trained and gained skills in bag, rag making, silk screen & T-shirt printing, souvenir items",
+            "actualResults": "100 livelihood training beneficiaries gained skills in bag and rag making, silk screen and T-shirt printing and are into business",
+            "gadBudget": 250000,
+            "actualCost": 244288,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO/LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of training on tour guiding techniques and tools for community information",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": "To provide employment opportunities to women, youth and men thru tourism activities",
+            "ppa": "Economic Services: Poverty reduction",
+            "activity": "Conduct of training on tour guiding techniques and tools for community information",
+            "indicators": "30 youth, women and men were able to acquire skills in tour guiding and be self-employed",
+            "actualResults": "Completed implementation of the Module I Training Immersion for Pagpanginhas and Pagpanulo attended by 16 adults",
+            "gadBudget": 32000,
+            "actualCost": 32000,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO/LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of Trainer's Training on Livelihood training programs",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack/insufficient number of livelihood trainers",
+            "objective": "To increase the number of community based livelihood trainers",
+            "ppa": "Economic Services: Poverty reduction",
+            "activity": "Conduct of Trainer's Training on Livelihood training programs",
+            "indicators": "90 COBLIA and Kababayen-an officers acquired skills and knowledge in conducting Livelihood Skills Training",
+            "actualResults": "90 COBLIA and Kabaayen-an Officers were able to acquire skills in facilitating Livelihood Skills training and are serving as Resource persons in their respective barangays",
+            "gadBudget": 66500,
+            "actualCost": 58945,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO/LLCLRC"
+          }
+        },
+        {
+          "label": "Extension/Provision of financial assistance",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Right and empowerment of the marginalized sector : Livelihood, Capital and Technology",
+            "objective": "To provide start-up capital for the identified livelihood activities",
+            "ppa": "Economic Services: Livelihood Development",
+            "activity": "Extension/Provision of financial assistance",
+            "indicators": "1,000 microenterprises provided with livelihood capitalization (in kind)",
+            "actualResults": "Every livelihood program beneficiaries provided with kitchen and cooking equipment as start-up capital assistance",
+            "gadBudget": 500000,
+            "actualCost": 497026.76,
+            "variance": 2973.24,
+            "remarks": null,
+            "office": "CMO/LLCLRC"
+          }
+        },
+        {
+          "label": "Conduct of Competency /skills training on the following: 1. Dressmaking and Industrial Sewing Machine Operation 2. Beauty Culture 3. Reflexology and Massage Therapy",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Lack of employable skills, knowledge and attitude for employment (Rights and empowerment of marginalized sectors)",
+            "objective": "To improve employable skills to match requirements of the different locators at the MEPZ",
+            "ppa": "Economic Services: Manpower Development",
+            "activity": "Conduct of Competency /skills training on the following: 1. Dressmaking and Industrial Sewing Machine Operation 2. Beauty Culture 3. Reflexology and Massage Therapy",
+            "indicators": "1. 360 graduated per year on dressmaking and industrial sewing machine operation (60% female, 40% male) with 90% employed and 10% self-employed; 2. 120 graduated and completed competency training on beauty culture ( 60% female, 40% male); 3. 120 graduated and completed competency training on reflexology and Massage Therapy (60% female, 40% male)",
+            "actualResults": "1. 462 trainees; 188 trainees graduated; Male - 84 ; Female 104; 2. 25 trainees graduated, Male - 5, Female - 15; 3. 140 trainees graduated; Mle - 60; Female - 80",
+            "gadBudget": 204000,
+            "actualCost": 185320.9,
+            "variance": 18679.1,
+            "remarks": "Budget, actual cost and variance are printed once in a cell merged across the three training activities.",
+            "office": "CMO/ Manpower Development Office (MHDTC)"
+          }
+        },
+        {
+          "label": "Other GAD related PPAs acomplished",
+          "level": 0,
+          "kind": "header",
+          "section": "client",
+          "values": {}
+        },
+        {
+          "label": "Beauty and Wellness care activities",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": "Equality and Empowerment of women and the LGBTQ",
+            "objective": null,
+            "ppa": null,
+            "activity": "Beauty and Wellness care activities",
+            "indicators": "520 LGBTQ participated and benefited from the program",
+            "actualResults": "LGBTQ gained awareness on the benefits of wellness and beauty care",
+            "gadBudget": null,
+            "actualCost": 45000,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO budget"
+          }
+        },
+        {
+          "label": "Women's Month celebration",
+          "level": 1,
+          "kind": "item",
+          "section": "client",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Women's Month celebration",
+            "indicators": "Women participated various activities on awareness program, advocacy on women empowerment",
+            "actualResults": "Women participants gained knowledge and awareness on gender equality and empowerment",
+            "gadBudget": null,
+            "actualCost": 180000,
+            "variance": null,
+            "remarks": null,
+            "office": "CMO budget"
+          }
+        },
+        {
+          "label": "Total A",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "client",
+          "values": {
+            "gadBudget": 243113930,
+            "actualCost": 191343672.96,
+            "variance": 74241381.42
+          }
+        },
+        {
+          "label": "B. ORGANIZATION FOCUSED",
+          "level": 0,
+          "kind": "header",
+          "section": "organization",
+          "values": {}
+        },
+        {
+          "label": "Conduct of regular meetings (quarterly)",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": "Strengthening of GAD Focal Point System (GFPS)",
+            "objective": "To have a functional GFPS",
+            "ppa": "General Services: GAD mainstreaming",
+            "activity": "Conduct of regular meetings (quarterly)",
+            "indicators": "Functional GFPS",
+            "actualResults": "Conducted 2 Meetings and 1 pre-testing conference on GeRL Ka Ba tool - 17 Females & 8 Males attended.",
+            "gadBudget": 7500,
+            "actualCost": 6250,
+            "variance": 1250,
+            "remarks": null,
+            "office": "GFPS Focal Person"
+          }
+        },
+        {
+          "label": "Conduct of workshop on GAD Plan and Budget Formulation (2019) and preparation of 2017 GAD AR & Midyear Evaluation",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Conduct of workshop on GAD Plan and Budget Formulation (2019) and preparation of 2017 GAD AR & Midyear Evaluation",
+            "indicators": "GPB and GAD AR prepared and formulated",
+            "actualResults": "Formulated GAD AR 2017 & GAD PB 2018- 30 pax@ P800 for 2 days; 22 Females & 8 Males; Midterm Evaluation & Monitoring of CY 2018 GADPB & Strategic Planning Conference- 25 pax @ P700 for 1 day; 17 Females & 8 Males. Formulated GAD Accomplishment Report for CY 2018 & Year End Evaluation; 40 persons @ P1800 for 1 day- 14 Males; 26 Females",
+            "gadBudget": 80000,
+            "actualCost": 135200,
+            "variance": 48800,
+            "remarks": "The approved AB was P160,000 and also augmented with P24,000",
+            "office": "GFPS Focal Person"
+          }
+        },
+        {
+          "label": "Benchmarking of Best Practices on GAD",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Benchmarking of Best Practices on GAD",
+            "indicators": "GFPS members acquired new knowledge on GAD mainstreaming for replication",
+            "actualResults": "19 Participants had attended the Lakbay Aral in Quezon City and gathered some good practices for replication; 15 Females and 4 Males travelled last Feb 21- 24 2018",
+            "gadBudget": 500000,
+            "actualCost": 269103.44,
+            "variance": 206896.56,
+            "remarks": "P24,000 was augmented to Training expenses only 19 out of 25 pax participated",
+            "office": "GFPS Focal Person"
+          }
+        },
+        {
+          "label": "Updating and sex-disaggregation of GAD data base",
+          "level": 1,
+          "kind": "item",
+          "section": "organization",
+          "values": {
+            "gadIssue": null,
+            "objective": null,
+            "ppa": null,
+            "activity": "Updating and sex-disaggregation of GAD data base",
+            "indicators": "Sex-disaggregated database available and accessible",
+            "actualResults": "ongoing and updated in the City Planning & Devt. Office",
+            "gadBudget": null,
+            "actualCost": null,
+            "variance": null,
+            "remarks": null,
+            "office": "GFPS Focal Person"
+          }
+        },
+        {
+          "label": "Total B",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "organization",
+          "values": {
+            "gadBudget": 587500,
+            "actualCost": 410553.44,
+            "variance": 256946.56
+          }
+        },
+        {
+          "label": "GRAND TOTAL (A+B+C)",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "gadBudget": 243701430,
+            "actualCost": 191754226.4,
+            "variance": 74498327.98
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "approvedBudget": 243701430,
+    "actualCost": 191754226.4,
+    "variance": 74498327.98,
+    "clientFocused": {
+      "approvedBudget": 243113930,
+      "actualCost": 191343672.96,
+      "variance": 74241381.42
+    },
+    "organizationFocused": {
+      "approvedBudget": 587500,
+      "actualCost": 410553.44,
+      "variance": 256946.56
+    }
+  },
+  "notes": [
+    "Page footer reads '2018 GAD plan and budget' but the page title is 'Annual Gender and Development (GAD) Accomplishment Report FY 2018'. Stamp on last page: 'judafu/cbo/012519'.",
+    "Column (9) 'Variance/ Remarks' holds both an amount and a remark; the amount is in variance and the text in remarks. The printed variance is often not budget minus actual: it reflects augmentations/reversions stated in the remarks (e.g. SPES: budget 13,400,000.00, actual 14,802,000.00, variance 8,098,000.00 with 'P9,500,000 increased thru SB'). Transcribed as printed.",
+    "Printed '-' and '0' in actual cost/variance cells transcribed as 0; blank cells as null.",
+    "Youth sports row (budget 3,000,000.00): the actual cost cell prints three lines '>P1,982,000', '>P1,005,680', '>P1,072,000' with variances '> 0', '>P320.00', '> 0'. They are transcribed as three level-2 sub-rows under that row.",
+    "Printed Total A actual cost 191,343,672.96 equals the sum of the item rows EXCLUDING the three sports sub-amounts (1,982,000 + 1,005,680 + 1,072,000 = 4,059,680); including them gives 195,403,352.96. Printed Total A variance 74,241,381.42 equals the item sum excluding the sports sub-variance 320.00 and the 500,000.00 variance of the OFW seed-capital row (sum of all variance cells is 74,741,701.42). Total A approved budget (243,113,930.00) matches its items exactly. Totals transcribed as printed.",
+    "Total B and GRAND TOTAL (A+B+C) agree with their parts as printed. There is no Section C (attributed programs) on the form; the grand total label still reads A+B+C.",
+    "Merged cells: the reproductive health supplies rows (budgets 200,000.00 and 1,000,000.00) share one printed actual cost 1,997,600.00 and variance 2,400.00, placed on the first row; the three MHDTC competency trainings share one budget 204,000.00 / actual 185,320.90 / variance 18,679.10, transcribed as one row.",
+    "CLC construction row: Actual Cost cell prints the text 'not implemented' (actualCost null, recorded in remarks).",
+    "'Other GAD related PPAs accomplished' (LGBTQ beauty and wellness 45,000.00; Women's Month 180,000.00) have actual cost but no approved GAD budget (office 'CMO budget').",
+    "Pregnant women counts '8,297' on page 5 (actual results): the first digit touches the cell border and could be read as 6; narrative text only."
+  ],
+  "unreadable": []
+}

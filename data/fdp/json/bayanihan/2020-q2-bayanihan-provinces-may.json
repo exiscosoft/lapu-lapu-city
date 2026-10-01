@@ -1,0 +1,530 @@
+{
+  "id": "2020-q2-bayanihan-provinces-may",
+  "type": "bayanihan",
+  "title": "Bayanihan Grant to Provinces: Report on Fund Utilization and Status of Program/Project/Activity Implementation",
+  "form": null,
+  "period": {
+    "year": 2020,
+    "quarter": 2,
+    "asOf": "2020-05-31",
+    "printed": "For the Month of May 2020",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Victoria W. Andoy",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Felicitas B. Baguio",
+      "position": "City Treasurer, OIC"
+    },
+    {
+      "name": "Perla T. Amar",
+      "position": "City Planning Officer"
+    },
+    {
+      "name": "Junard \"Ahong\" Q. Chan",
+      "position": "City Mayor (attested)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "grant",
+      "title": "Bayanihan Grant received",
+      "columns": [
+        {
+          "key": "fundSource",
+          "label": "Fund Source",
+          "type": "text"
+        },
+        {
+          "key": "nadaiDate",
+          "label": "Date of Notice of Authority to Debit Account Issued (NADAI)",
+          "type": "text"
+        },
+        {
+          "key": "ppa",
+          "label": "Name/Title of PPA",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Specific Location",
+          "type": "text"
+        },
+        {
+          "key": "mode",
+          "label": "Mechanism/Mode of Implementation",
+          "type": "text"
+        },
+        {
+          "key": "beneficiaries",
+          "label": "Estimated Number of Beneficiaries",
+          "type": "text"
+        },
+        {
+          "key": "received",
+          "label": "Received",
+          "type": "amount"
+        },
+        {
+          "key": "obligation",
+          "label": "Obligation",
+          "type": "amount"
+        },
+        {
+          "key": "disbursement",
+          "label": "Disbursement",
+          "type": "amount"
+        },
+        {
+          "key": "completion",
+          "label": "Estimated Period of Completion (Month and Year)",
+          "type": "text"
+        },
+        {
+          "key": "status",
+          "label": "Program/Project Status",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Bayanihan Grants to Cities and Municipalities",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "fundSource": "National Government",
+            "nadaiDate": "April 16, 2020",
+            "ppa": "Bayanihan Grants to Cities and Municipalities",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": null,
+            "received": 87646912,
+            "obligation": null,
+            "disbursement": null,
+            "completion": "April to September 2020",
+            "status": null
+          }
+        }
+      ]
+    },
+    {
+      "key": "main",
+      "title": "Programs/Projects/Activities (Supplemental Budget No. 2020-03)",
+      "columns": [
+        {
+          "key": "fundSource",
+          "label": "Fund Source",
+          "type": "text"
+        },
+        {
+          "key": "nadaiDate",
+          "label": "Date of Notice of Authority to Debit Account Issued (NADAI)",
+          "type": "text"
+        },
+        {
+          "key": "ppa",
+          "label": "Name/Title of PPA",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Specific Location",
+          "type": "text"
+        },
+        {
+          "key": "mode",
+          "label": "Mechanism/Mode of Implementation",
+          "type": "text"
+        },
+        {
+          "key": "beneficiaries",
+          "label": "Estimated Number of Beneficiaries",
+          "type": "text"
+        },
+        {
+          "key": "received",
+          "label": "Received",
+          "type": "amount"
+        },
+        {
+          "key": "obligation",
+          "label": "Obligation",
+          "type": "amount"
+        },
+        {
+          "key": "disbursement",
+          "label": "Disbursement",
+          "type": "amount"
+        },
+        {
+          "key": "completion",
+          "label": "Estimated Period of Completion (Month and Year)",
+          "type": "text"
+        },
+        {
+          "key": "status",
+          "label": "Program/Project Status",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Supplemental Budget No. 2020-03",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Provision of Meals for Frontliners & Responder",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Provision of Meals for Frontliners & Responder",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "10,000 Frontliners",
+            "received": 4000000,
+            "obligation": 4000000,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Personal Protective Equipment (PPE's)",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Personal Protective Equipment (PPE's)",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "625 Frontliners",
+            "received": 1843750,
+            "obligation": 1843750,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Medical Supplies - Covid Related",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Medical Supplies - Covid Related",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3,000 Frontliners",
+            "received": 21259762,
+            "obligation": 20982060,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Fuel, Oil and Lubricants Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Fuel, Oil and Lubricants Expenses",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "For Govt Vehicle utilized to transport patients",
+            "received": null,
+            "obligation": null,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Reverted- Source for SB No. 2020-04"
+          }
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Rent Expenses",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "Accomodation for Frontliners & Medical Personnel",
+            "received": 1800000,
+            "obligation": 1080000,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Rice Assistance & Other Relief Goods for Affected Families",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Rice Assistance & Other Relief Goods for Affected Families",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "44,000 households subdivision homeowners",
+            "received": 29500000,
+            "obligation": 28152700,
+            "disbursement": 13152900,
+            "completion": "April to May 2020",
+            "status": "61% Implemented"
+          }
+        },
+        {
+          "label": "Other MOE - Accomodation Expenses for Medical Personnel Frontliners",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Other MOE - Accomodation Expenses for Medical Personnel Frontliners",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "All Frontliners and Medical Personnel",
+            "received": 5000000,
+            "obligation": 4500000,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Other MOE - Covid 19 Related PPA's and Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Other MOE - Covid 19 Related PPA's and Expenses",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": null,
+            "received": 3000000,
+            "obligation": 3000000,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of Mobile BP Apparatus",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of Mobile BP Apparatus",
+            "location": "Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 240000,
+            "obligation": 240000,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of Vital Signs Monitor",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of Vital Signs Monitor",
+            "location": "Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 2800000,
+            "obligation": 2800000,
+            "disbursement": null,
+            "completion": "May to June 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of Diagnostic Sets Wall Transformer",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of Diagnostic Sets Wall Transformer",
+            "location": "LLC Hospital & Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 784000,
+            "obligation": 784000,
+            "disbursement": null,
+            "completion": "May to June 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of Mobile Exam Lights",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of Mobile Exam Lights",
+            "location": "LLC Hospital & Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 461000,
+            "obligation": 460800,
+            "disbursement": null,
+            "completion": "May to June 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of Defibrillator w/ Paddle",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of Defibrillator w/ Paddle",
+            "location": "LLC Hospital & Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 9600000,
+            "obligation": 9600000,
+            "disbursement": null,
+            "completion": "May to June 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of ECG Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of ECG Machine",
+            "location": "LLC Hospital & Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 4000000,
+            "obligation": 4000000,
+            "disbursement": null,
+            "completion": "May to June 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) Sets of Suretemp Ear Thermometer",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Eight (8) Sets of Suretemp Ear Thermometer",
+            "location": "LLC Hospital & Sta. Rosa Community Hospital",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "3 sets - Sta Rosa Hospital and 5 sets for LLC Hospital",
+            "received": 358400,
+            "obligation": 358400,
+            "disbursement": null,
+            "completion": "May to June 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "Purchase of Sea Ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of Sea Ambulance",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "To transport patient from Island Barangays",
+            "received": null,
+            "obligation": null,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Reverted- Source for SB No. 2020-04"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Trauma Ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "sb2020-03",
+          "values": {
+            "fundSource": null,
+            "nadaiDate": null,
+            "ppa": "Purchase of One (1) Unit Trauma Ambulance",
+            "location": "Lapu-Lapu City",
+            "mode": "Emergency Purchase Sec. 53.2",
+            "beneficiaries": "To transport COVID 19 Patients to Accredited Hospitals",
+            "received": 3000000,
+            "obligation": 3000000,
+            "disbursement": null,
+            "completion": "April to May 2020",
+            "status": "Procurement Process is on going"
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "received": 87646912,
+            "obligation": 84801710,
+            "disbursement": 13152900
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "grantAmount": 87646912,
+    "utilized": 84801710,
+    "balance": null,
+    "obligated": 84801710,
+    "disbursed": 13152900
+  },
+  "notes": [
+    "The form is titled \"Bayanihan Grant to Provinces\" although the grant row reads \"Bayanihan Grants to Cities and Municipalities\" (NADAI April 16, 2020, 87,646,912.00 received from the National Government).",
+    "summary.utilized is the printed TOTAL Obligation (84,801,710.00); printed TOTAL Disbursement is 13,152,900.00 (summary.disbursed). No balance is printed, so summary.balance is null.",
+    "Fuel, Oil and Lubricants (10,000,000.00 in April) and Purchase of Sea Ambulance (10,000,000.00 in April) have blank amounts and status \"Reverted- Source for SB No. 2020-04\"; Medical Supplies - Covid Related rose from 4,259,762.00 (April) to 21,259,762.00 and a new line \"Other MOE - Covid 19 Related PPA's and Expenses\" (3,000,000.00) appears.",
+    "Figures appear cumulative (obligations to date against the full grant); the form itself says \"For the Month of May 2020\"."
+  ],
+  "unreadable": []
+}

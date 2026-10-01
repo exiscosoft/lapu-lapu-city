@@ -1,0 +1,137 @@
+{
+  "id": "2024-q2-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2024,
+    "quarter": 2,
+    "asOf": "2024-06-30",
+    "printed": "CALENDAR YEAR 2024, QUARTER 2",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Improvement /Renovation of Fireman's quarter of LLC Fire District Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Improvement /Renovation of Fireman's quarter of LLC Fire District Gun-ob",
+            "location": "Gun-ob",
+            "totalCost": 299984.28,
+            "dateStarted": "2022-10-06",
+            "remarks": "Suspended",
+            "targetCompletion": "-"
+          }
+        },
+        {
+          "label": "2. Rehabilitation and Upgrade of Caubian, Multi-Purpose Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Rehabilitation and Upgrade of Caubian, Multi-Purpose Evacuation Center",
+            "location": "Caubian",
+            "totalCost": 4982488.72,
+            "dateStarted": "2024-03-15",
+            "targetCompletion": "2024-06-12",
+            "pctCompletion": 100,
+            "costIncurred": 4374108.91,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "3. Rehabilitation/Improvement of School Buildings at Bankal National High School",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Rehabilitation/Improvement of School Buildings at Bankal National High School",
+            "location": "Bankal",
+            "totalCost": 3725393.92,
+            "dateStarted": "2024-02-29",
+            "targetCompletion": "2024-06-07",
+            "pctCompletion": 70,
+            "costIncurred": 2424828.77,
+            "remarks": "Suspended"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 3
+  },
+  "notes": [
+    "Dates on this form are printed day-first (15/03/2024, 29/02/2024, 12/06/2024, 07/06/2024) and were converted accordingly. The Gun-ob start date is printed 10/06/2022; it was read as 6 October 2022, matching the same project in the 2022 Q4 report (started 10/06/2022, target 10/21/2022).",
+    "The Gun-ob target completion date is printed as a dash.",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null; projectCount counts the three numbered projects.",
+    "The page is marked \"Page 1 of 2\" but the PDF contains only this page."
+  ],
+  "unreadable": []
+}

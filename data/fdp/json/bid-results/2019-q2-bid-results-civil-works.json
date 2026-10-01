@@ -1,0 +1,91 @@
+{
+  "id": "2019-q2-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Civil Works Bid-Out",
+  "form": null,
+  "period": {
+    "year": 2019,
+    "quarter": 2,
+    "asOf": "2019-06-30",
+    "printed": "2ND Quarter, CY 2019",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Rhodora P. Ortega",
+      "position": "Engineer III"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "CIVIL WORKS BID-OUT",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Name of Project",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Bidding Date",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": []
+    }
+  ],
+  "notes": [
+    "The form prints \"No Bidding Project as of April 2019\"; the table has no rows.",
+    "No printed form number on the page.",
+    "Signatory printed under \"Submitted by:\".",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "summary": {},
+  "unreadable": []
+}

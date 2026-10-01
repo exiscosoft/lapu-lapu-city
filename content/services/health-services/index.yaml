@@ -12,7 +12,39 @@ pages:
     
   - name: 'Go to the local hospital for treatment or confinement'
     slug: 'go-to-the-local-hospital-for-treatment-or-confinement'
-    description: 'Details about local hospital services, treatment options, and confinement procedures.'
+    description: 'Guide to the two city hospitals, Lapu-Lapu City Hospital and Sta. Rosa Community Hospital, and what to expect when you are admitted. Wards open 24/7; fees per the billing section schedule.'
+
+  - name: 'Get emergency care at a city hospital'
+    slug: 'get-emergency-care-at-a-city-hospital'
+    description: 'For anyone who needs urgent care. Emergency rooms at Lapu-Lapu City Hospital and Sta. Rosa Community Hospital are open 24 hours. Bring a referral form if another facility sent you. Supplies and tests are charged per the hospital fee schedule.'
+
+  - name: 'Consult a doctor at a hospital outpatient department'
+    slug: 'consult-a-doctor-at-a-hospital-outpatient-department'
+    description: 'For non-emergency check-ups. Bring a referral from your health center. Lapu-Lapu City Hospital OPD: Mon–Fri, 8:00 AM–11:00 PM. Sta. Rosa OPD: Mon–Fri, 8:00 AM–5:00 PM (except holidays).'
+
+  - name: 'Get laboratory tests at Lapu-Lapu City Hospital'
+    slug: 'get-laboratory-tests-at-lapu-lapu-city-hospital'
+    description: 'Blood, urine and other tests for the general public. Requires a laboratory request signed by a doctor. Fees per the laboratory schedule. Open 24 hours; most results within 1–4 hours.'
+
+  - name: 'Get an X-ray, ultrasound, 2D echo or ECG'
+    slug: 'get-an-x-ray-ultrasound-2d-echo-or-ecg'
+    description: 'Imaging and heart tests at the Lapu-Lapu City Hospital Radiology Department. Requires a doctor''s request. 2D echo ₱2,000; ECG ₱100; X-ray and ultrasound per the fee schedule. X-ray open 24 hours.'
+
+  - name: 'Pay your hospital bill before discharge'
+    slug: 'pay-your-hospital-bill-before-discharge'
+    description: 'For patients admitted at Lapu-Lapu City Hospital. Get your Statement of Account, pay the bill and get your clearance. About 2 hours. Mon–Sat, 8:00 AM–8:00 PM; Sun, 8:00 AM–5:00 PM.'
+
+  - name: 'Get help paying hospital bills at the Malasakit Center'
+    slug: 'get-help-paying-hospital-bills-at-the-malasakit-center'
+    description: 'Free help for poor and financially struggling patients at Lapu-Lapu City Hospital: PhilHealth enrollment, tests, medicines and hospital bills. Open daily, 6:00 AM–10:00 PM.'
+
+  - name: 'Request hospital medical records and certificates'
+    slug: 'request-hospital-medical-records-and-certificates'
+    description: 'Medical, medico-legal, birth and death certificates and discharge summaries for patients of the city hospitals. Requires a request form and valid ID. About 6 hours at Lapu-Lapu City Hospital.'
+
+  - name: 'Visit the free monthly mental health clinic'
+    slug: 'visit-the-free-monthly-mental-health-clinic'
+    description: 'Free assessment by a psychologist or psychiatrist, plus free medicine, run by the City Social Welfare and Development Office once a month. No requirements; walk-ins welcome. About 50 minutes.'
     
   - name: 'Join health programs (nutrition, dengue control, TB treatment)'
     slug: 'join-health-programs-nutrition-dengue-control-tb-treatment'

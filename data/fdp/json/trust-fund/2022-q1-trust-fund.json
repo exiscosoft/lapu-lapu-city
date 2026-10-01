@@ -1,0 +1,176 @@
+{
+  "id": "2022-q1-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization (DILG Form)",
+  "period": {
+    "year": 2022,
+    "quarter": 1,
+    "asOf": "2022-03-31",
+    "printed": "AS OF MARCH 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Cluster X- Construction of Public toilet",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Cluster X- Construction of Public toilet",
+            "location": "Calawisan",
+            "dateStarted": "2019-02-22",
+            "targetCompletion": "2019-07-15",
+            "remarks": "Suspended (BUB)"
+          }
+        },
+        {
+          "label": "2. Installation of Urban Agriculture Program Greenhouse, MRF",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Installation of Urban Agriculture Program Greenhouse, MRF",
+            "location": "Sta. Rosa",
+            "totalCost": 9990189.65,
+            "dateStarted": "2022-01-21",
+            "targetCompletion": "2022-03-27",
+            "pctCompletion": 0,
+            "costIncurred": 0,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "3. Improvement of Poblacion Plaza- Facilities & Finishes)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Improvement of Poblacion Plaza- Facilities & Finishes)",
+            "location": "Poblacion",
+            "totalCost": 4226271,
+            "dateStarted": "2021-09-30",
+            "targetCompletion": "2021-11-29",
+            "pctCompletion": 100,
+            "costIncurred": 4226271,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "4. Conversion of classroom to Sensory Room for Babag NHS",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Conversion of classroom to Sensory Room for Babag NHS",
+            "location": "Babag",
+            "totalCost": 3350000,
+            "dateStarted": "2022-01-21",
+            "targetCompletion": "2022-03-07",
+            "pctCompletion": 100,
+            "costIncurred": 3350000,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "5. Implementation of Uban Agriculture Program-MRF",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "5. Implementation of Uban Agriculture Program-MRF",
+            "location": "Mactan",
+            "totalCost": 1434418.51,
+            "dateStarted": "2022-01-20",
+            "targetCompletion": "2022-03-26",
+            "pctCompletion": 30,
+            "costIncurred": 645521,
+            "remarks": "On-going"
+          }
+        },
+        {
+          "label": "6. Construction of Multi-Purpose Building LLC College",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "6. Construction of Multi-Purpose Building LLC College",
+            "location": "Gun-ob",
+            "totalCost": 9861888,
+            "dateStarted": "2021-07-22",
+            "targetCompletion": "2022-02-07",
+            "pctCompletion": 75,
+            "costIncurred": 6416139.78,
+            "remarks": "On-going"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 6
+  },
+  "notes": [
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null; projectCount counts the six numbered projects.",
+    "Page 2 of 2 contains only an empty table and the signatures.",
+    "The PDF carries an embedded OCR text layer; values were read from the page image."
+  ],
+  "unreadable": []
+}

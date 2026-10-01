@@ -1,0 +1,549 @@
+{
+  "id": "2024-q1-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2024,
+    "quarter": 1,
+    "asOf": "2024-03-31",
+    "printed": "Calendar Year: 2024, Quarter: 1",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 46053620.0,
+            "mitigation": 107458444.0,
+            "total": 153512064.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 137133010.68,
+            "total": 137133010.68
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 29850466.23,
+            "total": 29850466.23
+          }
+        },
+        {
+          "key": "carryOver:2019",
+          "label": "2019",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 11471815.19
+          }
+        },
+        {
+          "key": "carryOver:2020",
+          "label": "2020",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 28681712.88
+          }
+        },
+        {
+          "key": "carryOver:2021",
+          "label": "2021",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 43087089.38
+          }
+        },
+        {
+          "key": "carryOver:2022",
+          "label": "2022",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 28045521.93
+          }
+        },
+        {
+          "key": "carryOver:2023",
+          "label": "2023",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 80662566.27
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfer/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {}
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 46053620.0,
+            "mitigation": 274441920.91,
+            "total": 320495540.91
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. Utilization",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "January-No Liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February-No Liquidation",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1533668.25,
+            "particulars": "CONTINUING AND CURRENT"
+          }
+        },
+        {
+          "label": "APPROPRIATION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1551956.03,
+            "particulars": "APPROPRIATION"
+          }
+        },
+        {
+          "label": "January-No Liquidation",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1570243.81,
+            "particulars": "January-No Liquidation",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "February-No liquidation",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1588531.59,
+            "particulars": "February-No liquidation",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "Honorarium of resource speaker",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 125000.0,
+            "particulars": "Honorarium of resource speaker",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "100 pcs ballpen, office supplies etc.",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 45295.0,
+            "particulars": "100 pcs ballpen, office supplies etc.",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "6pcs. Acrylic palque",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 14988.0,
+            "particulars": "6pcs. Acrylic palque",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "300 units fire extinguisher, dry chemicals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 749925.0,
+            "particulars": "300 units fire extinguisher, dry chemicals",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "18 lot wireless paging system",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1439892.0,
+            "particulars": "18 lot wireless paging system",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "2,550 pcs tshirt",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 764362.5,
+            "particulars": "2,550 pcs tshirt",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "1,050 pax packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 339150.0,
+            "particulars": "1,050 pax packed meals",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "1,210 pax packed meals",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 392645.0,
+            "particulars": "1,210 pax packed meals",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1,000 kit IEC materials",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 348500.0,
+            "particulars": "1,000 kit IEC materials",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1300 pax meals snacks & lunch",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 324350.0,
+            "particulars": "1300 pax meals snacks & lunch",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "600 pax meals snacks & lunch",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 194250.0,
+            "particulars": "600 pax meals snacks & lunch",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1 lot sound system & LED wall rental",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 69000.0,
+            "particulars": "1 lot sound system & LED wall rental",
+            "month": "MARCH"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 0,
+            "mitigation": 11051757.19,
+            "total": 11051757.19,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 46053620.0,
+            "mitigation": 263390163.72,
+            "total": 309443783.72
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 320495540.91,
+    "qrf": 46053620.0,
+    "mitigation": 274441920.91,
+    "totalUtilized": 11051757.19,
+    "balance": 309443783.72,
+    "qrfUtilized": 0,
+    "mitigationUtilized": 11051757.19,
+    "qrfBalance": 46053620.0,
+    "mitigationBalance": 263390163.72
+  },
+  "notes": [
+    "Printed Total Utilization 11,051,757.19 is 0.01 more than the sum of the printed utilization items (11,051,757.18); transcribed as printed.",
+    "Page 1: the four mitigation amounts 1,533,668.25 / 1,551,956.03 / 1,570,243.81 / 1,588,531.59 are printed on the rows labelled \"CONTINUING AND CURRENT\", \"APPROPRIATION\", \"January-No Liquidation\" and \"February-No liquidation\" with no item description. They form an arithmetic series (each +18,287.78), which suggests a spreadsheet fill error, but they are included in the printed Total Utilization. Transcribed as printed against those row labels.",
+    "The Special Trust Fund carry-over years (2019-2023) printed under the STF line sum to 191,948,705.65, not the STF line amount 29,850,466.23; transcribed as printed.",
+    "On both pages the amounts sit slightly below their particulars (skewed scan/merged cells); amounts were matched to particulars in printed order.",
+    "Total Utilization: the total column amount 11,051,757.19 is printed on the same line as the Unutilized Balance mitigation figure (row offset); assigned to Total Utilization by arithmetic of the printed balance."
+  ],
+  "unreadable": []
+}

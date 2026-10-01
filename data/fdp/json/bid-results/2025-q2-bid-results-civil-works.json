@@ -1,0 +1,172 @@
+{
+  "id": "2025-q2-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Bid Results on Civil Works",
+  "form": "FDP Form 10a",
+  "period": {
+    "year": 2025,
+    "quarter": 2,
+    "asOf": "2025-06-30",
+    "printed": "Calendar Year: 2025, Quarter: 2",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Ronaldo D. Malacora",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "items",
+      "title": "CIVIL WORKS BID-OUT",
+      "columns": [
+        {
+          "key": "no",
+          "label": "No.",
+          "type": "number"
+        },
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Name of Project",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderContact",
+          "label": "Name and Address (name)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address (address)",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Bidding Date",
+          "type": "date"
+        },
+        {
+          "key": "duration",
+          "label": "Contract Duration",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Asphalt Overlay of Risdon Street, Poblacion, Including front of Auditorium, Poblacion, LLC",
+          "kind": "item",
+          "values": {
+            "no": 1,
+            "refNo": "25-53 (DF)",
+            "description": "Asphalt Overlay of Risdon Street, Poblacion, Including front of Auditorium, Poblacion, LLC",
+            "abc": 7530350.0,
+            "location": "Poblaqcion, LLC",
+            "bidder": "SOCOR CONSTRUCTION CORP",
+            "bidderNormalized": "SOCOR CONSTRUCTION CORPORATION",
+            "bidderContact": "Kim R. Sanchez",
+            "bidderAddress": "12C Arellano Blvd, North Reclamation Area, Pier 4, Cebu City",
+            "bidAmount": 7510391.53,
+            "biddingDate": "2025-06-25",
+            "duration": "30 CD"
+          }
+        },
+        {
+          "label": "Repair of Various Classrooms at Sudtunggan Elementary School, Basak, LLC",
+          "kind": "item",
+          "values": {
+            "no": 2,
+            "refNo": "23-05 (SEF)",
+            "description": "Repair of Various Classrooms at Sudtunggan Elementary School, Basak, LLC",
+            "abc": 3672896.0,
+            "location": "Sudtunggan, Basak, LLC",
+            "bidder": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderNormalized": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderContact": "Emiliano Tadeo Ruiz Jr",
+            "bidderAddress": "Z3-30B A. Bacaltos St., Mohon, Talisay City, Cebu",
+            "bidAmount": 3667888.0,
+            "biddingDate": "2025-06-25",
+            "duration": "210 CD"
+          }
+        },
+        {
+          "label": "Repair of Various Classrooms at Sudtunggan Night High School",
+          "kind": "item",
+          "values": {
+            "no": 3,
+            "refNo": "23-21 (SEF)",
+            "description": "Repair of Various Classrooms at Sudtunggan Night High School",
+            "abc": 1785930.0,
+            "location": "Sudtunggan, Basak, LLC",
+            "bidder": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderNormalized": "TEN TWENTY ALLIED DEVELOPERS",
+            "bidderContact": "Emiliano Tadeo Ruiz Jr",
+            "bidderAddress": "Z3-30B A. Bacaltos St., Mohon, Talisay City, Cebu",
+            "bidAmount": 1782888.0,
+            "biddingDate": "2025-06-25",
+            "duration": "160 CD"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Existing Repair Bay of GSO Bldg in Motorpool, Gun-ob, LLC",
+          "kind": "item",
+          "values": {
+            "no": 4,
+            "refNo": "25-18 (DF)",
+            "description": "Repair & Improvement of Existing Repair Bay of GSO Bldg in Motorpool, Gun-ob, LLC",
+            "abc": 4824340.0,
+            "location": "Gun-ob, LLC",
+            "bidder": "Warsky Ventures Inc.",
+            "bidderNormalized": "WARSKY VENTURES INC.",
+            "bidderContact": null,
+            "bidderAddress": "3 A Horseshoe Drive, Brgy Guadalupe, Cebu City",
+            "bidAmount": 4823708.09,
+            "biddingDate": "2025-06-25",
+            "duration": "160 CD"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "The \"Name and Address\" column prints a contact person and an address; they are split into bidderContact and bidderAddress (item 4 prints only an address).",
+    "Item 1 location is printed \"Poblaqcion, LLC\" (typo on the form); transcribed as printed.",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "unreadable": []
+}

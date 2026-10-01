@@ -1,0 +1,198 @@
+{
+  "id": "2019-q3-bid-results-civil-works",
+  "type": "bid-results",
+  "title": "Civil Works",
+  "form": "FDP Form 10b",
+  "period": {
+    "year": 2019,
+    "quarter": 3,
+    "asOf": "2019-09-30",
+    "printed": "3rd Quarter, CY 2019",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Cleofe A. Amores",
+      "position": "BAC Secretariat Head"
+    },
+    {
+      "name": "Atty. James Allan Sayson",
+      "position": "BAC Chairperson"
+    }
+  ],
+  "tables": [
+    {
+      "key": "civilWorks",
+      "title": "CIVIL WORKS",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "Reference No.",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name and Address Of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": []
+    },
+    {
+      "key": "goodsServices",
+      "title": "GOODS AND SERVICES BID OUT (City of Lapu-Lapu, Third Quarter, Calendar Year 2019)",
+      "columns": [
+        {
+          "key": "refNo",
+          "label": "Reference NO",
+          "type": "text"
+        },
+        {
+          "key": "description",
+          "label": "Item Description",
+          "type": "text"
+        },
+        {
+          "key": "abc",
+          "label": "Approved Budget for the Contract",
+          "type": "amount"
+        },
+        {
+          "key": "bidder",
+          "label": "Winning Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidderNormalized",
+          "label": "Bidder (normalized)",
+          "type": "text"
+        },
+        {
+          "key": "bidderAddress",
+          "label": "Name of Address of Bidder",
+          "type": "text"
+        },
+        {
+          "key": "bidAmount",
+          "label": "Bid Amount",
+          "type": "amount"
+        },
+        {
+          "key": "biddingDate",
+          "label": "Date of Bidding",
+          "type": "date"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Meals for the Working Committee for Ironman",
+          "kind": "item",
+          "values": {
+            "refNo": "19-07-1461",
+            "description": "Meals for the Working Committee for Ironman",
+            "abc": 2271300,
+            "bidder": "Bright Star Industries, Inc.",
+            "bidderNormalized": "BRIGHT STAR INDUSTRIES, INC.",
+            "bidderAddress": "Plaridel St., Cebu City",
+            "bidAmount": 2125596,
+            "biddingDate": "2019-07-30"
+          }
+        },
+        {
+          "label": "Breafast for Well Wishers of Ironman",
+          "kind": "item",
+          "values": {
+            "refNo": "19-07-1460",
+            "description": "Breafast for Well Wishers of Ironman",
+            "abc": 400000,
+            "bidder": "Bright Star Industries, Inc.",
+            "bidderNormalized": "BRIGHT STAR INDUSTRIES, INC.",
+            "bidderAddress": "Plaridel St., Cebu City",
+            "bidAmount": 368000,
+            "biddingDate": "2019-07-30"
+          }
+        },
+        {
+          "label": "Drugs and Medicines",
+          "kind": "item",
+          "values": {
+            "refNo": "19-05-1146",
+            "description": "Drugs and Medicines",
+            "abc": 3230642.5,
+            "bidder": "Pharmaceutica Filipina de Visayas",
+            "bidderNormalized": "PHARMACEUTICA FILIPINA DE VISAYAS",
+            "bidderAddress": "Nivel Hills, Lahug, Cebu City",
+            "bidAmount": 3137678.84,
+            "biddingDate": "2019-08-08"
+          }
+        },
+        {
+          "label": "Hot Asphalt",
+          "kind": "item",
+          "values": {
+            "refNo": "19-07-1529",
+            "description": "Hot Asphalt",
+            "abc": 2292000,
+            "bidder": "Socor Construction",
+            "bidderNormalized": "SOCOR CONSTRUCTION CORPORATION",
+            "bidderAddress": "Pier 1, Cebu City",
+            "bidAmount": 2291948,
+            "biddingDate": "2019-08-08"
+          }
+        },
+        {
+          "label": "Transfer & Disposal of Residual Wastes",
+          "kind": "item",
+          "values": {
+            "refNo": "19-08-1748",
+            "description": "Transfer & Disposal of Residual Wastes",
+            "abc": 24999300,
+            "bidder": "Jomara Konstruck Corp.",
+            "bidderNormalized": "JOMARA KONSTRUCKT CORPORATION",
+            "bidderAddress": "Pobl. Ward III, Minglanilla , Cebu",
+            "bidAmount": 24999300,
+            "biddingDate": "2019-09-24"
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "The PDF holds two forms. Page 1 is a Civil Works form (header mistakenly reads \"FDP Form 10b - Bid Results on Goods and Services\") stating \"No bidding of project as of July to September 2019\"; table civilWorks has no rows.",
+    "Page 2 is a Goods and Services bid-out (FDP Form 10b, \"THIRD QUARTER CALENDAR YEAR 2019\") with 5 awards, transcribed as table goodsServices. Page 2 is signed only by Cleofe A. Amores, BAC Secretariat (\"Prepared by\").",
+    "Item 19-07-1461 description is clipped at the cell edges on the scan (\"eals for the Working Committee for Ironma\"); transcribed as \"Meals for the Working Committee for Ironman\". \"Breafast\" (19-07-1460) is spelled as printed.",
+    "bidderNormalized: a canonical spelling added by the transcriber so the same company ranks as one bidder across documents (case, punctuation and obvious misspellings unified, e.g. variants confirmed by the bidder name repeated in the address column or by an identical contact person/address). The printed name is kept unchanged in bidder."
+  ],
+  "summary": {},
+  "unreadable": []
+}

@@ -1,0 +1,1132 @@
+{
+  "id": "2025-q2-ldrrmf",
+  "type": "ldrrmf",
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization",
+  "form": "FDP Form 8 - Local Disaster Risk Reduction and Management Fund Utilization (Commission on Audit Form)",
+  "period": {
+    "year": 2025,
+    "quarter": 2,
+    "asOf": "2025-06-30",
+    "printed": "Calendar Year: 2025, Quarter: 2",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "sources",
+      "title": "A. Sources of Funds",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "A. Sources of Funds",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "currentAppropriations",
+          "label": "Current Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 126068911.5,
+            "total": 180098445.0
+          }
+        },
+        {
+          "key": "continuingAppropriations",
+          "label": "Continuing Appropriations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 97170006.0,
+            "total": 97170006.0
+          }
+        },
+        {
+          "key": "specialTrustFund",
+          "label": "Previous Year's Appropriations transferred to the Special Trust Fund",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "mitigation": 135302573.8,
+            "total": 135302573.8
+          }
+        },
+        {
+          "key": "carryOver:2018",
+          "label": "2018",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 10729588.9
+          }
+        },
+        {
+          "key": "carryOver:2019",
+          "label": "2019",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 993443.18
+          }
+        },
+        {
+          "key": "carryOver:2020",
+          "label": "2020",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 6700000.0
+          }
+        },
+        {
+          "key": "carryOver:2021",
+          "label": "2021",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 4117971.4
+          }
+        },
+        {
+          "key": "carryOver:2022",
+          "label": "2022",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 22215900.68
+          }
+        },
+        {
+          "key": "carryOver:2023",
+          "label": "2023",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 29850466.23
+          }
+        },
+        {
+          "key": "carryOver:2024",
+          "label": "2024",
+          "level": 2,
+          "kind": "item",
+          "section": "specialTrustFund",
+          "values": {
+            "mitigation": 60695203.41
+          }
+        },
+        {
+          "key": "transferGrants",
+          "label": "Transfer/Grants",
+          "level": 1,
+          "kind": "item",
+          "values": {}
+        },
+        {
+          "key": "total",
+          "label": "Total Funds Available",
+          "level": 1,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 358541491.3,
+            "total": 412571024.8
+          }
+        }
+      ]
+    },
+    {
+      "key": "utilization",
+      "title": "B. Utilization",
+      "columns": [
+        {
+          "key": "month",
+          "label": "Month",
+          "type": "text"
+        },
+        {
+          "key": "particulars",
+          "label": "Particulars",
+          "type": "text"
+        },
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "B. UTILIZATION",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "GENERAL FUND-MOOE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 336475.32,
+            "particulars": "cash for work",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 629204.76,
+            "particulars": "cash for work",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 690000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "rental of 2 units pumpboat for relief assistance",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 699500.0,
+            "particulars": "rental of 2 units pumpboat for relief assistance",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 225000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 639966.6,
+            "particulars": "cash for work",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 562608.0,
+            "particulars": "cash for work",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 lot sound system & led wall",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 69500.0,
+            "particulars": "1 lot sound system & led wall",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "40 pcs. Acrylic plague (ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 99920.0,
+            "particulars": "40 pcs. Acrylic plague (ANDAM)",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "500 pcs t-shirt (ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 175000.0,
+            "particulars": "500 pcs t-shirt (ANDAM)",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 lot rental of sound sys(ANDAM)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 79500.0,
+            "particulars": "1 lot rental of sound sys(ANDAM)",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "50 pads alcohol and other medical supplies",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 614349.0,
+            "particulars": "50 pads alcohol and other medical supplies",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "300 pcs. Tarpaulin",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 386250.0,
+            "particulars": "300 pcs. Tarpaulin",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 45000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 75000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 289274.28,
+            "particulars": "cash for work",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 487593.6,
+            "particulars": "cash for work",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "generalFundMooe",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator (second batch)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "honoraria for DRRM facilitator (second batch)",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "honoraria for DRRM facilitator (third batch)",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 160000.0,
+            "particulars": "honoraria for DRRM facilitator (third batch)",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "400 t-shirt fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 200000.0,
+            "particulars": "400 t-shirt fire prevention month",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 lot stage decoration for recognition of fire prevention month",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 44200.0,
+            "particulars": "1 lot stage decoration for recognition of fire prevention month",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "fire prevention month purchase of office supplies and others",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 14293.0,
+            "particulars": "fire prevention month purchase of office supplies and others",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "170 pcs. Tarpaulin",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 302925.0,
+            "particulars": "170 pcs. Tarpaulin",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "rental of wing van for distribution of relief goods 60 times round trip",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 587700.0,
+            "particulars": "rental of wing van for distribution of relief goods 60 times round trip",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 570000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 540572.52,
+            "particulars": "cash for work",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "cash for training/care",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 469308.84,
+            "particulars": "cash for training/care",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "cash for training/care",
+          "level": 1,
+          "kind": "item",
+          "section": "generalFundMooe",
+          "values": {
+            "mitigation": 543854.4,
+            "particulars": "cash for training/care",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "CONTINUING AND CURRENT",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1533668.25,
+            "particulars": "CONTINUING AND CURRENT"
+          }
+        },
+        {
+          "label": "APPROPRIATION",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1551956.03,
+            "particulars": "APPROPRIATION"
+          }
+        },
+        {
+          "label": "JANUARY",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1570243.81,
+            "particulars": "JANUARY",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "purchase of 7 lots and installation of community water and fire system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 5242216.0,
+            "particulars": "purchase of 7 lots and installation of community water and fire system",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "4 sets crossover selfloading stretcher for city ambulance",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 1887600.0,
+            "particulars": "4 sets crossover selfloading stretcher for city ambulance",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "payment of 1 unit drone",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 335000.0,
+            "particulars": "payment of 1 unit drone",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "lot purchase and installation-20 kilowatts solar renewable hybrid off grid system-solar power system",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 4999999.0,
+            "particulars": "lot purchase and installation-20 kilowatts solar renewable hybrid off grid system-solar power system",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "1st partial payment of contract for repair & upgrade of DRRMO Bldg.",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 6370548.92,
+            "particulars": "1st partial payment of contract for repair & upgrade of DRRMO Bldg.",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "1 unit DSLR camera with lens",
+          "level": 1,
+          "kind": "item",
+          "section": "continuingAndCurrentAppropriation",
+          "values": {
+            "mitigation": 250000.0,
+            "particulars": "1 unit DSLR camera with lens",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "TRUST FUND",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {}
+        },
+        {
+          "label": "JANUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "10 units motorcycles",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1880000.0,
+            "particulars": "10 units motorcycles",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 810000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "JANUARY"
+          }
+        },
+        {
+          "label": "FEBRUARY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "20 pcs acrylic Plaque",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 49980.0,
+            "particulars": "20 pcs acrylic Plaque",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "20 units filing rack",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 404000.0,
+            "particulars": "20 units filing rack",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "200 food pax for seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 150000.0,
+            "particulars": "200 food pax for seminar",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "rental subsidy for fire victims",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 135000.0,
+            "particulars": "rental subsidy for fire victims",
+            "month": "FEBRUARY"
+          }
+        },
+        {
+          "label": "MARCH",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "500 pcs non rebreather mask",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 170800.0,
+            "particulars": "500 pcs non rebreather mask",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1 day live out seminar",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 210000.0,
+            "particulars": "1 day live out seminar",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "850 pcs. T-shirts",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 297500.0,
+            "particulars": "850 pcs. T-shirts",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "1,000 cylinder oxygen 40 liters",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 424000.0,
+            "particulars": "1,000 cylinder oxygen 40 liters",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "500 pcs T-shirts",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 175000.0,
+            "particulars": "500 pcs T-shirts",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "cash for work",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 580552.8,
+            "particulars": "cash for work",
+            "month": "MARCH"
+          }
+        },
+        {
+          "label": "APRIL",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "5 unts vertical deep well jet pump",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 224875.0,
+            "particulars": "5 unts vertical deep well jet pump",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "50 reams short sized bondpaper",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 20467.5,
+            "particulars": "50 reams short sized bondpaper",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "6 units collapsible tent with aircon",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 467700.0,
+            "particulars": "6 units collapsible tent with aircon",
+            "month": "APRIL"
+          }
+        },
+        {
+          "label": "MAY",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental of 1 lot sound system & LED Wall",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 69800.0,
+            "particulars": "rental of 1 lot sound system & LED Wall",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "rental of 1 lot sound system & LED Wall",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 69800.0,
+            "particulars": "rental of 1 lot sound system & LED Wall",
+            "month": "MAY"
+          }
+        },
+        {
+          "label": "JUNE",
+          "level": 0,
+          "kind": "header",
+          "section": "trustFund",
+          "values": {
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 unit New 6 Wheeler Vacuum tanker",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 6700000.0,
+            "particulars": "1 unit New 6 Wheeler Vacuum tanker",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "1 unit New 6 Wheeler Vacuum tanker",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1908000.0,
+            "particulars": "1 unit New 6 Wheeler Vacuum tanker",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "350 units Fire Extinguisher",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 416177.4,
+            "particulars": "350 units Fire Extinguisher",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "350 units Fire Extinguisher",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 453572.6,
+            "particulars": "350 units Fire Extinguisher",
+            "month": "JUNE"
+          }
+        },
+        {
+          "label": "25 pcs PL-259 connector and other items",
+          "level": 1,
+          "kind": "item",
+          "section": "trustFund",
+          "values": {
+            "mitigation": 1451000.0,
+            "particulars": "25 pcs PL-259 connector and other items",
+            "month": "JUNE"
+          }
+        },
+        {
+          "key": "totalUtilized",
+          "label": "Total Utilization",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 0,
+            "mitigation": 50731452.63,
+            "total": 50731452.63,
+            "particulars": "Total Utilization"
+          }
+        }
+      ]
+    },
+    {
+      "key": "balance",
+      "title": "Balance",
+      "columns": [
+        {
+          "key": "qrf",
+          "label": "Quick Response Fund (QRF) 30%",
+          "type": "amount"
+        },
+        {
+          "key": "mitigation",
+          "label": "Mitigation Fund 70%",
+          "type": "amount"
+        },
+        {
+          "key": "ndrrmf",
+          "label": "NDRRM Fund",
+          "type": "amount"
+        },
+        {
+          "key": "otherLgu",
+          "label": "From Other LGUs",
+          "type": "amount"
+        },
+        {
+          "key": "otherSources",
+          "label": "From Other Sources",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "balance",
+          "label": "Unutilized Balance",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "qrf": 54029533.5,
+            "mitigation": 307810038.67,
+            "total": 361839572.17
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalAvailable": 412571024.8,
+    "qrf": 54029533.5,
+    "mitigation": 358541491.3,
+    "totalUtilized": 50731452.63,
+    "balance": 361839572.17,
+    "qrfUtilized": 0,
+    "mitigationUtilized": 50731452.63,
+    "qrfBalance": 54029533.5,
+    "mitigationBalance": 307810038.67
+  },
+  "notes": [
+    "The utilization items sum exactly to the printed Total Utilization 50,731,452.63, and the balances equal Total Funds Available minus Total Utilization in each column.",
+    "Under CONTINUING AND CURRENT APPROPRIATION, the amounts 1,533,668.25 / 1,551,956.03 / 1,570,243.81 are printed on the heading rows \"CONTINUING AND CURRENT\", \"APPROPRIATION\" and \"JANUARY\" with no item description (the same arithmetic series, step 18,287.78, seen in the 2024 reports). They are included in the printed total; transcribed against those row labels.",
+    "Amounts sit on the last line of wrapped particulars; wrapped lines were joined into one row. Particulars spelling kept as printed (e.g. \"Acrylic plague\", \"unts\")."
+  ],
+  "unreadable": []
+}

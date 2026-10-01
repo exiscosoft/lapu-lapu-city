@@ -2,22 +2,68 @@
 # This file contains all the pages/services available under the Business & Livelihood category
 
 pages:
-  - name: "How to Apply for a Business Permit in Lapu Lapu City"
+  - name: 'How to Apply for a Business Permit in Lapu Lapu City'
     slug: 'apply-for-a-business-permit-in-lapu-lapu-city'
-    description: "Complete guide to applying for business permit in Lapu-Lapu City."
-    
-  - name: "How to Set Up a Business Partnership in Lapu Lapu City"
+    description: 'For proprietors, corporations, partnerships, cooperatives and associations. Apply at the Business One-Stop-Shop or online. Needs DTI/SEC/CDA registration, CTC, Sanitary Permit and FSIC. Fees per the Schedule of Taxes and Fees. Mon–Fri, 8:00am–5:00pm.'
+
+  - name: 'How to Set Up a Business Partnership in Lapu Lapu City'
     slug: 'apply-for-business-partnership-in-lapu-lapu-city'
-    description: "Complete guide to registering a business partnership in Lapu-Lapu City."
+    description: 'Complete guide to registering a business partnership in Lapu-Lapu City.'
 
   - name: 'Renew permits and pay local business taxes'
     slug: 'renew-permits-and-pay-local-business-taxes'
-    description: 'Information about renewing business permits and paying local business taxes to your local government.'
-    
+    description: "Pay business tax, other local taxes, fees and charges at the City Treasurer's Office. Quarterly due dates: January 20, April 20, July 20 and October 20. Mon–Fri, 8:00am–5:00pm."
+
+  - name: 'Close or retire your business'
+    slug: 'close-or-retire-your-business'
+    description: "Get a Certificate of Closure from the City Treasurer's Office. Needs a letter, latest BIR returns or affidavit of no operation, and a location sketch. ₱50 fee plus ₱30 documentary stamp. About 3 days. Mon–Fri, 8:00am–5:00pm."
+
+  - name: 'Get a delivery permit'
+    slug: 'get-a-delivery-permit'
+    description: "For businesses with trucking or delivery services. Needs a booking form and each vehicle's registration and official receipt. Apply at the City Mayor's Office at least 3 working days ahead. 3 days."
+
+  - name: 'Get a permit for banners, streamers or signage'
+    slug: 'get-a-permit-for-banners-streamers-or-signage'
+    description: 'For businesses putting up temporary banners (7 days) or permanent directional signs (15 days). Needs a request letter, layout and office endorsements. Includes the ₱50 CENRO certification for tarpaulin cash bond refunds.'
+
+  - name: 'Get or renew a tricycle franchise (MTOP)'
+    slug: 'get-a-tricycle-franchise-mtop'
+    description: "New MTOP (Olango Island), renewal, change of ownership or change of motorcycle at the City Attorney's Office. Fees include ₱50 Mayor's permit, ₱40 supervision, ₱60 franchise and ₱450 filing (first 5 units). About 1 day. Mon–Fri, 8:00am–5:00pm."
+
+  - name: 'Sell to the city government'
+    slug: 'sell-to-the-city-government'
+    description: "For suppliers, contractors and creditors. Get bidding documents and purchase orders at the CGSO, and payment processing and BIR Form 2307 at the City Accountant's Office. Mon–Fri, 8:00am–5:00pm."
+
   - name: 'Rent stalls in public markets'
     slug: 'rent-stalls-in-public-markets'
-    description: 'How to rent stalls in local government public markets for your business.'
-    
+    description: 'For stall lessees and vendors. Pay stall rent and electricity, get a market clearance (₱150), or buy cash tickets for extra space and goods brought in for sale.'
+
   - name: 'Join trade fairs, business expos, or tourism promotions'
     slug: 'join-trade-fairs-business-expos-or-tourism-promotions'
     description: 'Participate in local trade fairs, business expos, and tourism promotion activities.'
+
+  # Jobs and employment
+
+  - name: 'Find a job through PESO'
+    slug: 'find-a-job-through-peso'
+    description: 'Free job referrals for local and overseas work. Bring your resume and fill out NSRP Form 1 at the Public Employment Service Office. Schools can also request career guidance sessions.'
+
+  - name: 'Hire workers or join a job fair as an employer'
+    slug: 'hire-workers-or-join-a-job-fair-as-an-employer'
+    description: 'For companies. Get PESO accreditation (about 1 day) to post vacancies, or join a PESO job fair (about 6 days, if slots are open). Needs a current business permit, BIR 2303, SEC registration and NSRP Form 2. Free.'
+
+  - name: 'Apply for the Summer Job Program'
+    slug: 'apply-for-the-summer-job-program'
+    description: 'Paid 3-day jobs for poor but deserving students and out-of-school youth aged 15 to 25. Register with your barangay and submit NSRP Form 1, birth certificate, grades and Certificate of Indigency. Free.'
+
+  - name: 'Apply for the Government Internship Program'
+    slug: 'apply-for-the-government-internship-program'
+    description: 'For 18 to 30-year-olds with no work experience who finished at least high school. Submit the GIP form, birth certificate, proof of schooling and Certificate of Indigency to PESO. Free. About 5 days.'
+
+  - name: 'Get an occupational permit for employment'
+    slug: 'get-an-occupational-permit-for-employment'
+    description: "Mayor's Permit for Employment from the Office of the City Administrator. Needs Police or NBI Clearance, City Health Card and a 2x2 photo. ₱100 (tour guides ₱600; free for first-time jobseekers). 1 hour."
+
+  - name: 'Get certifications for employment or work abroad'
+    slug: 'get-certifications-for-employment-or-work-abroad'
+    description: "Certificate of Unemployment, Good Moral and DFA Apostille certifications from the City Mayor's Office (3 days), and the ₱80 Mayor's Clearance for AFP, BFP, PNP, BJMP and PCG applicants (1 hour)."

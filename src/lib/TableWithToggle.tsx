@@ -5,73 +5,64 @@
 import {
   type ReactNode,
   type HTMLAttributes,
+  type ReactElement,
+  Children,
+  isValidElement,
   useState,
   useMemo,
-  useEffect,
 } from 'react';
 import { Table, List } from 'lucide-react';
 import { type TypographyTheme } from './typographyThemes';
 
-// Helper functions to extract text from React children
-const extractTextFromChildren = (children: ReactNode): string[] => {
-  const texts: string[] = [];
-
-  const processNode = (node: ReactNode): void => {
-    if (typeof node === 'string') {
-      const trimmed = node.trim();
-      if (trimmed) texts.push(trimmed);
-    } else if (typeof node === 'number') {
-      texts.push(node.toString());
-    } else if (Array.isArray(node)) {
-      node.forEach(processNode);
-    } else if (node && typeof node === 'object' && 'props' in node) {
-      const nodeProps = node as { props?: { children?: ReactNode } };
-      if (nodeProps.props?.children) {
-        processNode(nodeProps.props.children);
-      }
-    }
-  };
-
-  processNode(children);
-  return texts;
+type ElementProps = {
+  children?: ReactNode;
+  node?: { tagName?: string };
 };
 
-const extractRowsFromChildren = (
+// react-markdown passes the source hast node to custom components, which
+// identifies the element regardless of how it is styled or keyed
+const tagNameOf = (element: ReactElement<ElementProps>): string | undefined =>
+  element.props.node?.tagName ??
+  (typeof element.type === 'string' ? element.type : undefined);
+
+const textOf = (node: ReactNode): string => {
+  if (typeof node === 'string' || typeof node === 'number') {
+    return String(node);
+  }
+  if (Array.isArray(node)) return node.map(textOf).join('');
+  if (isValidElement<ElementProps>(node)) return textOf(node.props.children);
+  return '';
+};
+
+// Collect each row's cells (keeping their rich content) and note which rows
+// come from the table head
+const extractRows = (
   children: ReactNode
-): Array<Record<string, string>> => {
-  const rows: Array<Record<string, string>> = [];
+): Array<{ cells: ReactNode[]; isHeader: boolean }> => {
+  const rows: Array<{ cells: ReactNode[]; isHeader: boolean }> = [];
 
-  const processNode = (node: ReactNode): void => {
-    if (Array.isArray(node)) {
-      node.forEach(processNode);
-    } else if (node && typeof node === 'object' && 'props' in node) {
-      const nodeProps = node as {
-        props?: { children?: ReactNode; className?: string };
-        key?: string;
-      };
+  const walk = (node: ReactNode, inHead: boolean): void => {
+    Children.forEach(node, child => {
+      if (!isValidElement<ElementProps>(child)) return;
+      const tag = tagNameOf(child);
 
-      // Check if this is a table row (tr element) by key or className
-      if (
-        nodeProps.key?.includes('tr') ||
-        nodeProps.props?.className?.includes('tr')
-      ) {
-        // Extract text from all direct children (td/th elements)
-        const cellTexts = extractTextFromChildren(nodeProps.props?.children);
-
-        if (cellTexts.length > 0) {
-          const row: Record<string, string> = {};
-          cellTexts.forEach((text, index) => {
-            row[`column_${index}`] = text;
-          });
-          rows.push(row);
-        }
-      } else if (nodeProps.props?.children) {
-        processNode(nodeProps.props.children);
+      if (tag === 'tr') {
+        const cells: ReactNode[] = [];
+        Children.forEach(child.props.children, cell => {
+          if (!isValidElement<ElementProps>(cell)) return;
+          const cellTag = tagNameOf(cell);
+          if (cellTag === 'td' || cellTag === 'th') {
+            cells.push(cell.props.children);
+          }
+        });
+        rows.push({ cells, isHeader: inHead });
+      } else {
+        walk(child.props.children, inHead || tag === 'thead');
       }
-    }
+    });
   };
 
-  processNode(children);
+  walk(children, false);
   return rows;
 };
 
@@ -84,123 +75,23 @@ export const TableWithToggle = ({
   children: ReactNode;
   theme: TypographyTheme;
 } & HTMLAttributes<HTMLTableElement>) => {
-  const [viewMode, setViewMode] = useState<'table' | 'list'>('table');
-  const [isMobile, setIsMobile] = useState(false);
-
-  // Set responsive default view
-  useEffect(() => {
-    const checkScreenSize = () => {
-      setIsMobile(window.innerWidth < 640); // sm breakpoint
-    };
-
-    // Check on mount
-    checkScreenSize();
-
-    // Listen for resize events
-    window.addEventListener('resize', checkScreenSize);
-
-    return () => window.removeEventListener('resize', checkScreenSize);
-  }, []);
-
-  // Set default view based on screen size
-  useEffect(() => {
-    if (isMobile) {
-      setViewMode('list');
-    } else {
-      setViewMode('table');
-    }
-  }, [isMobile]);
+  const [viewMode, setViewMode] = useState<'table' | 'list'>('list');
 
   // Extract table data for list view
   const tableData = useMemo(() => {
-    if (viewMode === 'table') return null;
+    const rows = extractRows(children);
+    const headers = rows.find(row => row.isHeader)?.cells ?? [];
+    const bodyRows = rows
+      .filter(row => !row.isHeader)
+      .map(row => row.cells)
+      .filter(cells => cells.some(cell => textOf(cell).trim()));
+    const isNamed = headers.map(header => Boolean(textOf(header).trim()));
+    const hasHeaders = isNamed.some(Boolean);
 
-    const rows: Array<Record<string, string>> = [];
-    const headers: string[] = [];
+    return { headers, rows: bodyRows, hasHeaders, isNamed };
+  }, [children]);
 
-    // Parse the table structure from children
-    const processTableElement = (element: ReactNode): void => {
-      if (
-        typeof element === 'object' &&
-        element !== null &&
-        'props' in element
-      ) {
-        const elementProps = element as {
-          props?: { children?: ReactNode; className?: string };
-          key?: string;
-        };
-
-        // Check by key first (for thead/tbody elements)
-        if (elementProps.key?.includes('thead')) {
-          const headerCells = extractTextFromChildren(
-            elementProps.props?.children
-          );
-          headers.push(...headerCells);
-        } else if (elementProps.key?.includes('tbody')) {
-          const bodyRows = extractRowsFromChildren(
-            elementProps.props?.children
-          );
-          rows.push(...bodyRows);
-        } else if (elementProps.key?.includes('tr')) {
-          const rowCells = extractTextFromChildren(
-            elementProps.props?.children
-          );
-          if (rowCells.length > 0) {
-            const row: Record<string, string> = {};
-            rowCells.forEach((text, index) => {
-              row[`column_${index}`] = text;
-            });
-            rows.push(row);
-          }
-        } else if (elementProps.props?.className?.includes('thead')) {
-          const headerCells = extractTextFromChildren(
-            elementProps.props.children
-          );
-          headers.push(...headerCells);
-        } else if (elementProps.props?.className?.includes('tbody')) {
-          const bodyRows = extractRowsFromChildren(elementProps.props.children);
-          rows.push(...bodyRows);
-        } else if (elementProps.props?.className?.includes('tr')) {
-          const rowCells = extractTextFromChildren(elementProps.props.children);
-          if (rowCells.length > 0) {
-            const row: Record<string, string> = {};
-            rowCells.forEach((text, index) => {
-              row[`column_${index}`] = text;
-            });
-            rows.push(row);
-          }
-        } else {
-          // Recursively process children
-          if (elementProps.props?.children) {
-            if (Array.isArray(elementProps.props.children)) {
-              elementProps.props.children.forEach(child => {
-                processTableElement(child);
-              });
-            } else {
-              processTableElement(elementProps.props.children);
-            }
-          }
-        }
-      }
-    };
-
-    if (Array.isArray(children)) {
-      children.forEach(processTableElement);
-    } else {
-      processTableElement(children);
-    }
-
-    // Map row data to headers
-    const mappedRows = rows.map(row => {
-      const mappedRow: Record<string, string> = {};
-      headers.forEach((header, index) => {
-        mappedRow[header] = row[`column_${index}`] || '';
-      });
-      return mappedRow;
-    });
-
-    return { headers, rows: mappedRows };
-  }, [children, viewMode]);
+  const showTable = viewMode === 'table' || tableData.rows.length === 0;
 
   return (
     <div className="-mx-4 sm:mx-0 mb-6">
@@ -230,7 +121,7 @@ export const TableWithToggle = ({
         </button>
       </div>
 
-      {viewMode === 'table' ? (
+      {showTable ? (
         <div className="overflow-x-auto">
           <table
             className={`${theme.components.table} sticky-table`}
@@ -244,16 +135,33 @@ export const TableWithToggle = ({
             {children}
           </table>
         </div>
-      ) : (
+      ) : tableData.hasHeaders ? (
         <div className="space-y-4 px-4 sm:px-0">
-          {tableData?.rows && tableData.rows.length > 0 ? (
-            tableData.rows.map((row, index) => (
-              <div
-                key={index}
-                className="bg-white border border-gray-200 rounded-lg p-4 shadow-sm mx-2 sm:mx-0"
-              >
-                <div className="grid gap-3">
-                  {tableData.headers.map((header, headerIndex) => (
+          {tableData.rows.map((cells, index) => (
+            <div
+              key={index}
+              className="bg-white border border-gray-200 rounded-lg p-4 shadow-sm mx-2 sm:mx-0"
+            >
+              <div className="grid gap-3">
+                {/* Cells under blank headers (e.g. a row number or item
+                    name) have no label, so they become the card's title */}
+                {cells.some(
+                  (cell, cellIndex) =>
+                    !tableData.isNamed[cellIndex] && textOf(cell).trim()
+                ) && (
+                  <div className="font-semibold text-gray-900 text-sm">
+                    {cells.map(
+                      (cell, cellIndex) =>
+                        !tableData.isNamed[cellIndex] && (
+                          <span key={cellIndex} className="mr-1">
+                            {cell}
+                          </span>
+                        )
+                    )}
+                  </div>
+                )}
+                {tableData.headers.map((header, headerIndex) =>
+                  !tableData.isNamed[headerIndex] ? null : (
                     <div
                       key={headerIndex}
                       className="flex flex-col sm:flex-row sm:items-center"
@@ -262,34 +170,38 @@ export const TableWithToggle = ({
                         {header}:
                       </div>
                       <div className="text-gray-700 text-sm sm:w-2/3">
-                        {row[header] || ''}
+                        {cells[headerIndex]}
                       </div>
                     </div>
-                  ))}
-                </div>
-              </div>
-            ))
-          ) : (
-            <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mx-2 sm:mx-0">
-              <div className="text-yellow-800 text-sm">
-                <strong>Debug Info:</strong>
-                <br />
-                Headers: {JSON.stringify(tableData?.headers || [])}
-                <br />
-                Rows: {JSON.stringify(tableData?.rows || [])}
-                <br />
-                Children type: {typeof children}
-                <br />
-                Children is array: {Array.isArray(children) ? 'Yes' : 'No'}
-                <br />
-                Children length:{' '}
-                {Array.isArray(children) ? children.length : 'N/A'}
-                <br />
-                <br />
-                <strong>Check browser console for detailed parsing logs</strong>
+                  )
+                )}
               </div>
             </div>
-          )}
+          ))}
+        </div>
+      ) : (
+        // Header-less tables are label/value lists: the first cell of each
+        // row is the label and the remaining cells are its value
+        <div className="px-4 sm:px-0">
+          <div className="bg-white border border-gray-200 rounded-lg p-4 shadow-sm mx-2 sm:mx-0">
+            <div className="grid gap-3">
+              {tableData.rows.map(([label, ...values], index) => (
+                <div
+                  key={index}
+                  className="flex flex-col sm:flex-row sm:items-center"
+                >
+                  <div className="font-semibold text-gray-800 text-sm mb-1 sm:mb-0 sm:w-1/3 sm:pr-4">
+                    {label}
+                  </div>
+                  <div className="text-gray-700 text-sm sm:w-2/3">
+                    {values.map((value, valueIndex) => (
+                      <div key={valueIndex}>{value}</div>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       )}
     </div>

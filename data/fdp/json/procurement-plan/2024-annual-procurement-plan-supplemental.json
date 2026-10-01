@@ -1,0 +1,619 @@
+{
+  "id": "2024-annual-procurement-plan-supplemental",
+  "type": "procurement-plan",
+  "title": "Supplemental Procurement Plan",
+  "form": "Form 14b - Supplemental Procurement Plan or Procurement List, Summary (pages 1-7: Form 14a - Supplemental Procurement Plan, by Office or Department; form numbers barely legible)",
+  "period": {
+    "year": 2024,
+    "quarter": null,
+    "asOf": null,
+    "printed": "Calendar Year: 2024",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Vanessa Jeanne A. Dela Serna",
+      "position": "Head, BAC Secretariat (Prepared by)"
+    },
+    {
+      "name": "Hon. Junard Q. Chan",
+      "position": "Local Chief Executive / Head of Procuring Entity (Approved by)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "summaryByOffice",
+      "title": "Supplemental Procurement Plan - Summary by Office (FDPP Form 14b)",
+      "columns": [
+        {
+          "key": "department",
+          "label": "Department",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CENRO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CENRO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CGSO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CGSO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY ACCOUNTANT'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY ACCOUNTANT'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY ADMINISTRATOR'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY ADMINISTRATOR'S OFFICE",
+            "totalCost": 75000
+          }
+        },
+        {
+          "label": "CITY ASSESSOR'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY ASSESSOR'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY ATTORNEY'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY ATTORNEY'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY BUDGET OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY BUDGET OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY ENGINEERING'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY ENGINEERING'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY HEALTH OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY HEALTH OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY MAYOR'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY MAYOR'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY PLANNING & DEVELOPMENT OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY PLANNING & DEVELOPMENT OFFICE",
+            "totalCost": 7422500
+          }
+        },
+        {
+          "label": "CITY SP SEC.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY SP SEC.",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY TOURISM OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY TOURISM OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY TREASURER'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY TREASURER'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CITY VETERINARIAN'S OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CITY VETERINARIAN'S OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CLOSAP",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CLOSAP",
+            "totalCost": 1400000
+          }
+        },
+        {
+          "label": "COMMISSION ON AUDIT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "COMMISSION ON AUDIT",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CSWDO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CSWDO - HOME CARE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO - HOME CARE",
+            "totalCost": 270000
+          }
+        },
+        {
+          "label": "CSWDO - PDAO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO - PDAO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CSWDO - SENIOR CITIZENS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO - SENIOR CITIZENS",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CSWDO - SOLO PARENT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO - SOLO PARENT",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CSWDO - STAC",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CSWDO - STAC",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CTMS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CTMS",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "CVMO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "CVMO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "DILG",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "DILG",
+            "totalCost": 70000
+          }
+        },
+        {
+          "label": "FINANCIAL AIDS",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "FINANCIAL AIDS",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "HOOPS DOME",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "HOOPS DOME",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "HRMDO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "HRMDO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "IT OFFICE",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "IT OFFICE",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "LCR",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LCR",
+            "totalCost": 501250
+          }
+        },
+        {
+          "label": "LDRRMO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LDRRMO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "LLDC",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LLDC",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "LLCLRC",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LLCLRC",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "LOCAL DEVELOPMENT PROJECT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "LOCAL DEVELOPMENT PROJECT",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "MHTDC (MANPOWER SERVICES)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "MHTDC (MANPOWER SERVICES)",
+            "totalCost": 140000
+          }
+        },
+        {
+          "label": "MTCC - Clerk of Court",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "MTCC - Clerk of Court",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "MTCC Br. 1",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "MTCC Br. 1",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "MTCC Br. 2",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "MTCC Br. 2",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "MTCC Br. 3",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "MTCC Br. 3",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "Office of the Clerk of Court",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "Office of the Clerk of Court",
+            "totalCost": 56000
+          }
+        },
+        {
+          "label": "PAO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "PAO",
+            "totalCost": 750000
+          }
+        },
+        {
+          "label": "PDMO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "PDMO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "PIO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "PIO",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "PNP",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "PNP",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "RTC Br. 27",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 27",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 5 - Family Court",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 5 - Family Court",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 53",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 53",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 54",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 54",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 67",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 67",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 68",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 68",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 69",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 69",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 70",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 70",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 71",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 71",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 72",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 72",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "RTC Br. 73",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "RTC Br. 73",
+            "totalCost": 28000
+          }
+        },
+        {
+          "label": "SANITARY SERVICES",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "SANITARY SERVICES",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "SP",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "SP",
+            "totalCost": null
+          }
+        },
+        {
+          "label": "UPAO",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "department": "UPAO",
+            "totalCost": 900000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": null
+  },
+  "notes": [
+    "SOURCE QUALITY: every page of this PDF is a 975x637-pixel JPEG (75 dpi) of a full landscape sheet (page 8 is 637x975). On the Form 14a item pages (pages 1-7, roughly 150 items) the codes, project names and peso amounts are too blurred to read digit by digit even when zoomed, so the item table was NOT transcribed. Only the Form 14b summary by office (page 8, larger type) was transcribed, as table summaryByOffice.",
+    "Summary by office: 59 departments are listed. Office totals were recorded only where every digit is clearly legible; the remaining 34 are null and listed in unreadable (in the blurred figures, 3/5/6/8/9 cannot be told apart reliably). The Head of Department / Office column was not transcribed for the same reason (names are only partly legible).",
+    "No grand total is printed on the summary page, so summary.total is null.",
+    "The summary rows are printed slightly skewed; values were matched to departments by row order (59 departments, 59 totals), which the last rows confirm (SANITARY SERVICES, SP, UPAO)."
+  ],
+  "unreadable": [
+    "tables[0].rows[0].values.totalCost",
+    "tables[0].rows[1].values.totalCost",
+    "tables[0].rows[2].values.totalCost",
+    "tables[0].rows[4].values.totalCost",
+    "tables[0].rows[5].values.totalCost",
+    "tables[0].rows[6].values.totalCost",
+    "tables[0].rows[7].values.totalCost",
+    "tables[0].rows[8].values.totalCost",
+    "tables[0].rows[9].values.totalCost",
+    "tables[0].rows[11].values.totalCost",
+    "tables[0].rows[12].values.totalCost",
+    "tables[0].rows[13].values.totalCost",
+    "tables[0].rows[14].values.totalCost",
+    "tables[0].rows[16].values.totalCost",
+    "tables[0].rows[17].values.totalCost",
+    "tables[0].rows[19].values.totalCost",
+    "tables[0].rows[20].values.totalCost",
+    "tables[0].rows[21].values.totalCost",
+    "tables[0].rows[22].values.totalCost",
+    "tables[0].rows[23].values.totalCost",
+    "tables[0].rows[24].values.totalCost",
+    "tables[0].rows[26].values.totalCost",
+    "tables[0].rows[27].values.totalCost",
+    "tables[0].rows[28].values.totalCost",
+    "tables[0].rows[29].values.totalCost",
+    "tables[0].rows[31].values.totalCost",
+    "tables[0].rows[32].values.totalCost",
+    "tables[0].rows[33].values.totalCost",
+    "tables[0].rows[34].values.totalCost",
+    "tables[0].rows[42].values.totalCost",
+    "tables[0].rows[43].values.totalCost",
+    "tables[0].rows[44].values.totalCost",
+    "tables[0].rows[56].values.totalCost",
+    "tables[0].rows[57].values.totalCost"
+  ]
+}
