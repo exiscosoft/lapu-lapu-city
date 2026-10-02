@@ -8,8 +8,8 @@ const Home: React.FC = () => {
     <>
       <SEO
         title="Home"
-        description="Official website of your local government. Access government services, information, and resources."
-        keywords="government, local government, services, public services, civic services"
+        description="BetterLapuLapu is a community-powered portal for Lapu-Lapu City, Cebu. Find city services, government offices, officials, and public reports in one place."
+        keywords="Lapu-Lapu City, Cebu, local government, city services, public services, BetterLapuLapu"
       />
       <main className="flex-grow">
         <Hero />

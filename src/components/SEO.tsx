@@ -17,12 +17,14 @@ export default function SEO({
   image,
   url,
   type = 'website',
-  siteName = import.meta.env.VITE_GOVERNMENT_NAME || 'Local Government Website',
+  siteName = 'BetterLapuLapu',
 }: SEOProps) {
-  const defaultTitle = `${siteName} - Official Government Website`;
+  const governmentName =
+    import.meta.env.VITE_GOVERNMENT_NAME || 'Lapu-Lapu City';
+  const defaultTitle = `${siteName} | Community Portal of ${governmentName}`;
   const defaultDescription =
     import.meta.env.VITE_SITE_DESCRIPTION ||
-    `Official website of ${siteName}. Access government services, information, and resources.`;
+    `${siteName} is a community-powered portal for ${governmentName}. Find city services, government offices, officials, and public reports in one place.`;
   const defaultKeywords =
     import.meta.env.VITE_SITE_KEYWORDS ||
     'government, local government, services, public services, civic services';
