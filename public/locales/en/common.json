@@ -6,7 +6,9 @@
     "subtitle": "A community-run portal to find information of the Lapu Lapu City Government",
     "nationalId": "National ID",
     "birthCertificate": "Birth Certificate",
-    "businessRegistration": "Business Registration"
+    "businessRegistration": "Business Registration",
+    "searchLabel": "Search",
+    "searchPlaceholder": "e.g. business permit, birth certificate"
   },
   "services": {
     "title": "Services & Information",

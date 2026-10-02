@@ -1,5 +1,7 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, type FormEvent } from 'react';
 import { useTranslation } from 'react-i18next';
+import { useNavigate } from 'react-router-dom';
+import { Search } from 'lucide-react';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
 import HeroIllustration from './HeroIllustration';
@@ -12,6 +14,7 @@ const FEET_CLEARANCE = 0.1;
 
 export default function Hero() {
   const { t } = useTranslation();
+  const navigate = useNavigate();
   const heroRef = useRef<HTMLDivElement>(null);
   const artRef = useRef<SVGSVGElement>(null);
   const sunRef = useRef<SVGGElement>(null);
@@ -49,6 +52,15 @@ export default function Hero() {
     };
   }, []);
 
+  // The search page reads the query from ?q= and loads the results itself.
+  const handleSearch = (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    const query = String(new FormData(e.currentTarget).get('q') ?? '').trim();
+    navigate(
+      query ? `/search?${new URLSearchParams({ q: query })}` : '/search'
+    );
+  };
+
   return (
     <div
       ref={heroRef}
@@ -75,6 +87,31 @@ export default function Hero() {
             <Text transform="uppercase">Welcome to</Text>
             <Heading>{import.meta.env.VITE_GOVERNMENT_NAME}</Heading>
             <Text>{t('hero.subtitle')}</Text>
+
+            <form role="search" className="mt-8" onSubmit={handleSearch}>
+              <label
+                htmlFor="hero-search"
+                className="block mb-3 text-xl font-bold"
+              >
+                {t('hero.searchLabel')}
+              </label>
+              <div className="flex focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-white">
+                <input
+                  id="hero-search"
+                  name="q"
+                  type="search"
+                  placeholder={t('hero.searchPlaceholder')}
+                  className="min-w-0 flex-1 h-14 px-4 bg-white text-gray-900 placeholder:text-gray-500 focus:outline-none"
+                />
+                <button
+                  type="submit"
+                  aria-label={t('hero.searchLabel')}
+                  className="flex h-14 w-16 shrink-0 items-center justify-center bg-primary-50 text-primary-600 transition-colors hover:bg-primary-100 focus:outline-none focus-visible:bg-primary-100"
+                >
+                  <Search className="h-6 w-6" strokeWidth={2.5} />
+                </button>
+              </div>
+            </form>
           </div>
         </div>
       </div>
