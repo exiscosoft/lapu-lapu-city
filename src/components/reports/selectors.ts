@@ -1,14 +1,18 @@
 import type { DocRef, SreEntry, Values } from '../../types/fdp';
 import { isNumber } from '../../lib/format';
 
-/** Total of an SRE line: the printed total, else the sum of the fund columns. */
+/**
+ * Total of an SRE line across the General Fund and SEF. Some statements (2022)
+ * add Trust Fund columns to their total; leaving them out keeps every year
+ * comparable. Falls back to the printed total when the fund split is missing.
+ */
 export function lineTotal(values: Values | undefined): number | null {
   if (!values) return null;
-  if (isNumber(values.total)) return values.total;
-  const funds = ['generalFund', 'sef', 'trustFund']
-    .map(k => values[k])
-    .filter(isNumber);
-  return funds.length ? funds.reduce((a, b) => a + b, 0) : null;
+  const hasTrust = 'trustFund' in values || 'trustLiability' in values;
+  if (!hasTrust && isNumber(values.total)) return values.total;
+  const funds = ['generalFund', 'sef'].map(k => values[k]).filter(isNumber);
+  if (funds.length) return funds.reduce((a, b) => a + b, 0);
+  return isNumber(values.total) ? values.total : null;
 }
 
 export function sreTotal(entry: SreEntry | undefined, key: string) {
@@ -54,13 +58,15 @@ export function partialLabel(entry: { quarter: number | null } | undefined) {
 }
 
 export function sourcesOf(entries: DocRef[]) {
-  return entries.map(e => ({
-    id: e.id,
-    title: e.title,
-    year: e.year,
-    quarter: e.quarter,
-    sourceUrl: e.sourceUrl,
-  }));
+  return entries.flatMap(e =>
+    (e.parts ?? [e]).map(p => ({
+      id: p.id,
+      title: p.title,
+      year: e.year,
+      quarter: e.quarter,
+      sourceUrl: p.sourceUrl,
+    }))
+  );
 }
 
 export function sum(values: (number | null | undefined)[]) {

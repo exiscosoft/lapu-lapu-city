@@ -7204,7 +7204,7 @@
             "endUser": "SRCH",
             "earlyProcurement": "NO",
             "mode": "CB / SVP 53.9",
-            "schedule": "January - October 2025",
+            "schedule": "January - October 2026",
             "fundSource": "General Fund",
             "total": 4717133.5,
             "mooe": 4717133.5,
@@ -11513,7 +11513,8 @@
     "Offices whose transcribed items still do NOT add up to the printed summary-page total (some item amount is likely mis-read, but the cell could not be identified at this resolution): CHO items 43,748,096.81 vs printed 43,741,356.81; CSWDO 156,158,660.00 vs 156,558,660.00; City Tourism Office 31,930,000.00 vs 30,430,000.00; Hoops Dome 9,385,000.00 vs 9,399,000.00; LLCH 129,136,251.50 vs 128,956,251.50; Manpower Services (MHTDC) 4,799,900.00 vs 4,791,900.00; SRCH 26,616,356.10 vs 24,625,756.10; Various Offices 55,876,507.02 vs 55,880,817.02. Treat item amounts for these offices with caution.",
     "DEP-ED: the summary page prints 228,086,558.44 but the DEP-ED items on pages 20-23 (all SEF-funded) total only 108,810,799.24, a gap of 119,275,759.20 that cannot be a misread; the summary figure apparently includes items not listed in this plan.",
     "The item list contains apparent duplicate entries printed twice by the source: MHTDC Olango equipment (steam press, air-conditioning units, button sew/hole machines, overlock machines, sewing machines) appears on page 17 and again on page 19 (page 17 lists the steam press under LLCH and the button machine as 'Button Hole'; page 19 lists it under MHTDC and as 'Button Sole' at 105,000.00); several DEP-ED SEF items appear twice on pages 21-22 with different amounts. All are transcribed as printed.",
-    "The summary page table is printed skewed; department names, heads and amounts were matched by following the tilted row lines. The page-1 mapping of heads is as printed (e.g. BAC head 'Ronaldo D. Malacora')."
+    "The summary page table is printed skewed; department names, heads and amounts were matched by following the tilted row lines. The page-1 mapping of heads is as printed (e.g. BAC head 'Ronaldo D. Malacora').",
+    "SRCH \"DRUGS AND MEDICINES SUPPLIES\" (page 15) also prints its schedule as \"January - October 2026\" (verified at 500% zoom in an independent audit), in addition to the four page-20 SRCH rows noted above."
   ],
   "unreadable": []
 }

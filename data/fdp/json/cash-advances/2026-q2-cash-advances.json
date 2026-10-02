@@ -1,0 +1,511 @@
+{
+  "id": "2026-q2-cash-advances",
+  "type": "cash-advances",
+  "title": "Unliquidated Cash Advances",
+  "form": "FDP Form 12 - Unliquidated Cash Advances",
+  "period": {
+    "year": 2026,
+    "quarter": 2,
+    "asOf": "2026-06-30",
+    "printed": "Calendar Year: 2026, Quarter: 2",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Unliquidated Cash Advances",
+      "columns": [
+        {
+          "key": "name",
+          "label": "Name of Debtor (in alphabetical order)",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount Balance",
+          "type": "amount"
+        },
+        {
+          "key": "dateGranted",
+          "label": "Date Granted",
+          "type": "text"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "lt30",
+          "label": "Less than 30 days",
+          "type": "amount"
+        },
+        {
+          "key": "d31to90",
+          "label": "31-90 days",
+          "type": "amount"
+        },
+        {
+          "key": "d91to365",
+          "label": "91-365 days",
+          "type": "amount"
+        },
+        {
+          "key": "over1y",
+          "label": "Over 1 year",
+          "type": "amount"
+        },
+        {
+          "key": "over2y",
+          "label": "Over 2 years",
+          "type": "amount"
+        },
+        {
+          "key": "over3y",
+          "label": "3 years and above",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Abalos, Junard",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abalos, Junard",
+            "amount": 4234.28,
+            "dateGranted": "May-2?",
+            "purpose": "Travel",
+            "d91to365": 4234.28
+          }
+        },
+        {
+          "label": "Abugan, Cleto",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abugan, Cleto",
+            "amount": 8376,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 8376
+          }
+        },
+        {
+          "label": "Arong, Imelda",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Arong, Imelda",
+            "amount": 2491.5,
+            "dateGranted": "Apr-2?",
+            "purpose": "Travel",
+            "d31to90": 2491.5
+          }
+        },
+        {
+          "label": "Avila, Clifford.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Avila, Clifford.",
+            "amount": 1600.23,
+            "dateGranted": "Jun-2?",
+            "purpose": "Travel",
+            "d31to90": 1600.23
+          }
+        },
+        {
+          "label": "Bagano, Merlo",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Bagano, Merlo",
+            "amount": 2176.89,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 2176.89
+          }
+        },
+        {
+          "label": "Berdon, Ramon A.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Berdon, Ramon A.",
+            "amount": 22300,
+            "dateGranted": "May-2?",
+            "purpose": "Travel",
+            "d31to90": 22300
+          }
+        },
+        {
+          "label": "Dayag. Emerson",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Dayag. Emerson",
+            "amount": 16642.01,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 16642.01,
+            "d91to365": 0
+          }
+        },
+        {
+          "label": "Del Fierro, Antonio",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Del Fierro, Antonio",
+            "amount": 1177,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 1177
+          }
+        },
+        {
+          "label": "Espedidi, Mario s.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Espedidi, Mario s.",
+            "amount": 2715.09,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 2715.09
+          }
+        },
+        {
+          "label": "Gacrama, Marlon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Gacrama, Marlon",
+            "amount": 3470,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 3470
+          }
+        },
+        {
+          "label": "Gako, Ireneo",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Gako, Ireneo",
+            "amount": 3996,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 3996
+          }
+        },
+        {
+          "label": "Gato, Juan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Gato, Juan",
+            "amount": 1900,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 1900
+          }
+        },
+        {
+          "label": "Javier, Rommel",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Javier, Rommel",
+            "amount": 1950,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 1950
+          }
+        },
+        {
+          "label": "Ladaga, Catherine G.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Ladaga, Catherine G.",
+            "amount": 18016.4,
+            "dateGranted": "Apr-2?",
+            "purpose": "Travel",
+            "d31to90": 18016.4
+          }
+        },
+        {
+          "label": "Leyson, Rolando",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Leyson, Rolando",
+            "amount": 3199.28,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 3199.28
+          }
+        },
+        {
+          "label": "Magno, Nestor",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Magno, Nestor",
+            "amount": 571.73,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 571.73
+          }
+        },
+        {
+          "label": "Mangubat, Joreilyn D.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Mangubat, Joreilyn D.",
+            "amount": 28311.6,
+            "dateGranted": "Apr-2?",
+            "purpose": "Travel",
+            "d31to90": 28311.6
+          }
+        },
+        {
+          "label": "Pimentel, Basiliso",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Pimentel, Basiliso",
+            "amount": 7500.4,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 7500.4
+          }
+        },
+        {
+          "label": "Roble, Paz",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Roble, Paz",
+            "amount": 1730,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 1730
+          }
+        },
+        {
+          "label": "Rostata, Domingo",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Rostata, Domingo",
+            "amount": 9500,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 9500,
+            "d91to365": 0
+          }
+        },
+        {
+          "label": "Sayson< James Allan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sayson< James Allan",
+            "amount": 154286.71,
+            "dateGranted": "Feb-2?",
+            "purpose": "Travel",
+            "d31to90": 154286.71
+          }
+        },
+        {
+          "label": "Sevilla, Maricon G.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sevilla, Maricon G.",
+            "amount": 17300,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "over3y": 17300
+          }
+        },
+        {
+          "label": "Silawan, Cesar B.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Silawan, Cesar B.",
+            "amount": 21000,
+            "dateGranted": "Sep-19",
+            "purpose": "Travel",
+            "over3y": 21000
+          }
+        },
+        {
+          "label": "Sumalinog, Kimberly Ann",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sumalinog, Kimberly Ann",
+            "amount": 2233,
+            "dateGranted": "Apr-2?",
+            "purpose": "Travel",
+            "d31to90": 2233
+          }
+        },
+        {
+          "label": "Tahadlangit, Jasper",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Tahadlangit, Jasper",
+            "amount": 15550.4,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 15550.4
+          }
+        },
+        {
+          "label": "Tampus, Antonio",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Tampus, Antonio",
+            "amount": 4304.67,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 4304.67
+          }
+        },
+        {
+          "label": "Tampus, Cyril",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Tampus, Cyril",
+            "amount": 24040,
+            "dateGranted": "May-2?",
+            "purpose": "Travel",
+            "d31to90": 24040
+          }
+        },
+        {
+          "label": "Torre, Crisostomo Jr.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Torre, Crisostomo Jr.",
+            "amount": 24040,
+            "dateGranted": "Jul-2?",
+            "purpose": "Travel",
+            "d31to90": 24040
+          }
+        },
+        {
+          "label": "Vertudazo, Evangeline",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Vertudazo, Evangeline",
+            "amount": 20180,
+            "dateGranted": "Mar-2?",
+            "purpose": "Travel",
+            "d31to90": 20180
+          }
+        },
+        {
+          "label": "Vidal, Willand",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Vidal, Willand",
+            "amount": 5050,
+            "dateGranted": "Jan-2?",
+            "purpose": "Travel",
+            "d31to90": 5050
+          }
+        },
+        {
+          "label": "Yrastorza, Raphael, Sr.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Yrastorza, Raphael, Sr.",
+            "amount": 10880,
+            "dateGranted": "Sep-2?",
+            "purpose": "Travel",
+            "d31to90": 10880
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 440723.19,
+            "lt30": 0,
+            "d31to90": 398188.91,
+            "d91to365": 4234.28,
+            "over1y": 0,
+            "over2y": 0,
+            "over3y": 38300
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": 440723.19,
+    "count": 31
+  },
+  "notes": [
+    "A vertical scan streak runs through the last digit of every Date Granted on both pages, so the year is recorded as \"2?\" where that digit is cut (e.g. \"Jan-2?\"). For most rows the remnant looks like the \"6\" of 2026 (the Q1 2026 report dates the same debtors Jan-26/Feb-26/Mar-26), but the remnants for \"Abalos, Junard\" (May) and \"Torre, Crisostomo Jr.\" (Jul) are shaped differently (possibly 2025). Dates were not guessed; the paths are listed in unreadable.",
+    "Each item row has its balance repeated in one aging column (two rows also show a stray \"-\" under 91-365 days, kept as 0). A row on page 2 below \"Yrastorza, Raphael, Sr.\" shows only \"-\" in Amount Balance and \"Travel\" and is not transcribed. All column totals equal the sum of the rows. Certification names marked SIGNED by hand.",
+    "As in Q1 2026, very old balances from the 2019-2020 reports (e.g. Abugan, Cleto 8,376.00; Gako, Ireneo 3,996.00; Gato, Juan 1,900.00; Javier, Rommel 1,950.00; Roble, Paz 1,730.00) now carry recent dates and sit under \"31-90 days\"."
+  ],
+  "unreadable": [
+    "tables[0].rows[0].values.dateGranted",
+    "tables[0].rows[1].values.dateGranted",
+    "tables[0].rows[2].values.dateGranted",
+    "tables[0].rows[3].values.dateGranted",
+    "tables[0].rows[4].values.dateGranted",
+    "tables[0].rows[5].values.dateGranted",
+    "tables[0].rows[6].values.dateGranted",
+    "tables[0].rows[7].values.dateGranted",
+    "tables[0].rows[8].values.dateGranted",
+    "tables[0].rows[9].values.dateGranted",
+    "tables[0].rows[10].values.dateGranted",
+    "tables[0].rows[11].values.dateGranted",
+    "tables[0].rows[12].values.dateGranted",
+    "tables[0].rows[13].values.dateGranted",
+    "tables[0].rows[14].values.dateGranted",
+    "tables[0].rows[15].values.dateGranted",
+    "tables[0].rows[16].values.dateGranted",
+    "tables[0].rows[17].values.dateGranted",
+    "tables[0].rows[18].values.dateGranted",
+    "tables[0].rows[19].values.dateGranted",
+    "tables[0].rows[20].values.dateGranted",
+    "tables[0].rows[23].values.dateGranted",
+    "tables[0].rows[24].values.dateGranted",
+    "tables[0].rows[25].values.dateGranted",
+    "tables[0].rows[26].values.dateGranted",
+    "tables[0].rows[27].values.dateGranted",
+    "tables[0].rows[28].values.dateGranted",
+    "tables[0].rows[29].values.dateGranted",
+    "tables[0].rows[30].values.dateGranted"
+  ]
+}

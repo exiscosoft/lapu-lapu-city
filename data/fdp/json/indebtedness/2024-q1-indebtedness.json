@@ -1,0 +1,401 @@
+{
+  "id": "2024-q1-indebtedness",
+  "type": "indebtedness",
+  "title": "Statement of Indebtedness, Payments and Balances (SIPB)",
+  "form": "FDPP Form 2 - Statement of Indebtedness, Payments and Balances (DOF-BLGF Memorandum Circular No. 005-2018 dated January 22, 2018, Annex E)",
+  "period": {
+    "year": 2024,
+    "quarter": 1,
+    "asOf": "2024-03-31",
+    "printed": "CALENDAR YEAR: 2024, QUARTER: Q1",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Maria Melve B. Flores",
+      "position": "LO IV"
+    },
+    {
+      "name": "Claire V. Cabalda, MPA, REB",
+      "position": "Acting City Treasurer"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Statement of Indebtedness, Payments and Balances (SIPB)",
+      "columns": [
+        {
+          "key": "value",
+          "label": "Details",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "key": "incomeClass",
+          "no": 1,
+          "label": "LGU Income Classification",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "1st Class"
+          }
+        },
+        {
+          "key": "reportDate",
+          "no": 2,
+          "label": "Date of Report",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "2024-04-05"
+          }
+        },
+        {
+          "key": "lender",
+          "no": 3,
+          "label": "Lending Institution (Bank or Creditor)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "NATIONAL HOUSING AUTHORITY"
+          }
+        },
+        {
+          "key": "certificateNumber",
+          "no": 4,
+          "label": "Certificate Number - NDSC/BC",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": null
+          }
+        },
+        {
+          "key": "certificationDate",
+          "no": 5,
+          "label": "Date of Certification - NDSC/BC",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": null
+          }
+        },
+        {
+          "key": "mbResolutionNumber",
+          "no": 6,
+          "label": "Monetary Board (MB) Resolution Number",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": null
+          }
+        },
+        {
+          "key": "mbOpinionDate",
+          "no": 7,
+          "label": "Date of MB Opinion",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": null
+          }
+        },
+        {
+          "key": "approvalDate",
+          "no": 8,
+          "label": "Date of Approval Loan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "2020-02-12"
+          }
+        },
+        {
+          "key": "amountApproved",
+          "no": 9,
+          "label": "Amount Approved*",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 2761537.56
+          }
+        },
+        {
+          "key": "maturityDate",
+          "no": 10,
+          "label": "Maturity Date",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "2026-12-31"
+          }
+        },
+        {
+          "key": "instrumentType",
+          "no": 11,
+          "label": "Type of Indebtedness Instrument (Loan, Bond or other form of indebtedness)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "Socialized Housing Loan"
+          }
+        },
+        {
+          "key": "purpose",
+          "no": 12,
+          "label": "Purpose of Indebtedness",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "Acquisition of Basak, Sudtonggan Resettlement Project"
+          }
+        },
+        {
+          "key": "rateType",
+          "no": 13,
+          "label": "Terms and Conditions: Fixed or Variable",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "Fixed"
+          }
+        },
+        {
+          "key": "termYears",
+          "no": 14,
+          "label": "Terms and Conditions: No. of Years of Indebtedness",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "6 years"
+          }
+        },
+        {
+          "key": "interestRate",
+          "no": 15,
+          "label": "Terms and Conditions: Interest Rate",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "Interest Free"
+          }
+        },
+        {
+          "key": "gracePeriod",
+          "no": 16,
+          "label": "Terms and Conditions: Grace Period (Number of Months or Years)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "One (1) year"
+          }
+        },
+        {
+          "key": "paymentFrequency",
+          "no": 17,
+          "label": "Frequency of Payment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "Quarterly"
+          }
+        },
+        {
+          "key": "annualPrincipal",
+          "no": 18,
+          "label": "Annual Amortization: Principal",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 460256.28
+          }
+        },
+        {
+          "key": "annualInterest",
+          "no": 19,
+          "label": "Annual Amortization: Interest",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "annualGrt",
+          "no": 20,
+          "label": "Annual Amortization: Gross Receipt Tax (GRT)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "paymentStartDate",
+          "no": 21,
+          "label": "Starting Date of Payment",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "2021-03-09"
+          }
+        },
+        {
+          "key": "cumulativePrincipal",
+          "no": 22,
+          "label": "Cumulative Payment from Starting Date: Principal",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 1495832.91
+          }
+        },
+        {
+          "key": "cumulativeInterest",
+          "no": 23,
+          "label": "Cumulative Payment from Starting Date: Interest",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "cumulativeGrt",
+          "no": 24,
+          "label": "Cumulative Payment from Starting Date: GRT",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "amountReleased",
+          "no": 25,
+          "label": "Total Amount Released (Availment as of date)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 2761537.56
+          }
+        },
+        {
+          "key": "undrawnBalance",
+          "no": 26,
+          "label": "Remaining Balance to Date / Undrawn Amount (Line 9-25=26)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "outstanding",
+          "no": 27,
+          "label": "Outstanding Loan Balance After Principal Payment (Line 9-22=27)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 1265704.65
+          }
+        },
+        {
+          "key": "arrearsPrincipal",
+          "no": 28,
+          "label": "Arrears: Principal (if any)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "arrearsInterest",
+          "no": 29,
+          "label": "Arrears: Interest (if any)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": 0
+          }
+        },
+        {
+          "key": "collateral",
+          "no": 30,
+          "label": "Collateral Security",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "NONE"
+          }
+        },
+        {
+          "key": "sinkingFundDeposit",
+          "no": 31,
+          "label": "Deposit to Bond Sinking Fund for the Year",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "N/A"
+          }
+        },
+        {
+          "key": "sinkingFundBalance",
+          "no": 32,
+          "label": "Sinking Fund Balance to Date, if any",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "N/A"
+          }
+        },
+        {
+          "key": "feesBreakdown",
+          "no": 33,
+          "label": "Breakdown of Fees and Other Related Costs (of loan)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "NONE"
+          }
+        },
+        {
+          "key": "otherTerms",
+          "no": 34,
+          "label": "Other Relevant Terms and Conditions (of loan)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "value": "NONE"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "loans": [
+      {
+        "lender": "National Housing Authority",
+        "purpose": "Acquisition of Basak, Sudtonggan Resettlement Project",
+        "principal": 2761537.56,
+        "interestRate": 0,
+        "dateContracted": "2020-02-12",
+        "term": 6,
+        "paidPrincipal": 1495832.91,
+        "paidInterest": 0,
+        "outstanding": 1265704.65
+      }
+    ],
+    "totalOutstanding": 1265704.65
+  },
+  "notes": [
+    "SIPB form transcribed as label/value pairs (table \"main\", column \"value\"); \"no\" on each row is the printed item number. Amount lines that print \"NONE\", \"0\" or a dash are recorded as 0; \"N.A.\" and the text lines are kept as printed; blank lines are null.",
+    "Item 15 prints \"Interest Free\"; summary.loans[0].interestRate is 0 on that basis. Item 14 \"6 years\" is summary term 6. dateContracted is the printed Date of Approval (item 8).",
+    "Arithmetic checks: Amount Approved 2,761,537.56 - cumulative principal paid 1,495,832.91 = printed outstanding 1,265,704.65.",
+    "Items 19, 23 and 26 print \"------\" (recorded as 0)."
+  ],
+  "unreadable": []
+}

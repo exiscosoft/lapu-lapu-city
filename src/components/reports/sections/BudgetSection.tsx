@@ -35,6 +35,23 @@ import { sourcesOf, sum } from '../selectors';
 
 type OfficeRow = BudgetOffice & { docId: string };
 
+/**
+ * Chart label: the most specific part of a long budget name, e.g.
+ * "OFFICE OF THE CITY SOCIAL WELFARE ... - SPECIAL PURPOSE APPROPRIATION -
+ * Senior Citizens" → "Senior Citizens (SPA)". Tables keep the full name.
+ */
+function shortOfficeName(name: string) {
+  const parts = name.split(/\s+-\s*/).filter(Boolean);
+  const isSpa = parts.some(p => /special purpose appropriation/i.test(p));
+  const specific = parts.filter(
+    p => !/special purpose appropriation|sector$/i.test(p.trim())
+  );
+  const base =
+    specific.length > 1 ? specific[specific.length - 1] : specific[0] || name;
+  const short = isSpa ? `${base} (SPA)` : base;
+  return short.length > 40 ? `${short.slice(0, 38)}…` : short;
+}
+
 export default function BudgetSection({
   entries,
   catalog,
@@ -48,9 +65,30 @@ export default function BudgetSection({
   const docs = entries.filter(
     e => e.year === year && e.type === 'annual-budget'
   );
-  const offices: OfficeRow[] = docs.flatMap(d =>
-    d.offices.map(o => ({ ...o, docId: d.id }))
-  );
+  // An office that spans two posted parts (e.g. the 2025 Development
+  // Project, or the City College) is summarised partly in each: merge the
+  // parts field by field so it is counted once and in full.
+  const offices: OfficeRow[] = [
+    ...docs
+      .flatMap(d => d.offices.map(o => ({ ...o, docId: d.id })))
+      .reduce((byKey, o) => {
+        const prev = byKey.get(o.key);
+        byKey.set(
+          o.key,
+          prev
+            ? {
+                ...prev,
+                ps: prev.ps ?? o.ps,
+                mooe: prev.mooe ?? o.mooe,
+                capitalOutlay: prev.capitalOutlay ?? o.capitalOutlay,
+                total: prev.total ?? o.total,
+              }
+            : o
+        );
+        return byKey;
+      }, new Map<string, OfficeRow>())
+      .values(),
+  ];
   const total = sum(offices.map(o => o.total));
   const ps = sum(offices.map(o => o.ps));
   const mooe = sum(offices.map(o => o.mooe));
@@ -59,7 +97,7 @@ export default function BudgetSection({
     .sort((a, b) => (b.total ?? 0) - (a.total ?? 0))
     .slice(0, 15)
     .map(o => ({
-      name: o.office,
+      name: shortOfficeName(o.office),
       ps: o.ps ?? 0,
       mooe: o.mooe ?? 0,
       capitalOutlay: o.capitalOutlay ?? 0,
@@ -67,7 +105,7 @@ export default function BudgetSection({
   const tree = offices
     .filter(o => (o.total ?? 0) > 0)
     .map((o, i) => ({
-      name: o.office,
+      name: shortOfficeName(o.office),
       size: o.total ?? 0,
       fill: SERIES[i % SERIES.length],
     }));
@@ -135,7 +173,7 @@ export default function BudgetSection({
           <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
             <ChartCard
               title="Largest office budgets"
-              description="Split into personnel, maintenance and other operating expenses (MOOE), and capital outlay."
+              description="Split into personnel, maintenance and other operating expenses (MOOE), and capital outlay. SPA = special purpose appropriation."
               sources={sourcesOf(docs)}
             >
               <div className="h-[28rem]">
@@ -154,11 +192,8 @@ export default function BudgetSection({
                     <YAxis
                       type="category"
                       dataKey="name"
-                      width={160}
+                      width={180}
                       {...axisProps}
-                      tickFormatter={(v: string) =>
-                        v.length > 26 ? `${v.slice(0, 24)}…` : v
-                      }
                     />
                     <Tooltip formatter={tooltipPeso} />
                     <Legend wrapperStyle={{ fontSize: 12 }} />

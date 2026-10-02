@@ -1,0 +1,6886 @@
+{
+  "id": "2026-annual-annual-budget-part-3",
+  "type": "annual-budget",
+  "title": "PDF FORM 1a - Annual Budget Report, by office of Department",
+  "form": "Local Budget Preparation Form No. 2 (DBM Local Budget Memorandum No. 87 dated June 9, 2023, LBP Form No. 2)",
+  "period": {
+    "year": 2026,
+    "quarter": null,
+    "asOf": null,
+    "printed": "Calendar Year 2026",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Atty. Virgie Lynn O. Pelayo",
+      "position": "Acting Register of Deeds (Prepared by)"
+    },
+    {
+      "name": "PCOL Dyan V. Agustin",
+      "position": "OIC - LCPO (Prepared by)"
+    },
+    {
+      "name": "Reynaldo A. Cortes",
+      "position": "Chairman, PLEB (Prepared by)"
+    },
+    {
+      "name": "FSUPT Arnel S. Abella",
+      "position": "District Fire Marshall (Prepared by)"
+    },
+    {
+      "name": "Marilyn S. Andales",
+      "position": "Schools Division Superintendent (Prepared by)"
+    },
+    {
+      "name": "Dr. Ma. Noeleen M. Borbajo",
+      "position": "College President (Prepared by)"
+    },
+    {
+      "name": "Agnes Cecile B. Realiza, M.D.",
+      "position": "City Health Officer (Prepared by)"
+    },
+    {
+      "name": "Kim R. Francisco",
+      "position": "CGADH II (Prepared by, PESO and Local Economic Development & Promotion Office)"
+    },
+    {
+      "name": "Maria Sheila Baylosis",
+      "position": "OIC - Designate (Prepared by, City Social Welfare and Development Center)"
+    },
+    {
+      "name": "Janice Diaz Togonon, DVM",
+      "position": "CGDH II (City Veterinarian) (Prepared by)"
+    },
+    {
+      "name": "Jocelyn M. Abayan",
+      "position": "CENRO - OIC (Prepared by)"
+    },
+    {
+      "name": "Perla T. Amar",
+      "position": "CGDH II (Prepared by, City Engineer)"
+    },
+    {
+      "name": "Garry B. Lao",
+      "position": "City Tourism Officer - Designate (Prepared by)"
+    },
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Hon. Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor (Approved)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "office-of-the-register-of-deeds",
+      "title": "Office of the Register of Deeds",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1161-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 3000,
+            "currentTotal": 3000,
+            "budgetYear": 5000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services - Register of Deeds",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 72000,
+            "currentSem1": 36000,
+            "currentSem2": 36000,
+            "currentTotal": 72000,
+            "budgetYear": 72000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 72000,
+            "currentSem1": 36000,
+            "currentSem2": 39000,
+            "currentTotal": 75000,
+            "budgetYear": 77000
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-police",
+      "title": "Office of the Police",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Military, Police and Traffic Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-5-02-03-120",
+            "pastYear": 981480.5,
+            "currentSem1": 44997,
+            "currentSem2": 955003,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Rice Subsidy for Persons Under Police Custody (PUPC)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-050",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 180000,
+            "currentTotal": 180000,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 19884.85,
+            "currentSem1": null,
+            "currentSem2": 20000,
+            "currentTotal": 20000,
+            "budgetYear": 20000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses - IEC Materials (GAD)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 199728.34,
+            "currentSem1": null,
+            "currentSem2": 200000,
+            "currentTotal": 200000,
+            "budgetYear": 200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Two Hundred (200) Units Push-to-talk over Cellular (POC) Radios Android 8.0 with 1 year Load Data for POPS",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 2500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Purchase of One (1) Unit Chemical Cabinet/Steel Cabinet - Forensic Unit",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 29500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 8162500,
+            "currentSem1": 8769000,
+            "currentSem2": 13055000,
+            "currentTotal": 21824000,
+            "budgetYear": 21824000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services- PNP Personnel assigned to Airport",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": null,
+            "currentSem1": 698000,
+            "currentSem2": 742000,
+            "currentTotal": 1440000,
+            "budgetYear": 1440000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 9393093.69,
+            "currentSem1": 9511997,
+            "currentSem2": 15152003,
+            "currentTotal": 24664000,
+            "budgetYear": 27284000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Installation of LCPO Custodial Watch Tower",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-1-07-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Purchase of One (1) Set Base Radio & Five (5) Units Hand Held Radios",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-070",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 600000,
+            "currentTotal": 600000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 9393093.69,
+            "currentSem1": 9511997,
+            "currentSem2": 15752003,
+            "currentTotal": 25264000,
+            "budgetYear": 27284000
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-police-programs",
+      "title": "Office of the Police - Programs (2024 Past Year Actual) and Grand Total",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "TOTAL (Office of the Police, page 137, repeated for the Grand Total)",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "office",
+          "values": {
+            "pastYear": 9393093.69,
+            "currentSem1": 9511997,
+            "currentSem2": 15752003,
+            "currentTotal": 25264000,
+            "budgetYear": 27284000
+          }
+        },
+        {
+          "label": "Crime Prevention Program",
+          "level": 0,
+          "kind": "header",
+          "section": "crimePrevention",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "crimePrevention",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-1-5-02-11-990",
+            "pastYear": 7091000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "crimePrevention"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "crimePrevention",
+          "values": {
+            "pastYear": 7091000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Law Enforcement Program",
+          "level": 0,
+          "kind": "header",
+          "section": "lawEnforcement",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "lawEnforcement",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-2-5-02-11-990",
+            "pastYear": 73000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "lawEnforcement"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "lawEnforcement",
+          "values": {
+            "pastYear": 73000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Internal Security Program",
+          "level": 0,
+          "kind": "header",
+          "section": "internalSecurity",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "internalSecurity",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-3-5-02-11-990",
+            "pastYear": 734500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "internalSecurity"
+        },
+        {
+          "label": "Other Professional Services- PNP Personnel Assigned to Airport",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 1426500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "internalSecurity"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "internalSecurity",
+          "values": {
+            "pastYear": 2161000,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Counter Terrorism Program",
+          "level": 0,
+          "kind": "header",
+          "section": "counterTerrorism",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "counterTerrorism",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-4-5-02-11-990",
+            "pastYear": 318500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "counterTerrorism"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "counterTerrorism",
+          "values": {
+            "pastYear": 318500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Environmental Protection",
+          "level": 0,
+          "kind": "header",
+          "section": "environmentalProtection",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "environmentalProtection",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-5-5-02-11-990",
+            "pastYear": 1026500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "environmentalProtection"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "environmentalProtection",
+          "values": {
+            "pastYear": 1026500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Drug Affectation Program",
+          "level": 0,
+          "kind": "header",
+          "section": "drugAffectation",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "drugAffectation",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-6-5-02-11-990",
+            "pastYear": 1639500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "drugAffectation"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "drugAffectation",
+          "values": {
+            "pastYear": 1639500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Prosecution and Courts Program",
+          "level": 0,
+          "kind": "header",
+          "section": "prosecutionAndCourts",
+          "values": {}
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 1,
+          "kind": "header",
+          "section": "prosecutionAndCourts",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services- Police",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountCode": "1181-7-5-02-11-990",
+            "pastYear": 122500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "prosecutionAndCourts"
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "prosecutionAndCourts",
+          "values": {
+            "pastYear": 122500,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "Grand Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 21825093.69,
+            "currentSem1": 9511997,
+            "currentSem2": 15752003,
+            "currentTotal": 25264000,
+            "budgetYear": 27284000
+          }
+        }
+      ]
+    },
+    {
+      "key": "peoples-law-enforcement-board",
+      "title": "Peoples Law Enforcement Board",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1182-5-01-02-100",
+            "pastYear": 347800,
+            "currentSem1": 114400,
+            "currentSem2": 279200,
+            "currentTotal": 393600,
+            "budgetYear": 393600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 347800,
+            "currentSem1": 114400,
+            "currentSem2": 279200,
+            "currentTotal": 393600,
+            "budgetYear": 393600
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1182-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 5000,
+            "currentTotal": 5000,
+            "budgetYear": 5000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 5000,
+            "currentTotal": 5000,
+            "budgetYear": 5000
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 347800,
+            "currentSem1": 114400,
+            "currentSem2": 284200,
+            "currentTotal": 398600,
+            "budgetYear": 398600
+          }
+        }
+      ]
+    },
+    {
+      "key": "fire-and-safety-services",
+      "title": "Fire and Safety Services",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Maintenance & Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "1191-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 25000,
+            "currentTotal": 25000,
+            "budgetYear": 25000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Professional Services- Firemen",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-11-990",
+            "pastYear": 3240000,
+            "currentSem1": 1666000,
+            "currentSem2": 1694000,
+            "currentTotal": 3360000,
+            "budgetYear": 3552000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Fire Prevention Month Celebration",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 93737.5,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Fire Prevention Month Celebration & Other related Activities",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE-Fire Prevention Education Program",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 99440.82,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Oplan Iwas Paputok",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 29890.8,
+            "currentSem1": null,
+            "currentSem2": 30000,
+            "currentTotal": 30000,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 3463069.12,
+            "currentSem1": 1666000,
+            "currentSem2": 1949000,
+            "currentTotal": 3615000,
+            "budgetYear": 3907000
+          }
+        }
+      ]
+    },
+    {
+      "key": "department-of-education",
+      "title": "Department of Education",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "3311-5-01-01-010",
+            "pastYear": 3378599.76,
+            "currentSem1": 1273338,
+            "currentSem2": 6123978,
+            "currentTotal": 7397316,
+            "budgetYear": 7643124
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 328051.6,
+            "currentSem1": 120000,
+            "currentSem2": 672000,
+            "currentTotal": 792000,
+            "budgetYear": 792000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 105000,
+            "currentSem1": 70000,
+            "currentSem2": 161000,
+            "currentTotal": 231000,
+            "budgetYear": 231000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Subsistence Allowances",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-050",
+            "pastYear": 33100,
+            "currentSem1": 11375,
+            "currentSem2": 24625,
+            "currentTotal": 36000,
+            "budgetYear": 36000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Laundry Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-060",
+            "pastYear": 3600,
+            "currentSem1": 1200,
+            "currentSem2": 2400,
+            "currentTotal": 3600,
+            "budgetYear": 3600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Hazard Pay",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-110",
+            "pastYear": 119754,
+            "currentSem1": 39918,
+            "currentSem2": 79836,
+            "currentTotal": 119754,
+            "budgetYear": 119754
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 282046,
+            "currentSem1": null,
+            "currentSem2": 616443,
+            "currentTotal": 616443,
+            "budgetYear": 636927
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 65000,
+            "currentSem1": null,
+            "currentSem2": 165000,
+            "currentTotal": 165000,
+            "budgetYear": 165000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 301122,
+            "currentSem1": 212223,
+            "currentSem2": 404220,
+            "currentTotal": 616443,
+            "budgetYear": 636927
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 231000,
+            "currentTotal": 231000,
+            "budgetYear": 231000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 405431.92,
+            "currentSem1": 152800.56,
+            "currentSem2": 734877.44,
+            "currentTotal": 887678,
+            "budgetYear": 917175
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 31200,
+            "currentSem1": 12000,
+            "currentSem2": 67200,
+            "currentTotal": 79200,
+            "budgetYear": 79200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 77031.55,
+            "currentSem1": 31834.56,
+            "currentSem2": 153098.44,
+            "currentTotal": 184933,
+            "budgetYear": 191079
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 16300,
+            "currentSem1": 6000,
+            "currentSem2": 33600,
+            "currentTotal": 39600,
+            "budgetYear": 39600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 265000,
+            "currentSem1": null,
+            "currentSem2": 369866,
+            "currentTotal": 369866,
+            "budgetYear": 396859
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 85690.51,
+            "currentSem1": 54330.01,
+            "currentSem2": 242750.99,
+            "currentTotal": 297081,
+            "budgetYear": 306953
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 5496927.34,
+            "currentSem1": 1985019.13,
+            "currentSem2": 10081894.87,
+            "currentTotal": 12066914,
+            "budgetYear": 12426198
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Professional Services-Special Allowance to Dep Ed Personnel",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "3311-5-02-11-990",
+            "pastYear": 10572000,
+            "currentSem1": null,
+            "currentSem2": 11058000,
+            "currentTotal": 11058000,
+            "budgetYear": 11760000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 10572000,
+            "currentSem1": null,
+            "currentSem2": 11058000,
+            "currentTotal": 11058000,
+            "budgetYear": 11760000
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 16068927.34,
+            "currentSem1": 1985019.13,
+            "currentSem2": 21139894.87,
+            "currentTotal": 23124914,
+            "budgetYear": 24186198
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-lapu-lapu-city-college",
+      "title": "Office of Lapu-Lapu City College",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "3324-5-01-01-010",
+            "pastYear": 7863934.27,
+            "currentSem1": 4382807.15,
+            "currentSem2": 23369688.85,
+            "currentTotal": 27752496,
+            "budgetYear": 29064768
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 387870.94,
+            "currentSem1": 219354.83,
+            "currentSem2": 956645.17,
+            "currentTotal": 1176000,
+            "budgetYear": 1176000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 114000,
+            "currentSem1": 57000,
+            "currentSem2": 399000,
+            "currentTotal": 456000,
+            "budgetYear": 342000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 114000,
+            "currentSem1": 57000,
+            "currentSem2": 399000,
+            "currentTotal": 456000,
+            "budgetYear": 342000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 112000,
+            "currentSem1": 126000,
+            "currentSem2": 217000,
+            "currentTotal": 343000,
+            "budgetYear": 343000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Subsistence Allowances",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-050",
+            "pastYear": 17525,
+            "currentSem1": 7025,
+            "currentSem2": 10975,
+            "currentTotal": 18000,
+            "budgetYear": 18000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Laundry Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-060",
+            "pastYear": 1800,
+            "currentSem1": 750,
+            "currentSem2": 1050,
+            "currentTotal": 1800,
+            "budgetYear": 1800
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Hazard Pay",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-110",
+            "pastYear": 59877,
+            "currentSem1": 24948.75,
+            "currentSem2": 34925.25,
+            "currentTotal": 59874,
+            "budgetYear": 59877
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Honoraria",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": 19450936.74,
+            "currentSem1": 9067366.32,
+            "currentSem2": 932633.68,
+            "currentTotal": 10000000,
+            "budgetYear": 7860840
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 669471,
+            "currentSem1": null,
+            "currentSem2": 2312708,
+            "currentTotal": 2312708,
+            "budgetYear": 2422064
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 80000,
+            "currentSem1": null,
+            "currentSem2": 245000,
+            "currentTotal": 245000,
+            "budgetYear": 245000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 637494,
+            "currentSem1": 706369,
+            "currentSem2": 1606339,
+            "currentTotal": 2312708,
+            "budgetYear": 2422064
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 343000,
+            "currentTotal": 343000,
+            "budgetYear": 343000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 943672.08,
+            "currentSem1": 525936.86,
+            "currentSem2": 2804363.14,
+            "currentTotal": 3330300,
+            "budgetYear": 3487773
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 35100,
+            "currentSem1": 21400,
+            "currentSem2": 96200,
+            "currentTotal": 117600,
+            "budgetYear": 117600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 174683.93,
+            "currentSem1": 105373.18,
+            "currentSem2": 530817.82,
+            "currentTotal": 636191,
+            "budgetYear": 660835
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 19500,
+            "currentSem1": 10900,
+            "currentSem2": 47900,
+            "currentTotal": 58800,
+            "budgetYear": 58800
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 320000,
+            "currentSem1": null,
+            "currentSem2": 1387625,
+            "currentTotal": 1387625,
+            "budgetYear": 1453236
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 135370.99,
+            "currentSem1": 35041.39,
+            "currentSem2": 1079514.61,
+            "currentTotal": 1114556,
+            "budgetYear": 1167259
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 31137235.95,
+            "currentSem1": 15347272.48,
+            "currentSem2": 36774385.52,
+            "currentTotal": 52121658,
+            "budgetYear": 51585916
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "3324-5-02-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 11000,
+            "currentTotal": 11000,
+            "budgetYear": 11000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Traveling Expenses-Foreign",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-01-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 110000,
+            "currentTotal": 110000,
+            "budgetYear": 110000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 129412.81,
+            "currentSem1": 125035.12,
+            "currentSem2": 74964.88,
+            "currentTotal": 200000,
+            "budgetYear": 220000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses - Social Awareness Seminar",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 230880,
+            "currentSem1": null,
+            "currentSem2": 174992,
+            "currentTotal": 174992,
+            "budgetYear": 192491
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Drugs and Medicines Supplies",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-070",
+            "pastYear": 23670,
+            "currentSem1": 6000,
+            "currentSem2": 21500,
+            "currentTotal": 27500,
+            "budgetYear": 27500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Textbooks & Instructional Materials",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-110",
+            "pastYear": 1195756.83,
+            "currentSem1": null,
+            "currentSem2": 1157508,
+            "currentTotal": 1157508,
+            "budgetYear": 1273259
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 1457234.08,
+            "currentSem1": 188111.6,
+            "currentSem2": 1774888.4,
+            "currentTotal": 1963000,
+            "budgetYear": 1964000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Postage and Courier Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-010",
+            "pastYear": 425,
+            "currentSem1": null,
+            "currentSem2": 11000,
+            "currentTotal": 11000,
+            "budgetYear": 11000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses - Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 58500,
+            "currentSem1": 25500,
+            "currentSem2": 28500,
+            "currentTotal": 54000,
+            "budgetYear": 54000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Printing & Publication Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-020",
+            "pastYear": 135000,
+            "currentSem1": null,
+            "currentSem2": 400000,
+            "currentTotal": 400000,
+            "budgetYear": 400000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-050",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 82500,
+            "currentTotal": 82500,
+            "budgetYear": 82500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Membership Dues & Contribution to Organization",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-060",
+            "pastYear": 2000,
+            "currentSem1": null,
+            "currentSem2": 32500,
+            "currentTotal": 32500,
+            "budgetYear": 32500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-070",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 600000,
+            "currentTotal": 600000,
+            "budgetYear": 1520000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 1045713.11,
+            "currentSem1": 75550.75,
+            "currentSem2": 1144334.25,
+            "currentTotal": 1219885,
+            "budgetYear": 17263565
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 4278591.83,
+            "currentSem1": 420197.47,
+            "currentSem2": 5623687.53,
+            "currentTotal": 6043885,
+            "budgetYear": 23161815
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Infrastructure Assets - Water Supply Systems",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "3324-1-07-03-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1500000,
+            "currentTotal": 1500000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Infrastructure Assets - Power Supply Systems",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-03-050",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1500000,
+            "currentTotal": 1500000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 1390000,
+            "currentTotal": 1390000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 770000,
+            "currentTotal": 770000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Medical Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-110",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 600000,
+            "currentTotal": 600000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Technical & Scientific Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-140",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 400000,
+            "currentTotal": 400000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 6160000,
+            "currentTotal": 6160000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 35415827.78,
+            "currentSem1": 15767469.95,
+            "currentSem2": 48558073.05,
+            "currentTotal": 64325543,
+            "budgetYear": 74747731
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-city-health-officer",
+      "title": "Office of the City Health Officer",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "4411-5-01-01-010",
+            "pastYear": 31901073.82,
+            "currentSem1": 16334894.88,
+            "currentSem2": 28300329.12,
+            "currentTotal": 44635224,
+            "budgetYear": 46595628
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 1672496.74,
+            "currentSem1": 845288.17,
+            "currentSem2": 1386711.83,
+            "currentTotal": 2232000,
+            "budgetYear": 2232000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 309500,
+            "currentSem1": 116500,
+            "currentSem2": 201500,
+            "currentTotal": 318000,
+            "budgetYear": 318000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 309500,
+            "currentSem1": 116500,
+            "currentSem2": 201500,
+            "currentTotal": 318000,
+            "budgetYear": 318000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 497000,
+            "currentSem1": 497000,
+            "currentSem2": 154000,
+            "currentTotal": 651000,
+            "budgetYear": 651000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Subsistence Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-050",
+            "pastYear": 1647010.25,
+            "currentSem1": 698749.19,
+            "currentSem2": 975250.81,
+            "currentTotal": 1674000,
+            "budgetYear": 1674000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Laundry Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-060",
+            "pastYear": 172420,
+            "currentSem1": 72452.41,
+            "currentSem2": 94947.59,
+            "currentTotal": 167400,
+            "budgetYear": 167400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Honoraria of Pathologist",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 60000,
+            "currentTotal": 60000,
+            "budgetYear": 60000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Honoraria of Radiologist",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 24000,
+            "currentTotal": 24000,
+            "budgetYear": 24000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Honoraria for Barangay Health Worker",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": 1209000,
+            "currentSem1": 347500,
+            "currentSem2": 3252500,
+            "currentTotal": 3600000,
+            "budgetYear": 3600000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Hazard Pay",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-110",
+            "pastYear": 5262662.84,
+            "currentSem1": 2229246.1,
+            "currentSem2": 3276842.9,
+            "currentTotal": 5506089,
+            "budgetYear": 5536896
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 2664081,
+            "currentSem1": 16385,
+            "currentSem2": 3703217,
+            "currentTotal": 3719602,
+            "budgetYear": 3882969
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 345000,
+            "currentSem1": 2500,
+            "currentSem2": 462500,
+            "currentTotal": 465000,
+            "budgetYear": 465000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 2563689,
+            "currentSem1": 2684384,
+            "currentSem2": 1035218,
+            "currentTotal": 3719602,
+            "budgetYear": 3882969
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 651000,
+            "currentTotal": 651000,
+            "budgetYear": 651000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 3831985.66,
+            "currentSem1": 1962339.92,
+            "currentSem2": 3393887.08,
+            "currentTotal": 5356227,
+            "budgetYear": 5591476
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 153900,
+            "currentSem1": 83500,
+            "currentSem2": 139700,
+            "currentTotal": 223200,
+            "budgetYear": 223200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 726259.96,
+            "currentSem1": 404124.95,
+            "currentSem2": 700363.05,
+            "currentTotal": 1104488,
+            "budgetYear": 1150808
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 90600,
+            "currentSem1": 42400,
+            "currentSem2": 69200,
+            "currentTotal": 111600,
+            "budgetYear": 111600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 1380000,
+            "currentSem1": null,
+            "currentSem2": 2231761,
+            "currentTotal": 2231761,
+            "budgetYear": 2329782
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 783402.82,
+            "currentSem1": 767117.72,
+            "currentSem2": 1025459.28,
+            "currentTotal": 1792577,
+            "budgetYear": 1871308
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 55519582.09,
+            "currentSem1": 27220882.34,
+            "currentSem2": 51339887.66,
+            "currentTotal": 78560770,
+            "budgetYear": 81337036
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "4411-5-02-01-010",
+            "pastYear": 721735,
+            "currentSem1": 159680,
+            "currentSem2": 840320,
+            "currentTotal": 1000000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses - Basic Life Support & Cardiopulmonary Resuscitation (BLS-CPR) (GAD)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 140400,
+            "currentTotal": 140400,
+            "budgetYear": 352000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses - Capacity Building Training",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Supplies & Material Expenses - Drugs & Medecines Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-070",
+            "pastYear": 26749464.61,
+            "currentSem1": 6489356.8,
+            "currentSem2": 38925643.2,
+            "currentTotal": 45415000,
+            "budgetYear": 47240500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Supplies & Material Expenses - Medical, Dental & Lab. Supplies Exp.",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-080",
+            "pastYear": 8976134,
+            "currentSem1": 1196614,
+            "currentSem2": 12303386,
+            "currentTotal": 13500000,
+            "budgetYear": 14950000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 2233774.76,
+            "currentSem1": 43213,
+            "currentSem2": 2186787,
+            "currentTotal": 2230000,
+            "budgetYear": 2368000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 84000,
+            "currentSem1": 33000,
+            "currentSem2": 67000,
+            "currentTotal": 100000,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Taxes, Insurance Premiums & Other Fees - Taxes, Duties & Licenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-16-010",
+            "pastYear": 16500,
+            "currentSem1": 27500,
+            "currentSem2": 52500,
+            "currentTotal": 80000,
+            "budgetYear": 80000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-070",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 5868790.24,
+            "currentSem1": 2157559,
+            "currentSem2": 9222441,
+            "currentTotal": 11380000,
+            "budgetYear": 9480000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 44650398.61,
+            "currentSem1": 10106922.8,
+            "currentSem2": 64738477.2,
+            "currentTotal": 74845400,
+            "budgetYear": 76570500
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase & Installation of Five (5) Unit 2.5HP Split Type Aircon",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "4411-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 350000,
+            "currentTotal": 350000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Purchase of Switch Hub for Networking",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 55000,
+            "currentTotal": 55000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Medical Equipment - Six (6) Units Motorized Misting Machine",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-110",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 408000,
+            "currentTotal": 408000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 813000,
+            "currentTotal": 813000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 100169980.7,
+            "currentSem1": 37327805.14,
+            "currentSem2": 116891364.86,
+            "currentTotal": 154219170,
+            "budgetYear": 157907536
+          }
+        }
+      ]
+    },
+    {
+      "key": "public-employment-services-office",
+      "title": "Public Employment Services Office (PESO)",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "5999-5-01-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 8011764
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 408000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 119000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 667647
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 85000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 667647
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 119000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 961412
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 40800
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 189972
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 20400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 400589
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 321758
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 12444989
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "5999-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 50000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses - Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 54000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE-Job Fair",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 450000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Summer Job for the Youth (GAD)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 13500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Tripartite Industrial Peace Council (TIPC) Lapu-Lapu City",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - National PESO Congress",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - PRAISE Awards and Stakeholders Recognition",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 350000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Sub-Total",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 16704000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 29148989
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-city-social-welfare-and-development-center",
+      "title": "Office of the City Social Welfare and Development Center",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-5-01-01-010",
+            "pastYear": 14239972.31,
+            "currentSem1": 6270903.48,
+            "currentSem2": 16444220.52,
+            "currentTotal": 22715124,
+            "budgetYear": 23823324
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 1046855.9,
+            "currentSem1": 443290.32,
+            "currentSem2": 948709.68,
+            "currentTotal": 1392000,
+            "budgetYear": 1392000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 72000,
+            "currentSem1": 57000,
+            "currentSem2": 159000,
+            "currentTotal": 216000,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 72000,
+            "currentSem1": 57000,
+            "currentSem2": 159000,
+            "currentTotal": 216000,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 322000,
+            "currentSem1": 273000,
+            "currentSem2": 133000,
+            "currentTotal": 406000,
+            "budgetYear": 406000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Subsistence Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-050",
+            "pastYear": 265334,
+            "currentSem1": 101250,
+            "currentSem2": 942750,
+            "currentTotal": 1044000,
+            "budgetYear": 1044000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Laundry Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-060",
+            "pastYear": 13100,
+            "currentSem1": 3000,
+            "currentSem2": 101400,
+            "currentTotal": 104400,
+            "budgetYear": 104400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Honorarium for Day Care",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-100",
+            "pastYear": 4837500,
+            "currentSem1": 2098500,
+            "currentSem2": 3401500,
+            "currentTotal": 5500000,
+            "budgetYear": null
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Hazard Pay",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-110",
+            "pastYear": 2042392.43,
+            "currentSem1": 762026.51,
+            "currentSem2": 2633952.49,
+            "currentTotal": 3395979,
+            "budgetYear": 3428289
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 1289581.8,
+            "currentSem1": null,
+            "currentSem2": 1892927,
+            "currentTotal": 1892927,
+            "budgetYear": 1985277
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 225500,
+            "currentSem1": null,
+            "currentSem2": 290000,
+            "currentTotal": 290000,
+            "budgetYear": 290000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 1164827,
+            "currentSem1": 1109672,
+            "currentSem2": 783255,
+            "currentTotal": 1892927,
+            "budgetYear": 1985277
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 406000,
+            "currentTotal": 406000,
+            "budgetYear": 406000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 1708796.67,
+            "currentSem1": 752508.04,
+            "currentSem2": 1973306.96,
+            "currentTotal": 2725815,
+            "budgetYear": 2858799
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 98412.62,
+            "currentSem1": 44200,
+            "currentSem2": 95000,
+            "currentTotal": 139200,
+            "budgetYear": 139200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 316685.5,
+            "currentSem1": 156513.02,
+            "currentSem2": 403489.98,
+            "currentTotal": 560003,
+            "budgetYear": 585261
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 52200,
+            "currentSem1": 22100,
+            "currentSem2": 47500,
+            "currentTotal": 69600,
+            "budgetYear": 69600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 860000,
+            "currentSem1": null,
+            "currentSem2": 1135756,
+            "currentTotal": 1135756,
+            "budgetYear": 1191167
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 402490.74,
+            "currentSem1": 245249.52,
+            "currentSem2": 667003.48,
+            "currentTotal": 912253,
+            "budgetYear": 956759
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 29029648.97,
+            "currentSem1": 12396212.89,
+            "currentSem2": 32617771.11,
+            "currentTotal": 45013984,
+            "budgetYear": 41097353
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses - Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-5-02-01-010",
+            "pastYear": 1086259,
+            "currentSem1": 411486,
+            "currentSem2": 888514,
+            "currentTotal": 1300000,
+            "budgetYear": 1570000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 582570.6,
+            "currentSem1": 0,
+            "currentSem2": 850000,
+            "currentTotal": 850000,
+            "budgetYear": 800000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Purchase of Reading Materials",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-110",
+            "pastYear": 489360,
+            "currentSem1": null,
+            "currentSem2": 300000,
+            "currentTotal": 300000,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies & Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 210586.4,
+            "currentSem1": 90227.9,
+            "currentSem2": 309772.1,
+            "currentTotal": 400000,
+            "budgetYear": 745000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Postage and Courier Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500,
+            "currentTotal": 500,
+            "budgetYear": 500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 182100,
+            "currentSem1": 83700,
+            "currentSem2": 116300,
+            "currentTotal": 200000,
+            "budgetYear": 200000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Transportation and Delivery Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": 100000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-050",
+            "pastYear": 391490,
+            "currentSem1": null,
+            "currentSem2": 300000,
+            "currentTotal": 300000,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOOE - Donations",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-080",
+            "pastYear": 112068393.91,
+            "currentSem1": 64365756.79,
+            "currentSem2": 56834243.21,
+            "currentTotal": 121200000,
+            "budgetYear": 118700000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 13400859.42,
+            "currentSem1": 4654172.25,
+            "currentSem2": 20247827.75,
+            "currentTotal": 24902000,
+            "budgetYear": 21552000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 128411619.33,
+            "currentSem1": 69605342.94,
+            "currentSem2": 79947157.06,
+            "currentTotal": 149552500,
+            "budgetYear": 144267500
+          }
+        },
+        {
+          "label": "CAPITAL OUTLAY",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of One (1) Unit 55 inches LED TV",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 50000,
+            "currentTotal": 50000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 50000,
+            "currentTotal": 50000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 157441268.3,
+            "currentSem1": 82001555.83,
+            "currentSem2": 112614928.17,
+            "currentTotal": 194616484,
+            "budgetYear": 185364853
+          }
+        }
+      ]
+    },
+    {
+      "key": "spa-senior-citizens",
+      "title": "SPECIAL PURPOSE APPROPRIATION - Senior Citizens",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honorarium for OSCA",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-1-5-01-02-100",
+            "pastYear": 3315775.22,
+            "currentSem1": 1282880,
+            "currentSem2": 2777120,
+            "currentTotal": 4060000,
+            "budgetYear": 6535000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 3315775.22,
+            "currentSem1": 1282880,
+            "currentSem2": 2777120,
+            "currentTotal": 4060000,
+            "budgetYear": 6535000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses - Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-1-5-02-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 60000,
+            "currentTotal": 60000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 638000,
+            "currentSem1": 0,
+            "currentSem2": 1070000,
+            "currentTotal": 1070000,
+            "budgetYear": 770000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 297127442.58,
+            "currentSem1": 168345913,
+            "currentSem2": 171982087,
+            "currentTotal": 340328000,
+            "budgetYear": 213726000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 297765442.58,
+            "currentSem1": 168345913,
+            "currentSem2": 173112087,
+            "currentTotal": 341458000,
+            "budgetYear": 214496000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of One (1) Unit Projector",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-1-1-07-05-020",
+            "pastYear": 39950,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 39950,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 301121167.8,
+            "currentSem1": 169628793,
+            "currentSem2": 175889207,
+            "currentTotal": 345518000,
+            "budgetYear": 221031000
+          }
+        }
+      ]
+    },
+    {
+      "key": "gender-and-development-office",
+      "title": "Gender & Development Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses (various)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-2-5-02-02-010",
+            "pastYear": 467256,
+            "currentSem1": 100000,
+            "currentSem2": 700000,
+            "currentTotal": 800000,
+            "budgetYear": 800000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 7968.25,
+            "currentSem1": 10000,
+            "currentSem2": 10000,
+            "currentTotal": 20000,
+            "budgetYear": 20000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Printing and Publication Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-020",
+            "pastYear": null,
+            "currentSem1": 5000,
+            "currentSem2": 5000,
+            "currentTotal": 10000,
+            "budgetYear": 10000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 4000,
+            "currentSem1": 15000,
+            "currentSem2": 190000,
+            "currentTotal": 205000,
+            "budgetYear": 206000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 479224.25,
+            "currentSem1": 130000,
+            "currentSem2": 905000,
+            "currentTotal": 1035000,
+            "budgetYear": 1036000
+          }
+        }
+      ]
+    },
+    {
+      "key": "operation-of-homecare-center",
+      "title": "OPERATION OF HOMECARE CENTER",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-3-5-02-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 100000,
+            "currentTotal": 100000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses- for House Parents",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 204750
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Food Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-050",
+            "pastYear": 1121186.25,
+            "currentSem1": 981574.12,
+            "currentSem2": 1318425.88,
+            "currentTotal": 2300000,
+            "budgetYear": 4000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 135251.53,
+            "currentSem1": 168396.36,
+            "currentSem2": 81603.64,
+            "currentTotal": 250000,
+            "budgetYear": 350000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Financial Assistance for Children with Special Needs",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-080",
+            "pastYear": null,
+            "currentSem1": 258933,
+            "currentSem2": 241067,
+            "currentTotal": 500000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - CICL/CAR Programs and Activities",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 227465,
+            "currentSem1": 35992.8,
+            "currentSem2": 114007.2,
+            "currentTotal": 150000,
+            "budgetYear": 150000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 1483902.78,
+            "currentSem1": 1444896.28,
+            "currentSem2": 1855103.72,
+            "currentTotal": 3300000,
+            "budgetYear": 5204750
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Computer Desktop",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-3-1-07-05-030",
+            "pastYear": 59850,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 59850,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 1543752.78,
+            "currentSem1": 1444896.28,
+            "currentSem2": 1855103.72,
+            "currentTotal": 3300000,
+            "budgetYear": 5204750
+          }
+        }
+      ]
+    },
+    {
+      "key": "stimulation-and-therapeutic-activity-center",
+      "title": "Stimulation and Therapeutic Activity Center (STAC)",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-4-5-02-03-990",
+            "pastYear": 49786.05,
+            "currentSem1": null,
+            "currentSem2": 160000,
+            "currentTotal": 160000,
+            "budgetYear": 250000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE - Social Enhancement Activities for Children w/ Disability (CWD)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 99995.8,
+            "currentSem1": null,
+            "currentSem2": 150000,
+            "currentTotal": 150000,
+            "budgetYear": 283750
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE- BBC for Young Adults Project",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": 8000,
+            "currentSem2": 192000,
+            "currentTotal": 200000,
+            "budgetYear": 362500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 149781.85,
+            "currentSem1": 8000,
+            "currentSem2": 502000,
+            "currentTotal": 510000,
+            "budgetYear": 896250
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Purchase of Rehabilitation Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-4-1-07-05-020",
+            "pastYear": 467730,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Laptop",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": 68900,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 536630,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 686411.85,
+            "currentSem1": 8000,
+            "currentSem2": 502000,
+            "currentTotal": 510000,
+            "budgetYear": 896250
+          }
+        }
+      ]
+    },
+    {
+      "key": "person-with-disability-affairs-office",
+      "title": "Person w/ Disability Affairs Office (PDAO)",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honorarium for PWD Federation",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-5-5-01-02-100",
+            "pastYear": 520500,
+            "currentSem1": 225000,
+            "currentSem2": 315000,
+            "currentTotal": 540000,
+            "budgetYear": 540000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 520500,
+            "currentSem1": 225000,
+            "currentSem2": 315000,
+            "currentTotal": 540000,
+            "budgetYear": 540000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses - Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-5-5-02-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 50000,
+            "currentTotal": 50000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 419103.25,
+            "currentSem1": 0,
+            "currentSem2": 440000,
+            "currentTotal": 440000,
+            "budgetYear": 520000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 47817455.7,
+            "currentSem1": 29763853,
+            "currentSem2": 33210147,
+            "currentTotal": 62974000,
+            "budgetYear": 38340500
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 48236558.95,
+            "currentSem1": 29763853,
+            "currentSem2": 33700147,
+            "currentTotal": 63464000,
+            "budgetYear": 38860500
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 48757058.95,
+            "currentSem1": 29988853,
+            "currentSem2": 34015147,
+            "currentTotal": 64004000,
+            "budgetYear": 39400500
+          }
+        }
+      ]
+    },
+    {
+      "key": "solo-parent-welfare-program",
+      "title": "Solo Parent Welfare Program",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses - Capability Building for Solo Parent (GAD)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "7611-6-5-02-02-010",
+            "pastYear": 158760,
+            "currentSem1": null,
+            "currentSem2": 260000,
+            "currentTotal": 260000,
+            "budgetYear": 260000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 190000,
+            "currentTotal": 190000,
+            "budgetYear": 70000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance & Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 11882566.5,
+            "currentSem1": 6945995,
+            "currentSem2": 6104005,
+            "currentTotal": 13050000,
+            "budgetYear": 17050000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 12041326.5,
+            "currentSem1": 6945995,
+            "currentSem2": 6554005,
+            "currentTotal": 13500000,
+            "budgetYear": 17380000
+          }
+        }
+      ]
+    },
+    {
+      "key": "cswdc-grand-total",
+      "title": "GRAND TOTAL (Office of the City Social Welfare and Development Center including its Special Purpose Appropriations)",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "grandTotal",
+          "values": {
+            "pastYear": 522070210.43,
+            "currentSem1": 290148093.11,
+            "currentSem2": 332335390.89,
+            "currentTotal": 622483484,
+            "budgetYear": 470313353
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-city-veterinarian",
+      "title": "Office of the City Veterinarian",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8721-5-01-01-010",
+            "pastYear": 2235669.93,
+            "currentSem1": 1098666,
+            "currentSem2": 3249630,
+            "currentTotal": 4348296,
+            "budgetYear": 4537020
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 72000,
+            "currentSem1": 30000,
+            "currentSem2": 234000,
+            "currentTotal": 264000,
+            "budgetYear": 264000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 106875,
+            "currentSem1": null,
+            "currentSem2": 114000,
+            "currentTotal": 114000,
+            "budgetYear": 114000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 106875,
+            "currentSem1": null,
+            "currentSem2": 114000,
+            "currentTotal": 114000,
+            "budgetYear": 114000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 21000,
+            "currentSem1": 14000,
+            "currentSem2": 63000,
+            "currentTotal": 77000,
+            "budgetYear": 77000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 191103,
+            "currentSem1": null,
+            "currentSem2": 362358,
+            "currentTotal": 362358,
+            "budgetYear": 378085
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 15000,
+            "currentSem1": null,
+            "currentSem2": 55000,
+            "currentTotal": 55000,
+            "budgetYear": 55000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 182917,
+            "currentSem1": 175119,
+            "currentSem2": 187239,
+            "currentTotal": 362358,
+            "budgetYear": 378085
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 77000,
+            "currentTotal": 77000,
+            "budgetYear": 77000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 268280.39,
+            "currentSem1": 131839.92,
+            "currentSem2": 389956.08,
+            "currentTotal": 521796,
+            "budgetYear": 544443
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 6900,
+            "currentSem1": 3000,
+            "currentSem2": 23400,
+            "currentTotal": 26400,
+            "budgetYear": 26400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 40956.17,
+            "currentSem1": 22441.2,
+            "currentSem2": 74683.8,
+            "currentTotal": 97125,
+            "budgetYear": 100014
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 3600,
+            "currentSem1": 1500,
+            "currentSem2": 11700,
+            "currentTotal": 13200,
+            "budgetYear": 13200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 60000,
+            "currentSem1": null,
+            "currentSem2": 217415,
+            "currentTotal": 217415,
+            "budgetYear": 226851
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 7406.74,
+            "currentSem1": 20055.87,
+            "currentSem2": 154574.13,
+            "currentTotal": 174630,
+            "budgetYear": 182210
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 3318583.23,
+            "currentSem1": 1496621.99,
+            "currentSem2": 5327956.01,
+            "currentTotal": 6824578,
+            "budgetYear": 7087308
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8721-5-02-01-010",
+            "pastYear": 21255,
+            "currentSem1": 9388,
+            "currentSem2": 15612,
+            "currentTotal": 25000,
+            "budgetYear": 25000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Expenses - Dog Population Control",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 78300,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Animal/Zoological Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-040",
+            "pastYear": 1316475,
+            "currentSem1": 6926,
+            "currentSem2": 1443074,
+            "currentTotal": 1450000,
+            "budgetYear": 1450000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 301000.95,
+            "currentSem1": 17258.75,
+            "currentSem2": 202741.25,
+            "currentTotal": 220000,
+            "budgetYear": 220000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 36000,
+            "currentSem1": 18000,
+            "currentSem2": 12000,
+            "currentTotal": 30000,
+            "budgetYear": 36000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Environmental/Sanitary Services - Desludging",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-12-010",
+            "pastYear": 74250,
+            "currentSem1": null,
+            "currentSem2": 300000,
+            "currentTotal": 300000,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Transportation and Delivery Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 1198537.5,
+            "currentSem1": 0,
+            "currentSem2": 1260000,
+            "currentTotal": 1260000,
+            "budgetYear": 1310000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 3025818.45,
+            "currentSem1": 51572.75,
+            "currentSem2": 3233427.25,
+            "currentTotal": 3285000,
+            "budgetYear": 3371000
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 6344401.68,
+            "currentSem1": 1548194.74,
+            "currentSem2": 8561383.26,
+            "currentTotal": 10109578,
+            "budgetYear": 10458308
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-city-environment-and-natural-resources-office",
+      "title": "Office of the City Environment and Natural Resources Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8731-5-01-01-010",
+            "pastYear": 6050118.68,
+            "currentSem1": 3143430,
+            "currentSem2": 9671130,
+            "currentTotal": 12814560,
+            "budgetYear": 13438572
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 336000,
+            "currentSem1": 168000,
+            "currentSem2": 456000,
+            "currentTotal": 624000,
+            "budgetYear": 624000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 228000,
+            "currentSem1": 114000,
+            "currentSem2": 102000,
+            "currentTotal": 216000,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 228000,
+            "currentSem1": 114000,
+            "currentSem2": 102000,
+            "currentTotal": 216000,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 98000,
+            "currentSem1": 98000,
+            "currentSem2": 84000,
+            "currentTotal": 182000,
+            "budgetYear": 182000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 523530,
+            "currentSem1": null,
+            "currentSem2": 1067880,
+            "currentTotal": 1067880,
+            "budgetYear": 1119881
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 70000,
+            "currentSem1": null,
+            "currentSem2": 130000,
+            "currentTotal": 130000,
+            "budgetYear": 130000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 500359,
+            "currentSem1": 523905,
+            "currentSem2": 543975,
+            "currentTotal": 1067880,
+            "budgetYear": 1119881
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 182000,
+            "currentTotal": 182000,
+            "budgetYear": 182000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 726014.25,
+            "currentSem1": 377211.6,
+            "currentSem2": 1160535.4,
+            "currentTotal": 1537747,
+            "budgetYear": 1612629
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 32200,
+            "currentSem1": 16600,
+            "currentSem2": 45800,
+            "currentTotal": 62400,
+            "budgetYear": 62400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 104401.54,
+            "currentSem1": 58734.96,
+            "currentSem2": 251322.04,
+            "currentTotal": 310057,
+            "budgetYear": 322443
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 16800,
+            "currentSem1": 8400,
+            "currentSem2": 22800,
+            "currentTotal": 31200,
+            "budgetYear": 31200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 280000,
+            "currentSem1": null,
+            "currentSem2": 640728,
+            "currentTotal": 640728,
+            "budgetYear": 671929
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 129561.44,
+            "currentSem1": 201821.15,
+            "currentSem2": 312818.85,
+            "currentTotal": 514640,
+            "budgetYear": 539701
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 9322984.91,
+            "currentSem1": 4824102.71,
+            "currentSem2": 14772989.29,
+            "currentTotal": 19597092,
+            "budgetYear": 20468636
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8731-5-02-01-010",
+            "pastYear": 46212.86,
+            "currentSem1": 29750,
+            "currentSem2": 20250,
+            "currentTotal": 50000,
+            "budgetYear": 150000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Training Exp. - Solid Waste Management",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-02-010",
+            "pastYear": 344489.4,
+            "currentSem1": null,
+            "currentSem2": 350000,
+            "currentTotal": 350000,
+            "budgetYear": 350000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Agricultural & Marine Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-100",
+            "pastYear": 349715,
+            "currentSem1": null,
+            "currentSem2": 350000,
+            "currentTotal": 350000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 675988.3,
+            "currentSem1": 0,
+            "currentSem2": 247486,
+            "currentTotal": 247486,
+            "budgetYear": 1191000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses - Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 42000,
+            "currentSem1": 20000,
+            "currentSem2": 25000,
+            "currentTotal": 45000,
+            "budgetYear": 45000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "General Services - Environmental/Sanitary Services",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-12-010",
+            "pastYear": 177946797.92,
+            "currentSem1": 71696814.8,
+            "currentSem2": 178493169.2,
+            "currentTotal": 250189984,
+            "budgetYear": 250189984
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Taxes, Duties and Licenses - DENR Clearances & Permits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-16-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 300000,
+            "currentTotal": 300000,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Transportation and Delivery Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-040",
+            "pastYear": 499200,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": 1000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Rent Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-050",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 50000,
+            "currentTotal": 50000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 2377267.1,
+            "currentSem1": 572996,
+            "currentSem2": 2477004,
+            "currentTotal": 3050000,
+            "budgetYear": 4800000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 182281670.58,
+            "currentSem1": 72319560.8,
+            "currentSem2": 182812909.2,
+            "currentTotal": 255132470,
+            "budgetYear": 258725984
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8731-1-07-05-020",
+            "pastYear": 121000,
+            "currentSem1": 0,
+            "currentSem2": 122500,
+            "currentTotal": 122500,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - Other Structures",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-990",
+            "pastYear": 0,
+            "currentSem1": 0,
+            "currentSem2": 12600000,
+            "currentTotal": 12600000,
+            "budgetYear": 0
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Information & Communication Technology Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": 252900,
+            "currentSem1": 0,
+            "currentSem2": 400000,
+            "currentTotal": 400000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 373900,
+            "currentSem1": 0,
+            "currentSem2": 13122500,
+            "currentTotal": 13122500,
+            "budgetYear": 0
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 191978555.49,
+            "currentSem1": 77143663.51,
+            "currentSem2": 210708398.49,
+            "currentTotal": 287852062,
+            "budgetYear": 279194620
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-city-engineer",
+      "title": "Office of the City Engineer",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8751-5-01-01-010",
+            "pastYear": 24199854.33,
+            "currentSem1": 11397802.9,
+            "currentSem2": 26900833.1,
+            "currentTotal": 38298636,
+            "budgetYear": 39749424
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": 1859519.59,
+            "currentSem1": 862967.74,
+            "currentSem2": 1969032.26,
+            "currentTotal": 2832000,
+            "budgetYear": 2832000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": 420000,
+            "currentSem1": 195000,
+            "currentSem2": 225000,
+            "currentTotal": 420000,
+            "budgetYear": 420000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": 420000,
+            "currentSem1": 193000,
+            "currentSem2": 227000,
+            "currentTotal": 420000,
+            "budgetYear": 420000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": 546000,
+            "currentSem1": 504000,
+            "currentSem2": 322000,
+            "currentTotal": 826000,
+            "budgetYear": 826000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": 2096663.2,
+            "currentSem1": null,
+            "currentSem2": 3191553,
+            "currentTotal": 3191553,
+            "budgetYear": 3312452
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": 384500,
+            "currentSem1": null,
+            "currentSem2": 590000,
+            "currentTotal": 590000,
+            "budgetYear": 590000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": 1938988,
+            "currentSem1": 1914312,
+            "currentSem2": 1277241,
+            "currentTotal": 3191553,
+            "budgetYear": 3312452
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 826000,
+            "currentTotal": 826000,
+            "budgetYear": 826000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": 2897706.09,
+            "currentSem1": 1371533.76,
+            "currentSem2": 3224302.24,
+            "currentTotal": 4595836,
+            "budgetYear": 4769931
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": 170600,
+            "currentSem1": 84200,
+            "currentSem2": 199000,
+            "currentTotal": 283200,
+            "budgetYear": 283200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": 539800.71,
+            "currentSem1": 269895.81,
+            "currentSem2": 679309.19,
+            "currentTotal": 949205,
+            "budgetYear": 979411
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": 92600,
+            "currentSem1": 43300,
+            "currentSem2": 98300,
+            "currentTotal": 141600,
+            "budgetYear": 141600
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 1500000,
+            "currentSem1": null,
+            "currentSem2": 1914932,
+            "currentTotal": 1914932,
+            "budgetYear": 1987472
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": 403321.76,
+            "currentSem1": 348073.33,
+            "currentSem2": 1190022.67,
+            "currentTotal": 1538096,
+            "budgetYear": 1596361
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": 37469553.68,
+            "currentSem1": 17184085.54,
+            "currentSem2": 42834525.46,
+            "currentTotal": 60018611,
+            "budgetYear": 62046303
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Traveling Expenses-Local",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8751-5-02-01-010",
+            "pastYear": 900,
+            "currentSem1": null,
+            "currentSem2": 10000,
+            "currentTotal": 10000,
+            "budgetYear": 10000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 334502.45,
+            "currentSem1": 66061.43,
+            "currentSem2": 333938.57,
+            "currentTotal": 400000,
+            "budgetYear": 2000000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 128000,
+            "currentSem1": 53000,
+            "currentSem2": 73000,
+            "currentTotal": 126000,
+            "budgetYear": 126000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Survey Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-07-010",
+            "pastYear": 1149400,
+            "currentSem1": null,
+            "currentSem2": 300000,
+            "currentTotal": 300000,
+            "budgetYear": 300000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Repairs & Maintenance- Infrastructure Assets",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-13-030",
+            "pastYear": 9066201.28,
+            "currentSem1": 58534.85,
+            "currentSem2": 10441465.15,
+            "currentTotal": 10500000,
+            "budgetYear": 9500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Repairs & Maintenance- Transportation Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-13-060",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Taxes, Duties and Licenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-16-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 200000,
+            "currentTotal": 200000,
+            "budgetYear": null
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 26919,
+            "currentSem1": 24758,
+            "currentSem2": 525242,
+            "currentTotal": 550000,
+            "budgetYear": 550000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 10705922.73,
+            "currentSem1": 202354.28,
+            "currentSem2": 12383645.72,
+            "currentTotal": 12586000,
+            "budgetYear": 12486000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Concreting of Sitio Ibabao Pangan-an Road",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8751-1-07-03-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 5000000,
+            "currentTotal": 5000000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Buildings & Other Structures - Buildings",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-04-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 1300000,
+            "currentTotal": 1300000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 80000,
+            "currentTotal": 80000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Construction & Heavy Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-080",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 6000000,
+            "currentTotal": 6000000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Transportation Equipment - Motor Vehicles",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 6300000,
+            "currentTotal": 6300000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Other Transportation Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-06-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 12000000,
+            "currentTotal": 12000000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 30680000,
+            "currentTotal": 30680000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 48175476.41,
+            "currentSem1": 17386439.82,
+            "currentSem2": 85898171.18,
+            "currentTotal": 103284611,
+            "budgetYear": 74532303
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-city-tourism",
+      "title": "Office of the City Tourism",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8852-5-01-01-010",
+            "pastYear": null,
+            "currentSem1": 184630.22,
+            "currentSem2": 6600301.78,
+            "currentTotal": 6784932,
+            "budgetYear": 7098780
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": null,
+            "currentSem1": 9612.9,
+            "currentSem2": 278387.1,
+            "currentTotal": 288000,
+            "budgetYear": 288000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 114000,
+            "currentTotal": 114000,
+            "budgetYear": 114000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 114000,
+            "currentTotal": 114000,
+            "budgetYear": 114000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": null,
+            "currentSem1": 7000,
+            "currentSem2": 77000,
+            "currentTotal": 84000,
+            "budgetYear": 84000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 565411,
+            "currentTotal": 565411,
+            "budgetYear": 591565
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 60000,
+            "currentTotal": 60000,
+            "budgetYear": 60000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": 38413,
+            "currentSem2": 526998,
+            "currentTotal": 565411,
+            "budgetYear": 591565
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 84000,
+            "currentTotal": 84000,
+            "budgetYear": 84000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": null,
+            "currentSem1": 22155.63,
+            "currentSem2": 792036.37,
+            "currentTotal": 814192,
+            "budgetYear": 851854
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": null,
+            "currentSem1": 1000,
+            "currentSem2": 27800,
+            "currentTotal": 28800,
+            "budgetYear": 28800
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": null,
+            "currentSem1": 4801.64,
+            "currentSem2": 156946.36,
+            "currentTotal": 161748,
+            "budgetYear": 167928
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": null,
+            "currentSem1": 500,
+            "currentSem2": 13900,
+            "currentTotal": 14400,
+            "budgetYear": 14400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 339247,
+            "currentTotal": 339247,
+            "budgetYear": 354939
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 272487,
+            "currentTotal": 272487,
+            "budgetYear": 285092
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": null,
+            "currentSem1": 268113.39,
+            "currentSem2": 10022514.61,
+            "currentTotal": 10290628,
+            "budgetYear": 10728923
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8852-5-02-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 810000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "pastYear": 1069044,
+            "currentSem1": 564875,
+            "currentSem2": 1505125,
+            "currentTotal": 2070000,
+            "budgetYear": 2070000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Telephone Expenses-Mobile",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "pastYear": 9000,
+            "currentSem1": null,
+            "currentSem2": 30000,
+            "currentTotal": 30000,
+            "budgetYear": 30000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other Maintenance and Operating Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": 26727858.45,
+            "currentSem1": 13825331,
+            "currentSem2": 16985669,
+            "currentTotal": 30811000,
+            "budgetYear": 40050000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": 27805902.45,
+            "currentSem1": 14390206,
+            "currentSem2": 18520794,
+            "currentTotal": 32911000,
+            "budgetYear": 42960000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Furniture and Fixtures",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8852-1-07-07-010",
+            "pastYear": 54900,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - Office Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 500000,
+            "currentTotal": 500000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "Machinery & Equipment - ICT Equipment",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-1-07-05-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": 60000,
+            "currentTotal": 60000,
+            "budgetYear": null
+          },
+          "section": "capitalOutlay"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "pastYear": 54900,
+            "currentSem1": null,
+            "currentSem2": 560000,
+            "currentTotal": 560000,
+            "budgetYear": null
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": 27860802.45,
+            "currentSem1": 14658319.39,
+            "currentSem2": 29103308.61,
+            "currentTotal": 43761628,
+            "budgetYear": 53688923
+          }
+        }
+      ]
+    },
+    {
+      "key": "office-of-the-local-economic-development-and-promotion-office",
+      "title": "Office of the Local Economic Development & Promotion Office",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "pastYear",
+          "label": "Past Year Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem1",
+          "label": "First Semester Actual",
+          "type": "amount"
+        },
+        {
+          "key": "currentSem2",
+          "label": "Second Semester Estimates",
+          "type": "amount"
+        },
+        {
+          "key": "currentTotal",
+          "label": "Total",
+          "type": "amount"
+        },
+        {
+          "key": "budgetYear",
+          "label": "Budget Year Proposed",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Salaries and Wages-Regular",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8919-5-01-01-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 4878480
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Personnel Economic Relief Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 144000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Representation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Transportation Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 216000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Clothing/Uniform Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 42000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Year End Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-140",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 406540
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Cash Gift",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-150",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 30000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Mid Year Bonus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 406540
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Medical Allowance",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-02-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 42000
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Retirement and Life Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-010",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 585418
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PAG-IBIG Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-020",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 14400
+          },
+          "section": "ps"
+        },
+        {
+          "label": "PHILHEALTH Contributions",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-030",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 111158
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Employees Compensation Insurance Premiums",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-03-040",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 7200
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Other Personal Benefits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 243924
+          },
+          "section": "ps"
+        },
+        {
+          "label": "Monetization of Leave Credits",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-01-04-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 195923
+          },
+          "section": "ps"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "ps",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 7539583
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "8919-5-02-03-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 50000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "Other MOE-Investment Promotion & Trade Fair",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 500000
+          },
+          "section": "mooe"
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 550000
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "pastYear": null,
+            "currentSem1": null,
+            "currentSem2": null,
+            "currentTotal": null,
+            "budgetYear": 8089583
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "offices": [
+      {
+        "key": "office-of-the-register-of-deeds",
+        "office": "Office of the Register of Deeds",
+        "ps": null,
+        "mooe": 77000,
+        "capitalOutlay": null,
+        "total": 77000
+      },
+      {
+        "key": "office-of-the-police",
+        "office": "Office of the Police",
+        "ps": null,
+        "mooe": 27284000,
+        "capitalOutlay": null,
+        "total": 27284000
+      },
+      {
+        "key": "peoples-law-enforcement-board",
+        "office": "Peoples Law Enforcement Board",
+        "ps": 393600,
+        "mooe": 5000,
+        "capitalOutlay": null,
+        "total": 398600
+      },
+      {
+        "key": "fire-and-safety-services",
+        "office": "Fire and Safety Services",
+        "ps": null,
+        "mooe": 3907000,
+        "capitalOutlay": null,
+        "total": 3907000
+      },
+      {
+        "key": "department-of-education",
+        "office": "Department of Education",
+        "ps": 12426198,
+        "mooe": 11760000,
+        "capitalOutlay": null,
+        "total": 24186198
+      },
+      {
+        "key": "office-of-lapu-lapu-city-college",
+        "office": "Office of Lapu-Lapu City College",
+        "ps": 51585916,
+        "mooe": 23161815,
+        "capitalOutlay": null,
+        "total": 74747731
+      },
+      {
+        "key": "office-of-the-city-health-officer",
+        "office": "Office of the City Health Officer",
+        "ps": 81337036,
+        "mooe": 76570500,
+        "capitalOutlay": null,
+        "total": 157907536
+      },
+      {
+        "key": "public-employment-services-office",
+        "office": "Public Employment Services Office (PESO)",
+        "ps": 12444989,
+        "mooe": 16704000,
+        "capitalOutlay": null,
+        "total": 29148989
+      },
+      {
+        "key": "office-of-the-city-social-welfare-and-development-center",
+        "office": "Office of the City Social Welfare and Development Center",
+        "ps": 41097353,
+        "mooe": 144267500,
+        "capitalOutlay": null,
+        "total": 185364853
+      },
+      {
+        "key": "spa-senior-citizens",
+        "office": "SPECIAL PURPOSE APPROPRIATION - Senior Citizens",
+        "ps": 6535000,
+        "mooe": 214496000,
+        "capitalOutlay": null,
+        "total": 221031000
+      },
+      {
+        "key": "gender-and-development-office",
+        "office": "Gender & Development Office",
+        "ps": null,
+        "mooe": 1036000,
+        "capitalOutlay": null,
+        "total": 1036000
+      },
+      {
+        "key": "operation-of-homecare-center",
+        "office": "OPERATION OF HOMECARE CENTER",
+        "ps": null,
+        "mooe": 5204750,
+        "capitalOutlay": null,
+        "total": 5204750
+      },
+      {
+        "key": "stimulation-and-therapeutic-activity-center",
+        "office": "Stimulation and Therapeutic Activity Center (STAC)",
+        "ps": null,
+        "mooe": 896250,
+        "capitalOutlay": null,
+        "total": 896250
+      },
+      {
+        "key": "person-with-disability-affairs-office",
+        "office": "Person w/ Disability Affairs Office (PDAO)",
+        "ps": 540000,
+        "mooe": 38860500,
+        "capitalOutlay": null,
+        "total": 39400500
+      },
+      {
+        "key": "solo-parent-welfare-program",
+        "office": "Solo Parent Welfare Program",
+        "ps": null,
+        "mooe": 17380000,
+        "capitalOutlay": null,
+        "total": 17380000
+      },
+      {
+        "key": "office-of-the-city-veterinarian",
+        "office": "Office of the City Veterinarian",
+        "ps": 7087308,
+        "mooe": 3371000,
+        "capitalOutlay": null,
+        "total": 10458308
+      },
+      {
+        "key": "office-of-the-city-environment-and-natural-resources-office",
+        "office": "Office of the City Environment and Natural Resources Office",
+        "ps": 20468636,
+        "mooe": 258725984,
+        "capitalOutlay": 0,
+        "total": 279194620
+      },
+      {
+        "key": "office-of-the-city-engineer",
+        "office": "Office of the City Engineer",
+        "ps": 62046303,
+        "mooe": 12486000,
+        "capitalOutlay": null,
+        "total": 74532303
+      },
+      {
+        "key": "office-of-the-city-tourism",
+        "office": "Office of the City Tourism",
+        "ps": 10728923,
+        "mooe": 42960000,
+        "capitalOutlay": null,
+        "total": 53688923
+      },
+      {
+        "key": "office-of-the-local-economic-development-and-promotion-office",
+        "office": "Office of the Local Economic Development & Promotion Office",
+        "ps": 7539583,
+        "mooe": 550000,
+        "capitalOutlay": null,
+        "total": 8089583
+      }
+    ]
+  },
+  "notes": [
+    "Excerpt of the 2026 Annual Budget: printed pages 136-180 of 424 (32 scanned pages). Printed pages 147, 151-152, 161-166, 169, 172, 175 and 178 are not in the scan; every office's printed totals are nevertheless present and its transcribed line items add up to them, so the missing pages appear to be non-tabular (e.g. office narrative/profile) pages.",
+    "Offices in order: Register of Deeds (p.136), Office of the Police (pp.137-139), People's Law Enforcement Board (p.140), Fire and Safety Services (p.141), Department of Education (pp.142-143), Lapu-Lapu City College (pp.144-146), City Health Officer (pp.148-150), PESO (pp.153-154), City Social Welfare and Development Center with its Special Purpose Appropriations (pp.155-160), City Veterinarian (pp.167-168), CENRO (pp.170-171), City Engineer (pp.173-174), City Tourism (pp.176-177), Local Economic Development & Promotion Office (pp.179-180). Signatories differ per office; each office head who prepared a form is listed in certifiedBy.",
+    "Columns: 2024 Past Year Actual, 2025 First Semester Actual, 2025 Second Semester Estimates, 2025 Total, 2026 Budget Year Proposed. Amounts in full pesos. The City Health Officer pages print the column headings as '2024 Actual', 'Actual', 'Estimates', 'Total', '2026 Proposed'; same layout.",
+    "Account codes are transcribed as printed (stray spaces removed); codes printed with a leading dash carry the fund/office prefix of the first code in the block.",
+    "Office of the Police: printed pages 138-139 break down the 2024 Past Year Actual of 'Other Professional Services - Police' by program (Crime Prevention, Law Enforcement, Internal Security, Counter Terrorism, Environmental Protection, Drug Affectation, Prosecution and Courts; 12,432,000.00 in total, past-year column only) and end with a Grand Total (2024: 21,825,093.69) that equals the page-137 TOTAL (9,393,093.69) plus these program totals. They are kept in table 'office-of-the-police-programs', whose first row repeats the page-137 TOTAL so that the printed Grand Total can be checked; summary.offices uses the page-137 office TOTAL (2026 proposed 27,284,000.00, same in both).",
+    "City Social Welfare and Development Center: the office block (TOTAL 185,364,853.00 proposed) is followed by Special Purpose Appropriation blocks transcribed as separate tables: Senior Citizens, Gender & Development Office, Operation of Homecare Center, Stimulation and Therapeutic Activity Center (STAC), Person w/ Disability Affairs Office (PDAO) and Solo Parent Welfare Program. The printed GRAND TOTAL on page 159 (2026 proposed 470,313,353.00) is kept in table 'cswdc-grand-total'; it equals the sum of the seven block totals in every column.",
+    "PESO (Public Employment Services Office) and the Local Economic Development & Promotion Office print only 2026 Budget Year Proposed amounts (past-year and 2025 columns blank, recorded as null).",
+    "Blank 2026 Budget Year Proposed cells (e.g. most Capital Outlay lines, CSWDC 'Honorarium for Day Care', Senior Citizens 'Traveling Expenses - Local') are recorded as null; printed dashes as 0. Where a Capital Outlay sub-total has no 2026 amount, summary.offices.capitalOutlay is null (blank) or 0 (dash) as printed.",
+    "All printed sub-totals, totals and grand totals agree with the sum of their line items in every column (no arithmetic inconsistencies found)."
+  ],
+  "unreadable": []
+}

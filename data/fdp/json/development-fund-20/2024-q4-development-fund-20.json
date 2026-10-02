@@ -1,0 +1,1243 @@
+{
+  "id": "2024-q4-development-fund-20",
+  "type": "development-fund-20",
+  "title": "Utilization of the 20% of the National Tax Allotment",
+  "form": "FDP Form 7 - 20% Development Fund Utilization",
+  "period": {
+    "year": 2024,
+    "quarter": 4,
+    "asOf": "2024-12-31",
+    "printed": "Calendar Year: 2024, Quarter: 4",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Q. Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Utilization of the 20% of the National Tax Allotment",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "SOCIAL DEVELOPMENT",
+          "level": 0,
+          "kind": "header",
+          "section": "social",
+          "values": {}
+        },
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 1,
+          "kind": "header",
+          "section": "social",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Repair & Improvement of Day Care Center at Soong I Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Day Care Center at Soong I Day Care Center",
+            "location": "So-ong I, LLC",
+            "totalCost": 700000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF #1-07-04-020-24s7 dated 6/27/24"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Day Care Center at Soong II Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Day Care Center at Soong II Day Care Center",
+            "location": "So-ong II, LLC",
+            "totalCost": 699277.24,
+            "dateStarted": "2024-07-31",
+            "targetCompletion": "2024-12-12",
+            "pctCompletion": 100,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Completed Final billing is being processed"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Day Care Center at Matumbo, Pusok Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Day Care Center at Matumbo, Pusok Day Care Center",
+            "location": "Matumbo Pusok, LLC",
+            "totalCost": 400000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Health Center at Brgy. Caw-oy LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Health Center at Brgy. Caw-oy LLC",
+            "location": "Caw-oy, Olango Island, LLC",
+            "totalCost": 750000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Reverted"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Day Care Center at Kauswagan Bankal Day Care Center IV",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Day Care Center at Kauswagan Bankal Day Care Center IV",
+            "location": "Bankal, LLC",
+            "totalCost": 687234.88,
+            "dateStarted": "2024-10-18",
+            "targetCompletion": "2025-02-14",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Portable Digital Type X-Ray Machine",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of One (1) Unit Portable Digital Type X-Ray Machine",
+            "location": "LLC Hospital",
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Total - SOCIAL DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "social",
+          "values": {
+            "totalCost": 13236512.12,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "ENVIRONMENTAL MANAGEMENT",
+          "level": 0,
+          "kind": "header",
+          "section": "environmental",
+          "values": {}
+        },
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 1,
+          "kind": "header",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Other MOE - Residual Wastes",
+          "level": 1,
+          "kind": "item",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {
+            "program": "Other MOE - Residual Wastes",
+            "location": "LLC",
+            "totalCost": 37996848.5,
+            "dateStarted": "2025-08-30",
+            "targetCompletion": "2025-12-31",
+            "pctCompletion": 100,
+            "costIncurred": 37996848.5,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Total - ENVIRONMENTAL MANAGEMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "environmental",
+          "values": {
+            "totalCost": 37996848.5,
+            "costIncurred": 37996848.5
+          }
+        },
+        {
+          "label": "ECONOMIC DEVELOPMENT",
+          "level": 0,
+          "kind": "header",
+          "section": "economic",
+          "values": {}
+        },
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 1,
+          "kind": "header",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Purchase of Hot Asphalt",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Hot Asphalt",
+            "location": "Roads of Lapu-Lapu City",
+            "totalCost": 3987911,
+            "dateStarted": "2024-06-25",
+            "targetCompletion": "2025-12-31",
+            "pctCompletion": 100,
+            "costIncurred": 3987911,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Purchase of Bitumen/SS1",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Bitumen/SS1",
+            "location": "Roads of Lapu-Lapu City",
+            "totalCost": 862400,
+            "dateStarted": "2024-06-25",
+            "targetCompletion": "2025-12-31",
+            "pctCompletion": 100,
+            "costIncurred": 862400,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Purchase of Agregate Base Course",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Agregate Base Course",
+            "location": "Roads of Lapu-Lapu City",
+            "totalCost": 1598267,
+            "dateStarted": "2025-07-25",
+            "targetCompletion": "2025-12-31",
+            "pctCompletion": 100,
+            "costIncurred": 1598267,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition of Proposed G. Tampus Widening",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition of Proposed G. Tampus Widening",
+            "location": "Basak, LLC",
+            "totalCost": 80000000,
+            "dateStarted": "2024-09-27",
+            "targetCompletion": null,
+            "pctCompletion": 0.02,
+            "costIncurred": 919500,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition - Proposed Skywalk Construction (5 Location)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition - Proposed Skywalk Construction (5 Location)",
+            "location": "Gaisano Grand Mall, Basak, Tamiya, Basak, Cebu Light Industrial Park, Basak and Brgy. Marigondn",
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition - Proposed Calawisan- Babag Diversion Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition - Proposed Calawisan- Babag Diversion Road",
+            "location": "Calawisan, Babag, LLC",
+            "totalCost": 35000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition - Prosposed Skywalk Construction near Ibo Elem.- MEPZ Gate 4",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition - Prosposed Skywalk Construction near Ibo Elem.- MEPZ Gate 4",
+            "location": "Pusok, LLC",
+            "totalCost": 500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Expropriation of Proposed Const. of Canjulao Multi-Purpose Building Covered Court & Evacuation Center (Lot. No. 873)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Expropriation of Proposed Const. of Canjulao Multi-Purpose Building Covered Court & Evacuation Center (Lot. No. 873)",
+            "location": "Canjulao, LLC",
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "reverted"
+          }
+        },
+        {
+          "label": "Purchase of Lot No. 873 Located at Canjulao, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Lot No. 873 Located at Canjulao, LLC",
+            "location": "Canjulao, LLC",
+            "totalCost": 8000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition - Expropriation PUJ New Terminal",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition - Expropriation PUJ New Terminal",
+            "location": "Pajo, LLC",
+            "totalCost": 80000000,
+            "dateStarted": "2024-09-24",
+            "targetCompletion": null,
+            "pctCompletion": 100,
+            "costIncurred": 444960,
+            "extensions": null,
+            "remarks": "Full Payment"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Datag Covered Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Datag Covered Court",
+            "location": "Maribago, LLC",
+            "totalCost": 3496666.81,
+            "dateStarted": "2024-06-10",
+            "targetCompletion": "Dec-25",
+            "pctCompletion": 100,
+            "costIncurred": 3496666.81,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Brgy. Sabang, Covered Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Brgy. Sabang, Covered Court",
+            "location": "Sabang, LLC",
+            "totalCost": 4000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF #1-07-04-990-24s12 dated 10/30/24"
+          }
+        },
+        {
+          "label": "Construction and Improvement of Tugas Cemetery",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction and Improvement of Tugas Cemetery",
+            "location": "Gun-ob, LLC",
+            "totalCost": 16496888,
+            "dateStarted": "2024-11-29",
+            "targetCompletion": "2025-01-26",
+            "pctCompletion": 15,
+            "costIncurred": 2474533.2,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence and Gate with Guardhouse at Lapu-Lapu City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Perimeter Fence and Gate with Guardhouse at Lapu-Lapu City College",
+            "location": "Gun-ob, LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF #1-07-04-990-24s14 dated 10/04/24"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Mini Dumptruck",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of One (1) Unit Mini Dumptruck",
+            "location": null,
+            "totalCost": 4000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with earmarked date 7/5/24 PR #24-07-0851, 4,000,000"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Declogger",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of One (1) Unit Declogger",
+            "location": null,
+            "totalCost": 16000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with earmarked date 7/3/24 PR #24-07-0849, 16,000,000"
+          }
+        },
+        {
+          "label": "Purchase of Motorized Lift",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Motorized Lift",
+            "location": null,
+            "totalCost": 700000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with earmarked date 7/1/24 PR #24-07-0850, 700,000"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition - Proposed Sudtunggan, Basak Bridge",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition - Proposed Sudtunggan, Basak Bridge",
+            "location": "Sudtungan, Basak, LLC",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot Acquisition - Proposed Sudtunggan Road (Chapel) to Basketball Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot Acquisition - Proposed Sudtunggan Road (Chapel) to Basketball Court",
+            "location": "Sudtungan, Basak, LLC",
+            "totalCost": 7000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation of Lot #2880-B and Lot #2880-C affected by the Road Opening connecting Kagudoy and Aviation Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation of Lot #2880-B and Lot #2880-C affected by the Road Opening connecting Kagudoy and Aviation Road",
+            "location": "Basak, LLC",
+            "totalCost": 4214303.06,
+            "dateStarted": "2024-06-10",
+            "targetCompletion": "2024-07-08",
+            "pctCompletion": 100,
+            "costIncurred": 4214303.06,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Payment of just compensation of Lot #559-B-6-E-6 located at Brgy. Gun-ob, Lapu-Lapu City",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of just compensation of Lot #559-B-6-E-6 located at Brgy. Gun-ob, Lapu-Lapu City",
+            "location": "Gun-ob, LLC",
+            "totalCost": 8879220,
+            "dateStarted": "2024-06-10",
+            "targetCompletion": "2024-11-16",
+            "pctCompletion": 100,
+            "costIncurred": 8879220,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Payment of just compensation of affected property of the porposed opening of Masiwa-Ibabao Road Traversing Brgy. Marigondon and Agus",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of just compensation of affected property of the porposed opening of Masiwa-Ibabao Road Traversing Brgy. Marigondon and Agus",
+            "location": "Marigondon, LLC",
+            "totalCost": 971600,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot No. 5643-B affected property ot the proposed Ylaya Pag-ambakan Road Opening at Brgy. Marigondon",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot No. 5643-B affected property ot the proposed Ylaya Pag-ambakan Road Opening at Brgy. Marigondon",
+            "location": "Marigondon, LLC",
+            "totalCost": 144270,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Asphalt Overlay of Mactan Air Base Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Asphalt Overlay of Mactan Air Base Road",
+            "location": "Sangi, Pajo, LLC",
+            "totalCost": 4984524.52,
+            "dateStarted": "2024-04-15",
+            "targetCompletion": "2024-05-14",
+            "pctCompletion": 100,
+            "costIncurred": 4984524.52,
+            "extensions": null,
+            "remarks": "completed"
+          }
+        },
+        {
+          "label": "Construction of Two (2) Storey Archive Bldg. in Motorpool Compound, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Two (2) Storey Archive Bldg. in Motorpool Compound, Gun-ob, LLC",
+            "location": "Gun-ob, LLC",
+            "totalCost": 1792667.42,
+            "dateStarted": "2024-12-05",
+            "targetCompletion": "2025-04-03",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Mini City Hall Bldg. (Phase II) at Talima, Olango Island LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Mini City Hall Bldg. (Phase II) at Talima, Olango Island LLC",
+            "location": "Talima, LLC",
+            "totalCost": 2200000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "CAF #1-07-04-010-24s2 dated 11/5/24"
+          }
+        },
+        {
+          "label": "Construction of New Repair Bay for Engineering Equipment in Motorpool Compound, Gun-ob, LLC (Phase I)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of New Repair Bay for Engineering Equipment in Motorpool Compound, Gun-ob, LLC (Phase I)",
+            "location": "Gun-ob, LLC",
+            "totalCost": 4000000,
+            "dateStarted": "2024-06-27",
+            "targetCompletion": null,
+            "pctCompletion": 40,
+            "costIncurred": 1582967.1,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Repair & Imrpovement of Local Civil Registrar Office",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Imrpovement of Local Civil Registrar Office",
+            "location": "Pusok, LLC",
+            "totalCost": 500000,
+            "dateStarted": "2024-07-31",
+            "targetCompletion": "2024-12-12",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "CAF #1-07-04-010-24s2 dated 5/31/24"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Public Information Office",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Public Information Office",
+            "location": "Pusok, LLC",
+            "totalCost": 398056.64,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2024-10-29",
+            "pctCompletion": 100,
+            "costIncurred": 398056.64,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Repair & Improvement of MRF Bldg. at Soong, Mactan, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of MRF Bldg. at Soong, Mactan, LLC",
+            "location": "Soong, Mactan, LLC",
+            "totalCost": 2484476.94,
+            "dateStarted": "2024-08-30",
+            "targetCompletion": "2024-10-28",
+            "pctCompletion": 15,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "Construction of Multi-Purpose Building at Tungasan, Olango Island (Phase II) with Fence",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Multi-Purpose Building at Tungasan, Olango Island (Phase II) with Fence",
+            "location": "Tungasan, Olango Island",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "reverted"
+          }
+        },
+        {
+          "label": "Repair/Improvement of Multi-Purpose Building at Muelle Osmeña, Poblacion (Phasel)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair/Improvement of Multi-Purpose Building at Muelle Osmeña, Poblacion (Phasel)",
+            "location": "Poblacion, LLC",
+            "totalCost": 14000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of IT Building at City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of IT Building at City College",
+            "location": "Gun-ob, LLC",
+            "totalCost": 3500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Dormitory Bldg. at City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Dormitory Bldg. at City College",
+            "location": "Gun-ob, LLC",
+            "totalCost": 1200000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Education Bldg. at City College (Roofing)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Education Bldg. at City College (Roofing)",
+            "location": "Gun-ob, LLC",
+            "totalCost": 497852.81,
+            "dateStarted": "Dec-24",
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "Repair & Improvement of College of Arts & Science Bldg. at City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of College of Arts & Science Bldg. at City College",
+            "location": "Gun-ob, LLC",
+            "totalCost": 800000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "CAF #9999-1-07-04-020-24s4 dated 11/18/24"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Administration Bldg. at City College, Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Administration Bldg. at City College, Gun-ob",
+            "location": "Gun-ob, LLC",
+            "totalCost": 2500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "CAF #9999-1-07-04-020-24s5 dated 11/18/24"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structures - Proposed G. Tampus Widening",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structures - Proposed G. Tampus Widening",
+            "location": "Gun-ob, LLC",
+            "totalCost": 7000000,
+            "dateStarted": "2024-09-27",
+            "targetCompletion": null,
+            "pctCompletion": 4,
+            "costIncurred": 252205.42,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Installation of Fence along Basak-Timpolok, babag Access Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Installation of Fence along Basak-Timpolok, babag Access Road",
+            "location": "Basak, Babag, LLC",
+            "totalCost": 2700000,
+            "dateStarted": "2024-10-03",
+            "targetCompletion": "2024-12-01",
+            "pctCompletion": 52,
+            "costIncurred": 1407793.03,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structure - Proposed Skywalk Construction (5 Location)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structure - Proposed Skywalk Construction (5 Location)",
+            "location": "Gaisano Grand Mall, Basak, Tamiya, Basak, Cebu Light Industrial Park, Basak and Brgy. Marigondn",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structure - Proposed Calawisan - Babag Diversion Road (2.3 kms.) Phase I",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structure - Proposed Calawisan - Babag Diversion Road (2.3 kms.) Phase I",
+            "location": "Calawisan, Babag, LLC",
+            "totalCost": 10500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structure - Proposed Skywalk Construction near Ibo Elem.- MEPZ Gate 4",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structure - Proposed Skywalk Construction near Ibo Elem.- MEPZ Gate 4",
+            "location": "Ibo, LLC",
+            "totalCost": 150000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structure - Expropriation Proposed Const. of Canjulao Multi-Purpose Bldg., Covered Court & Evaluation Center (Lot No.873)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structure - Expropriation Proposed Const. of Canjulao Multi-Purpose Bldg., Covered Court & Evaluation Center (Lot No.873)",
+            "location": "Canjulao, LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "reverted"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structure - Proposed Sudtunggan, Basak Bridge",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structure - Proposed Sudtunggan, Basak Bridge",
+            "location": "Basak, LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Affected Structure - Proposed Sudtunggan Road (Chapel) to Basketball Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Affected Structure - Proposed Sudtunggan Road (Chapel) to Basketball Court",
+            "location": "Sudtungan, Basak, LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence & Gate with Guard House at City College (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Perimeter Fence & Gate with Guard House at City College (Phase II)",
+            "location": "Gun-ob, LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "CAF #9999-1-04-990-24s8 dated 10/4/24"
+          }
+        },
+        {
+          "label": "Construction of Fence at City Hall (Phase I)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Fence at City Hall (Phase I)",
+            "location": "Pusok, LLC",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "reverted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of City Mobile Force Company (CMFC) Building, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of City Mobile Force Company (CMFC) Building, LLC",
+            "location": "Pusok, LLC",
+            "totalCost": 248278.4,
+            "dateStarted": "2024-12-13",
+            "targetCompletion": "2025-03-12",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Repair and Improvement of LCPO Headquarters",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of LCPO Headquarters",
+            "location": "Pusok, LLC",
+            "totalCost": 434764.18,
+            "dateStarted": "2024-12-13",
+            "targetCompletion": "2025-03-12",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Repair and Renovation of Homecare Building and Fence",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Renovation of Homecare Building and Fence",
+            "location": "Gun-ob, LLC",
+            "totalCost": 1397606.01,
+            "dateStarted": "2024-10-18",
+            "targetCompletion": null,
+            "pctCompletion": 31,
+            "costIncurred": 427340.07,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Repair and Renovation of Suba-basbas Multi-purpose Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Renovation of Suba-basbas Multi-purpose Building",
+            "location": "Suba-basbas, LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Lot No. 1459-C-2 located at Babag, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Lot No. 1459-C-2 located at Babag, LLC",
+            "location": "Babag, LLC",
+            "totalCost": 231685,
+            "dateStarted": "Oct-24",
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "ongoing"
+          }
+        },
+        {
+          "label": "Total ECONOMIC",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "economic",
+          "values": {
+            "totalCost": 374871437.79,
+            "costIncurred": 35930647.85
+          }
+        },
+        {
+          "label": "Grand TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "totalCost": 426104798.41,
+            "costIncurred": 73927496.35
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": 426104798.41,
+    "costIncurred": 73927496.35,
+    "projectCount": 59
+  },
+  "notes": [
+    "Low-resolution scan; pages were re-rendered at higher resolution for reading. Every item total, section subtotal and the grand total (cost and cost incurred) reconcile exactly.",
+    "All projects are listed under CURRENT APPROPRIATION; no continuing appropriation is printed. The Social subtotal prints no cost-incurred figure (null).",
+    "Dates are printed mostly as DD-Mon-YY (e.g. 31-Jul-24) and were converted to ISO; month-only dates (Dec-25, Dec-24, Oct-24) are kept as printed text.",
+    "Several dates are printed with year 25 although the report is as of Q4 2024: Other MOE - Residual Wastes started 30-Aug-25 / target 31-Dec-25 and Purchase of Agregate Base Course started 25-Jul-25 (both reported 100% complete), and target completion 31-Dec-25 for the asphalt/bitumen/aggregate purchases and Dec-25 for Datag Covered Court. These look like typing errors for 2024 but are transcribed as printed.",
+    "Payment of Just Compensation for Affected Structures - Proposed G. Tampus Widening prints a total cost of 7,000,000.00 (17,000,000.00 in the Q3 2024 report); the economic subtotal reconciles with 7,000,000.00.",
+    "PUJ New Terminal lot acquisition prints 100% completion and \"Full Payment\" with cost incurred 444,960.00 against total cost 80,000,000.00; G. Tampus lot acquisition prints 0.02% with 919,500.00 incurred; Public Information Office prints 100% with remark \"Ongoing\". All transcribed as printed.",
+    "Tick marks in the No. of Extensions column of several rows are recorded as blank (null)."
+  ],
+  "unreadable": []
+}

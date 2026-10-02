@@ -1,0 +1,422 @@
+{
+  "id": "2022-q1-cash-flows",
+  "type": "cash-flows",
+  "title": "Statement of Cash Flows",
+  "form": "FDP Form 9 - Statement of Cash Flow (COA Form)",
+  "period": {
+    "year": 2022,
+    "quarter": 1,
+    "asOf": "2022-03-31",
+    "printed": "As of March 31, 2022",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Statement of Cash Flows",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Cash Flows from Operating Activities:",
+          "level": 0,
+          "kind": "header",
+          "values": {},
+          "section": "operating"
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "operatingInflows"
+        },
+        {
+          "key": "collectionsFromTaxpayers",
+          "label": "Collection from taxpayers",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 443304480.65
+          }
+        },
+        {
+          "key": "shareFromIrc",
+          "label": "Share from Internal Revenue Collections",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 281630198
+          }
+        },
+        {
+          "key": "receiptsFromBusiness",
+          "label": "Receipts from business/service",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 71669200.15
+          }
+        },
+        {
+          "key": "interestIncome",
+          "label": "Interest Income",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 4052982.79
+          }
+        },
+        {
+          "label": "Gain on Sale of PPE",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "key": "otherReceipts",
+          "label": "Other Receipts",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 172055988.2
+          }
+        },
+        {
+          "label": "Total Cash Inflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "operatingInflows",
+          "values": {
+            "amount": 972712849.79
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "operatingOutflows"
+        },
+        {
+          "label": "Payments -",
+          "level": 2,
+          "kind": "header",
+          "values": {},
+          "section": "operatingOutflows"
+        },
+        {
+          "key": "paymentsToSuppliers",
+          "label": "To suppliers/creditors",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "amount": 49410293.54
+          }
+        },
+        {
+          "key": "paymentsToEmployees",
+          "label": "To employees",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "amount": 92503429.3
+          }
+        },
+        {
+          "key": "interestExpense",
+          "label": "Interest Expense",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "key": "otherExpenses",
+          "label": "Other Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "amount": 838602988.08
+          }
+        },
+        {
+          "label": "Total Cash Outflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "operatingOutflows",
+          "values": {
+            "amount": 980516710.92
+          }
+        },
+        {
+          "key": "netOperating",
+          "label": "Net Cash from Operating Activities",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "operating",
+          "values": {
+            "total": -7803861.13
+          }
+        },
+        {
+          "label": "Cash Flows from Investing Activities:",
+          "level": 0,
+          "kind": "header",
+          "values": {},
+          "section": "investing"
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "investingInflows"
+        },
+        {
+          "label": "From Sale of Property, Plant and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "From Sale of Debt Securities of Other Entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "From Collection of Principal on Loans to Other Entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Total Cash Inflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "investingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "investingOutflows"
+        },
+        {
+          "label": "To Purchase Property, Plant and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOutflows",
+          "values": {
+            "amount": 7080497.77
+          }
+        },
+        {
+          "label": "To Purchase Intangible Assets",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOutflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "To Grant/Make Loans to Other Entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOutflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Total Cash Outflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "investingOutflows",
+          "values": {
+            "amount": 7080497.77
+          }
+        },
+        {
+          "key": "netInvesting",
+          "label": "Net Cash from Investing Activities",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "investing",
+          "values": {
+            "total": -7080497.77
+          }
+        },
+        {
+          "label": "Cash Flows from Financing Activities",
+          "level": 0,
+          "kind": "header",
+          "values": {},
+          "section": "financing"
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "financingInflows"
+        },
+        {
+          "label": "From Issuance of Debt Securities",
+          "level": 2,
+          "kind": "item",
+          "section": "financingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "From Acquisition of Loan",
+          "level": 2,
+          "kind": "item",
+          "section": "financingInflows",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Total Cash Inflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "financingInflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "financingOutflows"
+        },
+        {
+          "label": "Retirement/Redemption of Debt Securities",
+          "level": 2,
+          "kind": "item",
+          "section": "financingOutflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "label": "Payment of Loan Amortization",
+          "level": 2,
+          "kind": "item",
+          "section": "financingOutflows",
+          "values": {
+            "amount": null
+          }
+        },
+        {
+          "label": "Total Cash Outflow",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "financingOutflows",
+          "values": {
+            "amount": 0
+          }
+        },
+        {
+          "key": "netFinancing",
+          "label": "Net Cash from Financing Activities",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "financing",
+          "values": {
+            "total": 0
+          }
+        },
+        {
+          "key": "netChange",
+          "label": "Net Increase in Cash",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "total": -14884358.9
+          }
+        },
+        {
+          "key": "cashBeginning",
+          "label": "Cash at Beginning of the Period",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "total": 2575123644.24
+          }
+        },
+        {
+          "key": "cashEnd",
+          "label": "Cash at the End of the Period",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "total": 2560239285.34
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "netOperating": -7803861.13,
+    "netInvesting": -7080497.77,
+    "netFinancing": 0,
+    "netChange": -14884358.9,
+    "cashBeginning": 2575123644.24,
+    "cashEnd": 2560239285.34
+  },
+  "notes": [
+    "Column \"amount\" is the detail column and \"total\" the net column; column headings are not printed.",
+    "The row is labelled \"Net Increase in Cash\" but the printed figure is negative (14,884,358.90), i.e. a net decrease."
+  ],
+  "unreadable": []
+}

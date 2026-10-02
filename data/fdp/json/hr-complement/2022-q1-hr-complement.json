@@ -1,0 +1,179 @@
+{
+  "id": "2022-q1-hr-complement",
+  "type": "hr-complement",
+  "title": "Human Resource Complement",
+  "form": "FDP Form 13- Manpower Complement",
+  "period": {
+    "year": 2022,
+    "quarter": 1,
+    "asOf": "2022-03-31",
+    "printed": "As of MARCH 31,2022",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Atty. Mario Dennis A. Calvo, MPA",
+      "position": "Human Resource Management Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "Local Chief Executive"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Human Resource Complement",
+      "columns": [
+        {
+          "key": "count",
+          "label": "Number",
+          "type": "number"
+        },
+        {
+          "key": "salaries",
+          "label": "Salaries and Wages",
+          "type": "amount"
+        },
+        {
+          "key": "otherBenefits",
+          "label": "Other Monetary Benefits",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "electivePermanent",
+          "label": "I. Elective / Permanent (compensation printed for the group)",
+          "level": 0,
+          "kind": "item",
+          "section": "group1",
+          "values": {
+            "count": null,
+            "salaries": 47008501.63,
+            "otherBenefits": 24905307.68,
+            "total": 71913809.31
+          }
+        },
+        {
+          "key": "elective",
+          "label": "I. Elective",
+          "level": 1,
+          "kind": "item",
+          "section": "group1",
+          "values": {
+            "count": 15,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "permanent",
+          "label": "Permanent",
+          "level": 1,
+          "kind": "item",
+          "section": "group1",
+          "values": {
+            "count": 673,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "temporaryCasualCoterminous",
+          "label": "II. Temporary / Contractual : Casual / Confidentials/Co-Terminous (compensation printed for the group)",
+          "level": 0,
+          "kind": "item",
+          "section": "group2",
+          "values": {
+            "count": null,
+            "salaries": 20589619.99,
+            "otherBenefits": null,
+            "total": 20589619.99
+          }
+        },
+        {
+          "key": "temporary",
+          "label": "II. Temporary",
+          "level": 1,
+          "kind": "item",
+          "section": "group2",
+          "values": {
+            "count": null,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "casual",
+          "label": "Contractual : Casual",
+          "level": 1,
+          "kind": "item",
+          "section": "group2",
+          "values": {
+            "count": 772,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "coterminous",
+          "label": "Confidentials/Co-Terminous",
+          "level": 1,
+          "kind": "item",
+          "section": "group2",
+          "values": {
+            "count": 87,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "jobOrder",
+          "label": "III. Job Order/ Contract of Service",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 3256,
+            "salaries": 79667794.15,
+            "otherBenefits": null,
+            "total": 79667794.15
+          }
+        },
+        {
+          "key": "total",
+          "label": "Grand Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "count": 4803,
+            "salaries": 147265915.77,
+            "otherBenefits": 24905307.68,
+            "total": 172171223.45
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "On this form the compensation cells for group I (Elective, Permanent) span several appointment rows. Counts are recorded on the individual rows; the group's printed amounts are recorded once on the row 'I. Elective / Permanent' (count null), so nothing is double counted. Likewise for group II (Temporary, Contractual: Casual, Confidentials/Co-Terminous).",
+    "The row printed 'Contractual : Casual' is keyed 'casual'; the separate 'Confidentials/Co-Terminous' row is keyed 'coterminous'.",
+    "The 'II. Temporary' Number cell is blank on the form."
+  ],
+  "unreadable": []
+}

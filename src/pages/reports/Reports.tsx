@@ -31,6 +31,7 @@ import FinancesSection from '../../components/reports/sections/FinancesSection';
 import FundsSection from '../../components/reports/sections/FundsSection';
 import ProcurementSection from '../../components/reports/sections/ProcurementSection';
 import WorkforceSection from '../../components/reports/sections/WorkforceSection';
+import { headcountOf } from '../../components/reports/workforce';
 import {
   latestForYear,
   partialLabel,
@@ -70,8 +71,7 @@ function Overview({ data, year }: { data: FdpDatasets; year: number }) {
   const expenditure = sreTotal(sre, 'totalCurrentOperatingExpenditures');
   const nta = sreTotal(sre, 'nta');
   const hr = latestForYear(data.workforce, year);
-  const headcount = hr?.rows.find(r => r.key === 'total' || r.kind === 'total')
-    ?.values.count;
+  const headcount = hr ? headcountOf(hr) : null;
   const bids = data.procurement.filter(r => r.year === year);
   const debt = latestForYear(data.debt, year);
   const periodNote = (e?: { year: number; quarter: number | null }) =>
@@ -101,7 +101,7 @@ function Overview({ data, year }: { data: FdpDatasets; year: number }) {
         <StatCard
           label="Reliance on national allotment"
           value={
-            isNumber(nta) && isNumber(income) && income
+            isNumber(nta) && nta > 0 && isNumber(income) && income
               ? formatPercent((nta / income) * 100)
               : '—'
           }

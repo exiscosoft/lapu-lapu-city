@@ -1,0 +1,108 @@
+{
+  "id": "2026-q1-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2026,
+    "quarter": 1,
+    "asOf": "2026-03-31",
+    "printed": "CALENDAR YEAR 2026, QUARTER 1",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Green Green Green Program - RA No. 11975-LGSF",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Green Green Green Program - RA No. 11975-LGSF",
+            "location": null,
+            "totalCost": 13273638,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "remarks": "Awarded"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 1
+  },
+  "notes": [
+    "The program cell is printed on two lines: \"1. Green Green Green Program\" and, indented below it, \"RA No. 11975-LGSF\"; they are joined into one project.",
+    "Only Total Cost (13,273,638.00) and Remarks (\"Awarded\") are filled in; Location, Date Started, Target Completion, % of Completion, Cost Incurred and Extensions are blank (null).",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null."
+  ],
+  "unreadable": []
+}

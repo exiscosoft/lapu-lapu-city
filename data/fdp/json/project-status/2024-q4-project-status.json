@@ -1,0 +1,177 @@
+{
+  "id": "2024-q4-project-status",
+  "type": "project-status",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2024,
+    "quarter": 4,
+    "asOf": "2024-12-31",
+    "printed": "CALENDAR YEAR 2024, QUARTER 4",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Repair and Improvement of Garbage Holding Center at Lapulapu City Public Market (PH 2)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Repair and Improvement of Garbage Holding Center at Lapulapu City Public Market (PH 2)",
+            "location": "Poblacion",
+            "totalCost": 998282.97,
+            "dateStarted": "2024-07-31",
+            "targetCompletion": "2024-10-26",
+            "pctCompletion": 100,
+            "costIncurred": 996445.39,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "2. Completion/Upgrade/Repair of Lapulapu City Health Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Completion/Upgrade/Repair of Lapulapu City Health Center",
+            "location": "Pusok",
+            "totalCost": 1908248.57,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2024-11-06",
+            "pctCompletion": 100,
+            "costIncurred": 1900875.67,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "3. Rehabilitation and Upgrade of Pangan-an Multi-Purpose/ Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Rehabilitation and Upgrade of Pangan-an Multi-Purpose/ Evacuation Center",
+            "location": "Pangan-an",
+            "totalCost": 4905358.88,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2025-01-11",
+            "pctCompletion": 100,
+            "costIncurred": 3972087.48,
+            "extensions": null,
+            "remarks": "Completed but final billing not paid yet"
+          }
+        },
+        {
+          "label": "4. Completion of roofing at Lapulapu City College",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Completion of roofing at Lapulapu City College",
+            "location": "Gun-ob",
+            "totalCost": 551200,
+            "dateStarted": "2020-06-26",
+            "targetCompletion": "2020-08-24",
+            "pctCompletion": 90,
+            "costIncurred": 496080,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "5. Construction of Caubian Barangay Hall",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "5. Construction of Caubian Barangay Hall",
+            "location": "Caubian",
+            "totalCost": 4789416.44,
+            "dateStarted": "2019-04-04",
+            "targetCompletion": "2019-10-08",
+            "pctCompletion": 90,
+            "costIncurred": 718412.47,
+            "extensions": null,
+            "remarks": "Suspended due to lot problem"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 5
+  },
+  "notes": [
+    "The form is labelled \"FDP Form 6 - Trust Fund Utilization\" (the same form and projects as the trust-fund series); the catalog classifies it as a project status report by its printed title.",
+    "Dates are printed day-first (e.g. 31/07/2024, 06/11/2024, 11/01/2025, 08/10/2019) and were converted accordingly, consistent with the trust-fund series.",
+    "Project names are as printed apart from obvious typos: the source prints \"Lapu;apu City Health Center\" (Lapulapu) and \"Multi-Porpuse\" (Multi-Purpose).",
+    "Low-resolution scan; all figures were re-read on a 4500px re-render of the PDF.",
+    "Project 3 is printed at 100% completion with cost incurred 3,972,087.48 and remark \"Completed but final billing not paid yet\" (later reports show 4,967,028.65).",
+    "Project 3 target completion (11/01/2025) is after the reporting period; transcribed as printed.",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null."
+  ],
+  "unreadable": []
+}

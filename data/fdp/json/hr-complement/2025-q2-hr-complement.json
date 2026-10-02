@@ -1,0 +1,123 @@
+{
+  "id": "2025-q2-hr-complement",
+  "type": "hr-complement",
+  "title": "Human Resource Complement",
+  "form": "FDP Form 13- Manpower Complement",
+  "period": {
+    "year": 2025,
+    "quarter": 2,
+    "asOf": "2025-06-30",
+    "printed": "Calendar Year 2025, Quarter 2",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Atty. Mario Dennis A. Calvo, MPA",
+      "position": "Human Resource Management Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "Local Chief Executive"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Human Resource Complement",
+      "columns": [
+        {
+          "key": "count",
+          "label": "Number",
+          "type": "number"
+        },
+        {
+          "key": "salaries",
+          "label": "Salaries and Wages",
+          "type": "amount"
+        },
+        {
+          "key": "otherBenefits",
+          "label": "Other Monetary Benefits",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "permanent",
+          "label": "I. Permanent",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 648,
+            "salaries": 52979837.0,
+            "otherBenefits": 27660718.02,
+            "total": 80640555.02
+          }
+        },
+        {
+          "key": "contractual",
+          "label": "II. Contractual",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 85,
+            "salaries": 3811829.99,
+            "otherBenefits": 3422059.04,
+            "total": 7233889.03
+          }
+        },
+        {
+          "key": "jobOrder",
+          "label": "III. Job Order/ Contract of Service",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 3852,
+            "salaries": 222810200.65,
+            "otherBenefits": null,
+            "total": 222810200.65
+          }
+        },
+        {
+          "key": "casual",
+          "label": "IV. Casual",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 832,
+            "salaries": 18877634.23,
+            "otherBenefits": 16947340.01,
+            "total": 35824974.24
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "count": 5417,
+            "salaries": 298479501.87,
+            "otherBenefits": 48030117.07,
+            "total": 346509618.94
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "Form printed with 'CALENDAR YEAR' and 'QUARTER' fields; asOf set to the quarter end.",
+    "On the scan the amount cells sit about half a row above their labels; amounts were assigned to rows in printed order (each row's Salaries + Other Benefits equals its Total)."
+  ],
+  "unreadable": []
+}

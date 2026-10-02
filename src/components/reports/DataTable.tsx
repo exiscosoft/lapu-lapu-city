@@ -151,10 +151,7 @@ export default function DataTable<T>({
                     <button
                       type="button"
                       onClick={() => toggleSort(c.key)}
-                      className={cn(
-                        'inline-flex items-center gap-1 uppercase hover:text-gray-900',
-                        c.align === 'right' && 'flex-row-reverse'
-                      )}
+                      className="inline-flex items-center gap-1 uppercase hover:text-gray-900"
                     >
                       {c.header}
                       {sort?.key === c.key ? (

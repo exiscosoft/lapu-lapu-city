@@ -1,0 +1,250 @@
+{
+  "id": "2026-q1-cash-advances",
+  "type": "cash-advances",
+  "title": "Unliquidated Cash Advances",
+  "form": "FDP Form 12 - Unliquidated Cash Advances",
+  "period": {
+    "year": 2026,
+    "quarter": 1,
+    "asOf": "2026-03-31",
+    "printed": "Calendar Year: 2026, Quarter: 1",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Unliquidated Cash Advances",
+      "columns": [
+        {
+          "key": "name",
+          "label": "Name of Debtor (in alphabetical order)",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount Balance",
+          "type": "amount"
+        },
+        {
+          "key": "dateGranted",
+          "label": "Date Granted",
+          "type": "text"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "lt30",
+          "label": "Less than 30 days",
+          "type": "amount"
+        },
+        {
+          "key": "d31to90",
+          "label": "31-90 days",
+          "type": "amount"
+        },
+        {
+          "key": "d91to365",
+          "label": "91-365 days",
+          "type": "amount"
+        },
+        {
+          "key": "over1y",
+          "label": "Over 1 year",
+          "type": "amount"
+        },
+        {
+          "key": "over2y",
+          "label": "Over 2 years",
+          "type": "amount"
+        },
+        {
+          "key": "over3y",
+          "label": "3 years and above",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Abugan, Cleto",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abugan, Cleto",
+            "amount": 8376,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 8376
+          }
+        },
+        {
+          "label": "Avila, Clifford",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Avila, Clifford",
+            "amount": 1610.13,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 1610.13
+          }
+        },
+        {
+          "label": "Bagano, Merlo",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Bagano, Merlo",
+            "amount": 3650,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 3650
+          }
+        },
+        {
+          "label": "Banacia, Nigel",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Banacia, Nigel",
+            "amount": 154279.78,
+            "dateGranted": "Feb-26",
+            "purpose": "Travel",
+            "d31to90": 154279.78
+          }
+        },
+        {
+          "label": "Dayag, Emerson",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Dayag, Emerson",
+            "amount": 16642.01,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 16642.01
+          }
+        },
+        {
+          "label": "Espinosa, Michael",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Espinosa, Michael",
+            "amount": 9780,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 9780
+          }
+        },
+        {
+          "label": "Sayson, James Allan",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sayson, James Allan",
+            "amount": 154279.78,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 154279.78
+          }
+        },
+        {
+          "label": "Sevilla, Maricon G.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sevilla, Maricon G.",
+            "amount": 17300,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "over3y": 17300
+          }
+        },
+        {
+          "label": "Silkawan, Caesar",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Silkawan, Caesar",
+            "amount": 21000,
+            "dateGranted": "Sep-19",
+            "purpose": "Travel",
+            "over3y": 21000
+          }
+        },
+        {
+          "label": "Tahadlangit, Jasper",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Tahadlangit, Jasper",
+            "amount": 15550.4,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 15550.4
+          }
+        },
+        {
+          "label": "Vertudazo, Evangeline",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Vertudazo, Evangeline",
+            "amount": 20180,
+            "dateGranted": "Mar-26",
+            "purpose": "Travel",
+            "d31to90": 20180
+          }
+        },
+        {
+          "label": "Yrastorza, Raphael Sr.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Yrastorza, Raphael Sr.",
+            "amount": 10880,
+            "dateGranted": "Jan-26",
+            "purpose": "Travel",
+            "d31to90": 10880
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 433528.1,
+            "lt30": 0,
+            "d31to90": 395228.1,
+            "d91to365": 0,
+            "over1y": 0,
+            "over2y": 0,
+            "over3y": 38300
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": 433528.1,
+    "count": 12
+  },
+  "notes": [
+    "Each item row has its balance repeated in exactly one aging column. Date Granted is printed as month-year and kept as text. An empty row below the list shows only a \"-\" in Amount Balance and is not transcribed. All column totals equal the sum of the rows. Certification names marked SIGNED by hand.",
+    "Several balances are identical to very old advances in the 2019-2020 reports but now carry Jan-26 dates and sit under \"31-90 days\": Abugan, Cleto 8,376.00 (previously Jun-97); Bagano, Merlo 3,650.00 (Mar-04); Dayag, Emerson 16,642.01 (Apr-07); Tahadlangit, Jasper 15,550.40 (Nov-08); Yrastorza, Raphael Sr. 10,880.00 (Jun-11). Transcribed as printed. \"Silkawan, Caesar\" (21,000.00, Sep-19) is spelled \"Silawan, Cesar\" in other reports. \"Sevilla, Maricon G.\" (Aug-24) is under \"3 years and above\"."
+  ],
+  "unreadable": []
+}

@@ -54,6 +54,7 @@ const SECTION_LABELS: Record<string, string> = {
   social: 'Social development',
   environmental: 'Environmental development',
   economic: 'Economic development',
+  institutional: 'Institutional development',
 };
 
 function periodOf(e: { year: number; quarter: number | null }) {
@@ -159,7 +160,12 @@ function ProjectFund({
         <StatCard
           label="Programmed cost"
           value={formatPeso(totalCost, { compact: true })}
-          subtext={formatPeso(totalCost)}
+          subtext={
+            isNumber(selected.summary.printedTotalCost) &&
+            Math.abs(selected.summary.printedTotalCost - totalCost) > 1
+              ? `Sum of listed projects. The report prints a total of ${formatPeso(selected.summary.printedTotalCost)}.`
+              : formatPeso(totalCost)
+          }
           icon={Coins}
         />
         <StatCard

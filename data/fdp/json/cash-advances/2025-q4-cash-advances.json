@@ -1,0 +1,226 @@
+{
+  "id": "2025-q4-cash-advances",
+  "type": "cash-advances",
+  "title": "Unliquidated Cash Advances",
+  "form": "FDP Form 12 - Unliquidated Cash Advances",
+  "period": {
+    "year": 2025,
+    "quarter": 4,
+    "asOf": "2025-12-31",
+    "printed": "Calendar Year: 2025, Quarter: 4",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Unliquidated Cash Advances",
+      "columns": [
+        {
+          "key": "name",
+          "label": "Name of Debtor (in alphabetical order)",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount Balance",
+          "type": "amount"
+        },
+        {
+          "key": "dateGranted",
+          "label": "Date Granted",
+          "type": "text"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "lt30",
+          "label": "Less than 30 days",
+          "type": "amount"
+        },
+        {
+          "key": "d31to90",
+          "label": "31-90 days",
+          "type": "amount"
+        },
+        {
+          "key": "d91to365",
+          "label": "91-365 days",
+          "type": "amount"
+        },
+        {
+          "key": "over1y",
+          "label": "Over 1 year",
+          "type": "amount"
+        },
+        {
+          "key": "over2y",
+          "label": "Over 2 years",
+          "type": "amount"
+        },
+        {
+          "key": "over3y",
+          "label": "3 years and above",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Abalos, Jacquiline",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abalos, Jacquiline",
+            "amount": 27100,
+            "dateGranted": "Dec-25",
+            "purpose": "Travel",
+            "d31to90": 27100
+          }
+        },
+        {
+          "label": "Abalos, Junard",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abalos, Junard",
+            "amount": 5088.17,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "d91to365": 5088.17
+          }
+        },
+        {
+          "label": "Bensi, Joseph Ian",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Bensi, Joseph Ian",
+            "amount": 17020,
+            "dateGranted": "Nov-25",
+            "purpose": "Travel",
+            "d31to90": 17020
+          }
+        },
+        {
+          "label": "Berdon, Ramon A.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Berdon, Ramon A.",
+            "amount": 22300,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d91to365": 22300
+          }
+        },
+        {
+          "label": "Delos Santos, Louie P.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Delos Santos, Louie P.",
+            "amount": 13520,
+            "dateGranted": "Nov-25",
+            "purpose": "Travel",
+            "d31to90": 13520
+          }
+        },
+        {
+          "label": "Lofranco, Cherish Raquel M.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Lofranco, Cherish Raquel M.",
+            "amount": 5849.28,
+            "dateGranted": "Nov-25",
+            "purpose": "Travel",
+            "d31to90": 5849.28
+          }
+        },
+        {
+          "label": "Mangubat, Joreilyn D.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Mangubat, Joreilyn D.",
+            "amount": 1821.6,
+            "dateGranted": "Nov-25",
+            "purpose": "Travel",
+            "d31to90": 1821.6
+          }
+        },
+        {
+          "label": "Montebon, Justine Carl",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Montebon, Justine Carl",
+            "amount": 17020,
+            "dateGranted": "Nov-25",
+            "purpose": "Travel",
+            "d31to90": 17020
+          }
+        },
+        {
+          "label": "Sevilla, Maricon G.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sevilla, Maricon G.",
+            "amount": 17300,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "over1y": 17300
+          }
+        },
+        {
+          "label": "Silawan, Cesar B.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Silawan, Cesar B.",
+            "amount": 21000,
+            "dateGranted": "Sep-19",
+            "purpose": "Travel",
+            "over3y": 21000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 148019.05,
+            "lt30": 0,
+            "d31to90": 82330.88,
+            "d91to365": 27388.17,
+            "over1y": 17300,
+            "over2y": 0,
+            "over3y": 21000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": 148019.05,
+    "count": 10
+  },
+  "notes": [
+    "Each item row has its balance repeated in exactly one aging column. Date Granted is printed as month-year and kept as text. An empty row below \"Silawan, Cesar B.\" shows only a \"-\" in Amount Balance and is not transcribed. All column totals equal the sum of the rows.",
+    "\"Abalos, Jacquiline\" is dated Dec-25 but placed under \"31-90 days\"; transcribed as printed."
+  ],
+  "unreadable": []
+}

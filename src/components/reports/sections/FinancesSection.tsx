@@ -64,8 +64,15 @@ const SECTORS = [
   { key: 'debtServiceInterest', label: 'Debt service (interest)' },
 ];
 
+/** True when the statement prints the allotment as zero despite a target (2018). */
+function omitsNta(e: SreEntry) {
+  const nta = e.lines.nta;
+  return sreTotal(e, 'nta') === 0 && isNumber(nta?.target) && nta.target > 0;
+}
+
 function yearLabel(e: SreEntry) {
-  return e.quarter && e.quarter < 4 ? `${e.year}*` : String(e.year);
+  const partial = e.quarter && e.quarter < 4 ? '*' : '';
+  return `${e.year}${partial}${omitsNta(e) ? '†' : ''}`;
 }
 
 export default function FinancesSection({
@@ -102,7 +109,7 @@ export default function FinancesSection({
       expenditure: sreTotal(e, 'totalCurrentOperatingExpenditures'),
       capital: sreTotal(e, 'totalNonOperatingExpenditures'),
       ntaShare:
-        isNumber(income) && isNumber(nta) && income
+        !omitsNta(e) && isNumber(income) && isNumber(nta) && income
           ? (nta / income) * 100
           : null,
       ...Object.fromEntries(
@@ -200,7 +207,7 @@ export default function FinancesSection({
             <StatCard
               label="Reliance on national allotment"
               value={
-                isNumber(nta) && isNumber(income) && income
+                isNumber(nta) && nta > 0 && isNumber(income) && income
                   ? formatPercent((nta / income) * 100)
                   : '—'
               }
@@ -215,7 +222,7 @@ export default function FinancesSection({
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         <ChartCard
           title="Income and spending by year"
-          description="Current operating income vs. operating and capital spending. * = year-to-date (no Q4 report yet)."
+          description="Current operating income vs. operating and capital spending. * = year-to-date (no Q4 report yet). † = the statement leaves out the national allotment."
           sources={sourcesAll}
           onDownload={() =>
             downloadCsv(
@@ -514,6 +521,12 @@ export default function FinancesSection({
           Its figures are cumulative from January. “Current operating income” is
           regular revenue (taxes, fees, the national allotment); it excludes
           borrowings and the cash balance carried over from earlier years.
+        </p>
+        <p>
+          Figures cover the General Fund and the Special Education Fund (SEF).
+          The 2022 statement also reports trust funds (e.g. national grants);
+          those are left out here so every year is measured the same way, but
+          they appear in that year’s full statement.
         </p>
       </AboutThisData>
     </div>

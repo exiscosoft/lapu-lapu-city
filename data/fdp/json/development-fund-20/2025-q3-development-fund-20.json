@@ -1,0 +1,1220 @@
+{
+  "id": "2025-q3-development-fund-20",
+  "type": "development-fund-20",
+  "title": "Utilization of the 20% of the National Tax Allotment",
+  "form": "FDP Form 7 - 20% Development Fund Utilization",
+  "period": {
+    "year": 2025,
+    "quarter": 3,
+    "asOf": "2025-09-30",
+    "printed": "Calendar Year: 2025, Quarter: 3",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Utilization of the 20% of the National Tax Allotment",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "SOCIAL DEVELOPMENT (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "social",
+          "values": {}
+        },
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 1,
+          "kind": "header",
+          "section": "social",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Construction of Super Health Center (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Super Health Center (Phase II)",
+            "location": "Basak, LLC",
+            "totalCost": 5000000,
+            "dateStarted": "2025-01-28",
+            "targetCompletion": null,
+            "pctCompletion": 57.95,
+            "costIncurred": 2460590.09,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Purchase & Installation of Laparoscopic Tower",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase & Installation of Laparoscopic Tower",
+            "location": "LLC Hospital",
+            "totalCost": 18000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Total - SOCIAL DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "social",
+          "values": {
+            "totalCost": 23000000,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "ENVIRONMENTAL DEVELOPMENT",
+          "level": 0,
+          "kind": "header",
+          "section": "environmental",
+          "values": {}
+        },
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 1,
+          "kind": "header",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Installation of Drainage at Brgy Poblacion, Lapu-Lapu City",
+          "level": 1,
+          "kind": "item",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {
+            "program": "Installation of Drainage at Brgy Poblacion, Lapu-Lapu City",
+            "location": "Poblacion, LLC",
+            "totalCost": 11000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Not yet started"
+          }
+        },
+        {
+          "label": "TOTAL ENVIRONMENTAL DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "environmental",
+          "values": {
+            "totalCost": 11000000,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "ECONOMIC DEVELOPMENT (pls list down specific projects)",
+          "level": 0,
+          "kind": "header",
+          "section": "economic",
+          "values": {}
+        },
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 1,
+          "kind": "header",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Lot Acquisition for Improvement of Intersections (Hoopsdome-Humay Road)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition for Improvement of Intersections (Hoopsdome-Humay Road)",
+            "location": "Gun-ob LLC",
+            "totalCost": 9520000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Lot Acquisition for Improvement of Intersections (Marigondon Crossing)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition for Improvement of Intersections (Marigondon Crossing)",
+            "location": "Marigondon",
+            "totalCost": 18200000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Lot Acquisition for Improvement of Intersections (Cor. A. Tumulak-Osmeña)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition for Improvement of Intersections (Cor. A. Tumulak-Osmeña)",
+            "location": "Gun-ob LLC",
+            "totalCost": 9800000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Lot Acquisition Buaya Outfall (fo",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition Buaya Outfall (fo",
+            "location": "Buaya, LLC",
+            "totalCost": 8000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Lot Acquisition Mactan Outfall (near Mactan Shrine)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition Mactan Outfall (near Mactan Shrine)",
+            "location": "Mactan, LLC",
+            "totalCost": 8000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Lot Acquisition Buaya Outfall (across Buaya Market)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition Buaya Outfall (across Buaya Market)",
+            "location": "Buaya, LLC",
+            "totalCost": 8000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Lot Acquisition Mactan Outfall (near Bigfoot)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition Mactan Outfall (near Bigfoot)",
+            "location": "Mactan, LLC",
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Parcel of Land affected of the Proposed Road Opening from First Mactan Bridge to Ferry Landing Seaside Road at Pajo, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Parcel of Land affected of the Proposed Road Opening from First Mactan Bridge to Ferry Landing Seaside Road at Pajo, LLC",
+            "location": "Pajo, LLC",
+            "totalCost": 11682500,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF dated 3/6/25"
+          }
+        },
+        {
+          "label": "Asphalt Overlay of Risdon St. Poblacion Including front of Auditorium",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Asphalt Overlay of Risdon St. Poblacion Including front of Auditorium",
+            "location": "Poblacion, LLC",
+            "totalCost": 9000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Asphalt Overlay at Mactan Ebuen Air Base Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Asphalt Overlay at Mactan Ebuen Air Base Road",
+            "location": "Pajo, LLC",
+            "totalCost": 15777638.57,
+            "dateStarted": "2025-02-24",
+            "targetCompletion": "2025-04-23",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Improvement of Center Island and Off - Carriageway, Hoopsdome Compound, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Center Island and Off - Carriageway, Hoopsdome Compound, Gun-ob, LLC",
+            "location": "Gun-ob LLC",
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair / Improvement of Pajac Road",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair / Improvement of Pajac Road",
+            "location": "Pajac, LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Road Construction at Pangan-an Is. LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Road Construction at Pangan-an Is. LLC",
+            "location": "Pangan-an, LLC",
+            "totalCost": 1597470.03,
+            "dateStarted": "2025-02-28",
+            "targetCompletion": "2025-04-28",
+            "pctCompletion": 100,
+            "costIncurred": 1597470.03,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "Payment of Just Compensation for Structural Improvement affected by the Proposed Road Opening from First Mactan Bridge to Ferry Landing Seaside Road at Pajo, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Payment of Just Compensation for Structural Improvement affected by the Proposed Road Opening from First Mactan Bridge to Ferry Landing Seaside Road at Pajo, LLC",
+            "location": "Pajo, LLC",
+            "totalCost": 1164600,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF dated 3/6/25"
+          }
+        },
+        {
+          "label": "Rehabilitation of 2 Units Water Tank, Mini City Hall, Talima LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Rehabilitation of 2 Units Water Tank, Mini City Hall, Talima LLC",
+            "location": "Talima, LLC",
+            "totalCost": 1000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of LLC Police Station 4, Agus, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of LLC Police Station 4, Agus, LLC",
+            "location": "Agus, LLC",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Police Station 2 at near Mactan Shrine",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Police Station 2 at near Mactan Shrine",
+            "location": "Mactan, LLC",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Improvement of Police Sub-Station near Hoopsdome, Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Police Sub-Station near Hoopsdome, Gun-ob",
+            "location": "Gun-ob LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Improvement of Hoopsdome, G",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Hoopsdome, G",
+            "location": "Gun-ob LLC",
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction/Improvement of CSWDO Building, Pusok",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction/Improvement of CSWDO Building, Pusok",
+            "location": "Pusok, LLC",
+            "totalCost": 4000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Storage Bldg. for CSWDO, Pusok, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Storage Bldg. for CSWDO, Pusok, LLC",
+            "location": "Pusok, LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of VAWC Bldg., Homecare Facility, Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of VAWC Bldg., Homecare Facility, Gun-ob",
+            "location": "Gun-ob LLC",
+            "totalCost": 1379290,
+            "dateStarted": "May-25",
+            "targetCompletion": "Aug-25",
+            "pctCompletion": 58.88,
+            "costIncurred": 688338,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Construction of One Storey Bldg. with Bed Bunks at Female Doritory, City Jail, Soong, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of One Storey Bldg. with Bed Bunks at Female Doritory, City Jail, Soong, LLC",
+            "location": "Soong, LLC",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Multi-Purpose Bldg. with Jail Facility & Visitation Bldg. Male Dormitory, City Jail, Soong Mactan (Phase III)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Multi-Purpose Bldg. with Jail Facility & Visitation Bldg. Male Dormitory, City Jail, Soong Mactan (Phase III)",
+            "location": "Soong, Mactan, LLC",
+            "totalCost": 6000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF dated 5/20/25"
+          }
+        },
+        {
+          "label": "Repair of MRF Building, Mactan",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair of MRF Building, Mactan",
+            "location": "Mactan, LLC",
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of BJMP Female Barracks, Male Dormitory, City Jail Soong Mactan",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of BJMP Female Barracks, Male Dormitory, City Jail Soong Mactan",
+            "location": "Soong, Mactan, LLC",
+            "totalCost": 1000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Improvement of Multi - Purpose Bldg. at Muelle Osmeña, Poblacion, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Multi - Purpose Bldg. at Muelle Osmeña, Poblacion, LLC",
+            "location": "Poblacion, LLC",
+            "totalCost": 15000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Improvement of City Hall Building & Facilities, Pusok LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of City Hall Building & Facilities, Pusok LLC",
+            "location": "Pusok, LLC",
+            "totalCost": 9983145.69,
+            "dateStarted": "2025-05-30",
+            "targetCompletion": "2025-08-26",
+            "pctCompletion": 32.8,
+            "costIncurred": 2783069.62,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Repair of Old Terminal Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair of Old Terminal Building",
+            "location": "Pajo, LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair and Improvement of LCLRC Bldg., Talima LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of LCLRC Bldg., Talima LLC",
+            "location": "Talima, LLC",
+            "totalCost": 2500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Old Manpower Bldg., Talima, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Old Manpower Bldg., Talima, LLC",
+            "location": "Talima, LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Improvement of Multi-Purpose Building, Mini City Hall, Talima, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Multi-Purpose Building, Mini City Hall, Talima, LLC",
+            "location": "Talima, LLC",
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair of Manggagawa Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair of Manggagawa Building",
+            "location": "Pajo, LLC",
+            "totalCost": 2027799.48,
+            "dateStarted": "2025-05-30",
+            "targetCompletion": "2025-10-26",
+            "pctCompletion": 50.92,
+            "costIncurred": 1032472.24,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Repair and Improvement of PESO Building, Pusok, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of PESO Building, Pusok, LLC",
+            "location": "Pusok, LLC",
+            "totalCost": 1396678,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "with CAF dated 2/17/25"
+          }
+        },
+        {
+          "label": "Repair and Improvement of OSCA Bldg. w/ ground Improvement",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of OSCA Bldg. w/ ground Improvement",
+            "location": "Pusok, LLC",
+            "totalCost": 1000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair and Improvement of PDAO Bldg. w/ ground Improvement STAC Compound",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of PDAO Bldg. w/ ground Improvement STAC Compound",
+            "location": "Pusok, LLC",
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Caohagan Brgy. Hall at Caohagan LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Caohagan Brgy. Hall at Caohagan LLC",
+            "location": "Caohagan, LLC",
+            "totalCost": 6000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of 2 Storey GSO Building Maintenance Division/Motorpool, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of 2 Storey GSO Building Maintenance Division/Motorpool, Gun-ob, LLC",
+            "location": "Gun-ob LLC",
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Rehabilitation & Upgrade of Pangan-an Multi-Purpose Bldg. /Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Rehabilitation & Upgrade of Pangan-an Multi-Purpose Bldg. /Evacuation Center",
+            "location": "Pangan-an, LLC",
+            "totalCost": 1197845.88,
+            "dateStarted": "2025-05-30",
+            "targetCompletion": "2025-08-27",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "On going"
+          }
+        },
+        {
+          "label": "Repair/Renovation/Upgrading/ Expansion of City Health Office Bldg.(Cold Room, TB DOTS, Restrooms)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair/Renovation/Upgrading/ Expansion of City Health Office Bldg.(Cold Room, TB DOTS, Restrooms)",
+            "location": "Pusok, LLC",
+            "totalCost": 15000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair/Rehabilitation of Skywalk",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair/Rehabilitation of Skywalk",
+            "location": "Pusok, LLC",
+            "totalCost": 1000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Perimeter Fencing of Motorpool Equipment Division, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Perimeter Fencing of Motorpool Equipment Division, Gun-ob, LLC",
+            "location": "Gun-ob LLC",
+            "totalCost": 1490103.53,
+            "dateStarted": "2025-05-30",
+            "targetCompletion": "2025-08-27",
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Ongoing"
+          }
+        },
+        {
+          "label": "Repair & Improvement of Existing Repair Bay for GSO, Motorpool, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Improvement of Existing Repair Bay for GSO, Motorpool, Gun-ob, LLC",
+            "location": "Gun-ob LLC",
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Comfort Rooms at the back of Police Station 3, Hoopsdome",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Comfort Rooms at the back of Police Station 3, Hoopsdome",
+            "location": "Gun-ob LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Repair & Construction of Retaining Wall at Transfer Station at Soong, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair & Construction of Retaining Wall at Transfer Station at Soong, LLC",
+            "location": "Soong, LLC",
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Concrete Guard Railings & Fence along Basak-Babag Access Road (with Solar Lamp Post)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Concrete Guard Railings & Fence along Basak-Babag Access Road (with Solar Lamp Post)",
+            "location": "Basak, LLC",
+            "totalCost": 20000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Fence & Niches at Olango Cemetery,Tungasan, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Fence & Niches at Olango Cemetery,Tungasan, LLC",
+            "location": "Tungasan, LLC",
+            "totalCost": 15000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Pickleball Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Pickleball Court",
+            "location": "Gun-ob LLC",
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of New Repair Bay for Engineering Equipment in Motorpool Compound, Gun-ob, LLC (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of New Repair Bay for Engineering Equipment in Motorpool Compound, Gun-ob, LLC (Phase II)",
+            "location": "Gun-ob LLC",
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Construction of Tennis Court at Hoopsdome Complex, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Tennis Court at Hoopsdome Complex, Gun-ob, LLC",
+            "location": "Gun-ob LLC",
+            "totalCost": 20000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Purchase of Wheel Type Hydraulic Excavator",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Wheel Type Hydraulic Excavator",
+            "location": null,
+            "totalCost": 5100000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Purchase of Skid Loader with attachment (Breaker & Pallet Fork)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Skid Loader with attachment (Breaker & Pallet Fork)",
+            "location": null,
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Purchase of Six (6) Wheeler Cab with 14ft. Dropside Cargo body 7ft. Canopy Hard Top",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Six (6) Wheeler Cab with 14ft. Dropside Cargo body 7ft. Canopy Hard Top",
+            "location": null,
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Transfer, Reinstallation and Improvement of Isolation Facilities at City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Transfer, Reinstallation and Improvement of Isolation Facilities at City College",
+            "location": "Gun-ob LLC",
+            "totalCost": 18000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "Installation of Slope Protection with Fence and Ground Improvement at Basak Super Health Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Installation of Slope Protection with Fence and Ground Improvement at Basak Super Health Center",
+            "location": "Gun-ob LLC",
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "not yet started"
+          }
+        },
+        {
+          "label": "TOTAL ECONOMIC DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "economic",
+          "values": {
+            "totalCost": 347817071.18,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "totalCost": 381817071.18,
+            "costIncurred": null
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": 381817071.18,
+    "costIncurred": null,
+    "projectCount": 58
+  },
+  "notes": [
+    "Printed heading: \"Utilization of the 20% of the National Tax Allotment\". All projects are listed under CURRENT APPROPRIATION; no continuing appropriation is printed.",
+    "No cost-incurred figures are printed in the section totals or the grand total (null); summary.costIncurred is therefore null even though six projects show a cost incurred.",
+    "Two project names are truncated by the cell border and kept as printed: \"Lot Acquisition Buaya Outfall (fo\" and \"Improvement of Hoopsdome, G\".",
+    "The Buaya Outfall and Mactan Outfall lot acquisitions each appear twice with different descriptions/amounts (8,000,000.00 \"(fo...\" and 8,000,000.00 \"(across Buaya Market)\"; 8,000,000.00 \"(near Mactan Shrine)\" and 10,000,000.00 \"(near Bigfoot)\"); all four rows are transcribed and are needed for the printed Economic total.",
+    "The VAWC Bldg. dates are printed as month-year only (May-25, Aug-25) and kept as text. Several ongoing projects print a Date Started and Target Completion but no % completion or cost incurred.",
+    "Certification lists only the City Budget Officer and the City Mayor (no City Accountant)."
+  ],
+  "unreadable": []
+}

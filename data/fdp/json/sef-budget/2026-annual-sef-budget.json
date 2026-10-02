@@ -1,0 +1,1777 @@
+{
+  "id": "2026-annual-sef-budget",
+  "type": "sef-budget",
+  "title": "Income and Expenditures Estimates for CY 2026 - Lapu-Lapu City School Board",
+  "form": "SEF Budget Preparation Form No. 1 / No. 1A",
+  "period": {
+    "year": 2026,
+    "quarter": null,
+    "asOf": null,
+    "printed": "CY 2026",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Marilyn S. Andales",
+      "position": "Schools Division Superintendent, Co-Chairman, LSB (Prepared by)"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" King Chan",
+      "position": "City Mayor, Chairman, Local School Board"
+    }
+  ],
+  "tables": [
+    {
+      "key": "income",
+      "title": "Estimated Income for Budget Year",
+      "columns": [
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Estimated Income for Budget Year",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "key": "realPropertyTax",
+          "label": "Additional One Percent (1%) Real Property Tax",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "amount": 300000000
+          }
+        },
+        {
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 300000000
+          }
+        },
+        {
+          "key": "netAvailable",
+          "label": "Net Amount Available for Appropriation",
+          "level": 0,
+          "kind": "item",
+          "section": "memo",
+          "values": {
+            "amount": 300000000
+          }
+        }
+      ]
+    },
+    {
+      "key": "programs",
+      "title": "Proposed Expenditures by Program/Project/Activity (SEF Budget Preparation Form No. 1)",
+      "columns": [
+        {
+          "key": "rank",
+          "label": "Rank",
+          "type": "number"
+        },
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Pre-Elementary Education",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "rank": 1,
+            "ps": 5500000,
+            "mooe": 13445000,
+            "capitalOutlay": null,
+            "total": 18945000
+          }
+        },
+        {
+          "label": "Elementary Education",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "rank": 2,
+            "ps": null,
+            "mooe": 66792500,
+            "capitalOutlay": 74250000,
+            "total": 141042500
+          }
+        },
+        {
+          "label": "Secondary Education",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "rank": 3,
+            "ps": null,
+            "mooe": 45214000,
+            "capitalOutlay": 45850000,
+            "total": 91064000
+          }
+        },
+        {
+          "label": "Non-Formal Education",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "rank": 4,
+            "ps": 2450000,
+            "mooe": 2100000,
+            "capitalOutlay": 2500000,
+            "total": 7050000
+          }
+        },
+        {
+          "label": "Physical Education",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "rank": 5,
+            "ps": null,
+            "mooe": 41398500,
+            "capitalOutlay": 500000,
+            "total": 41898500
+          }
+        },
+        {
+          "label": "Total Expenditures",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "rank": null,
+            "ps": 7950000,
+            "mooe": 168950000,
+            "capitalOutlay": 123100000,
+            "total": 300000000
+          }
+        }
+      ]
+    },
+    {
+      "key": "pre-elementary-education",
+      "title": "PRE-ELEMENTARY EDUCATION",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT OPERATING EXPENDITURES",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honorarium of Day Care Workers and Teachers",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "3320-5-01-02-100",
+            "ps": 5500000,
+            "mooe": null,
+            "capitalOutlay": null,
+            "total": 5500000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses - ECCD Day Care Workers and Teachers",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "3320-5-02-02-010",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "School Supplies Expenses for Kindergarten",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010 -1",
+            "ps": null,
+            "mooe": 2750000,
+            "capitalOutlay": null,
+            "total": 2750000
+          }
+        },
+        {
+          "label": "School Supplies Expenses for Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010 -2",
+            "ps": null,
+            "mooe": 600000,
+            "capitalOutlay": null,
+            "total": 600000
+          }
+        },
+        {
+          "label": "ECCD Materials for Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-110 -1",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Production of Activity Worksheets for Kindergarten",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-110 -2",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Production of Activity Worksheets for Day Care Centers",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-110 -3",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Kiddie Tables and Chairs for Kindergarten",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -1",
+            "ps": null,
+            "mooe": 2661000,
+            "capitalOutlay": null,
+            "total": 2661000
+          }
+        },
+        {
+          "label": "Kiddie Tables and Chairs for Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -2",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Hard Hat for Kindergarten Learners",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -3",
+            "ps": null,
+            "mooe": 2484000,
+            "capitalOutlay": null,
+            "total": 2484000
+          }
+        },
+        {
+          "label": "Other MOE - Child Development Care/Teachers Celebration and Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990",
+            "ps": null,
+            "mooe": 450000,
+            "capitalOutlay": null,
+            "total": 450000
+          }
+        },
+        {
+          "label": "Kindergarten Day",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -2",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": 5500000,
+            "mooe": 13445000,
+            "capitalOutlay": null,
+            "total": 18945000
+          }
+        }
+      ]
+    },
+    {
+      "key": "elementary-education",
+      "title": "ELEMENTARY EDUCATION",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "3321-5-02-02-010",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010",
+            "ps": null,
+            "mooe": 1300000,
+            "capitalOutlay": null,
+            "total": 1300000
+          }
+        },
+        {
+          "label": "School Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010 -1",
+            "ps": null,
+            "mooe": 17160000,
+            "capitalOutlay": null,
+            "total": 17160000
+          }
+        },
+        {
+          "label": "Textbooks and Instructional Materials",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-110 -1",
+            "ps": null,
+            "mooe": 23000000,
+            "capitalOutlay": null,
+            "total": 23000000
+          }
+        },
+        {
+          "label": "Production of Localized Story Book and Activity Sheets",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-110 -2",
+            "ps": null,
+            "mooe": 4500000,
+            "capitalOutlay": null,
+            "total": 4500000
+          }
+        },
+        {
+          "label": "High Quality Camera Lens (Kit)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "ps": null,
+            "mooe": 40000,
+            "capitalOutlay": null,
+            "total": 40000
+          }
+        },
+        {
+          "label": "Twelve (12) Units Heavy Duty Stand Fan for Bankal Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -1",
+            "ps": null,
+            "mooe": 60000,
+            "capitalOutlay": null,
+            "total": 60000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Six Hundred (600) pieces Branded Plastic Arm Chairs with tablet",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "3321-5-02-03-990 -2",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Hard Hat for Grade 1 to Grade 3 Learners",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -3",
+            "ps": null,
+            "mooe": 7432500,
+            "capitalOutlay": null,
+            "total": 7432500
+          }
+        },
+        {
+          "label": "(no description printed)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -4",
+            "ps": null,
+            "mooe": 4000000,
+            "capitalOutlay": null,
+            "total": 4000000
+          }
+        },
+        {
+          "label": "Water Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-04-010",
+            "ps": null,
+            "mooe": 100000,
+            "capitalOutlay": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-04-020",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Internet Subscription Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-05-030",
+            "ps": null,
+            "mooe": 300000,
+            "capitalOutlay": null,
+            "total": 300000
+          }
+        },
+        {
+          "label": "Survey and Titling Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-07-010",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Consultancy Services - Engineering Design Services and Preparation of Program of Works and Estimates (POWE)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-11-030",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Demolition and Relocation Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-08-010",
+            "ps": null,
+            "mooe": 100000,
+            "capitalOutlay": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Environment/Sanitary Services - Desludging",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-12-010",
+            "ps": null,
+            "mooe": 800000,
+            "capitalOutlay": null,
+            "total": 800000
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Machinery Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-13-050",
+            "ps": null,
+            "mooe": 100000,
+            "capitalOutlay": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Other MOE - Press Conference",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -1",
+            "ps": null,
+            "mooe": 400000,
+            "capitalOutlay": null,
+            "total": 400000
+          }
+        },
+        {
+          "label": "Other MOE - Scouting Activities",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -2",
+            "ps": null,
+            "mooe": 800000,
+            "capitalOutlay": null,
+            "total": 800000
+          }
+        },
+        {
+          "label": "Other MOE - Division Publication",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -3",
+            "ps": null,
+            "mooe": 400000,
+            "capitalOutlay": null,
+            "total": 400000
+          }
+        },
+        {
+          "label": "Other MOE - Filling Materials/Counterpart for School Donated Projects",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -4",
+            "ps": null,
+            "mooe": 100000,
+            "capitalOutlay": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Other MOE - DFOT/RFOT/NFOT/Learner's Convergence Reading and Language Competition/SPEDlympics",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -5",
+            "ps": null,
+            "mooe": 1600000,
+            "capitalOutlay": null,
+            "total": 1600000
+          }
+        },
+        {
+          "label": "Other MOE - Robotics, Science and Math Fair and Other Competition Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -6",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Construction of Activity Center for Sta. Rosa Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-020 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 12000000,
+            "total": 12000000
+          }
+        },
+        {
+          "label": "Construction of Activity Center for Poo Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-020 -26s2",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 12000000,
+            "total": 12000000
+          }
+        },
+        {
+          "label": "Construction of 2 Storey, 12 Classroom Building for Mactan Air Base",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-020 -26s3",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 32000000,
+            "total": 32000000
+          }
+        },
+        {
+          "label": "Completion of 4 Storey 12 classroom Building at Kalawisan Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-020 -26s4",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 12000000,
+            "total": 12000000
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence at Mactan Air Base Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-990 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 2500000,
+            "total": 2500000
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence for Sta. Rosa Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-990 -26s2",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 3000000,
+            "total": 3000000
+          }
+        },
+        {
+          "label": "Three (3) Units 65\" TV for Bankal Elementary School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-05-020 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 150000,
+            "total": 150000
+          }
+        },
+        {
+          "label": "Four (4) Units Digital B&W Multi Function Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-05-030 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 600000,
+            "total": 600000
+          }
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": null,
+            "mooe": 66792500,
+            "capitalOutlay": 74250000,
+            "total": 141042500
+          }
+        }
+      ]
+    },
+    {
+      "key": "secondary-education",
+      "title": "SECONDARY EDUCATION",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Training Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "3322-5-02-02-010",
+            "ps": null,
+            "mooe": 3000000,
+            "capitalOutlay": null,
+            "total": 3000000
+          }
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010",
+            "ps": null,
+            "mooe": 1800000,
+            "capitalOutlay": null,
+            "total": 1800000
+          }
+        },
+        {
+          "label": "School Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010 -1",
+            "ps": null,
+            "mooe": 12210000,
+            "capitalOutlay": null,
+            "total": 12210000
+          }
+        },
+        {
+          "label": "Textbooks and Instructional Materials",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-110",
+            "ps": null,
+            "mooe": 10000000,
+            "capitalOutlay": null,
+            "total": 10000000
+          }
+        },
+        {
+          "label": "Medals for Academic, Sports and other Competition",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "ps": null,
+            "mooe": 4000000,
+            "capitalOutlay": null,
+            "total": 4000000
+          }
+        },
+        {
+          "label": "Six Hundred (600) pieces Branded Plastic Arm Chairs with Tablet",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -1",
+            "ps": null,
+            "mooe": 1500000,
+            "capitalOutlay": null,
+            "total": 1500000
+          }
+        },
+        {
+          "label": "Five Hundred (500) Pieces Monobloc Chairs Without Arm",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -2",
+            "ps": null,
+            "mooe": 660000,
+            "capitalOutlay": null,
+            "total": 660000
+          }
+        },
+        {
+          "label": "Water Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-04-010",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Electricity Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-04-020",
+            "ps": null,
+            "mooe": 1500000,
+            "capitalOutlay": null,
+            "total": 1500000
+          }
+        },
+        {
+          "label": "Telephone Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-05-020",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Demolition and Relocation Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-08-010",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Consultancy Services - Engineering Design Services and Preparation of Program of Works and Estimates (POWE)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-11-030",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Environment/Sanitary Services - Desludging",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-12-010",
+            "ps": null,
+            "mooe": 800000,
+            "capitalOutlay": null,
+            "total": 800000
+          }
+        },
+        {
+          "label": "Repair and Maintenance - Machinery Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-13-050",
+            "ps": null,
+            "mooe": 200000,
+            "capitalOutlay": null,
+            "total": 200000
+          }
+        },
+        {
+          "label": "Other MOE - Press Conference",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -1",
+            "ps": null,
+            "mooe": 1200000,
+            "capitalOutlay": null,
+            "total": 1200000
+          }
+        },
+        {
+          "label": "Other MOE - Scouting Activities",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -2",
+            "ps": null,
+            "mooe": 1200000,
+            "capitalOutlay": null,
+            "total": 1200000
+          }
+        },
+        {
+          "label": "Other MOE - Scouting Activities - Unpaid Registration of Encampment (Year 2024)",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -3",
+            "ps": null,
+            "mooe": 144000,
+            "capitalOutlay": null,
+            "total": 144000
+          }
+        },
+        {
+          "label": "Other MOE - Division Publication",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -4",
+            "ps": null,
+            "mooe": 400000,
+            "capitalOutlay": null,
+            "total": 400000
+          }
+        },
+        {
+          "label": "Other MOE - Survey & Titling Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -5",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Other MOE - Filling Materials/Counterpart for School Donated Projects",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -6",
+            "ps": null,
+            "mooe": 100000,
+            "capitalOutlay": null,
+            "total": 100000
+          }
+        },
+        {
+          "label": "Other MOE - DFOT/RFOT/NFOT/Learner's Convergence, Reading and Language Competition/Learner's and Educator's Covergence/SPEDlympics",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -7",
+            "ps": null,
+            "mooe": 2000000,
+            "capitalOutlay": null,
+            "total": 2000000
+          }
+        },
+        {
+          "label": "Other MOE - Robotics, Science and Math Fair and Other Competition Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -8",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Other MOE - Educational Research",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -9",
+            "ps": null,
+            "mooe": 1000000,
+            "capitalOutlay": null,
+            "total": 1000000
+          }
+        },
+        {
+          "label": "Other MOE - Career Guidance Activity",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -10",
+            "ps": null,
+            "mooe": 400000,
+            "capitalOutlay": null,
+            "total": 400000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Construction of Four (4) Storey 8 Classroom of Pangan-an High School (Phase 1)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "3322-1-07-04-020 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 14000000,
+            "total": 14000000
+          }
+        },
+        {
+          "label": "Construction of Four (4) Storey 8 Classroom of Tungasan High School (Phase 1)",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-020 -26s2",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 28000000,
+            "total": 28000000
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence for Mactan Air Base High School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-04-990 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 2500000,
+            "total": 2500000
+          }
+        },
+        {
+          "label": "One (1) Units 65\" TV for Sudtonggan National High School Grade 7 MIM",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-05-020 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 50000,
+            "total": 50000
+          }
+        },
+        {
+          "label": "Purchase and Installation of CCTV Camera in the Arts and Design Building, Look National High School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-05-020 -26s2",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 500000,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Four (4) Units Digital B&W Multi-function Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-05-030 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 600000,
+            "total": 600000
+          }
+        },
+        {
+          "label": "Drone with own Cellphone controller",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-05-030 -26s2",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 200000,
+            "total": 200000
+          }
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": null,
+            "mooe": 45214000,
+            "capitalOutlay": 45850000,
+            "total": 91064000
+          }
+        }
+      ]
+    },
+    {
+      "key": "non-formal-education",
+      "title": "NON-FORMAL EDUCATION",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Personal Services",
+          "level": 0,
+          "kind": "header",
+          "section": "ps",
+          "values": {}
+        },
+        {
+          "label": "Honoraria of NFE/ALS Implementors, Evaluators and Monitoring",
+          "level": 1,
+          "kind": "item",
+          "section": "ps",
+          "values": {
+            "accountCode": "3323-5-01-02-100",
+            "ps": 2450000,
+            "mooe": null,
+            "capitalOutlay": null,
+            "total": 2450000
+          }
+        },
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "Office Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-010",
+            "ps": null,
+            "mooe": 1300000,
+            "capitalOutlay": null,
+            "total": 1300000
+          }
+        },
+        {
+          "label": "Fuel, Oil and Lubricants Expenses - Fuel for Mobile Classroom",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-090",
+            "ps": null,
+            "mooe": 300000,
+            "capitalOutlay": null,
+            "total": 300000
+          }
+        },
+        {
+          "label": "ALS Supplies/Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "ps": null,
+            "mooe": 500000,
+            "capitalOutlay": null,
+            "total": 500000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Customized Mobile Classroom (Knowledge Access Resources and Training for ALS) - Motorcycle Type",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "3323-1-07-06-010 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 700000,
+            "total": 700000
+          }
+        },
+        {
+          "label": "Customized Mobile Classroom (Knowledge Access Resources and Training for ALS - Wiing Van Type",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "-1-07-06-010 -26s2",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 1800000,
+            "total": 1800000
+          }
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": 2450000,
+            "mooe": 2100000,
+            "capitalOutlay": 2500000,
+            "total": 7050000
+          }
+        }
+      ]
+    },
+    {
+      "key": "physical-education",
+      "title": "PHYSICAL EDUCATION",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Maintenance and Other Operating Expenses",
+          "level": 0,
+          "kind": "header",
+          "section": "mooe",
+          "values": {}
+        },
+        {
+          "label": "CVRAA Training",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "7652-5-02-02-010",
+            "ps": null,
+            "mooe": 800000,
+            "capitalOutlay": null,
+            "total": 800000
+          }
+        },
+        {
+          "label": "Training of Athletes and Coaches for Specialized Sports",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-02-010 -1",
+            "ps": null,
+            "mooe": 1600000,
+            "capitalOutlay": null,
+            "total": 1600000
+          }
+        },
+        {
+          "label": "Drugs and Medicines Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-070",
+            "ps": null,
+            "mooe": 1158500,
+            "capitalOutlay": null,
+            "total": 1158500
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990",
+            "ps": null,
+            "mooe": 1600000,
+            "capitalOutlay": null,
+            "total": 1600000
+          }
+        },
+        {
+          "label": "Sports Supplies and Equipment",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -1",
+            "ps": null,
+            "mooe": 10850000,
+            "capitalOutlay": null,
+            "total": 10850000
+          }
+        },
+        {
+          "label": "CVRAA & Batang Pinoy Uniform for Athletes and Coaches",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-03-990 -2",
+            "ps": null,
+            "mooe": 9000000,
+            "capitalOutlay": null,
+            "total": 9000000
+          }
+        },
+        {
+          "label": "Other MOE - Batang Pinoy/Phil. National Games",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -1",
+            "ps": null,
+            "mooe": 5800000,
+            "capitalOutlay": null,
+            "total": 5800000
+          }
+        },
+        {
+          "label": "Other MOE - CVRAA Activities",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -2",
+            "ps": null,
+            "mooe": 6000000,
+            "capitalOutlay": null,
+            "total": 6000000
+          }
+        },
+        {
+          "label": "Other MOE - City Palaro/Division Athletic Meet",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -3",
+            "ps": null,
+            "mooe": 2500000,
+            "capitalOutlay": null,
+            "total": 2500000
+          }
+        },
+        {
+          "label": "Other MOE - Palarong Pambansa Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -4",
+            "ps": null,
+            "mooe": 1300000,
+            "capitalOutlay": null,
+            "total": 1300000
+          }
+        },
+        {
+          "label": "Other MOE - Sports Showdown",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "accountCode": "-5-02-99-990 -5",
+            "ps": null,
+            "mooe": 790000,
+            "capitalOutlay": null,
+            "total": 790000
+          }
+        },
+        {
+          "label": "Capital Outlay",
+          "level": 0,
+          "kind": "header",
+          "section": "capitalOutlay",
+          "values": {}
+        },
+        {
+          "label": "Sports Equipment for Boxing and Archery",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "accountCode": "7652-1-07-05-130 -26s1",
+            "ps": null,
+            "mooe": null,
+            "capitalOutlay": 500000,
+            "total": 500000
+          }
+        },
+        {
+          "label": "SUB-TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": null,
+            "mooe": 41398500,
+            "capitalOutlay": 500000,
+            "total": 41898500
+          }
+        }
+      ]
+    },
+    {
+      "key": "grand-total",
+      "title": "GRAND TOTAL",
+      "columns": [
+        {
+          "key": "ps",
+          "label": "Personal Services",
+          "type": "amount"
+        },
+        {
+          "key": "mooe",
+          "label": "Maintenance and Other Operating Expenses",
+          "type": "amount"
+        },
+        {
+          "key": "capitalOutlay",
+          "label": "Capital Outlays",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "ps": 7950000,
+            "mooe": 168950000,
+            "capitalOutlay": 123100000,
+            "total": 300000000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalBudget": 300000000,
+    "ps": 7950000,
+    "mooe": 168950000,
+    "capitalOutlay": 123100000,
+    "estimatedIncome": 300000000
+  },
+  "notes": [
+    "Annual (original) Special Education Fund budget of the Lapu-Lapu City School Board for CY 2026; 6 printed pages (\"Page 1 of 6 Pages\" to \"Page 6 of 6 Pages\"). Page 1 is SEF Budget Preparation Form No. 1 (income estimate and program summary); pages 2-6 are Form No. 1A (objects of expenditure per program).",
+    "Estimated income: Additional One Percent (1%) Real Property Tax 300,000,000.00, which is also the Net Amount Available for Appropriation; page 2 repeats the same income block (not transcribed twice).",
+    "Page 1 heads the program summary \"Proposed Expenditures for Budget Year 2025\" while the title and page 2 say CY/Budget Year 2026; treated as a typo, period recorded as 2026.",
+    "Each program (Form 1A) is its own table; the printed program heading line repeats the SUB-TOTAL figures and is not transcribed separately. The SUB-TOTAL row is the program total (kind \"total\"). Grand total (page 6): PS 7,950,000.00, MOOE 168,950,000.00, CO 123,100,000.00, total 300,000,000.00, matching the page 1 summary.",
+    "Account codes are transcribed as printed; codes with a leading dash carry the prefix of the first code in the block (3320 pre-elementary, 3321 elementary, 3322 secondary, 3323 non-formal, 7652 physical education).",
+    "Elementary Education, account -5-02-03-990 -4 (4,000,000.00): no description is printed for this line; label recorded as \"(no description printed)\". The \"Maintenance and Other Operating Expenses\" sub-heading is printed twice in the Elementary block and both are kept.",
+    "All printed subtotals, program totals and the grand total agree with the sum of their line items in every column."
+  ],
+  "unreadable": []
+}

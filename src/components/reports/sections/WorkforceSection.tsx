@@ -17,33 +17,14 @@ import {
   formatPeso,
   isNumber,
 } from '../../../lib/format';
-import type { KeyedRow, WorkforceEntry } from '../../../types/fdp';
+import type { WorkforceEntry } from '../../../types/fdp';
 import { AboutThisData } from '../AboutThisData';
 import ChartCard, { EmptyState } from '../ChartCard';
 import StatCard from '../StatCard';
 import StatementTable from '../StatementTable';
 import { axisProps, COLORS, SERIES } from '../chartTheme';
 import { latestForYear, sourcesOf } from '../selectors';
-
-const STATUS = [
-  { key: 'permanent', label: 'Permanent' },
-  { key: 'elective', label: 'Elective' },
-  { key: 'coterminous', label: 'Coterminous' },
-  { key: 'casual', label: 'Casual' },
-  { key: 'contractual', label: 'Contractual' },
-  { key: 'jobOrder', label: 'Job order / contract of service' },
-];
-
-const num = (row: KeyedRow | undefined, col: string) => {
-  const v = row?.values[col];
-  return isNumber(v) ? v : null;
-};
-
-function rowsOf(entry: WorkforceEntry) {
-  const byKey = new Map(entry.rows.map(r => [r.key, r]));
-  const total = byKey.get('total') ?? entry.rows.find(r => r.kind === 'total');
-  return { byKey, total };
-}
+import { headcountOf, num, rowsOf, STATUS } from '../workforce';
 
 export default function WorkforceSection({
   entries,
@@ -74,7 +55,7 @@ export default function WorkforceSection({
   );
 
   const sel = selected ? rowsOf(selected) : null;
-  const headcount = num(sel?.total, 'count');
+  const headcount = selected ? headcountOf(selected) : null;
   const cost = num(sel?.total, 'total');
   const permanent = num(sel?.byKey.get('permanent'), 'count');
   const jobOrder = num(sel?.byKey.get('jobOrder'), 'count');

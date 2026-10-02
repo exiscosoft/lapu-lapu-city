@@ -1,0 +1,354 @@
+{
+  "id": "2026-annual-sef-budget-may-19",
+  "type": "sef-budget",
+  "title": "Special Education Fund Supplemental Budget No. 01-2026 (Local School Board Resolution No. MCKC-007, Series of 2026)",
+  "form": "LSB Resolution; Local Budget Preparation Form No. 8 and No. 9",
+  "period": {
+    "year": 2026,
+    "quarter": null,
+    "asOf": "2026-05-19",
+    "printed": "As of May 19, 2026",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Claire V. Cabalda, REB, MPA",
+      "position": "City Treasurer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Marilyn S. Andales, EdD CESO V",
+      "position": "Schools Division Superintendent, Co-Chairman, LSB (Prepared by)"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor, Chairman, Local School Board (Approved)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "resolution-expenditures",
+      "title": "Expenditures for Supplemental Budget No. 1-2026 (LSB Resolution No. MCKC-007, page 1)",
+      "columns": [
+        {
+          "key": "office",
+          "label": "Implementing Office",
+          "type": "text"
+        },
+        {
+          "key": "objectClass",
+          "label": "Object of Expenditures",
+          "type": "text"
+        },
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Office Supplies- Two (2) units Office Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": "MOOE",
+            "accountCode": "3321 -5-02-03-010 -2",
+            "amount": 40000
+          }
+        },
+        {
+          "label": "Office Supplies and Materials Expenses- Office Tables with Pedestal and Office Chairs",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-5-02-03-990 -5",
+            "amount": 200000
+          }
+        },
+        {
+          "label": "Purchase of Two (2) Units A3 Office Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": "CO",
+            "accountCode": "-1-07-05-030 -26s2",
+            "amount": 144000
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-05-030 -26s3",
+            "amount": 70000
+          }
+        },
+        {
+          "label": "Purchase of Five (5) Units Branded Desktop Computer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-05-030 -26s4",
+            "amount": 648000
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Large Format Printer Plotter",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-05-030 -26s5",
+            "amount": 300000
+          }
+        },
+        {
+          "label": "Repair, Renovation and Improvement of Buaya Elementary School Covered Court, Stage with Immediate Drainage Line",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-04-990 -26s5",
+            "amount": 5500000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 6902000
+          }
+        }
+      ]
+    },
+    {
+      "key": "funding-sources",
+      "title": "Certified Statement of Funding Sources as of May 19, 2026 - Supplemental Budget No. 01-2026, Special Education Fund (LBP Form No. 8)",
+      "columns": [
+        {
+          "key": "accountClassification",
+          "label": "Account Classification",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1.0 New Revenue Sources",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "2.0 Actual Collection in Excess of the Estimate Income",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "3.0 Savings",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "CY 2025 Unappropriated Surplus",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "accountClassification": null,
+            "amount": 6902000
+          }
+        },
+        {
+          "label": "4.0 Realignment",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Total Available Resources for Supplemental Budget No. 01-2026",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 6902000
+          }
+        }
+      ]
+    },
+    {
+      "key": "supplemental-appropriation",
+      "title": "Statement of Supplemental Appropriation CY 2026 - Special Education Fund, Supplemental Budget No. 01-2026 (LBP Form No. 9)",
+      "columns": [
+        {
+          "key": "office",
+          "label": "Implementing Office",
+          "type": "text"
+        },
+        {
+          "key": "objectClass",
+          "label": "Object of Expenditures",
+          "type": "text"
+        },
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Office Supplies - Two (2) Units Office Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": "MOOE",
+            "accountCode": "3321 -5-02-03-010 -2",
+            "amount": 40000
+          }
+        },
+        {
+          "label": "Other Supplies and Materials Expenses - Office Tables, with pedestal and Office Chairs",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-5-02-03-990 -5",
+            "amount": 200000
+          }
+        },
+        {
+          "label": "Purchase of Two (2) Units A3 Office Printer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": "CO",
+            "accountCode": "-1-07-05-030 -26s2",
+            "amount": 144000
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Branded Laptop",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-05-030 -26s3",
+            "amount": 70000
+          }
+        },
+        {
+          "label": "Purchase of Five (5) Units Branded Desktop Computer",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-05-030 -26s4",
+            "amount": 648000
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Large Format Printer Plotter",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-05-030 -26s5",
+            "amount": 300000
+          }
+        },
+        {
+          "label": "Repair, Renovation and Improvement of Buaya Elementary School Covered Court, Stage with Immediate Drainage Line",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Elementary Education",
+            "objectClass": null,
+            "accountCode": "-1-07-04-990 -26s5",
+            "amount": 5500000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 6902000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalBudget": 6902000,
+    "ps": null,
+    "mooe": null,
+    "capitalOutlay": null,
+    "fundSource": "CY 2025 Unappropriated Surplus",
+    "resolution": {
+      "number": "MCKC-007, Series of 2026",
+      "date": "2026-05-19",
+      "amount": 6902000
+    }
+  },
+  "notes": [
+    "SEF Supplemental Budget No. 01-2026 (not the annual budget): 4 scanned pages. p-1 and p-2 are Local School Board Resolution No. MCKC-007, Series of 2026 (excerpt from the minutes of the 4th Regular Meeting of the Local School Board, City Mayor's Conference Room, May 19, 2026; approved May 19, 2026; motion by Member Cuizon, seconded by Member Ruñez). p-3 is LBP Form No. 8 (Page 1 of 2) and p-4 is LBP Form No. 9 (Page 2 of 2).",
+    "Resolution: approves Supplemental Budget No. 1-2026 totaling PHP 6,902,000.00 chargeable against available SEF appropriations and savings: PHP 1,402,000.00 for equipment and office furniture under the School Infrastructure Technical Support and Project Development Program, and PHP 5,500,000.00 for the Repair, Renovation and Improvement of the Buaya Elementary School Covered Court, Stage, with Immediate Drainage Line. Fund source: CY 2025 Unappropriated Surplus P 6,902,000.00.",
+    "The expenditure list in the resolution (table resolution-expenditures) and LBP Form No. 9 (table supplemental-appropriation) carry the same seven items and amounts; the label of the second item differs slightly (\"Office Supplies and Materials Expenses\" vs \"Other Supplies and Materials Expenses\"). Object-of-expenditure class (MOOE/CO) is printed only on the first line of each class; rows carry section mooe/capitalOutlay accordingly.",
+    "No PS/MOOE/CO class subtotals are printed, so summary ps/mooe/capitalOutlay are null (the items sum to MOOE 240,000.00 and CO 6,662,000.00, computed, not printed).",
+    "On the LBP Form No. 9 scan (p-4) a horizontal line runs through \"Elementary\", the Office Printer line and the Desktop Computer line (including 40,000.00 and 648,000.00); it looks like a scan/printing artefact rather than a deletion, and the printed Total 6,902,000.00 includes both amounts, so they are transcribed normally.",
+    "Account code -26s5 is printed for both the Large Format Printer Plotter (1-07-05-030) and the Buaya covered court repair (1-07-04-990); transcribed as printed.",
+    "Items sum to the printed Total 6,902,000.00 in both tables."
+  ],
+  "unreadable": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "2026-q2-hr-complement",
+  "type": "hr-complement",
+  "title": "Human Resource Complement",
+  "form": "FDP Form 13- Manpower Complement",
+  "period": {
+    "year": 2026,
+    "quarter": 2,
+    "asOf": "2026-06-30",
+    "printed": "Calendar Year 2026, Quarter 2",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Mario Dennis A. Calvo, MPA",
+      "position": "Human Resource Management Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "Local Chief Executive"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Human Resource Complement",
+      "columns": [
+        {
+          "key": "count",
+          "label": "Number",
+          "type": "number"
+        },
+        {
+          "key": "salaries",
+          "label": "Salaries and Wages",
+          "type": "amount"
+        },
+        {
+          "key": "otherBenefits",
+          "label": "Other Monetary Benefits",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "permanentContractual",
+          "label": "I. Permanent / II. Contractual (compensation printed for the group)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": null,
+            "salaries": 78208208.79,
+            "otherBenefits": 95421694.5,
+            "total": 173629903.29
+          }
+        },
+        {
+          "key": "permanent",
+          "label": "I. Permanent",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "count": 646,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "contractual",
+          "label": "II. Contractual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "count": 89,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "jobOrder",
+          "label": "III. Job Order/ Contract of Service",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 3733,
+            "salaries": 148562119.2,
+            "otherBenefits": null,
+            "total": 148562119.2
+          }
+        },
+        {
+          "key": "casual",
+          "label": "IV. Casual",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 860,
+            "salaries": 35949464.31,
+            "otherBenefits": 43199309.8,
+            "total": 79148774.11
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "count": 5328,
+            "salaries": 262719792.3,
+            "otherBenefits": 138621004.3,
+            "total": 401340796.6
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "Form printed with 'CALENDAR YEAR' and 'QUARTER' fields; asOf set to the quarter end.",
+    "On this form the compensation cells for I. Permanent and II. Contractual are merged into one. Counts are recorded on the individual rows; the merged amounts are recorded once on the row 'I. Permanent / II. Contractual' (count null), so nothing is double counted.",
+    "The left edge of the scan is cut off: the row labels are not visible except the fragment '...ntract of Service' on the third row. Labels and keys were assigned from the standard form used in every 2024-2026 quarter (I. Permanent, II. Contractual, III. Job Order/ Contract of Service, IV. Casual), consistent with the counts 646/89/3733/860 vs 2026 Q1's 648/89/3760/858.",
+    "The HRMO name is clipped on the scan ('...DENNIS A. CALVO, MPA'); completed from the other quarters' forms."
+  ],
+  "unreadable": []
+}

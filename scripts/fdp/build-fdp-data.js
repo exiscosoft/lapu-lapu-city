@@ -104,6 +104,45 @@ function buildFinances() {
     .sort(byPeriod);
 }
 
+/**
+ * Some reports are posted as several PDFs for one period (e.g. "LDRRM Fund
+ * Utilization Part I / Part II"). Merge them into one entry per period: lists
+ * are concatenated, summary fields are taken from whichever part prints them,
+ * and every part is kept in `parts` so the dashboard can cite each PDF.
+ */
+function mergeParts(entries) {
+  const groups = new Map();
+  for (const e of entries) {
+    const key = `${e.year}-${e.quarter}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(e);
+  }
+  return [...groups.values()].map(group => {
+    if (group.length === 1) return group[0];
+    const [first] = group;
+    const merged = {
+      ...first,
+      parts: group.map(({ id, title, sourceUrl }) => ({
+        id,
+        title,
+        sourceUrl,
+      })),
+    };
+    for (const e of group.slice(1)) {
+      for (const [k, v] of Object.entries(e)) {
+        if (Array.isArray(v) && Array.isArray(merged[k]) && k !== 'parts')
+          merged[k] = [...merged[k], ...v];
+        else if (k === 'summary') {
+          merged.summary = { ...merged.summary };
+          for (const [sk, sv] of Object.entries(v))
+            if (merged.summary[sk] == null) merged.summary[sk] = sv;
+        }
+      }
+    }
+    return merged;
+  });
+}
+
 // ---------------------------------------------------------------- funds
 function projectRows(doc) {
   const t = table(doc, 'projects') || doc.tables[0];
@@ -137,11 +176,15 @@ function buildFunds() {
         const projects = projectRows(doc);
         return {
           ...ref(doc),
+          // Totals come from the listed projects: some forms misprint their
+          // grand total (2025 Q2 prints 45M for 360.8M of projects). The
+          // printed figures are kept alongside.
           summary: {
-            totalCost: doc.summary?.totalCost ?? sumOf(projects, 'totalCost'),
-            costIncurred:
-              doc.summary?.costIncurred ?? sumOf(projects, 'costIncurred'),
-            projectCount: doc.summary?.projectCount ?? projects.length,
+            totalCost: sumOf(projects, 'totalCost'),
+            costIncurred: sumOf(projects, 'costIncurred'),
+            projectCount: projects.length,
+            printedTotalCost: doc.summary?.totalCost ?? null,
+            printedCostIncurred: doc.summary?.costIncurred ?? null,
           },
           projects,
           notes: doc.notes || [],
@@ -226,7 +269,7 @@ function buildFunds() {
     developmentFund: projectFund('development-fund-20'),
     trustFund: projectFund('trust-fund'),
     projectStatus: projectFund('project-status'),
-    ldrrmf,
+    ldrrmf: mergeParts(ldrrmf),
     sef,
   };
 }

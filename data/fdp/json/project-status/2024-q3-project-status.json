@@ -1,0 +1,369 @@
+{
+  "id": "2024-q3-project-status",
+  "type": "project-status",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2024,
+    "quarter": 3,
+    "asOf": "2024-09-30",
+    "printed": "CALENDAR YEAR 2024, QUARTER 3",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Junard \"Ahong\" Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1. Improvement /Renovation of Fireman's quarter of LLC Fire District Gun-ob",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "1. Improvement /Renovation of Fireman's quarter of LLC Fire District Gun-ob",
+            "location": "Gun-ob",
+            "totalCost": 299984.28,
+            "dateStarted": "2022-06-10",
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "Suspended"
+          }
+        },
+        {
+          "label": "2. Rehabilitation and Upgrade of Caubian, Multi-Purpose Evacuation Center",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "2. Rehabilitation and Upgrade of Caubian, Multi-Purpose Evacuation Center",
+            "location": "Caubian",
+            "totalCost": 4982488.72,
+            "dateStarted": "2024-03-15",
+            "targetCompletion": "2024-07-10",
+            "pctCompletion": 100,
+            "costIncurred": 5686798,
+            "extensions": null,
+            "remarks": "Completed with Variation Order"
+          }
+        },
+        {
+          "label": "3. Rehabilitation/Improvement of School Buildings at Bankal National High School",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "3. Rehabilitation/Improvement of School Buildings at Bankal National High School",
+            "location": "Bankal",
+            "totalCost": 3725393.92,
+            "dateStarted": "2024-02-29",
+            "targetCompletion": "2024-09-07",
+            "pctCompletion": 100,
+            "costIncurred": 4069778.8,
+            "extensions": null,
+            "remarks": "Completed with Variation Order"
+          }
+        },
+        {
+          "label": "4. Improvement of Farm to Market Road in Barangay Pta., Engano",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "4. Improvement of Farm to Market Road in Barangay Pta., Engano",
+            "location": "Punta Engano",
+            "totalCost": 19980000,
+            "dateStarted": "2024-04-18",
+            "targetCompletion": "2024-05-17",
+            "pctCompletion": 100,
+            "costIncurred": 19980000,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        },
+        {
+          "label": "5. Rehabilitation/Improvement of Barangay Health Station, Bankal",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "program": "5. Rehabilitation/Improvement of Barangay Health Station, Bankal",
+            "location": "Bankal",
+            "totalCost": 2426138.89,
+            "dateStarted": "2024-05-17",
+            "targetCompletion": "2024-09-29",
+            "pctCompletion": 100,
+            "costIncurred": 1950529.72,
+            "extensions": null,
+            "remarks": "Completed"
+          }
+        }
+      ]
+    },
+    {
+      "key": "cashAdvances",
+      "title": "Unliquidated Cash Advances (page 2)",
+      "columns": [
+        {
+          "key": "debtor",
+          "label": "Name of Debtor (in alphabetical order)",
+          "type": "text"
+        },
+        {
+          "key": "balance",
+          "label": "Amount Balance",
+          "type": "amount"
+        },
+        {
+          "key": "dateGranted",
+          "label": "Date Granted",
+          "type": "text"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "lessThan30Days",
+          "label": "Current: Less than 30 days",
+          "type": "amount"
+        },
+        {
+          "key": "days31to90",
+          "label": "Current: 31-90 days",
+          "type": "amount"
+        },
+        {
+          "key": "days91to365",
+          "label": "Current: 91-365 days",
+          "type": "amount"
+        },
+        {
+          "key": "over1Year",
+          "label": "Past Due: Over 1 year",
+          "type": "amount"
+        },
+        {
+          "key": "over2Years",
+          "label": "Past Due: Over 2 years",
+          "type": "amount"
+        },
+        {
+          "key": "over3Years",
+          "label": "Past Due: 3 years and above",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Semblante, Joel",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": "Semblante, Joel",
+            "balance": 17300,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": 17300,
+            "days91to365": null,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": null
+          }
+        },
+        {
+          "label": "Sevilla, Maricon",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": "Sevilla, Maricon",
+            "balance": 17300,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": 17300,
+            "days91to365": null,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": null
+          }
+        },
+        {
+          "label": "Silawan, Cesar",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": "Silawan, Cesar",
+            "balance": 21000,
+            "dateGranted": "Sep-19",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": null,
+            "days91to365": null,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": 21000
+          }
+        },
+        {
+          "label": "Torregosa, Jocelyn",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": "Torregosa, Jocelyn",
+            "balance": -3,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": null,
+            "days91to365": -3,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": null
+          }
+        },
+        {
+          "label": "Wahing, Genevive",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": "Wahing, Genevive",
+            "balance": 28500,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": 28500,
+            "days91to365": null,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": null
+          }
+        },
+        {
+          "label": "(no name printed)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": null,
+            "balance": 0,
+            "dateGranted": "May-24",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": null,
+            "days91to365": null,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": null
+          }
+        },
+        {
+          "label": "(no name printed)",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "debtor": null,
+            "balance": 0,
+            "dateGranted": "Jun-24",
+            "purpose": "Travel",
+            "lessThan30Days": null,
+            "days31to90": null,
+            "days91to365": null,
+            "over1Year": null,
+            "over2Years": null,
+            "over3Years": null
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "balance": 452599.65,
+            "lessThan30Days": 0,
+            "days31to90": 432750.65,
+            "days91to365": -1151,
+            "over1Year": 0,
+            "over2Years": 0,
+            "over3Years": 21000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 5
+  },
+  "notes": [
+    "The form is labelled \"FDP Form 6 - Trust Fund Utilization\" (the same form and projects as the trust-fund series); the catalog classifies it as a project status report by its printed title.",
+    "Page 2 of the PDF is not part of this form: it is the last page (\"Page 2 of 2\") of an Unliquidated Cash Advances report for CY 2024 Q3, certified by Helen G. Dungog (Accountant) and Junard \"Ahong\" Chan (City Mayor). It is transcribed as table cashAdvances. Its printed Total (balance 452,599.65; 31-90 days 432,750.65; 91-365 days (1,151.00); 3 years and above 21,000.00) covers debtors on earlier pages that are not in this PDF, so the seven listed rows do not add up to it. The total columns are internally consistent (432,750.65 - 1,151.00 + 21,000.00 = 452,599.65).",
+    "cashAdvances: the right half of the page is skewed upward in the scan; aging amounts were matched to debtors by following the row lines. The last two rows (May-24 and Jun-24, Travel) have no debtor name and a balance of \"-\". Dates Granted are printed as month-year (e.g. \"Aug-24\") and kept as text.",
+    "Dates are printed day-first (e.g. 15/03/2024, 29/02/2024, 18/04/2024) and were converted accordingly; 10/06/2022, 10/07/2024 and 07/09/2024 are read as 10 June 2022, 10 July 2024 and 7 September 2024 by the same convention.",
+    "Project 1 (Fireman's quarter, Suspended) prints \"-\" in Target Completion Date (recorded as null) and leaves % of Completion and Cost Incurred blank.",
+    "Projects 2 and 3 (Completed with Variation Order) show cost incurred above total cost (5,686,798.00 vs 4,982,488.72; 4,069,778.80 vs 3,725,393.92); transcribed as printed.",
+    "Project 4 (Farm to Market Road) prints its location \"Punta Engano\" on the first line of the row and its amounts on the third; project 5 likewise prints \"Bankal\".",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null."
+  ],
+  "unreadable": []
+}

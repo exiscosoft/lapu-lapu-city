@@ -1,0 +1,441 @@
+{
+  "id": "2025-q2-cash-advances",
+  "type": "cash-advances",
+  "title": "Unliquidated Cash Advances",
+  "form": "FDP Form 12 - Unliquidated Cash Advances",
+  "period": {
+    "year": 2025,
+    "quarter": 2,
+    "asOf": "2025-06-30",
+    "printed": "Calendar Year: 2025, Quarter: 2",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Unliquidated Cash Advances",
+      "columns": [
+        {
+          "key": "name",
+          "label": "Name of Debtor (in alphabetical order)",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount Balance",
+          "type": "amount"
+        },
+        {
+          "key": "dateGranted",
+          "label": "Date Granted",
+          "type": "text"
+        },
+        {
+          "key": "purpose",
+          "label": "Purpose",
+          "type": "text"
+        },
+        {
+          "key": "lt30",
+          "label": "Less than 30 days",
+          "type": "amount"
+        },
+        {
+          "key": "d31to90",
+          "label": "31-90 days",
+          "type": "amount"
+        },
+        {
+          "key": "d91to365",
+          "label": "91-365 days",
+          "type": "amount"
+        },
+        {
+          "key": "over1y",
+          "label": "Over 1 year",
+          "type": "amount"
+        },
+        {
+          "key": "over2y",
+          "label": "Over 2 years",
+          "type": "amount"
+        },
+        {
+          "key": "over3y",
+          "label": "3 years and above",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Abalos, Junard",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abalos, Junard",
+            "amount": 31200,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d31to90": 31200
+          }
+        },
+        {
+          "label": "Abrahan, Lilibeth",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Abrahan, Lilibeth",
+            "amount": 28700,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 28700
+          }
+        },
+        {
+          "label": "Amistad, Brenda",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Amistad, Brenda",
+            "amount": 6100,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d31to90": 6100
+          }
+        },
+        {
+          "label": "Aying, Celestino",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Aying, Celestino",
+            "amount": 11313,
+            "dateGranted": "Nov-24",
+            "purpose": "Travel",
+            "d91to365": 11313
+          }
+        },
+        {
+          "label": "Banacia, Nigel",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Banacia, Nigel",
+            "amount": 21100,
+            "dateGranted": "Oct-24",
+            "purpose": "Travel",
+            "d91to365": 21100
+          }
+        },
+        {
+          "label": "Bancale, Christopher",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Bancale, Christopher",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Bienavides, Dennis",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Bienavides, Dennis",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Berdon, Ramon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Berdon, Ramon",
+            "amount": 6100,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d31to90": 6100
+          }
+        },
+        {
+          "label": "Bointes, Vicente, Jr.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Bointes, Vicente, Jr.",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Brufal, Panfila",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Brufal, Panfila",
+            "amount": 28700,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 28700
+          }
+        },
+        {
+          "label": "Cosep, Clifford",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Cosep, Clifford",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Dianon, Gerard Luke",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Dianon, Gerard Luke",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Espinosa, Michael",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Espinosa, Michael",
+            "amount": 31200,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 31200
+          }
+        },
+        {
+          "label": "Feliciano, Eleonor",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Feliciano, Eleonor",
+            "amount": 30200,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d31to90": 30200
+          }
+        },
+        {
+          "label": "Gerarman, Perpetua",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Gerarman, Perpetua",
+            "amount": 6100,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d31to90": 6100
+          }
+        },
+        {
+          "label": "Igot, Regino",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Igot, Regino",
+            "amount": 26900,
+            "dateGranted": "Feb-25",
+            "purpose": "Travel",
+            "d31to90": 26900
+          }
+        },
+        {
+          "label": "Ladaga, Catherine",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Ladaga, Catherine",
+            "amount": 52550,
+            "dateGranted": "May-25",
+            "purpose": "Travel",
+            "d31to90": 52550
+          }
+        },
+        {
+          "label": "Lana, Brisco",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Lana, Brisco",
+            "amount": 31200,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 31200
+          }
+        },
+        {
+          "label": "Lofranco, Cherish Raque1",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Lofranco, Cherish Raque1",
+            "amount": 13630,
+            "dateGranted": "Sep-24",
+            "purpose": "Travel",
+            "d91to365": 13630
+          }
+        },
+        {
+          "label": "Mangubat, Joreilyn",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Mangubat, Joreilyn",
+            "amount": 12215.6,
+            "dateGranted": "May-24",
+            "purpose": "Travel",
+            "over1y": 12215.6
+          }
+        },
+        {
+          "label": "Ocaya, Anna Liza",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Ocaya, Anna Liza",
+            "amount": 27545,
+            "dateGranted": "Nov-24",
+            "purpose": "Travel",
+            "d91to365": 27545
+          }
+        },
+        {
+          "label": "Paquibot, Ignacio",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Paquibot, Ignacio",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Potot, Leoni Mario",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Potot, Leoni Mario",
+            "amount": 33200,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 33200
+          }
+        },
+        {
+          "label": "Prado, Alnardo E.",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Prado, Alnardo E.",
+            "amount": 1499,
+            "dateGranted": "Mar-25",
+            "purpose": "Travel",
+            "d31to90": 1499
+          }
+        },
+        {
+          "label": "Pulgo, Roxanne",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Pulgo, Roxanne",
+            "amount": 30200,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 30200
+          }
+        },
+        {
+          "label": "Remocaldo, Buena Fe",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Remocaldo, Buena Fe",
+            "amount": 30200,
+            "dateGranted": "Jun-25",
+            "purpose": "Travel",
+            "lt30": 30200
+          }
+        },
+        {
+          "label": "Sevilla, Maricon",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Sevilla, Maricon",
+            "amount": 17300,
+            "dateGranted": "Aug-24",
+            "purpose": "Travel",
+            "d91to365": 17300
+          }
+        },
+        {
+          "label": "Silawan, Cesar",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "name": "Silawan, Cesar",
+            "amount": 21000,
+            "dateGranted": "Sep-19",
+            "purpose": "Travel",
+            "over3y": 21000
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 507146.6,
+            "lt30": 213400,
+            "d31to90": 169643,
+            "d91to365": 90888,
+            "over1y": 12215.6,
+            "over2y": 0,
+            "over3y": 21000
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total": 507146.6,
+    "count": 28
+  },
+  "notes": [
+    "Each item row has its balance repeated in exactly one aging column. Date Granted is printed as month-year and kept as text. All column totals equal the sum of the rows."
+  ],
+  "unreadable": []
+}

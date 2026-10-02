@@ -7,7 +7,7 @@
     "year": 2024,
     "quarter": 2,
     "asOf": "2024-06-30",
-    "printed": "Calendar Year: 2024, Quarter: 2 (handwritten on page 1; pages 2-4 print \"Quarter: 1\")",
+    "printed": "Calendar Year: 2024, Quarter: 2",
     "cumulative": true
   },
   "certifiedBy": [
@@ -932,6 +932,7 @@
     "mitigationBalance": 241379406.35
   },
   "notes": [
+    "Period: the quarter on page 1 is a handwritten \"2\"; pages 2-4 still print \"Quarter: 1\". Treated as Q2 2024, matching the posted title.",
     "Quarter: page 1 has \"2\" handwritten over the quarter field; pages 2-4 still print \"QUARTER: 1\" (template carried over from Q1). Utilization runs through June 2024, so the document is treated as Q2 2024, matching the catalog.",
     "Printed Total Utilization 33,062,514.56 is 0.01 more than the sum of the printed utilization items (33,062,514.55); transcribed as printed.",
     "The four mitigation amounts 1,533,668.25 / 1,551,956.03 / 1,570,243.81 / 1,588,531.59 (page 2) are printed on the rows labelled \"CONTINUING AND CURRENT\", \"APPROPRIATION\", \"January-No Liquidation\" and \"February-No liquidation\" with no item description. They form an arithmetic series (each +18,287.78), which suggests a spreadsheet fill error, but they are included in the printed Total Utilization. Same figures appear in 2024-q1-ldrrmf.",

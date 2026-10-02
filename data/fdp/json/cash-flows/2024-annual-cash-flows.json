@@ -1,0 +1,393 @@
+{
+  "id": "2024-annual-cash-flows",
+  "type": "cash-flows",
+  "title": "Statement of Cash Flows-General Fund Consolidated",
+  "period": {
+    "year": 2024,
+    "quarter": null,
+    "asOf": "2024-12-31",
+    "printed": "As of December 31, 2024",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Statement of Cash Flows-General Fund Consolidated",
+      "columns": [
+        {
+          "key": "y2024",
+          "label": "2024",
+          "type": "amount"
+        },
+        {
+          "key": "y2023",
+          "label": "2023",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Cash Flows from Operating Activities",
+          "level": 0,
+          "kind": "header",
+          "values": {},
+          "section": "operating"
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "operatingInflows"
+        },
+        {
+          "key": "shareFromIrc",
+          "label": "Share from Internal Revenue Collections",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": 1527267760,
+            "y2023": 1440708204
+          }
+        },
+        {
+          "key": "collectionsFromTaxpayers",
+          "label": "Collection from Taxpayers",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": 1857471862.19,
+            "y2023": 1514911478.5
+          }
+        },
+        {
+          "key": "receiptsFromBusiness",
+          "label": "Receipts from business/service income",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": 339622655.02,
+            "y2023": 245617412.46
+          }
+        },
+        {
+          "key": "interestIncome",
+          "label": "Interest Income",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": 66131747.1,
+            "y2023": 39897019.59
+          }
+        },
+        {
+          "label": "Gain on Sale of PPE",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": null,
+            "y2023": 0
+          }
+        },
+        {
+          "key": "otherReceipts",
+          "label": "Other Receipts",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": 15531586.75,
+            "y2023": 864524725.44
+          }
+        },
+        {
+          "label": "Total Cash Inflows",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "operatingInflows",
+          "values": {
+            "y2024": 3806025611.06,
+            "y2023": 4105658839.99
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "operatingOutflows"
+        },
+        {
+          "key": "paymentsToSuppliers",
+          "label": "Payments to suppliers/creditors",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "y2024": 1615667959.05,
+            "y2023": 1946842007.85
+          }
+        },
+        {
+          "key": "paymentsToEmployees",
+          "label": "Payment to employees",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "y2024": 834796100.72,
+            "y2023": 819053812.44
+          }
+        },
+        {
+          "key": "interestExpense",
+          "label": "Interest Expense",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "y2024": 0,
+            "y2023": 13146.11
+          }
+        },
+        {
+          "key": "otherExpenses",
+          "label": "Other Expenses",
+          "level": 2,
+          "kind": "item",
+          "section": "operatingOutflows",
+          "values": {
+            "y2024": 571313704.53,
+            "y2023": 882615147.96
+          }
+        },
+        {
+          "label": "Total Cash Outflows",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "operatingOutflows",
+          "values": {
+            "y2024": 3021777764.3,
+            "y2023": 3648524114.36
+          }
+        },
+        {
+          "key": "netOperating",
+          "label": "Net Cash flows from Operating Activities",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "operating",
+          "values": {
+            "y2024": 784247846.76,
+            "y2023": 457134725.63
+          }
+        },
+        {
+          "label": "Cash Flows from Investing Activities",
+          "level": 0,
+          "kind": "header",
+          "values": {},
+          "section": "investing"
+        },
+        {
+          "label": "Cash Inflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "investingInflows"
+        },
+        {
+          "label": "Proceeds from sale of Investment Property",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "y2024": null,
+            "y2023": null
+          }
+        },
+        {
+          "label": "Proceeds from sale/transfer of PPE",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "y2024": null,
+            "y2023": null
+          }
+        },
+        {
+          "label": "Proceeds from Sale of Non-Current Investments",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "y2024": null,
+            "y2023": 0
+          }
+        },
+        {
+          "label": "Collection of Principal on loans to other entities",
+          "level": 2,
+          "kind": "item",
+          "section": "investingInflows",
+          "values": {
+            "y2024": null,
+            "y2023": 0
+          }
+        },
+        {
+          "label": "Total Cash Inflows",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "investingInflows",
+          "values": {
+            "y2024": 0,
+            "y2023": 0
+          }
+        },
+        {
+          "label": "Cash Outflows:",
+          "level": 1,
+          "kind": "header",
+          "values": {},
+          "section": "investingOutflows"
+        },
+        {
+          "label": "To Purchase Intangible Assets",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOutflows",
+          "values": {
+            "y2024": 9051353.29,
+            "y2023": 2671798.5
+          }
+        },
+        {
+          "label": "To Purchase Property, Plant and Equipment",
+          "level": 2,
+          "kind": "item",
+          "section": "investingOutflows",
+          "values": {
+            "y2024": 343374080.24,
+            "y2023": 270438044.63
+          }
+        },
+        {
+          "label": "Total Cash Outflows",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "investingOutflows",
+          "values": {
+            "y2024": 352425433.53,
+            "y2023": 273109843.13
+          }
+        },
+        {
+          "key": "netInvesting",
+          "label": "Net Cash from Investing Activities",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "investing",
+          "values": {
+            "y2024": -352425433.53,
+            "y2023": -273109843.13
+          }
+        },
+        {
+          "label": "Cash Flows from Financing Activities",
+          "level": 0,
+          "kind": "header",
+          "values": {},
+          "section": "financing"
+        },
+        {
+          "label": "Payment of Long-Term Liabilities",
+          "level": 2,
+          "kind": "item",
+          "section": "financingOutflows",
+          "values": {
+            "y2024": 460256.28,
+            "y2023": 691393.35
+          }
+        },
+        {
+          "label": "Total Cash Outflows",
+          "level": 2,
+          "kind": "subtotal",
+          "section": "financingOutflows",
+          "values": {
+            "y2024": 460256.28,
+            "y2023": 691393.35
+          }
+        },
+        {
+          "key": "netFinancing",
+          "label": "Net Cash from Finacing Activities",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "financing",
+          "values": {
+            "y2024": -460256.28,
+            "y2023": -691393.35
+          }
+        },
+        {
+          "key": "netChange",
+          "label": "Net Increase in Cash",
+          "level": 0,
+          "kind": "subtotal",
+          "values": {
+            "y2024": 431362156.95,
+            "y2023": 183333489.15
+          }
+        },
+        {
+          "key": "cashBeginning",
+          "label": "Cash at Beginning of the Period",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "y2024": 2652100282.48,
+            "y2023": 2468766793.33
+          }
+        },
+        {
+          "key": "cashEnd",
+          "label": "Cash at End of the Period",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "y2024": 3083462439.43,
+            "y2023": 2652100282.48
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "netOperating": 784247846.76,
+    "netInvesting": -352425433.53,
+    "netFinancing": -460256.28,
+    "netChange": 431362156.95,
+    "cashBeginning": 2652100282.48,
+    "cashEnd": 3083462439.43
+  },
+  "notes": [
+    "General Fund consolidated statement, not the FDP Form 9 layout. Two comparative columns are printed: 2024 (key y2024) and 2023 (key y2023). summary uses the 2024 column.",
+    "The financing section has no Cash Inflows sub-heading; only \"Payment of Long-Term Liabilities\" and its Total Cash Outflows are printed.",
+    "Several 2023-column figures (Share from Internal Revenue Collections 1,440,708,204.00, Interest Expense 13,146.11, Purchase of Intangible Assets 2,671,798.50, loan payments 691,393.35) are identical to those printed in 2024-q1-cash-flows."
+  ],
+  "unreadable": []
+}

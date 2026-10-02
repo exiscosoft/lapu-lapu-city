@@ -1,0 +1,204 @@
+{
+  "id": "2018-annual-indebtedness",
+  "type": "indebtedness",
+  "title": "Statement of Debt Service",
+  "form": null,
+  "period": {
+    "year": 2018,
+    "quarter": null,
+    "asOf": "2018-12-31",
+    "printed": "CY 2018",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Elenita S. Catagcatag",
+      "position": "City Treasurer"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Statement of Debt Service CY 2018",
+      "columns": [
+        {
+          "key": "creditor",
+          "label": "Creditor",
+          "type": "text"
+        },
+        {
+          "key": "dateContracted",
+          "label": "Date Contracted",
+          "type": "date"
+        },
+        {
+          "key": "term",
+          "label": "Term (in years)",
+          "type": "number"
+        },
+        {
+          "key": "principal",
+          "label": "Principal Amount",
+          "type": "amount"
+        },
+        {
+          "key": "prevPrincipal",
+          "label": "Previous Payments Made: Principal",
+          "type": "amount"
+        },
+        {
+          "key": "prevInterest",
+          "label": "Previous Payments Made: Interest",
+          "type": "amount"
+        },
+        {
+          "key": "prevTotal",
+          "label": "Previous Payments Made: Total",
+          "type": "amount"
+        },
+        {
+          "key": "duePrincipal",
+          "label": "Amount Due Budget Year 2018: Principal",
+          "type": "amount"
+        },
+        {
+          "key": "dueInterest",
+          "label": "Amount Due Budget Year 2018: Interest",
+          "type": "amount"
+        },
+        {
+          "key": "dueTotal",
+          "label": "Amount Due Budget Year 2018: Total",
+          "type": "amount"
+        },
+        {
+          "key": "balance",
+          "label": "Balance of the Principal",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Loan from Landbank - New Loan 1",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "creditor": "Loan from Landbank - New Loan 1",
+            "dateContracted": "2005-04-29",
+            "term": 15,
+            "principal": 379097302.0,
+            "prevPrincipal": 346138899.54,
+            "prevInterest": 204940187.29,
+            "prevTotal": 551079086.83,
+            "duePrincipal": 13183361.04,
+            "dueInterest": 2523764.84,
+            "dueTotal": 15707125.88,
+            "balance": 19775041.42
+          }
+        },
+        {
+          "label": "New Loan 2",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "creditor": "New Loan 2",
+            "dateContracted": "2011-04-08",
+            "term": 10,
+            "principal": 89976000.0,
+            "prevPrincipal": 64982666.58,
+            "prevInterest": 34129759.64,
+            "prevTotal": 99112426.22,
+            "duePrincipal": 9997333.32,
+            "dueInterest": 1343839.33,
+            "dueTotal": 11341172.65,
+            "balance": 14996000.1
+          }
+        },
+        {
+          "label": "National Housing Authority",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "creditor": "National Housing Authority",
+            "dateContracted": "2008-01-18",
+            "term": 15,
+            "principal": 2000000.0,
+            "prevPrincipal": 877579.98,
+            "prevInterest": 1321574.13,
+            "prevTotal": 2199154.11,
+            "duePrincipal": 148116.07,
+            "dueInterest": 96166.53,
+            "dueTotal": 244282.6,
+            "balance": 974303.95
+          }
+        },
+        {
+          "key": "total",
+          "label": "TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "principal": 471073302.0,
+            "prevPrincipal": 411999146.1,
+            "prevInterest": 240391521.06,
+            "prevTotal": 652390667.16,
+            "duePrincipal": 23328810.43,
+            "dueInterest": 3963770.7,
+            "dueTotal": 27292581.13,
+            "balance": 35745345.47
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "loans": [
+      {
+        "lender": "Land Bank of the Philippines",
+        "name": "Landbank - New Loan 1",
+        "purpose": null,
+        "principal": 379097302.0,
+        "interestRate": null,
+        "dateContracted": "2005-04-29",
+        "term": 15,
+        "paidPrincipal": 346138899.54,
+        "paidInterest": 204940187.29,
+        "outstanding": 19775041.42
+      },
+      {
+        "lender": "Land Bank of the Philippines",
+        "name": "Landbank - New Loan 2",
+        "purpose": null,
+        "principal": 89976000.0,
+        "interestRate": null,
+        "dateContracted": "2011-04-08",
+        "term": 10,
+        "paidPrincipal": 64982666.58,
+        "paidInterest": 34129759.64,
+        "outstanding": 14996000.1
+      },
+      {
+        "lender": "National Housing Authority",
+        "name": "National Housing Authority",
+        "purpose": null,
+        "principal": 2000000.0,
+        "interestRate": null,
+        "dateContracted": "2008-01-18",
+        "term": 15,
+        "paidPrincipal": 877579.98,
+        "paidInterest": 1321574.13,
+        "outstanding": 974303.95
+      }
+    ],
+    "totalOutstanding": 35745345.47
+  },
+  "notes": [
+    "Dates contracted are printed as MM/DD/YY (04/29/05, 04/08/11, 01/18/08) and transcribed as ISO dates on that reading.",
+    "The creditor cell \"New Loan 2\" sits under \"Loan from Landbank -\"; both New Loan 1 and New Loan 2 are Landbank loans. The lender name \"Land Bank of the Philippines\" in summary.loans is the full name of the printed \"Landbank\".",
+    "Balance of the Principal (7) = Principal (4) minus Previous Payments principal (5) minus Amount Due Budget Year 2018 principal (6) on every row, so summary.loans[].paidPrincipal/paidInterest hold only the previous payments (column 5); the 2018 amounts due are in the table.",
+    "The \"8\" in the column heading \"Amount Due Budget Year 2018\" is hand-corrected on the page.",
+    "No interest rate or loan purpose is printed on this form.",
+    "All row and column totals check: (5) and (6) principal + interest = total on every row, and the TOTAL row equals the sum of the three loans in every column."
+  ],
+  "unreadable": []
+}

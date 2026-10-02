@@ -163,7 +163,14 @@ function checkSre(doc, warnings) {
   const cols = main.columns
     .map(c => c.key)
     .filter(k =>
-      ['target', 'generalFund', 'sef', 'trustFund', 'total'].includes(k)
+      [
+        'target',
+        'generalFund',
+        'sef',
+        'trustFund',
+        'trustLiability',
+        'total',
+      ].includes(k)
     );
   const v = (key, col) => rows.get(key)?.values?.[col];
 
@@ -227,7 +234,7 @@ function checkSre(doc, warnings) {
   // GF + SEF (+ trust) = total, for the income and expenditure lines
   if (cols.includes('total') && cols.includes('generalFund')) {
     const funds = cols.filter(c =>
-      ['generalFund', 'sef', 'trustFund'].includes(c)
+      ['generalFund', 'sef', 'trustFund', 'trustLiability'].includes(c)
     );
     for (const key of [
       'totalCurrentOperatingIncome',

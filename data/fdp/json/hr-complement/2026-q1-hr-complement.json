@@ -1,0 +1,136 @@
+{
+  "id": "2026-q1-hr-complement",
+  "type": "hr-complement",
+  "title": "Human Resource Complement",
+  "form": "FDP Form 13- Manpower Complement",
+  "period": {
+    "year": 2026,
+    "quarter": 1,
+    "asOf": "2026-03-31",
+    "printed": "Calendar Year 2026, Quarter 1",
+    "cumulative": null
+  },
+  "certifiedBy": [
+    {
+      "name": "Atty. Mario Dennis A. Calvo, MPA",
+      "position": "Human Resource Management Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "Accountant"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "Local Chief Executive"
+    }
+  ],
+  "tables": [
+    {
+      "key": "main",
+      "title": "Human Resource Complement",
+      "columns": [
+        {
+          "key": "count",
+          "label": "Number",
+          "type": "number"
+        },
+        {
+          "key": "salaries",
+          "label": "Salaries and Wages",
+          "type": "amount"
+        },
+        {
+          "key": "otherBenefits",
+          "label": "Other Monetary Benefits",
+          "type": "amount"
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "key": "permanentContractual",
+          "label": "I. Permanent / II. Contractual (compensation printed for the group)",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": null,
+            "salaries": 81456607.86,
+            "otherBenefits": null,
+            "total": 81456607.86
+          }
+        },
+        {
+          "key": "permanent",
+          "label": "I. Permanent",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "count": 648,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "contractual",
+          "label": "II. Contractual",
+          "level": 1,
+          "kind": "item",
+          "values": {
+            "count": 89,
+            "salaries": null,
+            "otherBenefits": null,
+            "total": null
+          }
+        },
+        {
+          "key": "jobOrder",
+          "label": "III. Job Order/ Contract of Service",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 3760,
+            "salaries": 107667358.81,
+            "otherBenefits": null,
+            "total": 107667358.81
+          }
+        },
+        {
+          "key": "casual",
+          "label": "IV. Casual",
+          "level": 0,
+          "kind": "item",
+          "values": {
+            "count": 858,
+            "salaries": 45772237.44,
+            "otherBenefits": null,
+            "total": 45772237.44
+          }
+        },
+        {
+          "key": "total",
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "count": 5355,
+            "salaries": 234896204.11,
+            "otherBenefits": null,
+            "total": 234896204.11
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {},
+  "notes": [
+    "Form printed with 'CALENDAR YEAR' and 'QUARTER' fields; asOf set to the quarter end.",
+    "On this form the compensation cells for I. Permanent and II. Contractual are merged into one. Counts are recorded on the individual rows; the merged amounts are recorded once on the row 'I. Permanent / II. Contractual' (count null), so nothing is double counted.",
+    "The Other Monetary Benefits column is blank for every row, including the Total; the signature lines are marked 'SIGNED' by hand."
+  ],
+  "unreadable": []
+}

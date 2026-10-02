@@ -20,6 +20,8 @@ export interface DocRef {
   title: string;
   sourceUrl: string;
   notes?: string[];
+  /** Set when one period's report was posted as several PDFs. */
+  parts?: { id: string; title: string; sourceUrl: string }[];
 }
 
 export type CellValue = number | string | null;
@@ -67,7 +69,13 @@ export interface Project {
 }
 
 export interface ProjectFundEntry extends DocRef {
-  summary: { totalCost: number; costIncurred: number; projectCount: number };
+  summary: {
+    totalCost: number;
+    costIncurred: number;
+    projectCount: number;
+    printedTotalCost: number | null;
+    printedCostIncurred: number | null;
+  };
   projects: Project[];
 }
 

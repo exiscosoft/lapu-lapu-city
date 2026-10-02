@@ -1,0 +1,491 @@
+{
+  "id": "2026-annual-sef-budget-sb",
+  "type": "sef-budget",
+  "title": "Special Education Fund Supplemental Budget No. 02-2026 (Local School Board Resolution No. MCKC-009, Series of 2026)",
+  "form": "LSB Resolution; Local Budget Preparation Form No. 8 and No. 9",
+  "period": {
+    "year": 2026,
+    "quarter": null,
+    "asOf": "2026-07-29",
+    "printed": "As of July 29, 2026 (Supplemental Budget No. 02-2026, FY 2026)",
+    "cumulative": false
+  },
+  "certifiedBy": [
+    {
+      "name": "Claire V. Cabalda, REB, MPA",
+      "position": "City Treasurer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer (Prepared by, Schedule of Reversion)"
+    },
+    {
+      "name": "Marilyn S. Andales, EdD CESO V",
+      "position": "Schools Division Superintendent, Co-Chairman, LSB (Prepared by)"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor, Chairman, Local School Board (Approved)"
+    }
+  ],
+  "tables": [
+    {
+      "key": "funding-sources",
+      "title": "Certified Statement of Funding Sources as of July 29, 2026 - Supplemental Budget No. 02-2026, Special Education Fund (LBP Form No. 8)",
+      "columns": [
+        {
+          "key": "accountClassification",
+          "label": "Account Classification",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "1.0 New Revenue Sources",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "2.0 Actual Collection in Excess of the Estimate Income",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "3.0 Savings",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Reversion",
+          "level": 1,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Continuing Appropriation",
+          "level": 2,
+          "kind": "item",
+          "values": {
+            "accountClassification": null,
+            "amount": 2522509
+          }
+        },
+        {
+          "label": "4.0 Realignment",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Total Available Resources for Supplemental Budget No. 02-2026",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 2522509
+          }
+        }
+      ]
+    },
+    {
+      "key": "reversion-schedule",
+      "title": "Schedule of Reversion of Appropriations as Funding Sources for Supplemental Budget (LBP Form No. 9, Annex A)",
+      "columns": [
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CONTINUING APPROPRIATION",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Special Education Fund",
+          "level": 0,
+          "kind": "header",
+          "values": {}
+        },
+        {
+          "label": "Elementary (3321)",
+          "level": 1,
+          "kind": "header",
+          "section": "elementary",
+          "values": {}
+        },
+        {
+          "label": "Purchase of 55\"TV for all Grade One Classroom",
+          "level": 2,
+          "kind": "item",
+          "section": "elementary",
+          "values": {
+            "accountCode": "1-07-05-020-18s3",
+            "amount": 25279
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "elementary",
+          "values": {
+            "amount": 25279
+          }
+        },
+        {
+          "label": "Secondary (3322)",
+          "level": 1,
+          "kind": "header",
+          "section": "secondary",
+          "values": {}
+        },
+        {
+          "label": "Purchase of One (1) Unit Over Head Router - Marigondon National High School",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-010-18s7",
+            "amount": 10000
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Dust Board Collector - Marigondon National High School",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-010-18s8",
+            "amount": 17000
+          }
+        },
+        {
+          "label": "Purchase of Two (2) Units LED TV-",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-020-18s20",
+            "amount": 2000
+          }
+        },
+        {
+          "label": "Purchase and installation of Sound System for Dancing Hall for Look NHS",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-020-23s3",
+            "amount": 80798
+          }
+        },
+        {
+          "label": "Purchase of Eight (8) units Digital B&W Multi Function Printer for District Schools",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-030-24s1",
+            "amount": 7200
+          }
+        },
+        {
+          "label": "Purchase and Installation of Fifty (50) Units High End Laptop with 2 Charging Station for STEC ICT Laboratory",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-030-24s2",
+            "amount": 1000
+          }
+        },
+        {
+          "label": "Four (4) Units Digital B&W Multi Function Printer",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-030-25s1",
+            "amount": 2000
+          }
+        },
+        {
+          "label": "Purchase of Seven (7) Units Branded Laptop with Ultra 7 Processor and 32GB memory",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-030-25s2",
+            "amount": 175000
+          }
+        },
+        {
+          "label": "Purchase and installation of Multi Media Equipments, Sounds and Fixtures for Arts & Design Audio Visual Room",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-140-23s1",
+            "amount": 72980
+          }
+        },
+        {
+          "label": "Purchase and installation of Twenty (20) panels LED video wall for indoor and outdoor use with controller for Look Senior High School",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-140-23s2",
+            "amount": 34834
+          }
+        },
+        {
+          "label": "Purchase of 32 set Artificial Intelligence Robotics Kit for Senior and Junior High School",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-140-24s1",
+            "amount": 29000
+          }
+        },
+        {
+          "label": "Purchase and Installation of Sixteen (16) High Volume Low-Speed Fan for Various Activity Centers",
+          "level": 2,
+          "kind": "item",
+          "section": "secondary",
+          "values": {
+            "accountCode": "1-07-05-990-24s1",
+            "amount": 1000
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "secondary",
+          "values": {
+            "amount": 432812
+          }
+        },
+        {
+          "label": "Non-Formal (3323)",
+          "level": 1,
+          "kind": "header",
+          "section": "nonFormal",
+          "values": {}
+        },
+        {
+          "label": "Purchase of Seven (7) units Smart TV 65\" @ 50,000.00 each",
+          "level": 2,
+          "kind": "item",
+          "section": "nonFormal",
+          "values": {
+            "accountCode": "1-07-05-020-23s2",
+            "amount": 707
+          }
+        },
+        {
+          "label": "Purchase and Installation of Two (2) Split Type Aircondition 2.5HP Super Inverter for Tungasan & Abuno ALS Sub-Office",
+          "level": 2,
+          "kind": "item",
+          "section": "nonFormal",
+          "values": {
+            "accountCode": "1-07-05-020-24s1",
+            "amount": 100
+          }
+        },
+        {
+          "label": "Purchase of Fifty (50) units Laptop for Mobile Classroom for ALS",
+          "level": 2,
+          "kind": "item",
+          "section": "nonFormal",
+          "values": {
+            "accountCode": "1-07-05-030-24s1",
+            "amount": 61111
+          }
+        },
+        {
+          "label": "Purchase of Five (5) Units Laptop for ALS Teacher",
+          "level": 2,
+          "kind": "item",
+          "section": "nonFormal",
+          "values": {
+            "accountCode": "1-07-05-030-25s1",
+            "amount": 2500
+          }
+        },
+        {
+          "label": "Purchase of Customized Moblie Classroom (Knowledge Access Resources & Training for ALS) - Motorcycle Type",
+          "level": 2,
+          "kind": "item",
+          "section": "nonFormal",
+          "values": {
+            "accountCode": "1-07-05-990-24s1",
+            "amount": 500000
+          }
+        },
+        {
+          "label": "Purchase of Customized Moblie Classroom ( Knowledge Access Resources & Training for ALS)",
+          "level": 2,
+          "kind": "item",
+          "section": "nonFormal",
+          "values": {
+            "accountCode": "1-07-05-990-24s2",
+            "amount": 1500000
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "nonFormal",
+          "values": {
+            "amount": 2064418
+          }
+        },
+        {
+          "label": "Grand Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 2522509
+          }
+        }
+      ]
+    },
+    {
+      "key": "supplemental-appropriation",
+      "title": "Statement of Supplemental Appropriation CY 2026 - Special Education Fund, Supplemental Budget No. 02-2026 (LBP Form No. 9, Annex B)",
+      "columns": [
+        {
+          "key": "office",
+          "label": "Implementing Office",
+          "type": "text"
+        },
+        {
+          "key": "objectClass",
+          "label": "Object of Expenditures",
+          "type": "text"
+        },
+        {
+          "key": "accountCode",
+          "label": "Account Code",
+          "type": "text"
+        },
+        {
+          "key": "amount",
+          "label": "Amount",
+          "type": "amount"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Medical and Laboratory Supplies Expenses",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary",
+            "objectClass": "MOOE",
+            "accountCode": "3321 -5-02-03-080 -6",
+            "amount": 800000
+          }
+        },
+        {
+          "label": "Other General Services",
+          "level": 1,
+          "kind": "item",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary",
+            "objectClass": "MOOE",
+            "accountCode": "-5-02-12-990",
+            "amount": 523549
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "mooe",
+          "values": {
+            "office": "Elementary",
+            "amount": 1323549
+          }
+        },
+        {
+          "label": "Lot Acquisition for Babag National High School",
+          "level": 1,
+          "kind": "item",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Secondary Education",
+            "objectClass": "CO",
+            "accountCode": "3322 -1-07-01-010 -26s1",
+            "amount": 1198960
+          }
+        },
+        {
+          "label": "Sub-total",
+          "level": 1,
+          "kind": "subtotal",
+          "section": "capitalOutlay",
+          "values": {
+            "office": "Secondary Education",
+            "amount": 1198960
+          }
+        },
+        {
+          "label": "Total",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "amount": 2522509
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalBudget": 2522509,
+    "ps": null,
+    "mooe": 1323549,
+    "capitalOutlay": 1198960,
+    "fundSource": "Reversion of continuing appropriations",
+    "resolution": {
+      "number": "MCKC-009, Series of 2026",
+      "date": "2026-07-30",
+      "amount": 2522509
+    }
+  },
+  "notes": [
+    "SEF Supplemental Budget No. 02-2026 (not the annual budget): 5 scanned pages. p-1 and p-2 are Local School Board Resolution No. MCKC-009, Series of 2026 (excerpt from the minutes of the 6th Regular Meeting of the Local School Board, City Mayor's Conference Room, July 30, 2026; approved July 30, 2026; motion by Member Furuta, seconded by Member Ochea). p-3 to p-5 are printed \"Page 1 of 3\" to \"Page 3 of 3\": LBP Form No. 8 (Certified Statement of Funding Sources as of July 29, 2026) and two LBP Form No. 9 pages.",
+    "Resolution: approves the reversion of appropriations from completed and discontinued SEF projects and activities totaling P2,522,509.00 (Annex A, Schedule of Reversion) and Supplemental Budget No. 02-2026 totaling P2,522,509.00 (Annex B) for Medical and Laboratory Supplies Expenses (weighing scales for the School-Based Feeding Program), Other General Services (School Infrastructure Technical Support and Project Development Program: hiring of draftsmen) and Lot Acquisition for Babag National High School (additional appropriation).",
+    "period.asOf is the funding-source certification date (July 29, 2026); the resolution itself is dated July 30, 2026.",
+    "Schedule of Reversion (reversion-schedule): sections are the printed program groups (elementary 3321, secondary 3322, nonFormal 3323), not expense classes; all reverted items are capital outlay continuing appropriations (1-07-... codes). Account codes are printed in a column offset from the wrapped descriptions; they were matched to items in printed order (12 secondary and 6 non-formal codes for 12 and 6 items).",
+    "Supplemental appropriation: the Elementary sub-total (1,323,549.00) is all MOOE and the Secondary Education sub-total (1,198,960.00) is all CO, so summary.mooe and summary.capitalOutlay take those printed sub-totals; no PS is appropriated.",
+    "All printed sub-totals and totals agree with their items (25,279 + 432,812 + 2,064,418 = 2,522,509; 800,000 + 523,549 = 1,323,549; 1,323,549 + 1,198,960 = 2,522,509)."
+  ],
+  "unreadable": []
+}

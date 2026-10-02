@@ -1,0 +1,91 @@
+{
+  "id": "2026-q2-trust-fund",
+  "type": "trust-fund",
+  "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+  "form": "FDP Form 6 - Trust Fund Utilization",
+  "period": {
+    "year": 2026,
+    "quarter": 2,
+    "asOf": "2026-06-30",
+    "printed": "CALENDAR YEAR 2026, QUARTER 2",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Helen G. Dungog",
+      "position": "City Accountant"
+    },
+    {
+      "name": "Ma. Cynthia King Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Consolidated Quarterly Report on Government Projects, Programs or Activities",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "text"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": []
+    }
+  ],
+  "summary": {
+    "totalCost": null,
+    "costIncurred": null,
+    "projectCount": 0
+  },
+  "notes": [
+    "The form lists no projects: the table is blank except for the Remarks entry \"No ongoing projects\".",
+    "No totals are printed, so summary.totalCost and summary.costIncurred are null."
+  ],
+  "unreadable": []
+}

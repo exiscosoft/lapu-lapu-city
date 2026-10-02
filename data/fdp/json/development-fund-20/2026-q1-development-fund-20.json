@@ -1,0 +1,1029 @@
+{
+  "id": "2026-q1-development-fund-20",
+  "type": "development-fund-20",
+  "title": "Utilization of the 20% of the National Tax Allotment",
+  "form": "FDP Form 7 - 20% Development Fund Utilization",
+  "period": {
+    "year": 2026,
+    "quarter": 1,
+    "asOf": "2026-03-31",
+    "printed": "Calendar Year: 2026, Quarter: 1",
+    "cumulative": true
+  },
+  "certifiedBy": [
+    {
+      "name": "Judith D. Furuta",
+      "position": "City Budget Officer"
+    },
+    {
+      "name": "Ma. Cynthia \"Cindi\" K. Chan",
+      "position": "City Mayor"
+    }
+  ],
+  "tables": [
+    {
+      "key": "projects",
+      "title": "Utilization of the 20% of the National Tax Allotment",
+      "columns": [
+        {
+          "key": "program",
+          "label": "Program or Project",
+          "type": "text"
+        },
+        {
+          "key": "location",
+          "label": "Location",
+          "type": "text"
+        },
+        {
+          "key": "totalCost",
+          "label": "Total Cost",
+          "type": "amount"
+        },
+        {
+          "key": "dateStarted",
+          "label": "Date Started",
+          "type": "date"
+        },
+        {
+          "key": "targetCompletion",
+          "label": "Target Completion Date",
+          "type": "date"
+        },
+        {
+          "key": "pctCompletion",
+          "label": "% of Completion",
+          "type": "percent"
+        },
+        {
+          "key": "costIncurred",
+          "label": "Total Cost Incurred to Date",
+          "type": "amount"
+        },
+        {
+          "key": "extensions",
+          "label": "No. of Extensions, if any",
+          "type": "number"
+        },
+        {
+          "key": "remarks",
+          "label": "Remarks",
+          "type": "text"
+        }
+      ],
+      "rows": [
+        {
+          "label": "CURRENT APPROPRIATION",
+          "level": 0,
+          "kind": "header",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "SOCIAL DEVELOPMENT (pls list down specific projects)",
+          "level": 1,
+          "kind": "header",
+          "section": "social",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Purchase and Installation of Forty Eight (48) Units CCTV",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase and Installation of Forty Eight (48) Units CCTV",
+            "location": null,
+            "totalCost": 1050000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit Pharmacy Bio-ref",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of One (1) Unit Pharmacy Bio-ref",
+            "location": null,
+            "totalCost": 500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Purchase of Three (3) Units Stainless Steel, Food Conveyor",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of Three (3) Units Stainless Steel, Food Conveyor",
+            "location": null,
+            "totalCost": 180000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Renovation of Pangan-an Island Old Barangay Day Care Center",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Renovation of Pangan-an Island Old Barangay Day Care Center",
+            "location": null,
+            "totalCost": 2500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Day Care Center at Barangay Caohagan",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Day Care Center at Barangay Caohagan",
+            "location": null,
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of CTMS Office at Fire Station Bldg. Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of CTMS Office at Fire Station Bldg. Gun-ob, LLC",
+            "location": null,
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of LLC Public Park Facilities at Brgy. Poblacion",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of LLC Public Park Facilities at Brgy. Poblacion",
+            "location": null,
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Extention of Local Civil Registrar's Office & PIO Office",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Extention of Local Civil Registrar's Office & PIO Office",
+            "location": null,
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Tourism Building",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Tourism Building",
+            "location": null,
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Covered Court Building at Home Care",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Covered Court Building at Home Care",
+            "location": null,
+            "totalCost": 1000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of City Auditorium Building at Poblacion, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of City Auditorium Building at Poblacion, LLC",
+            "location": null,
+            "totalCost": 7000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Day Care Center at Barangay Caubian",
+          "level": 1,
+          "kind": "item",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Day Care Center at Barangay Caubian",
+            "location": null,
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Total - SOCIAL DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "social",
+          "appropriation": "current",
+          "values": {
+            "totalCost": 32730000,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "ENVIRONMENTAL DEVELOPMENT",
+          "level": 1,
+          "kind": "header",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Implementation of Solid Waste Management Program",
+          "level": 1,
+          "kind": "item",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {
+            "program": "Implementation of Solid Waste Management Program",
+            "location": null,
+            "totalCost": 20000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Perimeter Fence at MRF Olango Island (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Perimeter Fence at MRF Olango Island (Phase II)",
+            "location": null,
+            "totalCost": 3500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "TOTAL ENVIRONMENTAL DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "environmental",
+          "appropriation": "current",
+          "values": {
+            "totalCost": 23500000,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "INSTITUTIONAL DEVELOPMENT",
+          "level": 1,
+          "kind": "header",
+          "section": "institutional",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Construction of New Lapu-Lapu City Hall",
+          "level": 1,
+          "kind": "item",
+          "section": "institutional",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of New Lapu-Lapu City Hall",
+            "location": null,
+            "totalCost": 210000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Archives Building (Phase II) at Motorpool, Gun-ob, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "institutional",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Archives Building (Phase II) at Motorpool, Gun-ob, LLC",
+            "location": null,
+            "totalCost": 600000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "TOTAL INSTITUTIONAL DEVELOPMENT",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "institutional",
+          "appropriation": "current",
+          "values": {
+            "totalCost": 210600000,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "ECONOMIC DEVELOPMENT",
+          "level": 1,
+          "kind": "header",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {}
+        },
+        {
+          "label": "Lot Acquisition for Multi-purpose Gym at Pag-Utlan, Maribago LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Lot Acquisition for Multi-purpose Gym at Pag-Utlan, Maribago LLC",
+            "location": null,
+            "totalCost": 13000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Concreting of City Jail Road Right of Way & Driveway with Drainage",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Concreting of City Jail Road Right of Way & Driveway with Drainage",
+            "location": null,
+            "totalCost": 12000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Kalawisan Road (200 LM)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Kalawisan Road (200 LM)",
+            "location": null,
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Road Opening/Construction of Matab-ang Road at Barangay Buaya, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Road Opening/Construction of Matab-ang Road at Barangay Buaya, LLC",
+            "location": null,
+            "totalCost": 8000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Concreting of Maribago Road (Stone Village, Bagumbayan) 187 lm",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Concreting of Maribago Road (Stone Village, Bagumbayan) 187 lm",
+            "location": null,
+            "totalCost": 300000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Purchase and Installation of Hybrid Photovaltaic (PV) PV Systems at Government Complex Olango Island",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase and Installation of Hybrid Photovaltaic (PV) PV Systems at Government Complex Olango Island",
+            "location": null,
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Upgrading of City Jail Female Ward Kitchen & Food Service Facility",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Upgrading of City Jail Female Ward Kitchen & Food Service Facility",
+            "location": null,
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Livelihood Center at City Jail Female Ward",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Livelihood Center at City Jail Female Ward",
+            "location": null,
+            "totalCost": 1200000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Renovation of Bankal Brgy. Hall and Multi-purpose Building with Ground Improvement",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Renovation of Bankal Brgy. Hall and Multi-purpose Building with Ground Improvement",
+            "location": null,
+            "totalCost": 5000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Multi-purpose Building at Barangay Subabasbas",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Multi-purpose Building at Barangay Subabasbas",
+            "location": null,
+            "totalCost": 6000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair of Damaged Multi-purpose Building at Barangay Buaya",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair of Damaged Multi-purpose Building at Barangay Buaya",
+            "location": null,
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of City Engineer's Office",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of City Engineer's Office",
+            "location": null,
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of City Veterinarian's Office Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of City Veterinarian's Office Building",
+            "location": null,
+            "totalCost": 7000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of CIU Training Room and CPSMU Bldg. LCPO at City Hall Center",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of CIU Training Room and CPSMU Bldg. LCPO at City Hall Center",
+            "location": null,
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Hoops Dome Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Hoops Dome Building",
+            "location": null,
+            "totalCost": 10131657,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Purchase of One (1) Unit 6 Cylinder Tow Truck",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Purchase of One (1) Unit 6 Cylinder Tow Truck",
+            "location": null,
+            "totalCost": 10000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Sta. Rosa Community Hospital Phase III",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Sta. Rosa Community Hospital Phase III",
+            "location": null,
+            "totalCost": 2500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Dog Pound Facility at Pusok, LLC",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Dog Pound Facility at Pusok, LLC",
+            "location": null,
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Retrofitting of Beams and Slab of Poblacion Public Market Bridge",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Retrofitting of Beams and Slab of Poblacion Public Market Bridge",
+            "location": null,
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Improvement of Existing Fence with Installation of Solar Lamps at City Jail",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Existing Fence with Installation of Solar Lamps at City Jail",
+            "location": null,
+            "totalCost": 2500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of HTM Bldg. with Embankment at LLC College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of HTM Bldg. with Embankment at LLC College",
+            "location": null,
+            "totalCost": 6000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of LLC College I.T. Building",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of LLC College I.T. Building",
+            "location": null,
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Improvement of Administration Building with Archive's Rooms at LLC College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Improvement of Administration Building with Archive's Rooms at LLC College",
+            "location": null,
+            "totalCost": 2000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Barangay Sabang Covered Court (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Barangay Sabang Covered Court (Phase II)",
+            "location": null,
+            "totalCost": 2500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Barangay Tungasan Covered Court (Phase II)",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Barangay Tungasan Covered Court (Phase II)",
+            "location": null,
+            "totalCost": 1700000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Brgy. Tungasan Comfort Room",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Brgy. Tungasan Comfort Room",
+            "location": null,
+            "totalCost": 600000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Buyong Covered Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Buyong Covered Court",
+            "location": null,
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Stage and Fence at Buaya Covered Court",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Stage and Fence at Buaya Covered Court",
+            "location": null,
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Repair and Improvement of Covered Court at Barangay Ibo",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Repair and Improvement of Covered Court at Barangay Ibo",
+            "location": null,
+            "totalCost": 1500000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Gravity Tank with Water Drilling to Supply HTM Building at New Engineering Building at Lapu-Lapu City College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Gravity Tank with Water Drilling to Supply HTM Building at New Engineering Building at Lapu-Lapu City College",
+            "location": null,
+            "totalCost": 3000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Construction of Retaining Wall with Fence at LLC College",
+          "level": 1,
+          "kind": "item",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "program": "Construction of Retaining Wall with Fence at LLC College",
+            "location": null,
+            "totalCost": 16000000,
+            "dateStarted": null,
+            "targetCompletion": null,
+            "pctCompletion": null,
+            "costIncurred": null,
+            "extensions": null,
+            "remarks": "unstarted"
+          }
+        },
+        {
+          "label": "Total Economic",
+          "level": 0,
+          "kind": "subtotal",
+          "section": "economic",
+          "appropriation": "current",
+          "values": {
+            "totalCost": 137931657,
+            "costIncurred": null
+          }
+        },
+        {
+          "label": "GRAND TOTAL",
+          "level": 0,
+          "kind": "total",
+          "values": {
+            "totalCost": 404761657,
+            "costIncurred": null
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalCost": 404761657,
+    "costIncurred": null,
+    "projectCount": 47
+  },
+  "notes": [
+    "Printed heading: \"Utilization of the 20% of the National Tax Allotment\". A single CURRENT APPROPRIATION heading is printed above all sections; no continuing appropriation is printed.",
+    "Besides Social, Environmental and Economic Development, the form prints an INSTITUTIONAL DEVELOPMENT section (section slug \"institutional\"), which holds the 210,000,000.00 Construction of New Lapu-Lapu City Hall.",
+    "Every project is marked \"unstarted\"; Location, Date Started, Target Completion, % of Completion, Cost Incurred and Extensions are blank for all rows, and no cost-incurred totals are printed (summary.costIncurred is null).",
+    "The first line of the last project on page 6 is partly overprinted by the cell border; it reads \"Construction of Gravity Tank with Water Drilling to Supply HTM Building at New Engineering Building at Lapu-Lapu City College\".",
+    "The page carries a handwritten receipt note (\"Rcvd by: ... 4/14/2026\"); certification signatures are marked \"SIGNED\". Certification lists only the City Budget Officer and the City Mayor."
+  ],
+  "unreadable": []
+}
