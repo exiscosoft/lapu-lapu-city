@@ -31,7 +31,7 @@
     "title": "Latest News & Updates"
   },
   "footer": {
-    "copyright": "© 2025 BetterGov. All content is public domain unless otherwise specified."
+    "copyright": "© {{year}} BetterLapuLapu. All content is public domain unless otherwise specified."
   },
   "navbar": {
     "government": "Government",
