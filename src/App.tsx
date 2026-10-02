@@ -9,6 +9,7 @@ import Document from './pages/Document';
 import Government from './pages/Government';
 import Search from './pages/Search';
 import Sitemap from './pages/Sitemap';
+import Accessibility from './pages/Accessibility';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
 
@@ -52,6 +53,7 @@ function App() {
               />
               <Route path="/search" element={<Search />} />
               <Route path="/sitemap" element={<Sitemap />} />
+              <Route path="/accessibility" element={<Accessibility />} />
               <Route path="/:lang/:documentSlug" element={<Document />} />
               <Route path="/:documentSlug" element={<Document />} />
             </Routes>

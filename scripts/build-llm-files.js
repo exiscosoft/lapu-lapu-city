@@ -223,7 +223,7 @@ function escapeXml(text) {
 }
 
 function buildSitemap() {
-  const routes = ['/', '/sitemap'];
+  const routes = ['/', '/sitemap', '/accessibility'];
   for (const section of sections) {
     routes.push(`/${section.dir}`);
     for (const category of section.categories) {
