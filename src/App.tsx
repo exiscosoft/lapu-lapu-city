@@ -27,36 +27,48 @@ function App() {
       <Router>
         <NuqsAdapter>
           <div className="min-h-screen flex flex-col">
+            <a
+              href="#main"
+              className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-60 focus:rounded-md focus:bg-white focus:px-4 focus:py-2 focus:font-medium focus:text-primary-700 focus:shadow-lg focus:ring-2 focus:ring-primary-600"
+            >
+              Skip to main content
+            </a>
             <Navbar />
             <ScrollToTop />
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/services/:category" element={<Services />} />
-              <Route path="/services" element={<Services />} />
-              <Route
-                path="/services/:category/:documentSlug"
-                element={<Document categoryType="service" />}
-              />
-              <Route
-                path="/government/reports-and-statistics"
-                element={reports}
-              />
-              <Route
-                path="/government/reports-and-statistics/:section"
-                element={reports}
-              />
-              <Route path="/government/:category" element={<Government />} />
-              <Route path="/government" element={<Government />} />
-              <Route
-                path="/government/:category/:documentSlug"
-                element={<Document categoryType="government" />}
-              />
-              <Route path="/search" element={<Search />} />
-              <Route path="/sitemap" element={<Sitemap />} />
-              <Route path="/accessibility" element={<Accessibility />} />
-              <Route path="/:lang/:documentSlug" element={<Document />} />
-              <Route path="/:documentSlug" element={<Document />} />
-            </Routes>
+            <main
+              id="main"
+              tabIndex={-1}
+              className="flex-grow scroll-mt-32 focus:outline-none"
+            >
+              <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/services/:category" element={<Services />} />
+                <Route path="/services" element={<Services />} />
+                <Route
+                  path="/services/:category/:documentSlug"
+                  element={<Document categoryType="service" />}
+                />
+                <Route
+                  path="/government/reports-and-statistics"
+                  element={reports}
+                />
+                <Route
+                  path="/government/reports-and-statistics/:section"
+                  element={reports}
+                />
+                <Route path="/government/:category" element={<Government />} />
+                <Route path="/government" element={<Government />} />
+                <Route
+                  path="/government/:category/:documentSlug"
+                  element={<Document categoryType="government" />}
+                />
+                <Route path="/search" element={<Search />} />
+                <Route path="/sitemap" element={<Sitemap />} />
+                <Route path="/accessibility" element={<Accessibility />} />
+                <Route path="/:lang/:documentSlug" element={<Document />} />
+                <Route path="/:documentSlug" element={<Document />} />
+              </Routes>
+            </main>
             <Footer />
           </div>
         </NuqsAdapter>

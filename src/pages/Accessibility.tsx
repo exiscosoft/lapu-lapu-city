@@ -8,15 +8,15 @@ import { Link } from 'react-router-dom';
 const issuesUrl = 'https://github.com/exiscosoft/betterlapulapu/issues';
 
 const practices = [
+  'A “Skip to main content” link is the first thing you reach with the Tab key.',
   'Pages use headings, lists and landmarks so screen readers can move through them.',
   'Images that carry meaning have text alternatives.',
-  'Links, buttons and the search box can be reached and used with a keyboard.',
+  'Menus, links and the search box can be used with a keyboard. Press Escape to close a menu.',
   'Text can be enlarged to 200% with your browser zoom without losing content.',
   'Pages declare their language so screen readers pronounce them correctly.',
 ];
 
 const limitations = [
-  'On wide screens, the dropdown menus in the top navigation open on mouse hover only. Keyboard users can follow the Services and Government links to reach the same pages.',
   'Charts on the Reports and Statistics dashboard can be hard to follow with a screen reader. The figures come from the city’s Full Disclosure Policy reports, which are linked from each section.',
   'Some source documents published by the city are scanned PDFs without a text layer. We link to them as published and cannot change them.',
   'Content is currently available in English only.',

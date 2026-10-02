@@ -44,7 +44,7 @@ export const footerNavigation = {
         // { label: 'Terms of Use', href: '/terms' },
         { label: 'Accessibility', href: '/accessibility' },
         { label: 'Contact Us', href: '/about' },
-        { label: 'Community Discord', href: '/discord' },
+        { label: 'Community Discord', href: 'https://discord.gg/bettergov' },
       ],
     },
     {

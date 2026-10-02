@@ -9,6 +9,9 @@ import { LANGUAGES } from '../../i18n/languages';
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
+  // Desktop dropdown closed with Escape; stays closed until focus or the
+  // pointer leaves it, so hover/focus-within can't immediately reopen it.
+  const [dismissedMenu, setDismissedMenu] = useState<string | null>(null);
   const { t, i18n } = useTranslation('common');
 
   const toggleMenu = () => {
@@ -106,34 +109,53 @@ const Navbar: React.FC = () => {
           {/* Desktop navigation */}
           <div className="hidden lg:flex items-center space-x-8 pr-24">
             {mainNavigation.map(item => (
-              <div key={item.label} className="relative group">
+              <div
+                key={item.label}
+                className="relative group"
+                onKeyDown={e => {
+                  if (e.key !== 'Escape' || !item.children) return;
+                  setDismissedMenu(item.label);
+                  e.currentTarget.querySelector('a')?.focus();
+                }}
+                onBlur={e => {
+                  if (!e.currentTarget.contains(e.relatedTarget)) {
+                    setDismissedMenu(null);
+                  }
+                }}
+                onMouseLeave={() => setDismissedMenu(null)}
+              >
                 <a
                   href={item.href}
                   className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
                 >
                   {t(`navbar.${item.label.replace(' ', '').toLowerCase()}`)}
                   {item.children && (
-                    <ChevronDown className="ml-1 h-4 w-4 text-gray-800 group-hover:text-primary-600 transition-colors" />
+                    <ChevronDown
+                      className="ml-1 h-4 w-4 text-gray-800 group-hover:text-primary-600 transition-colors"
+                      aria-hidden="true"
+                    />
                   )}
                 </a>
                 {item.children && (
-                  <div className="absolute left-0 mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
-                    <div
-                      className="py-1"
-                      role="menu"
-                      aria-orientation="vertical"
-                    >
+                  <div
+                    className={`absolute left-0 mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible transition-all duration-200 z-50 ${
+                      dismissedMenu === item.label
+                        ? ''
+                        : 'group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible'
+                    }`}
+                  >
+                    <ul className="py-1">
                       {item.children.map(child => (
-                        <Link
-                          key={child.label}
-                          to={child.href}
-                          className="text-left block px-4 py-2 text-sm text-gray-700 hover:bg-primary-50 hover:text-primary-600"
-                          role="menuitem"
-                        >
-                          {child.label}
-                        </Link>
+                        <li key={child.label}>
+                          <Link
+                            to={child.href}
+                            className="text-left block px-4 py-2 text-sm text-gray-700 hover:bg-primary-50 hover:text-primary-600 focus:bg-primary-50 focus:text-primary-600"
+                          >
+                            {child.label}
+                          </Link>
+                        </li>
                       ))}
-                    </div>
+                    </ul>
                   </div>
                 )}
               </div>
